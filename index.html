@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FSEL — Xem đáp án</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Be+Vietnam+Pro:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#fdfbf4;
+    --ink:#25304a;
+    --ink-soft:#57627e;
+    --rule:#c3d8ee;
+    --margin:#e2827a;
+    --correct:#1f6b39;
+    --correct-bg:#e7f5eb;
+    --incorrect:#932016;
+    --incorrect-bg:#fbe9e6;
+    --unknown:#7a5008;
+    --unknown-bg:#fbf1dc;
+    --highlight:#fff1a6;
+    --chip-bg:#eef1f7;
+    --card-bg:#ffffff;
+    --font-display:'Patrick Hand', cursive;
+    --font-body:'Be Vietnam Pro', sans-serif;
+    --font-mono:'JetBrains Mono', monospace;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:var(--font-body);
+    font-size:16px;
+    color:var(--ink);
+    background-color:var(--paper);
+    background-image:
+      linear-gradient(var(--rule) 1px, transparent 1px);
+    background-size: 100% 30px;
+    min-height:100vh;
+    padding-left:0;
+  }
+  body::before{
+    content:"";
+    position:fixed;
+    top:0; bottom:0; left:44px;
+    width:2px;
+    background:var(--margin);
+    opacity:.55;
+    z-index:0;
+    display:none;
+  }
+  @media(min-width:720px){
+    body::before{display:block;}
+    #app{padding-left:64px;}
+  }
+  #app{ position:relative; z-index:1; max-width:920px; margin:0 auto; padding:28px 18px 80px; }
+
+  header.topbar{ display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:18px; flex-wrap:wrap; }
+  header.topbar h1{
+    font-family:var(--font-display);
+    font-size:38px;
+    margin:0;
+    color:var(--ink);
+    transform:rotate(-1deg);
+  }
+  header.topbar .sub{ font-size:14.5px; color:var(--ink-soft); }
+
+  /* ---------- Dropzone ---------- */
+  #dropzone{
+    border:2px dashed #b9c3d6;
+    border-radius:14px;
+    background:var(--card-bg);
+    padding:36px 20px;
+    text-align:center;
+    cursor:pointer;
+    transition:border-color .15s, background .15s;
+  }
+  #dropzone.dragover{ border-color:var(--correct); background:var(--correct-bg); }
+  #dropzone .dz-icon{ font-size:34px; margin-bottom:8px; }
+  #dropzone .dz-title{ font-family:var(--font-display); font-size:22px; margin-bottom:4px; }
+  #dropzone .dz-hint{ font-size:14px; color:var(--ink-soft); }
+  #dropzone input[type=file]{ display:none; }
+  #paste-toggle{ display:inline-block; margin-top:14px; font-size:14px; color:#3a6fb0; cursor:pointer; text-decoration:underline; }
+  #paste-area{ display:none; margin-top:14px; text-align:left; }
+  #paste-area textarea{
+    width:100%; height:120px; font-family:var(--font-mono); font-size:13px;
+    border:1px solid #ccd4e2; border-radius:8px; padding:10px; resize:vertical;
+  }
+  #paste-area button{
+    margin-top:8px; font-family:var(--font-body); font-weight:600; font-size:14px;
+    background:var(--ink); color:#fff; border:none; border-radius:8px; padding:8px 16px; cursor:pointer;
+  }
+
+  /* ---------- Stats bar ---------- */
+  #viewer{ display:none; }
+  .stats-bar{
+    display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px;
+  }
+  .stat-pill{
+    background:var(--card-bg); border:1px solid #e3e7ef; border-radius:10px;
+    padding:9px 15px; font-size:14px; display:flex; align-items:center; gap:6px;
+    box-shadow:0 1px 2px rgba(20,30,60,.04);
+  }
+  .stat-pill b{ font-family:var(--font-mono); font-size:15px; }
+  .stat-correct b{ color:var(--correct); }
+  .stat-incorrect b{ color:var(--incorrect); }
+  .stat-unknown b{ color:var(--unknown); }
+  #reload-btn{
+    margin-left:auto; font-size:13px; background:none; border:1px solid #ccd4e2; color:var(--ink-soft);
+    border-radius:8px; padding:7px 12px; cursor:pointer; font-family:var(--font-body);
+  }
+
+  /* ---------- Controls ---------- */
+  .controls{ display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:18px; }
+  #search{
+    flex:1; min-width:180px; padding:9px 12px; border:1px solid #ccd4e2; border-radius:8px;
+    font-family:var(--font-body); font-size:14.5px; background:#fff;
+  }
+  .chip{
+    font-family:var(--font-body); font-size:13.5px; font-weight:600; padding:7px 13px;
+    border-radius:20px; border:1px solid transparent; background:var(--chip-bg); color:var(--ink-soft); cursor:pointer;
+  }
+  .chip.active{ background:var(--ink); color:#fff; }
+  select#groupby{
+    padding:7px 10px; border-radius:8px; border:1px solid #ccd4e2; font-family:var(--font-body); font-size:13.5px; background:#fff;
+  }
+
+  /* ---------- Groups (nhóm theo dạng câu hỏi - phẳng) ---------- */
+  .group{ margin-bottom:22px; }
+  .group-head{
+    display:flex; align-items:center; gap:10px; cursor:pointer; padding:8px 4px;
+    border-bottom:2px solid var(--ink); margin-bottom:10px;
+  }
+  .group-head h2{
+    font-family:var(--font-display); font-size:24px; margin:0; flex:1;
+  }
+  .group-score{ font-family:var(--font-mono); font-size:14px; color:var(--ink-soft); }
+  .group-chevron{ font-size:14px; transition:transform .15s; color:var(--ink-soft); }
+  .group.collapsed .group-chevron{ transform:rotate(-90deg); }
+  .group.collapsed .group-cards{ display:none; }
+  .group-cards{ display:flex; flex-direction:column; gap:10px; }
+
+  /* ---------- Cây phân cấp: Unit > Bài học > (Video/BTVN) > Bài tập ---------- */
+  .tree-unit{ margin-bottom:24px; }
+  .tree-lesson, .tree-module, .tree-exercise{ margin-bottom:8px; }
+  summary.tree-head{
+    display:flex; align-items:center; gap:8px; cursor:pointer; padding:8px 10px;
+    border-radius:8px; list-style:none;
+  }
+  summary.tree-head::-webkit-details-marker{ display:none; }
+  summary.tree-head::before{
+    content:'▸'; display:inline-block; width:10px; font-size:12px;
+    color:var(--ink-soft); transition:transform .15s;
+  }
+  details[open] > summary.tree-head::before{ transform:rotate(90deg); }
+  .tree-title{ flex:1; font-family:var(--font-display); }
+  .tree-subtitle{ font-family:var(--font-body); font-weight:500; font-size:13.5px; color:var(--ink-soft); margin-left:8px; }
+  .tree-score{ font-family:var(--font-mono); font-size:13px; color:var(--ink-soft); white-space:nowrap; }
+  .tree-body{ padding-left:16px; border-left:2px dashed var(--rule); margin-left:9px; margin-top:4px; }
+
+  .tree-unit > summary.tree-head{ font-size:24px; border-bottom:2px solid var(--ink); border-radius:0; padding-left:2px; }
+  .tree-lesson > summary.tree-head{ font-size:18.5px; background:#eef2fa; }
+  .tree-module > summary.tree-head{ font-size:16px; background:#f5f6fa; }
+  .tree-exercise > summary.tree-head{ font-size:14.5px; background:#fbfbfd; border:1px dashed #e3e7ef; }
+  .tree-exercise .group-cards{ margin-top:8px; }
+
+  /* ---------- Question card ---------- */
+  .q-card{
+    background:var(--card-bg); border:1px solid #e3e7ef; border-radius:12px; overflow:hidden;
+    box-shadow:0 1px 3px rgba(20,30,60,.05);
+  }
+  .q-card[data-hidden="1"]{ display:none; }
+  .q-head{ display:flex; align-items:flex-start; gap:12px; padding:12px 14px; }
+  .grade-badge{
+    font-family:var(--font-display); font-size:21px; width:36px; height:36px; min-width:36px;
+    border-radius:50%; display:flex; align-items:center; justify-content:center;
+    border:2.5px solid currentColor; transform:rotate(-4deg);
+  }
+  .badge-correct{ color:var(--correct); }
+  .badge-wrong{ color:var(--incorrect); }
+  .badge-unknown{ color:var(--unknown); }
+  .badge-neutral{ color:#9aa3b8; }
+  .q-head-text{ flex:1; min-width:0; }
+  .q-instruction{ font-size:16.5px; font-weight:600; line-height:1.45; }
+  .q-meta{ font-size:12.5px; color:var(--ink-soft); margin-top:4px; }
+  .q-refid{ font-family:var(--font-mono); }
+  .q-body{ display:block; padding:0 14px 16px 60px; }
+
+  .part{ padding:9px 0; border-top:1px dashed #e3e7ef; font-size:15px; }
+  .part:first-child{ border-top:none; }
+  .gp-label{ color:var(--ink-soft); font-weight:600; margin-right:4px; }
+
+  /* ---------- Khối đáp án dùng chung (answer-block) ----------
+     Mọi đáp án hiển thị ra (đáp án trắc nghiệm đúng, đáp án điền-chỗ-trống,
+     đáp án ghép cặp, đáp án dạng chung) đều được bọc trong 1 "khối" (block)
+     riêng biệt, có viền bo tròn + nền màu. 2 màu nền xen kẽ nhau (blk-a /
+     blk-b) theo thứ tự xuất hiện để 2 khối nằm sát nhau luôn phân biệt được
+     ranh giới, kể cả khi chúng thuộc cùng 1 câu hỏi hay 1 chỗ trống.
+     Mỗi khối có thể bấm để copy nội dung — khối vừa copy sẽ được làm nổi
+     bật rõ ràng và chỉ đổi sang khối khác khi người dùng copy tiếp. */
+  .answer-block{
+    display:flex; align-items:center; gap:9px;
+    padding:9px 13px; border-radius:10px; margin-bottom:6px;
+    cursor:pointer; font-weight:600; font-size:15.5px; line-height:1.4;
+    transition:filter .12s ease, box-shadow .12s ease, transform .08s ease;
+  }
+  .answer-block:last-child{ margin-bottom:0; }
+  .answer-block.blk-a{ background:var(--correct-bg); color:var(--correct); }
+  .answer-block.blk-b{ background:#e3ecfb; color:#2c5aa0; }
+  .answer-block .blk-mark{ font-weight:700; white-space:nowrap; }
+  .answer-block .blk-arrow{ opacity:.75; font-size:14px; }
+  .answer-block .blk-text{ flex:1; color:var(--ink); font-weight:600; word-break:break-word; white-space:pre-wrap; }
+  .answer-block:hover{ filter:brightness(0.96); box-shadow:0 0 0 2px currentColor inset; }
+  .answer-block:active{ transform:scale(.99); }
+  .answer-block.copied{ box-shadow:0 0 0 2px currentColor inset, 0 2px 10px rgba(20,30,60,.18); }
+  .answer-block.copied .blk-copied-tag{ display:inline-flex; }
+  .blk-copied-tag{ display:none; align-items:center; gap:3px; margin-left:auto; font-size:11.5px; font-weight:700; opacity:.9; white-space:nowrap; }
+
+  /* Ảnh minh hoạ trong 1 khối đáp án (khi đáp án là link ảnh) — kích thước
+     cố định + object-fit:cover để không bị vỡ layout khi ảnh gốc có độ
+     phân giải / tỉ lệ khác nhau. */
+  .blk-img-wrap{ display:inline-flex; align-items:center; }
+  .blk-img{
+    width:220px; height:150px; object-fit:cover; border-radius:8px;
+    border:1px solid rgba(0,0,0,.1); background:#eef1f7; display:block;
+    flex-shrink:0;
+  }
+  .blk-img-fallback{ word-break:break-all; font-family:var(--font-mono); font-size:13px; }
+
+  /* Dạng điền-vào-chỗ-trống có đánh số theo từng chỗ trống (chỉ dùng cho
+     GapFillScoreByGap / GapFillWordBankScoreByGap) — số thứ tự nằm phía
+     trên, mỗi từ đúng trong chỗ trống đó là 1 answer-block riêng bên dưới. */
+  .gapfill-part{ padding:8px 0; }
+  .gapfill-blockgroup-label{ font-family:var(--font-mono); font-size:12.5px; font-weight:700; color:var(--ink-soft); margin-bottom:6px; }
+  .gapfill-blocks{ display:flex; flex-direction:column; }
+
+  /* Dạng điền-vào-chỗ-trống khác (vd DragAndDropSentenceOrder) — giữ nguyên
+     định dạng gốc: 1 dòng gộp các đáp án nối bằng dấu gạch ngang. */
+  .gapfill-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:5px; }
+  .gapfill-list li{
+    display:flex; align-items:baseline; gap:8px; background:var(--correct-bg);
+    border-radius:7px; padding:7px 11px;
+  }
+  .gap-num{ font-family:var(--font-mono); font-size:12.5px; color:var(--correct); font-weight:700; min-width:18px; }
+  .gap-word{ color:var(--ink); font-weight:600; font-size:14.5px; word-break:break-word; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+
+  .match-part{ display:flex; align-items:center; gap:9px; flex-wrap:wrap; }
+  .match-left{ font-weight:500; display:inline-flex; align-items:center; }
+  .match-arrow{ color:var(--ink-soft); }
+  .match-part .answer-block{ flex:1; min-width:120px; margin-bottom:0; }
+
+  .freeform-part .ff-instruction{ font-weight:600; margin-bottom:4px; font-size:15px; }
+  .freeform-part .ff-meta{ font-size:12.5px; color:var(--ink-soft); margin-top:4px; }
+
+  .note-part{ color:var(--ink-soft); font-style:italic; }
+  .unknown-note{ background:var(--unknown-bg); color:#7a5610; padding:11px; border-radius:8px; font-size:13.5px; }
+  .unknown-note code{ font-family:var(--font-mono); word-break:break-all; }
+
+  mark{ background:var(--highlight); padding:0 1px; border-radius:2px; }
+
+  .empty-state{ text-align:center; color:var(--ink-soft); padding:40px 10px; font-size:15px; }
+
+  /* Unknown-grouped viewer */
+  .u-card{ background:var(--card-bg); border:1px solid #e3e7ef; border-radius:12px; padding:14px; margin-bottom:10px; }
+  .u-card h3{ font-family:var(--font-mono); font-size:14px; margin:0 0 6px; word-break:break-word; color:var(--unknown); }
+  .u-card .u-meta{ font-size:13px; color:var(--ink-soft); margin-bottom:6px; }
+  .u-card details{ font-size:13px; }
+  .u-card pre{ background:#f7f8fb; padding:10px; border-radius:8px; overflow:auto; font-family:var(--font-mono); font-size:12.5px; }
+
+  @media(max-width:600px){
+    .q-body{ padding-left:14px; }
+    header.topbar h1{ font-size:30px; }
+  }
+</style>
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <h1>📖 FSEL — Xem đáp án</h1>
+    <div class="sub">Đọc file JSON xuất ra từ bảng "FSEL Collector"</div>
+  </header>
+  <div id="gist-sync-banner" style="display:none; margin-bottom:16px; padding:10px 14px; border-radius:8px; font-size:13px; line-height:1.5;"></div>
+
+  <div id="dropzone">
+    <div class="dz-icon">📥</div>
+    <div class="dz-title">Kéo thả file JSON vào đây</div>
+    <div class="dz-hint">hoặc bấm để chọn file &nbsp;·&nbsp; dùng nút <b>“Xuất JSON”</b> trong bảng FSEL Collector để tạo file này</div>
+    <input type="file" id="file-input" accept="application/json,.json">
+    <div><span id="paste-toggle">Dán nội dung JSON thay vì tải file</span></div>
+    <div id="paste-area">
+      <textarea id="paste-text" placeholder="Dán toàn bộ nội dung file JSON vào đây..."></textarea><br>
+      <button id="paste-submit">Xử lý JSON</button>
+    </div>
+  </div>
+
+  <div id="viewer">
+    <div class="stats-bar" id="stats-bar"></div>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Tìm theo nội dung câu hỏi, dạng bài, tên bài học...">
+      <span class="chip active" data-filter="all">Tất cả</span>
+      <span class="chip" data-filter="incorrect">Sai</span>
+      <span class="chip" data-filter="correct">Đúng</span>
+      <span class="chip" data-filter="unknown">Chưa xác định</span>
+      <select id="groupby">
+        <option value="hierarchy">Cây phân cấp (Unit → Bài học → Bài tập)</option>
+        <option value="type">Nhóm theo dạng câu hỏi</option>
+      </select>
+    </div>
+    <div id="groups"></div>
+  </div>
+</div>
+
+<!-- Tải file token.local.js NẾU có (file này không nằm trong git, do bạn tự
+     tạo cục bộ — xem hướng dẫn TOKEN_SETUP trong phần <script> bên dưới).
+     Nếu không tồn tại, trình duyệt chỉ báo lỗi 404 vô hại trong console,
+     viewer vẫn chạy bình thường với hạn mức mặc định. -->
+<script src="token.local.js" onerror="this.remove()"></script>
+
+<script>
+let RAW = null;          // { answers: {...} }  or  array (unknown-grouped export)
+let MODE = null;         // 'main' | 'unknown'
+let currentFilter = 'all';
+let currentGroupBy = 'hierarchy';
+
+// Khi file này được nút "🔍 Mở trình xem đáp án" trong bảng FSEL Collector tạo ra,
+// dữ liệu sẽ được nhúng sẵn vào đây (thay thế chuỗi placeholder), nên viewer tự
+// hiển thị luôn — không cần kéo-thả / tải file JSON nữa. Nếu mở file .html này
+// độc lập (tải về máy) thì giá trị vẫn là chuỗi placeholder, viewer hoạt động
+// như bình thường (chờ người dùng chọn file).
+const PRELOADED_DATA = "__FSEL_INLINE_DATA__";
+
+function escapeHtml(str){
+  return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function escapeAttr(str){ return escapeHtml(str).replace(/\s+/g,' ').toLowerCase(); }
+
+// Nhận diện 1 chuỗi có phải là link ảnh hay không (dựa vào đuôi file ảnh phổ
+// biến, cho phép có query string phía sau như "?w=800&h=600"). Dùng để tự
+// động hiển thị hình ảnh thay vì hiển thị nguyên link dạng chữ, áp dụng cho
+// MỌI dạng câu hỏi (trắc nghiệm, ghép cặp, điền chỗ trống, đáp án chung...),
+// vì đáp án đúng có thể nằm ở bất kỳ vị trí nào (bên trái, bên phải, hay là
+// chính đáp án đó).
+function isImageUrl(str){
+  if(typeof str !== 'string') return false;
+  const s = str.trim();
+  if(!/^https?:\/\//i.test(s)) return false;
+  return /\.(png|jpe?g|gif|webp|bmp|svg)(?:\?[^\s]*)?$/i.test(s);
+}
+
+// Trả về HTML hiển thị cho 1 giá trị đáp án: nếu là link ảnh thì hiển thị
+// hình ảnh với kích thước CỐ ĐỊNH (object-fit:cover) để không bị vỡ layout
+// dù ảnh gốc có độ phân giải/tỉ lệ khác nhau; nếu tải ảnh lỗi thì tự động
+// hiện lại link dạng chữ để không mất thông tin. Nếu không phải link ảnh thì
+// hiển thị chữ như bình thường (đã escape HTML).
+function renderPossibleImage(rawValue){
+  const text = String(rawValue ?? '');
+  if(isImageUrl(text)){
+    const url = escapeHtml(text);
+    return `<span class="blk-img-wrap"><img class="blk-img" src="${url}" alt="Hình ảnh đáp án" loading="lazy" referrerpolicy="no-referrer" onerror="handleBlkImgError(this)"><span class="blk-img-fallback" style="display:none;">${url}</span></span>`;
+  }
+  return escapeHtml(text);
+}
+function handleBlkImgError(img){
+  img.style.display = 'none';
+  const fb = img.nextElementSibling;
+  if(fb) fb.style.display = 'inline';
+}
+
+// ---------------- File loading ----------------
+const dropzone = document.getElementById('dropzone');
+const fileInput = document.getElementById('file-input');
+
+dropzone.addEventListener('click', (e) => { if(e.target.id!=='paste-toggle') fileInput.click(); });
+dropzone.addEventListener('dragover', e => { e.preventDefault(); dropzone.classList.add('dragover'); });
+dropzone.addEventListener('dragleave', () => dropzone.classList.remove('dragover'));
+dropzone.addEventListener('drop', e => {
+  e.preventDefault();
+  dropzone.classList.remove('dragover');
+  if(e.dataTransfer.files && e.dataTransfer.files[0]) readFile(e.dataTransfer.files[0]);
+});
+fileInput.addEventListener('change', e => { if(e.target.files[0]) readFile(e.target.files[0]); });
+
+document.getElementById('paste-toggle').addEventListener('click', (e) => {
+  e.stopPropagation();
+  const area = document.getElementById('paste-area');
+  area.style.display = area.style.display === 'block' ? 'none' : 'block';
+});
+document.getElementById('paste-text').addEventListener('click', e => e.stopPropagation());
+document.getElementById('paste-submit').addEventListener('click', e => {
+  e.stopPropagation();
+  const txt = document.getElementById('paste-text').value;
+  try{ handleJSON(JSON.parse(txt)); }
+  catch(err){ alert('Nội dung dán vào không phải JSON hợp lệ:\n' + err.message); }
+});
+
+function readFile(file){
+  const reader = new FileReader();
+  reader.onload = () => {
+    try{ handleJSON(JSON.parse(reader.result)); }
+    catch(err){ alert('File không phải JSON hợp lệ:\n' + err.message); }
+  };
+  reader.readAsText(file);
+}
+
+function handleJSON(json){
+  if(json && json.answers && typeof json.answers === 'object'){
+    RAW = json; MODE = 'main';
+    renderMain();
+  } else if(Array.isArray(json) && json.length && json[0].signature !== undefined){
+    RAW = json; MODE = 'unknown';
+    renderUnknownGrouped();
+  } else if(json && (json.videoDetails || json.homeworks || json.units)){
+    alert('Đây là file "Xuất RAW (debug)". Hãy quay lại FSEL, bấm nút "Xuất JSON" (màu xanh) để tạo file đáp án, rồi tải file đó lên đây.');
+  } else {
+    alert('Không nhận diện được cấu trúc file JSON này. Hãy đảm bảo đây là file xuất từ bảng FSEL Collector.');
+  }
+}
+
+// ---------------- Main viewer (answers export) ----------------
+// Chỉ hiển thị đáp án đúng — không hiển thị bài làm / đáp án sai của học sinh,
+// để phần xem lại gọn và dễ đọc nhất.
+// Loại câu hỏi được yêu cầu tách mỗi từ đúng thành 1 khối (answer-block)
+// riêng theo từng chỗ trống. Mọi dạng điền-chỗ-trống khác (vd
+// "DragAndDropSentenceOrder") giữ nguyên định dạng gốc: 1 dòng gộp các đáp
+// án nối bằng dấu gạch ngang.
+const GAP_BLOCK_QUESTION_TYPES = new Set(['GapFillScoreByGap', 'GapFillWordBankScoreByGap']);
+
+// "counters" được truyền xuyên suốt 1 thẻ câu hỏi (q-card) để: (1) đánh số
+// thứ tự các chỗ trống (counters.gap), và (2) xen kẽ 2 màu nền giữa MỌI
+// answer-block xuất hiện trong thẻ đó theo đúng thứ tự hiển thị
+// (counters.block) — nhờ vậy 2 khối đáp án nằm sát nhau luôn khác màu nhau,
+// bất kể chúng thuộc loại đáp án nào.
+function nextBlockClass(counters){
+  counters.block = (counters.block || 0) + 1;
+  return (counters.block % 2 === 1) ? 'blk-a' : 'blk-b';
+}
+
+// Mọi answer-block đều được gắn data-copy (đã escape HTML nên giữ nguyên
+// hoa/thường và ký tự đặc biệt) để tính năng bấm-để-copy dùng trực tiếp,
+// và đều có 1 tag "Đã sao chép" ẩn sẵn, chỉ hiện khi khối đó vừa được copy.
+const COPIED_TAG = '<span class="blk-copied-tag">✓ Đã sao chép</span>';
+
+function partHtml(p, counters, questionType){
+  if(p.meta && p.meta.kind === 'preparation_note'){
+    return `<div class="part note-part">📋 Đây là màn hình hướng dẫn / ghi chú, không phải câu hỏi có đáp án.</div>`;
+  }
+  if(p.meta && 'optionText' in p.meta){
+    if(p.correct !== true) return ''; // bỏ các lựa chọn sai, chỉ giữ lựa chọn đúng
+    const rawText = p.meta.optionText ?? '';
+    const text = escapeHtml(rawText);
+    const cls = nextBlockClass(counters);
+    return `<div class="part">
+      <div class="answer-block ${cls}" data-copy="${text}">
+        <span class="blk-mark">✓</span>
+        <span class="blk-text">${renderPossibleImage(rawText)}</span>
+        ${COPIED_TAG}
+      </div>
+    </div>`;
+  }
+  if(p.meta && 'left' in p.meta){
+    const rawText = p.correct ?? '—';
+    const text = escapeHtml(rawText);
+    const cls = nextBlockClass(counters);
+    const rawLeft = p.meta.left ?? '';
+    return `<div class="part match-part">
+      <span class="match-left">${renderPossibleImage(rawLeft)}</span>
+      <span class="match-arrow">→</span>
+      <div class="answer-block ${cls}" data-copy="${text}">
+        <span class="blk-text">${renderPossibleImage(rawText)}</span>
+        ${COPIED_TAG}
+      </div>
+    </div>`;
+  }
+  if(p.meta && 'expectedWordCount' in p.meta){
+    return `<div class="part freeform-part">
+      <div class="ff-instruction">${escapeHtml(p.meta.instruction || '')}</div>
+      <div class="ff-meta">Không có đáp án cố định — chấm theo số từ nói (yêu cầu ${p.meta.expectedWordCount} từ).</div>
+    </div>`;
+  }
+  // Dạng điền vào chỗ trống (GapFillScoreByGap, GapFillWordBankScoreByGap, ...):
+  // mỗi "part" ứng với 1 câu/1 dòng gốc (có thể chứa nhiều chỗ trống trong cùng câu
+  // đó, ví dụ câu 1 có 2 chỗ trống "his" và "He").
+  if(p.meta && Array.isArray(p.meta.correctWords)){
+    const words = p.meta.correctWords.map(w => {
+      let wordText = String(w);
+      // Một số câu hỏi liệt kê nhiều đáp án chấp nhận được cho cùng 1 chỗ trống,
+      // ngăn cách bằng '|', '/' hoặc '\' — chỉ lấy đáp án đầu tiên để hiển thị gọn.
+      if(/[|/\\]/.test(wordText)){
+        wordText = wordText.split(/[|/\\]/)[0].trim();
+      }
+      return wordText; // giữ nguyên (chưa escape) để còn nhận diện được link ảnh
+    }).filter(Boolean);
+    if(!words.length) return '';
+    counters.gap = (counters.gap || 0) + 1;
+
+    if(GAP_BLOCK_QUESTION_TYPES.has(questionType)){
+      // Chỉ riêng 2 dạng này: đánh số chỗ trống ở trên, mỗi từ đúng bên
+      // dưới là 1 answer-block riêng (có mũi tên "→"), màu xen kẽ liên tục
+      // theo counters.block chứ không lặp lại theo từng chỗ trống.
+      const blocks = words.map(w => {
+        const cls = nextBlockClass(counters);
+        return `<div class="answer-block ${cls}" data-copy="${escapeHtml(w)}">
+          <span class="blk-arrow">→</span><span class="blk-text">${renderPossibleImage(w)}</span>
+          ${COPIED_TAG}
+        </div>`;
+      }).join('');
+      return `<div class="part gapfill-part">
+        <div class="gapfill-blockgroup-label">${counters.gap}.</div>
+        <div class="gapfill-blocks">${blocks}</div>
+      </div>`;
+    }
+
+    // Mọi dạng điền-chỗ-trống khác (vd DragAndDropSentenceOrder): giữ
+    // nguyên định dạng gốc — 1 dòng, các đáp án nối bằng dấu gạch ngang
+    // (mỗi đáp án tự nhận diện ảnh nếu là link ảnh).
+    const item = `<li><span class="gap-num">${counters.gap}.</span><span class="gap-word">${words.map(w => renderPossibleImage(w)).join(' - ')}</span></li>`;
+    return `<div class="part gapfill-part"><ol class="gapfill-list">${item}</ol></div>`;
+  }
+  // p.correct đôi khi là 1 mảng gồm nhiều biến thể của CÙNG 1 đáp án (vd
+  // "abc", '["abc"]', "['abc']", "[ 'abc' ]" — chỉ khác cách định dạng chuỗi/mảng)
+  // chứ không phải nhiều đáp án khác nhau, nên chỉ lấy biến thể đầu tiên để
+  // hiển thị, không nối hết bằng " / ".
+  const correctTxt = Array.isArray(p.correct) ? (p.correct[0] ?? null) : (p.correct ?? null);
+  if(correctTxt == null) return '';
+  const rawText = String(correctTxt);
+  const text = escapeHtml(rawText);
+  const cls = nextBlockClass(counters);
+  return `<div class="part">
+    <div class="answer-block ${cls}" data-copy="${text}">
+      <span class="blk-mark">Đáp án:</span><span class="blk-text">${renderPossibleImage(rawText)}</span>
+      ${COPIED_TAG}
+    </div>
+  </div>`;
+}
+
+function cardHtml(id, entry){
+  const isUnknown = !!entry.unknownFormat;
+  const isCorrect = entry.correct === true;
+  const isIncorrect = entry.correct === false;
+  const status = isUnknown ? 'unknown' : (isCorrect ? 'correct' : (isIncorrect ? 'incorrect' : 'neutral'));
+  const badgeClass = isUnknown ? 'badge-unknown' : (isCorrect ? 'badge-correct' : (isIncorrect ? 'badge-wrong' : 'badge-neutral'));
+  const badgeText = isUnknown ? '?' : (isCorrect ? '✓' : (isIncorrect ? '✗' : '–'));
+  const searchBlob = escapeAttr([entry.instruction, entry.type, entry.where, id].filter(Boolean).join(' '));
+  const counters = { gap: 0, block: 0 };
+  const body = isUnknown
+    ? `<div class="unknown-note">⚠️ Dạng câu hỏi chưa được script xử lý.<br>Chữ ký cấu trúc: <code>${escapeHtml(entry.signature || '')}</code><br>Hãy dùng nút "Unknown (gộp)" trong FSEL Collector để lấy chi tiết đầy đủ.</div>`
+    : ((entry.answer || []).map(p => partHtml(p, counters, entry.type)).filter(Boolean).join('') || '<div class="part note-part">Không có dữ liệu đáp án chi tiết.</div>');
+
+  return `<div class="q-card" data-status="${status}" data-search="${searchBlob}">
+    <div class="q-head">
+      <span class="grade-badge ${badgeClass}">${badgeText}</span>
+      <div class="q-head-text">
+        <div class="q-instruction">${escapeHtml(entry.instruction || '(không có mô tả câu hỏi)')}</div>
+        <div class="q-meta">${escapeHtml(entry.type || 'Không rõ dạng')}${entry.score ? ' · Điểm: ' + escapeHtml(entry.score) : ''} · <span class="q-refid">${escapeHtml(entry.refId || '')}</span></div>
+      </div>
+    </div>
+    <div class="q-body">${body}</div>
+  </div>`;
+}
+
+function groupData(answers, groupBy){
+  const groups = {};
+  Object.entries(answers).forEach(([id, entry]) => {
+    const key = entry.type || 'Không rõ dạng câu hỏi';
+    if(!groups[key]) groups[key] = [];
+    groups[key].push([id, entry]);
+  });
+  return groups;
+}
+
+// Sắp xếp kiểu "Unit 1, Unit 2, ... Unit 10" thay vì theo bảng chữ cái thuần
+// (tránh "Unit 10" đứng trước "Unit 2").
+function naturalCompare(a, b){
+  const re = /(\d+)|(\D+)/g;
+  const ax = String(a).match(re) || [];
+  const bx = String(b).match(re) || [];
+  const len = Math.max(ax.length, bx.length);
+  for(let i=0;i<len;i++){
+    const av = ax[i] || '', bv = bx[i] || '';
+    if(av === bv) continue;
+    const an = parseInt(av,10), bn = parseInt(bv,10);
+    if(!isNaN(an) && !isNaN(bn)) return an - bn;
+    return av < bv ? -1 : 1;
+  }
+  return 0;
+}
+
+function scoreLabel(items){
+  const total = items.filter(([,e]) => !e.unknownFormat && (e.correct === true || e.correct === false)).length;
+  const correct = items.filter(([,e]) => e.correct === true).length;
+  return total ? `${correct}/${total} đúng` : `${items.length} mục`;
+}
+
+// Gom mọi câu hỏi (id,entry) nằm trong 1 nhánh cây, dùng để tính điểm tổng ở
+// cấp Unit / Bài học / Loại mà không cần lặp lại logic đếm ở từng nơi.
+function flattenTreeItems(node){
+  if(node.items) return node.items;
+  if(node.exercises) return Object.values(node.exercises).flatMap(flattenTreeItems);
+  if(node.modules) return Object.values(node.modules).flatMap(flattenTreeItems);
+  if(node.lessons) return Object.values(node.lessons).flatMap(flattenTreeItems);
+  return [];
+}
+
+// Dựng cây Unit > Bài học > (Video tương tác | Bài tập về nhà) > Bài tập N.
+// Nếu file JSON cũ (chưa có "location") thì các cấp sẽ hiện "Không rõ ..."
+// thay vì lỗi, dữ liệu câu hỏi vẫn hiển thị đầy đủ.
+function buildHierarchyTree(answers){
+  const root = {};
+  Object.entries(answers).forEach(([id, entry]) => {
+    const loc = entry.location || {};
+    const unitKey = loc.unitName || 'Không rõ Unit';
+    const lessonKey = loc.lessonName || entry.where || 'Không rõ bài học';
+    const moduleType = loc.moduleType || 'other';
+    const exerciseKey = (loc.exerciseOrder != null ? loc.exerciseOrder + ':' : '') + (loc.exerciseName || 'Danh sách câu hỏi');
+
+    if(!root[unitKey]) root[unitKey] = { lessons: {} };
+    const unitNode = root[unitKey];
+    if(!unitNode.lessons[lessonKey]) unitNode.lessons[lessonKey] = { lessonOrder: loc.lessonOrder, modules: {} };
+    const lessonNode = unitNode.lessons[lessonKey];
+    if(!lessonNode.modules[moduleType]) lessonNode.modules[moduleType] = { exercises: {} };
+    const moduleNode = lessonNode.modules[moduleType];
+    if(!moduleNode.exercises[exerciseKey]) moduleNode.exercises[exerciseKey] = { order: loc.exerciseOrder, name: loc.exerciseName, items: [] };
+    moduleNode.exercises[exerciseKey].items.push([id, entry]);
+  });
+  return root;
+}
+
+const MODULE_TYPE_ORDER = ['video', 'homework', 'other'];
+const MODULE_TYPE_LABEL = { video: '🎬 Video tương tác', homework: '📝 Bài tập về nhà', other: '📄 Khác' };
+
+// Nhớ trạng thái mở/đóng của từng nhánh cây theo "khoá" ổn định (unit/lesson/
+// module/exercise), để khi có cập nhật trực tiếp (live) từ FSEL Collector và
+// cây được vẽ lại, các mục người dùng đã tự mở/đóng không bị reset về mặc định.
+const TREE_OPEN_STATE = {};
+function isNodeOpen(key, defaultOpen){
+  return Object.prototype.hasOwnProperty.call(TREE_OPEN_STATE, key) ? TREE_OPEN_STATE[key] : defaultOpen;
+}
+function openAttr(key, defaultOpen){
+  return isNodeOpen(key, defaultOpen) ? ' open' : '';
+}
+
+function renderHierarchyTree(root){
+  const unitNames = Object.keys(root).sort(naturalCompare);
+  return unitNames.map(unitName => {
+    const unitNode = root[unitName];
+    const unitItems = flattenTreeItems(unitNode);
+    const unitKey = `u:${unitName}`;
+    const lessonNames = Object.keys(unitNode.lessons).sort((a,b) => {
+      const oa = unitNode.lessons[a].lessonOrder, ob = unitNode.lessons[b].lessonOrder;
+      if(oa != null && ob != null) return oa - ob;
+      return naturalCompare(a,b);
+    });
+
+    const lessonsHtml = lessonNames.map(lessonName => {
+      const lessonNode = unitNode.lessons[lessonName];
+      const lessonItems = flattenTreeItems(lessonNode);
+      const lessonKeyId = `${unitKey}|l:${lessonName}`;
+      const moduleTypes = Object.keys(lessonNode.modules).sort((a,b) => MODULE_TYPE_ORDER.indexOf(a) - MODULE_TYPE_ORDER.indexOf(b));
+
+      const modulesHtml = moduleTypes.map(moduleType => {
+        const moduleNode = lessonNode.modules[moduleType];
+        const moduleItems = flattenTreeItems(moduleNode);
+        const moduleKeyId = `${lessonKeyId}|m:${moduleType}`;
+        const exerciseKeys = Object.keys(moduleNode.exercises).sort((a,b) => {
+          const oa = moduleNode.exercises[a].order, ob = moduleNode.exercises[b].order;
+          if(oa != null && ob != null) return oa - ob;
+          return naturalCompare(a,b);
+        });
+
+        const exercisesHtml = exerciseKeys.map(exKey => {
+          const exNode = moduleNode.exercises[exKey];
+          const exKeyId = `${moduleKeyId}|e:${exKey}`;
+          const label = (exNode.order != null ? `Bài tập ${exNode.order}` : 'Bài tập') + (exNode.name ? `: ${exNode.name}` : '');
+          const cardsHtml = exNode.items.map(([id,e]) => cardHtml(id,e)).join('');
+          return `<details class="tree-exercise" data-key="${escapeAttr(exKeyId)}"${openAttr(exKeyId, false)}>
+            <summary class="tree-head lvl-exercise"><span class="tree-title">${escapeHtml(label)}</span><span class="tree-score">${scoreLabel(exNode.items)}</span></summary>
+            <div class="group-cards">${cardsHtml}</div>
+          </details>`;
+        }).join('');
+
+        return `<details class="tree-module" data-key="${escapeAttr(moduleKeyId)}"${openAttr(moduleKeyId, true)}>
+          <summary class="tree-head lvl-module"><span class="tree-title">${MODULE_TYPE_LABEL[moduleType] || moduleType}</span><span class="tree-score">${scoreLabel(moduleItems)}</span></summary>
+          <div class="tree-body">${exercisesHtml}</div>
+        </details>`;
+      }).join('');
+
+      const lessonLabel = lessonNode.lessonOrder != null ? `Bài học ${lessonNode.lessonOrder + 1}` : lessonName;
+      const lessonSub = lessonNode.lessonOrder != null && lessonName ? `<span class="tree-subtitle">${escapeHtml(lessonName)}</span>` : '';
+      return `<details class="tree-lesson" data-key="${escapeAttr(lessonKeyId)}"${openAttr(lessonKeyId, true)}>
+        <summary class="tree-head lvl-lesson"><span class="tree-title">${escapeHtml(lessonLabel)}${lessonSub}</span><span class="tree-score">${scoreLabel(lessonItems)}</span></summary>
+        <div class="tree-body">${modulesHtml}</div>
+      </details>`;
+    }).join('');
+
+    return `<details class="tree-unit" data-key="${escapeAttr(unitKey)}"${openAttr(unitKey, true)}>
+      <summary class="tree-head lvl-unit"><span class="tree-title">${escapeHtml(unitName)}</span><span class="tree-score">${scoreLabel(unitItems)}</span></summary>
+      <div class="tree-body">${lessonsHtml}</div>
+    </details>`;
+  }).join('');
+}
+
+function renderMain(){
+  document.getElementById('dropzone').style.display = 'none';
+  document.getElementById('viewer').style.display = 'block';
+
+  const answers = RAW.answers;
+  const entries = Object.values(answers);
+  const total = entries.length;
+  const correct = entries.filter(e => e.correct === true).length;
+  const incorrect = entries.filter(e => e.correct === false).length;
+  const unknown = entries.filter(e => e.unknownFormat).length;
+
+  document.getElementById('stats-bar').innerHTML = `
+    <div class="stat-pill">Tổng câu hỏi <b>${total}</b></div>
+    <div class="stat-pill stat-correct">Đúng <b>${correct}</b></div>
+    <div class="stat-pill stat-incorrect">Sai <b>${incorrect}</b></div>
+    <div class="stat-pill stat-unknown">Chưa xác định <b>${unknown}</b></div>
+    <button id="reload-btn">Tải file khác</button>
+  `;
+  document.getElementById('reload-btn').addEventListener('click', resetViewer);
+
+  renderGroups();
+}
+
+function renderGroups(){
+  const wrap = document.getElementById('groups');
+
+  if(!Object.keys(RAW.answers).length){
+    wrap.innerHTML = '<div class="empty-state">Không có dữ liệu câu hỏi nào trong file này.</div>';
+    return;
+  }
+
+  if(currentGroupBy === 'hierarchy'){
+    wrap.innerHTML = renderHierarchyTree(buildHierarchyTree(RAW.answers));
+  } else {
+    const groups = groupData(RAW.answers, currentGroupBy);
+    const groupNames = Object.keys(groups).sort((a,b) => a.localeCompare(b, 'vi'));
+    wrap.innerHTML = groupNames.map(name => {
+      const items = groups[name];
+      const cardsHtml = items.map(([id, e]) => cardHtml(id, e)).join('');
+      return `<div class="group">
+        <div class="group-head" onclick="this.parentElement.classList.toggle('collapsed')">
+          <h2>${escapeHtml(name)}</h2>
+          <span class="group-score">${scoreLabel(items)}</span>
+          <span class="group-chevron">▾</span>
+        </div>
+        <div class="group-cards">${cardsHtml}</div>
+      </div>`;
+    }).join('');
+  }
+
+  applyFilters();
+}
+
+function applyFilters(){
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  document.querySelectorAll('.q-card').forEach(card => {
+    const status = card.getAttribute('data-status');
+    const searchBlob = card.getAttribute('data-search') || '';
+    const passesFilter = currentFilter === 'all' || status === currentFilter;
+    const passesSearch = !q || searchBlob.includes(q);
+    card.setAttribute('data-hidden', (passesFilter && passesSearch) ? '0' : '1');
+  });
+  // Ẩn mọi cấp container (nhóm phẳng lẫn từng cấp trong cây) nếu bên trong
+  // không còn câu hỏi nào hiển thị.
+  document.querySelectorAll('.group, .tree-exercise, .tree-module, .tree-lesson, .tree-unit').forEach(container => {
+    const anyVisible = Array.from(container.querySelectorAll('.q-card')).some(c => c.getAttribute('data-hidden') !== '1');
+    container.style.display = anyVisible ? '' : 'none';
+  });
+}
+
+document.getElementById('search').addEventListener('input', applyFilters);
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    currentFilter = chip.getAttribute('data-filter');
+    applyFilters();
+  });
+});
+
+// Ghi nhớ mọi lần người dùng tự bấm mở/đóng 1 nhánh trong cây phân cấp, để lần
+// cập nhật live tiếp theo không làm "sập" lại các mục đang mở. Sự kiện "toggle"
+// của <details> không nổi bọt (bubble), nên phải lắng nghe ở pha capture trên
+// phần tử cha #groups (phần tử này không bị thay thế khi render lại — chỉ có
+// innerHTML của nó thay đổi).
+document.getElementById('groups').addEventListener('toggle', e => {
+  const key = e.target && e.target.dataset ? e.target.dataset.key : null;
+  if(key) TREE_OPEN_STATE[key] = e.target.open;
+}, true);
+
+// Bấm vào bất kỳ khối đáp án (answer-block) nào — trắc nghiệm, điền chỗ
+// trống, ghép cặp, hay đáp án dạng chung — để copy nội dung của khối đó.
+// Khối vừa copy được làm nổi bật rõ ràng (viền + nhãn "Đã sao chép") và chỉ
+// đổi sang khối khác khi người dùng bấm copy 1 khối khác. Áp dụng cho toàn
+// bộ #groups nên vẫn hoạt động đúng sau khi cây được vẽ lại (live update).
+document.getElementById('groups').addEventListener('click', (e) => {
+  const block = e.target.closest('.answer-block');
+  if(!block) return;
+  const text = block.getAttribute('data-copy') || '';
+
+  const markCopied = () => {
+    const prev = document.querySelector('.answer-block.copied');
+    if(prev && prev !== block) prev.classList.remove('copied');
+    block.classList.add('copied');
+  };
+
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(markCopied).catch(() => {
+      selectBlockText(block);
+      markCopied();
+    });
+  } else {
+    selectBlockText(block);
+    markCopied();
+  }
+});
+
+// Dự phòng khi Clipboard API bị chặn (vd mở file .html trực tiếp từ ổ đĩa ở
+// một số trình duyệt): tự bôi đen chữ trong khối để người dùng copy thủ công.
+function selectBlockText(block){
+  try{
+    const range = document.createRange();
+    range.selectNodeContents(block.querySelector('.blk-text') || block);
+    const sel = window.getSelection();
+    sel.removeAllRanges();
+    sel.addRange(range);
+  }catch(err){ /* bỏ qua nếu trình duyệt không hỗ trợ */ }
+}
+
+// ---------------- Cập nhật trực tiếp (live) từ FSEL Collector ----------------
+// Khi trang này được mở từ nút "🔍 Mở trình xem đáp án", tab FSEL Collector sẽ
+// tự gửi dữ liệu mới nhất sang định kỳ qua postMessage — không cần đóng/mở lại
+// tab, không cần xuất/tải JSON thủ công.
+let liveIndicatorTimer = null;
+function showLiveIndicator(){
+  let el = document.getElementById('live-indicator');
+  if(!el){
+    el = document.createElement('div');
+    el.id = 'live-indicator';
+    el.textContent = '🟢 Vừa cập nhật đáp án mới';
+    el.style.cssText = `
+      position:fixed; top:14px; left:50%; transform:translateX(-50%);
+      background:#1e1e2e; color:#fff; font-family:sans-serif; font-size:12.5px;
+      padding:6px 14px; border-radius:20px; z-index:9999999; opacity:0;
+      transition:opacity .2s; box-shadow:0 4px 14px rgba(0,0,0,.25);
+    `;
+    document.body.appendChild(el);
+  }
+  el.style.opacity = '1';
+  clearTimeout(liveIndicatorTimer);
+  liveIndicatorTimer = setTimeout(() => { el.style.opacity = '0'; }, 1400);
+}
+
+window.addEventListener('message', (event) => {
+  const msg = event.data;
+  if(!msg || msg.type !== 'fsel-collector-live-update' || !msg.payload) return;
+  handleJSON(msg.payload);
+  showLiveIndicator();
+});
+document.getElementById('groupby').addEventListener('change', e => {
+  currentGroupBy = e.target.value;
+  renderGroups();
+});
+
+function resetViewer(){
+  RAW = null; MODE = null;
+  document.getElementById('viewer').style.display = 'none';
+  document.getElementById('dropzone').style.display = 'block';
+  document.getElementById('file-input').value = '';
+  document.getElementById('paste-text').value = '';
+}
+
+// ---------------- Unknown-grouped viewer ----------------
+function renderUnknownGrouped(){
+  document.getElementById('dropzone').style.display = 'none';
+  document.getElementById('viewer').style.display = 'block';
+  document.getElementById('stats-bar').innerHTML = `
+    <div class="stat-pill">Số dạng câu hỏi lạ <b>${RAW.length}</b></div>
+    <div class="stat-pill">Tổng lượt gặp <b>${RAW.reduce((s,g)=>s+(g.occurrences||0),0)}</b></div>
+    <button id="reload-btn">Tải file khác</button>
+  `;
+  document.getElementById('reload-btn').addEventListener('click', resetViewer);
+  document.querySelector('.controls').style.display = 'none';
+
+  document.getElementById('groups').innerHTML = RAW.map(g => `
+    <div class="u-card">
+      <h3>${escapeHtml(g.questionType || 'unknown')}</h3>
+      <div class="u-meta">Gặp <b>${g.occurrences}</b> lần · Vị trí: ${escapeHtml((g.seenAt||[]).join(', ') || '—')}</div>
+      <details>
+        <summary>Xem cấu trúc dữ liệu gốc (gửi cho tác giả script)</summary>
+        <pre>${escapeHtml(JSON.stringify(g.sampleQuestion, null, 2))}</pre>
+      </details>
+    </div>
+  `).join('');
+}
+
+// Tự động hiển thị nếu dữ liệu đã được nhúng sẵn (mở từ nút trong FSEL Collector).
+if(PRELOADED_DATA && typeof PRELOADED_DATA === 'object'){
+  handleJSON(PRELOADED_DATA);
+}
+
+// ---------------- Tự động tải dữ liệu từ GitHub Gist (đồng bộ, không cần xuất/nạp JSON tay) ----------------
+// Dán Gist ID của bạn vào đây (phần cuối URL gist, ví dụ:
+// https://gist.github.com/username/6f1a9b... -> gistId = "6f1a9b...").
+// Không cần token ở đây vì viewer chỉ ĐỌC, không ghi.
+//
+// LƯU Ý VỀ RATE LIMIT: GitHub API cho phép 60 request/giờ cho mỗi địa chỉ IP
+// KHÔNG đăng nhập (viewer này không dùng token nên tính vào nhóm này). Để
+// tránh bị chặn (lỗi 403) khi để viewer mở lâu, code bên dưới dùng "conditional
+// request" (gửi kèm ETag lần trước) — nếu Gist chưa đổi gì, GitHub trả về mã
+// 304 và KHÔNG tính vào rate limit, nên hầu hết các lần tự làm mới sẽ miễn phí.
+const GIST_SYNC_CONFIG = {
+  gistId: 'bb8129ecb8bcc5efbde0f9a15fda315f',
+  pollIntervalMs: 45000 // tự làm mới mỗi 45 giây (chỉ tốn quota khi có dữ liệu mới, nhờ ETag)
+  // KHÔNG dán token trực tiếp vào đây nữa — nếu file này nằm trong 1 git
+  // repo (kể cả repo riêng tư) và bạn commit + push, GitHub Push Protection
+  // sẽ chặn (hoặc tệ hơn nếu tắt bảo vệ, token sẽ bị lộ công khai). Token
+  // được đọc từ file "token.local.js" riêng — xem hướng dẫn ở TOKEN_SETUP
+  // bên dưới, file đó KHÔNG được commit vào git (đã thêm vào .gitignore).
+};
+
+// TOKEN_SETUP — cách bật hạn mức 5.000 request/giờ (thay vì 60/giờ theo IP)
+// MÀ KHÔNG BAO GIỜ đưa token vào git:
+//   1) Tạo file mới tên "token.local.js" NẰM CÙNG THƯ MỤC với file HTML này
+//      (cùng cấp với index.html), nội dung chỉ có đúng 1 dòng:
+//         window.FSEL_GH_TOKEN = 'ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+//   2) Thêm dòng sau vào file ".gitignore" trong repo (tạo file này nếu
+//      chưa có) để git KHÔNG BAO GIỜ theo dõi/commit file token:
+//         token.local.js
+//   3) Mở lại file HTML này bằng trình duyệt (hoặc chạy `git add .gitignore`
+//      rồi commit như bình thường — token.local.js sẽ không bị đưa vào).
+// Nếu không tạo file token.local.js, viewer vẫn chạy bình thường, chỉ dùng
+// chung hạn mức 60 request/giờ theo IP như cũ.
+function getGistToken(){
+  return (typeof window !== 'undefined' && window.FSEL_GH_TOKEN) ? window.FSEL_GH_TOKEN : '';
+}
+
+let lastGistAnswersStr = null;
+let gistLoadedOnce = false;
+let lastETag = null;
+let rateLimitBackoffUntil = 0;
+
+function setSyncBanner(kind, message){
+  const el = document.getElementById('gist-sync-banner');
+  if(!el) return;
+  if(!message){ el.style.display = 'none'; return; }
+  const styles = {
+    info:    { bg:'#eef2fa', color:'#3a5da8', border:'#c3d8ee' },
+    loading: { bg:'#fbf1dc', color:'#7a5008', border:'#f0dca3' },
+    error:   { bg:'#fbe9e6', color:'#932016', border:'#f3c4bb' },
+    success: { bg:'#e7f5eb', color:'#1f6b39', border:'#bfe3cc' }
+  }[kind] || { bg:'#eef2fa', color:'#3a5da8', border:'#c3d8ee' };
+  el.style.display = 'block';
+  el.style.background = styles.bg;
+  el.style.color = styles.color;
+  el.style.border = `1px solid ${styles.border}`;
+  el.textContent = message;
+}
+
+async function loadFromGist(){
+  if(!GIST_SYNC_CONFIG.gistId || GIST_SYNC_CONFIG.gistId === 'YOUR_GIST_ID_HERE'){
+    setSyncBanner('info', 'ℹ️ Chưa cấu hình GIST_SYNC_CONFIG.gistId trong file này — viewer đang ở chế độ kéo-thả JSON thủ công. Sửa "gistId" ở đầu phần <script> rồi tải lại trang để bật tự động đồng bộ.');
+    return;
+  }
+  if(Date.now() < rateLimitBackoffUntil){
+    return; // đang trong thời gian chờ do bị rate limit, khỏi gọi thêm cho tốn quota
+  }
+  if(!gistLoadedOnce) setSyncBanner('loading', '⏳ Đang tải dữ liệu từ Gist...');
+  try{
+    const headers = { 'Accept': 'application/vnd.github+json' };
+    if(lastETag) headers['If-None-Match'] = lastETag; // request có điều kiện: nếu không đổi gì, GitHub trả 304 và KHÔNG trừ quota
+    const ghToken = getGistToken();
+    if(ghToken) headers['Authorization'] = 'Bearer ' + ghToken; // có token: hạn mức 5.000/giờ riêng theo token, không còn bị tính chung theo IP
+    const res = await fetch(`https://api.github.com/gists/${GIST_SYNC_CONFIG.gistId}`, { headers });
+
+    if(res.status === 304){
+      // Không có gì mới — không tốn quota, không cần vẽ lại, chỉ cập nhật giờ kiểm tra gần nhất.
+      setSyncBanner('success', `🟢 Đã đồng bộ từ Gist · ${new Date().toLocaleTimeString('vi-VN')} · không có gì mới`);
+      return;
+    }
+
+    if(!res.ok){
+      if(res.status === 404) throw new Error('404 — Không tìm thấy Gist. Kiểm tra lại gistId đã dán đúng chưa.');
+      if(res.status === 403){
+        const resetHeader = res.headers.get('X-RateLimit-Reset');
+        const resetTime = resetHeader ? new Date(parseInt(resetHeader, 10) * 1000) : null;
+        rateLimitBackoffUntil = resetTime ? resetTime.getTime() + 5000 : Date.now() + 10 * 60 * 1000;
+        const waitMsg = resetTime ? `thử lại sau ${resetTime.toLocaleTimeString('vi-VN')}` : 'thử lại sau khoảng 10 phút';
+        const tokenHint = ghToken ? '' : ' · Mẹo: tạo file "token.local.js" (xem hướng dẫn TOKEN_SETUP ở đầu phần <script>) để tăng hạn mức lên 5.000 request/giờ, không cần sửa file HTML này.';
+        throw new Error(`403 — Bị GitHub giới hạn tần suất gọi API (rate limit chung của IP mạng bạn, 60 request/giờ cho request không có token), ${waitMsg}. Viewer sẽ tự tạm dừng gọi thêm đến lúc đó.${tokenHint}`);
+      }
+      throw new Error('HTTP ' + res.status);
+    }
+
+    lastETag = res.headers.get('ETag') || lastETag;
+    const gist = await res.json();
+    const file = gist.files && gist.files['fsel_answers.json'];
+    if(!file) throw new Error('Gist tồn tại nhưng không có file "fsel_answers.json" bên trong. Kiểm tra lại tên file trong Gist (phải đúng chính tả) và đảm bảo userscript đã đồng bộ ít nhất 1 lần.');
+    let content = file.content;
+    if(file.truncated && file.raw_url){
+      const rawRes = await fetch(file.raw_url);
+      content = await rawRes.text();
+    }
+    const json = JSON.parse(content);
+    const nextStr = JSON.stringify(json.answers || {});
+    const isFirstLoad = !gistLoadedOnce;
+    gistLoadedOnce = true;
+    if(nextStr === lastGistAnswersStr){
+      setSyncBanner('success', `🟢 Đã đồng bộ từ Gist · ${new Date().toLocaleTimeString('vi-VN')} · ${Object.keys(json.answers||{}).length} câu hỏi (không có gì mới)`);
+      return;
+    }
+    lastGistAnswersStr = nextStr;
+    handleJSON(json);
+    setSyncBanner('success', `🟢 Đã đồng bộ từ Gist · ${new Date().toLocaleTimeString('vi-VN')} · ${Object.keys(json.answers||{}).length} câu hỏi`);
+    if(!isFirstLoad) showLiveIndicator();
+  }catch(err){
+    console.warn('[FSEL Viewer] Lỗi tải dữ liệu từ Gist:', err);
+    setSyncBanner('error', '❌ Lỗi tải dữ liệu từ Gist: ' + err.message);
+  }
+}
+
+loadFromGist();
+setInterval(loadFromGist, GIST_SYNC_CONFIG.pollIntervalMs);
+</script>
+</body>
+</html>
