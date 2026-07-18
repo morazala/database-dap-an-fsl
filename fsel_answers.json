@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-18T14:23:22.140Z",
-  "totalQuestions": 248,
+  "exportedAt": "2026-07-18T14:47:04.645Z",
+  "totalQuestions": 258,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -9843,45 +9843,45 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 4: Nghe",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|72b0fa0d-c0bb-43b1-b3cf-ab547fbdce71",
       "type": "DragAndDropListSentenceOrder",
-      "correct": null,
-      "score": null,
+      "correct": false,
+      "score": "0/1",
       "instruction": "Watch the video. Put the questions in the order you hear them. ",
       "answer": [
         {
           "id": 1,
           "correct": "What’s your first name, please?",
           "student": null,
-          "status": null
+          "status": "Correct"
         },
         {
           "id": 2,
           "correct": "What’s your surname?",
           "student": null,
-          "status": null
+          "status": "Correct"
         },
         {
           "id": 3,
           "correct": "What’s your nationality?",
           "student": null,
-          "status": null
+          "status": "Correct"
         },
         {
           "id": 4,
           "correct": "What’s your address?",
           "student": null,
-          "status": null
+          "status": "Fail"
         },
         {
           "id": 5,
           "correct": "What’s your mobile number?",
           "student": null,
-          "status": null
+          "status": "Fail"
         },
         {
           "id": 6,
           "correct": "What’s your email address?",
           "student": null,
-          "status": null
+          "status": "Correct"
         }
       ]
     },
@@ -9946,82 +9946,130 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 6: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|eed0d7d2-6206-4923-a5c9-332549abd4bb",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "19/19",
       "instruction": "Complete the questions with the missing vowels: A, E, I, O, or U. Write ONE letter in each gap.",
       "answer": [
         {
           "id": 1,
-          "correct": " What’s your sar nume?",
-          "student": null,
-          "status": null,
+          "correct": " What’s your sur name?",
+          "student": " What’s your sur name?",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "a",
               "u",
+              "a",
               "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "u",
+              "a",
+              "e"
+            ]
           }
         },
         {
           "id": 2,
-          "correct": " What’s your nitaaniloty? ",
-          "student": null,
-          "status": null,
+          "correct": " What’s your nationality? ",
+          "student": " What’s your nationality? ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "i",
-              "a",
               "a",
               "i",
-              "o"
+              "o",
+              "a",
+              "i"
             ],
-            "studentWords": null
+            "studentWords": [
+              "a",
+              "i",
+              "o",
+              "a",
+              "i"
+            ]
           }
         },
         {
           "id": 3,
           "correct": " What’s your address? ",
-          "student": null,
-          "status": null,
+          "student": " What’s your address? ",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "a",
               "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "a",
+              "e"
+            ]
           }
         },
         {
           "id": 4,
-          "correct": " What’s your mubile nembor? ",
-          "student": null,
-          "status": null,
+          "correct": " What’s your mobile number? ",
+          "student": " What’s your mobile number? ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "u",
+              "o",
               "i",
-              "e",
-              "o"
+              "u",
+              "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "o",
+              "i",
+              "u",
+              "e"
+            ]
           }
         },
         {
           "id": 5,
-          "correct": " What’s your ameal   eddriss?",
-          "student": null,
-          "status": null,
+          "correct": " What’s your email   address?",
+          "student": " What’s your email   address?",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "a",
               "e",
               "a",
-              "e",
-              "i"
+              "i",
+              "a",
+              "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "e",
+              "a",
+              "i",
+              "a",
+              "e"
+            ]
           }
         }
       ]
@@ -10038,15 +10086,24 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "What’s your first name, please?",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "What’s your first name, please?",
+            "What’s your first name please",
+            "What is your first name please",
+            "What is your first name, please?",
+            "Whats your first name please",
+            "Whats your first name, please?",
+            "What's your first name please",
+            "What's your first name, please?"
+          ],
+          "student": "What’s your first name, please?",
+          "status": "Correct"
         }
       ]
     },
@@ -10062,15 +10119,23 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "What’s your surname?",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "What’s your surname?",
+            "What's your surname?",
+            "Whats your surname?",
+            "What is your surname?",
+            "What is you're surname?",
+            "What's you're surname?",
+            "Whats you're surname?"
+          ],
+          "student": "What’s your surname?",
+          "status": "Correct"
         }
       ]
     },
@@ -10086,15 +10151,20 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "What’s your nationality?",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "What’s your nationality?",
+            "What's your nationality?",
+            "Whats your nationality?",
+            "What is your nationality?"
+          ],
+          "student": "What’s your nationality?",
+          "status": "Correct"
         }
       ]
     },
@@ -10110,15 +10180,21 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "What’s your address?",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "What’s your address?",
+            "What is your address?",
+            "What's your address?",
+            "Whats your address?",
+            "What s your address?"
+          ],
+          "student": "What’s your address?",
+          "status": "Correct"
         }
       ]
     },
@@ -10134,15 +10210,20 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "What’s your mobile number?",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "What’s your mobile number?",
+            "Whats your mobile number?",
+            "What is your mobile number?",
+            "What's your mobile number?"
+          ],
+          "student": "What’s your mobile number?",
+          "status": "Correct"
         }
       ]
     },
@@ -10158,15 +10239,26 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "What’s your email address?",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "What’s your email address?",
+            "What's your email address?",
+            "What is your email address?",
+            "Whats your email address?",
+            "What is your e-mail address?",
+            "What's your e-mail address?",
+            "Whats your e-mail address?",
+            "What is your e mail address?",
+            "What's your e mail address?",
+            "Whats your e mail address?"
+          ],
+          "student": "What’s your email address?",
+          "status": "Correct"
         }
       ]
     },
@@ -10280,10 +10372,38 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 9: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|9d9d4ed0-c8e5-4d43-bf94-7bfd44204c6d",
       "type": "MatchingType1",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "3/3",
       "instruction": "Match each name to the correct meaning.",
-      "answer": []
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a man (married or single)",
+          "student": "a man (married or single)",
+          "status": "Correct",
+          "meta": {
+            "left": "Mr (Brown)"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "a married woman",
+          "student": "a married woman",
+          "status": "Correct",
+          "meta": {
+            "left": "Mrs or Ms (Brown)"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "a single woman",
+          "student": "a single woman",
+          "status": "Correct",
+          "meta": {
+            "left": "Miss or Ms (Roberts)"
+          }
+        }
+      ]
     },
     "0c24d0a5-de73-451b-b305-3861b7ed06c3": {
       "location": {
@@ -10297,60 +10417,330 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 10: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|0b68b200-90ca-4532-9019-7f169f18a4ae",
       "type": "GapFillWordBankScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "7/7",
       "instruction": "Complete the conversations with the words from the box.",
       "answer": [
         {
           "id": 1,
           "correct": " Conversation A:\n\nGood morning, Mr. Brown.\n\nGood morning, Amanda.\n\n",
-          "student": null,
-          "status": null,
+          "student": " Conversation A:\n\nGood morning, Mr. Brown.\n\nGood morning, Amanda.\n\n",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Good morning"
             ],
-            "studentWords": null
+            "studentWords": [
+              "Good morning"
+            ]
           }
         },
         {
           "id": 2,
           "correct": " Conversation B:\n\nGood afternoon, Mrs King.\n\nGood afternoon.\n",
-          "student": null,
-          "status": null,
+          "student": " Conversation B:\n\nGood afternoon, Mrs King.\n\nGood afternoon.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Good afternoon",
               "Good afternoon"
             ],
-            "studentWords": null
+            "studentWords": [
+              "Good afternoon",
+              "Good afternoon"
+            ]
           }
         },
         {
           "id": 3,
           "correct": " Conversation C:\n\nGood evening, sir.\n\nGood evening.\n",
-          "student": null,
-          "status": null,
+          "student": " Conversation C:\n\nGood evening, sir.\n\nGood evening.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Good evening",
               "Good evening"
             ],
-            "studentWords": null
+            "studentWords": [
+              "Good evening",
+              "Good evening"
+            ]
           }
         },
         {
           "id": 4,
           "correct": " Conversation D:\n\nThank you very much. Good night.\n\nGood night, sir.",
-          "student": null,
-          "status": null,
+          "student": " Conversation D:\n\nThank you very much. Good night.\n\nGood night, sir.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Good night",
               "Good night"
             ],
-            "studentWords": null
+            "studentWords": [
+              "Good night",
+              "Good night"
+            ]
           }
+        }
+      ]
+    },
+    "0680bfeb-023e-4010-95f8-b23c6fcb01c6": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": " Good morning, Mr. Brown.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good morning, Mr. Brown",
+            "Good morning Mr. Brown",
+            "good morning mr. brown",
+            "good morning, mr. brown",
+            "Good morning Mr Brown",
+            "Good morning, Mr Brown",
+            "good morning mr brown",
+            "good morning, mr brown",
+            "Good morning Mister Brown",
+            "Good morning, Mister Brown",
+            "good morning mister brown",
+            "good morning, mister brown"
+          ],
+          "student": "Good morning, Mr. Brown.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "68987aad-40fa-4d5c-afb1-c850a46d4845": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good morning, Amanda.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good morning, Amanda",
+            "Good morning Amanda",
+            "\"Good morning, Amanda\""
+          ],
+          "student": "Good morning, Amanda.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f51f7b76-3785-4095-9eed-4565c3f6b96f": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good afternoon, Mrs King.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good afternoon, Mrs King",
+            "Good afternoon Mrs King",
+            "Good afternoon, Mrs. King",
+            "Good afternoon Mrs. King",
+            "Good afternoon!",
+            "Mrs. King"
+          ],
+          "student": "Good afternoon, Mrs King.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "cc3ded78-4283-43bc-aaec-6fc8f6021147": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good afternoon.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good afternoon",
+            "Good afternoon!"
+          ],
+          "student": "Good afternoon.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "21e0e4d6-8576-4138-95a3-f098bd656a50": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good evening, sir.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good evening, sir",
+            "Good evening sir",
+            "good evening sir",
+            "good evening, sir",
+            "good evening sur",
+            "good evenin sir",
+            "good evenin, sir",
+            "good evenin sur"
+          ],
+          "student": "Good evening, sir.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5832eaa3-d275-468c-9ee6-538270219873": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good evening.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good evening",
+            "Good evening.",
+            "Good evenin",
+            "Good evenin'"
+          ],
+          "student": "Good evening.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f6ec646c-e1ba-427e-ba2d-684ceba16019": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Thank you very much. Good night.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Thank you very much. Good night",
+            "Thank you very much Good night",
+            "Thank you very much! Good night",
+            "Thank you very much, Good night",
+            "Thank you very much. Goodnight",
+            "Thank you very much Goodnight",
+            "Thank you very much, Goodnight"
+          ],
+          "student": "Thank you very much. Good night.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5f69d94e-6cf9-445a-b03c-4ec59cdf2548": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good night, sir.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good night, sir",
+            "Good night sir",
+            "Goodnight sir",
+            "Goodnight, sir",
+            "Good knight sir",
+            "Good knight, sir"
+          ],
+          "student": "Good night, sir.",
+          "status": "Correct"
         }
       ]
     },
@@ -13496,6 +13886,140 @@
             "studentWords": [
               "isn't"
             ]
+          }
+        }
+      ]
+    },
+    "ecc7bd13-4506-4e85-abe7-260815c2defa": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Titles & Greetings",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 1: Titles & Greetings",
+      "refId": "homework:a5e51d4f-0fad-4c84-8fac-9c22222ef45a|bc4a6064-ac76-4808-afea-c5f545c12ed1",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": null,
+      "score": "0/9",
+      "instruction": "Complete the conversations by filling the gaps with the titles and greetings from the box. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation 1\n\nA: Good evening, Mr Clark.\n\nB: Good evening.",
+          "student": " Conversation 1\n\nA: Good evening, Mr Clark.\n\nB: Good evening.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Mr",
+              "Good evening"
+            ],
+            "studentWords": [
+              "Mr",
+              "Good evening"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation 2\n\nA: Good night, Sophie.\n\nB: Good night, Mum.",
+          "student": " Conversation 2\n\nA: Good night, Sophie.\n\nB: Good night, Mum.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good night",
+              "Good night"
+            ],
+            "studentWords": [
+              "Good night",
+              "Good night"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Conversation 3\n\nA: Good morning, Janet.\n\nB: Good morning, Clive.",
+          "student": " Conversation 3\n\nA: Good morning, Janet.\n\nB: Good morning, Clive.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good morning",
+              "Good morning"
+            ],
+            "studentWords": [
+              "Good morning",
+              "Good morning"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Conversation 4\n\nA: Good afternoon, Mrs Jones.\n\nB: Good afternoon.",
+          "student": " Conversation 4\n\nA: Good afternoon, Good afternoon Jones.\n\nB: Mrs.",
+          "status": [
+            "Correct",
+            "Process",
+            "Process"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good afternoon",
+              "Mrs",
+              "Good afternoon"
+            ],
+            "studentWords": [
+              "Good afternoon",
+              "Good afternoon",
+              "Mrs"
+            ]
+          }
+        }
+      ]
+    },
+    "ba381d5a-f091-4dd8-9b4e-49fec7ec809a": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Personal information questions",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 2: Personal information questions",
+      "refId": "homework:33de7c0b-8381-44dc-8a60-9fd865341816|d9d46b78-1777-423f-adc7-6a6f8bff3cc0",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Read the conversation. Fill in the gaps with the questions from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " CONVERSATION\n\nELLEN: Good afternoon. Welcome to the CICLERS Bank. My name's Ellen.\n\nNEIL: Nice to meet you.\n\nELLEN: You too. What's your nationality?\n\nNEIL: It's Neil.\n\nELLEN: Thank you. What's your mobile number?\n\nNEIL: It's Horton.\n\nELLEN: How do you spell that, please?\n\nNEIL: It's H-O-R-T-O-N.\n\nELLEN: Thank you. What's your first name, please?  \n\nNEIL: I'm Australian. \n\nELLEN: What's your email address? \n\nNEIL: It's 17 William Street, London SE18 4ED.\n\nELLEN: Thanks. Are you married?\n\nNEIL: It's neil.horton@webmail.co.uk.\n\nELLEN: OK. What's your surname? \n\nNEIL: No, I'm single.\n\nELLEN: What's your address? \n\nNEIL: 07988 456319.\n\nELLEN: Thank you very much.\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "What's your nationality",
+              "What's your mobile number",
+              "How do you spell that, please",
+              "What's your first name, please",
+              "What's your email address",
+              "Are you married",
+              "What's your surname",
+              "What's your address"
+            ],
+            "studentWords": null
           }
         }
       ]
