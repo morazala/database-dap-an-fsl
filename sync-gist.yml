@@ -1,0 +1,46 @@
+name: Đồng bộ Gist -> file JSON tĩnh
+
+# Chạy định kỳ (mỗi 5 phút) + cho phép bấm chạy tay từ tab Actions trên GitHub.
+# Token thật được lưu trong "Repository secret" (GIST_TOKEN) — KHÔNG nằm
+# trong code, KHÔNG bao giờ hiện ra cho khách truy cập trang public.
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Tải dữ liệu mới nhất từ Gist
+        env:
+          GIST_ID: bb8129ecb8bcc5efbde0f9a15fda315f
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: |
+          curl -sL \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GIST_TOKEN}" \
+            "https://api.github.com/gists/${GIST_ID}" \
+            -o gist_response.json
+
+          # Lấy đúng nội dung file "fsel_answers.json" bên trong Gist
+          node -e "
+            const fs = require('fs');
+            const gist = JSON.parse(fs.readFileSync('gist_response.json', 'utf8'));
+            const file = gist.files && gist.files['fsel_answers.json'];
+            if(!file){ console.error('Không tìm thấy file fsel_answers.json trong Gist'); process.exit(1); }
+            fs.writeFileSync('fsel_answers.json', file.content);
+          "
+          rm -f gist_response.json
+
+      - name: Commit + push nếu có thay đổi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fsel_answers.json
+          git diff --staged --quiet && echo "Không có gì mới" || (git commit -m "Tự động đồng bộ đáp án từ Gist" && git push)

@@ -958,13 +958,38 @@ function setSyncBanner(kind, message){
   el.textContent = message;
 }
 
+async function tryLoadStaticSnapshot(){
+  // File tĩnh này (nếu có) do GitHub Action "sync-gist.yml" tự động tạo ra
+  // định kỳ, nằm ngay cạnh file HTML (cùng thư mục). Nếu tải được, trang
+  // KHÔNG cần gọi thẳng GitHub API nữa -> khách truy cập public không bao
+  // giờ dính rate limit 403, vì đây chỉ là 1 file JSON tĩnh bình thường.
+  try{
+    const res = await fetch('fsel_answers.json', { cache: 'no-store' });
+    if(!res.ok) return false;
+    const json = await res.json();
+    const nextStr = JSON.stringify(json.answers || {});
+    const isFirstLoad = !gistLoadedOnce;
+    gistLoadedOnce = true;
+    if(nextStr !== lastGistAnswersStr){
+      lastGistAnswersStr = nextStr;
+      handleJSON(json);
+      if(!isFirstLoad) showLiveIndicator();
+    }
+    setSyncBanner('success', `🟢 Đã đồng bộ (file tĩnh do GitHub Action tạo) · ${new Date().toLocaleTimeString('vi-VN')} · ${Object.keys(json.answers||{}).length} câu hỏi`);
+    return true;
+  }catch(err){
+    return false; // không có file tĩnh (chưa thiết lập Action, hoặc Action chưa chạy lần nào) -> gọi thẳng Gist API như cũ
+  }
+}
+
 async function loadFromGist(){
   if(!GIST_SYNC_CONFIG.gistId || GIST_SYNC_CONFIG.gistId === 'YOUR_GIST_ID_HERE'){
     setSyncBanner('info', 'ℹ️ Chưa cấu hình GIST_SYNC_CONFIG.gistId trong file này — viewer đang ở chế độ kéo-thả JSON thủ công. Sửa "gistId" ở đầu phần <script> rồi tải lại trang để bật tự động đồng bộ.');
     return;
   }
-  if(Date.now() < rateLimitBackoffUntil){
-    return; // đang trong thời gian chờ do bị rate limit, khỏi gọi thêm cho tốn quota
+  if(await tryLoadStaticSnapshot()) return; // có file tĩnh -> dùng luôn, khỏi gọi API
+  if(!getGistToken() && Date.now() < rateLimitBackoffUntil){
+    return; // đang trong thời gian chờ do bị rate limit (chỉ áp dụng khi CHƯA có token — có token là hạn mức riêng, không liên quan)
   }
   if(!gistLoadedOnce) setSyncBanner('loading', '⏳ Đang tải dữ liệu từ Gist...');
   try{
