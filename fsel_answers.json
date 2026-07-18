@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-18T12:29:17.526Z",
-  "totalQuestions": 239,
+  "exportedAt": "2026-07-18T14:23:22.140Z",
+  "totalQuestions": 248,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -9952,30 +9952,30 @@
       "answer": [
         {
           "id": 1,
-          "correct": " What’s your sur nema?",
+          "correct": " What’s your sar nume?",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
+              "a",
               "u",
-              "e",
-              "a"
+              "e"
             ],
             "studentWords": null
           }
         },
         {
           "id": 2,
-          "correct": " What’s your nationality? ",
+          "correct": " What’s your nitaaniloty? ",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
+              "i",
+              "a",
               "a",
               "i",
-              "o",
-              "a",
-              "i"
+              "o"
             ],
             "studentWords": null
           }
@@ -9995,14 +9995,14 @@
         },
         {
           "id": 4,
-          "correct": " What’s your mibele numbor? ",
+          "correct": " What’s your mubile nembor? ",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
+              "u",
               "i",
               "e",
-              "u",
               "o"
             ],
             "studentWords": null
@@ -10020,6 +10020,334 @@
               "a",
               "e",
               "i"
+            ],
+            "studentWords": null
+          }
+        }
+      ]
+    },
+    "477ce85a-e849-4068-bb42-4b3bcb9e09cc": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "What’s your first name, please?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "763a46d7-2f23-44a6-b1e2-d73c2414258e": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "What’s your surname?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "0165385c-fbe3-4594-84f3-29df2e96f8fc": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "What’s your nationality?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "e0c8b0fa-7d17-48bf-9379-060d7e007c36": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "What’s your address?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "6920a782-cb0d-4631-8877-7e05214a62e9": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "What’s your mobile number?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "2b38c6f6-e6d9-421d-9b84-3977db9e937d": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "What’s your email address?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "bf0cd44a-0572-4b27-a2cb-e5379d725278": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Từ vựng",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|8f76de17-96d2-4e28-b756-d5264e463149",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Fill in the missing question for each answer.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: What’s your surname|What is your surname?\n\nB: Smith.",
+          "student": " \nA: What's your surname?\n\nB: Smith.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your surname|What is your surname"
+            ],
+            "studentWords": [
+              "What's your surname"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: What's your nationality|What is your nationality?\n\nB: I’m British.",
+          "student": " \nA: What's your nationality?\n\nB: I’m British.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's your nationality|What is your nationality"
+            ],
+            "studentWords": [
+              "What's your nationality"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: What’s your address|What is your address?\n\nB: It’s 12 Lee Road, London.",
+          "student": " \nA: What's your address?\n\nB: It’s 12 Lee Road, London.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your address|What is your address"
+            ],
+            "studentWords": [
+              "What's your address"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: What’s your mobile number|What is your mobile number?\n\nB: It’s 07700 900195.",
+          "student": " \nA: What's your mobile number?\n\nB: It’s 07700 900195.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your mobile number|What is your mobile number"
+            ],
+            "studentWords": [
+              "What's your mobile number"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " \nA: What’s your email address|What is your email address?\n\nB: It’s e.smith@webnet.com.",
+          "student": " \nA: What's your email address?\n\nB: It’s e.smith@webnet.com.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your email address|What is your email address"
+            ],
+            "studentWords": [
+              "What's your email address"
+            ]
+          }
+        }
+      ]
+    },
+    "9a3747bf-0712-42d0-b814-16d5857d94a2": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 9: Từ vựng",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|9d9d4ed0-c8e5-4d43-bf94-7bfd44204c6d",
+      "type": "MatchingType1",
+      "correct": null,
+      "score": null,
+      "instruction": "Match each name to the correct meaning.",
+      "answer": []
+    },
+    "0c24d0a5-de73-451b-b305-3861b7ed06c3": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 10: Từ vựng",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|0b68b200-90ca-4532-9019-7f169f18a4ae",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Complete the conversations with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation A:\n\nGood morning, Mr. Brown.\n\nGood morning, Amanda.\n\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Good morning"
+            ],
+            "studentWords": null
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation B:\n\nGood afternoon, Mrs King.\n\nGood afternoon.\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Good afternoon",
+              "Good afternoon"
+            ],
+            "studentWords": null
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Conversation C:\n\nGood evening, sir.\n\nGood evening.\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Good evening",
+              "Good evening"
+            ],
+            "studentWords": null
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Conversation D:\n\nThank you very much. Good night.\n\nGood night, sir.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Good night",
+              "Good night"
             ],
             "studentWords": null
           }
