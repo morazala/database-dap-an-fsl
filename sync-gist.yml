@@ -1,11 +1,11 @@
 name: Đồng bộ Gist -> file JSON tĩnh
 
-# Chạy định kỳ (mỗi 5 phút) + cho phép bấm chạy tay từ tab Actions trên GitHub.
+# Chạy định kỳ (mỗi 2 phút) + cho phép bấm chạy tay từ tab Actions trên GitHub.
 # Token thật được lưu trong "Repository secret" (GIST_TOKEN) — KHÔNG nằm
 # trong code, KHÔNG bao giờ hiện ra cho khách truy cập trang public.
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/2 * * * *'
   workflow_dispatch: {}
 
 permissions:
