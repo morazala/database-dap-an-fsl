@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-19T08:42:52.165Z",
-  "totalQuestions": 390,
+  "exportedAt": "2026-07-19T10:06:15.181Z",
+  "totalQuestions": 431,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -237,8 +237,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "the speaker",
-            "optionLabel": "A"
+            "optionText": "the speaker"
           }
         },
         {
@@ -247,8 +246,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "the listener",
-            "optionLabel": "B"
+            "optionText": "the listener"
           }
         },
         {
@@ -257,8 +255,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "something that belongs to the speaker",
-            "optionLabel": "C"
+            "optionText": "something that belongs to the speaker"
           }
         }
       ]
@@ -285,8 +282,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "something that belongs to the speaker",
-            "optionLabel": "A"
+            "optionText": "something that belongs to the speaker"
           }
         },
         {
@@ -295,8 +291,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "something that belongs to the listener",
-            "optionLabel": "B"
+            "optionText": "something that belongs to the listener"
           }
         },
         {
@@ -305,8 +300,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "the listener",
-            "optionLabel": "C"
+            "optionText": "the listener"
           }
         }
       ]
@@ -333,8 +327,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "the speaker",
-            "optionLabel": "A"
+            "optionText": "the speaker"
           }
         },
         {
@@ -343,8 +336,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "the listener",
-            "optionLabel": "B"
+            "optionText": "the listener"
           }
         },
         {
@@ -353,8 +345,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "something that belongs to the listener",
-            "optionLabel": "C"
+            "optionText": "something that belongs to the listener"
           }
         }
       ]
@@ -381,8 +372,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "something that belongs to the listener",
-            "optionLabel": "A"
+            "optionText": "something that belongs to the listener"
           }
         },
         {
@@ -391,8 +381,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "the speaker",
-            "optionLabel": "B"
+            "optionText": "the speaker"
           }
         },
         {
@@ -401,8 +390,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "something that belongs to the speaker",
-            "optionLabel": "C"
+            "optionText": "something that belongs to the speaker"
           }
         }
       ]
@@ -499,8 +487,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "how are you?",
-            "optionLabel": "A"
+            "optionText": "how are you?"
           }
         },
         {
@@ -509,8 +496,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "this is David.",
-            "optionLabel": "B"
+            "optionText": "this is David."
           }
         }
       ]
@@ -537,8 +523,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Nice to meet you.",
-            "optionLabel": "A"
+            "optionText": "Nice to meet you."
           }
         },
         {
@@ -547,8 +532,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "My name is Polly.",
-            "optionLabel": "B"
+            "optionText": "My name is Polly."
           }
         }
       ]
@@ -2069,8 +2053,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Russia",
-            "optionLabel": "A"
+            "optionText": "Russia"
           }
         },
         {
@@ -2079,8 +2062,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "China",
-            "optionLabel": "B"
+            "optionText": "China"
           }
         }
       ]
@@ -2107,8 +2089,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Spain",
-            "optionLabel": "A"
+            "optionText": "Spain"
           }
         },
         {
@@ -2117,8 +2098,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Turkey",
-            "optionLabel": "B"
+            "optionText": "Turkey"
           }
         }
       ]
@@ -2898,8 +2878,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "J",
-            "optionLabel": "A"
+            "optionText": "J"
           }
         },
         {
@@ -2908,8 +2887,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "E",
-            "optionLabel": "B"
+            "optionText": "E"
           }
         },
         {
@@ -2918,8 +2896,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "S",
-            "optionLabel": "C"
+            "optionText": "S"
           }
         },
         {
@@ -2928,8 +2905,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "S",
-            "optionLabel": "D"
+            "optionText": "S"
           }
         },
         {
@@ -2938,8 +2914,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "I",
-            "optionLabel": "E"
+            "optionText": "I"
           }
         },
         {
@@ -2948,8 +2923,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "C",
-            "optionLabel": "F"
+            "optionText": "C"
           }
         },
         {
@@ -2958,8 +2932,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "A",
-            "optionLabel": "G"
+            "optionText": "A"
           }
         }
       ]
@@ -2986,8 +2959,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "J",
-            "optionLabel": "A"
+            "optionText": "J"
           }
         },
         {
@@ -2996,8 +2968,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "E",
-            "optionLabel": "B"
+            "optionText": "E"
           }
         },
         {
@@ -3006,8 +2977,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "S",
-            "optionLabel": "C"
+            "optionText": "S"
           }
         },
         {
@@ -3016,8 +2986,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "S",
-            "optionLabel": "D"
+            "optionText": "S"
           }
         },
         {
@@ -3026,8 +2995,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "I",
-            "optionLabel": "E"
+            "optionText": "I"
           }
         },
         {
@@ -3036,8 +3004,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "C",
-            "optionLabel": "F"
+            "optionText": "C"
           }
         },
         {
@@ -3046,8 +3013,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "A",
-            "optionLabel": "G"
+            "optionText": "A"
           }
         }
       ]
@@ -3760,8 +3726,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Excuse me.",
-            "optionLabel": "A"
+            "optionText": "Excuse me."
           }
         },
         {
@@ -3770,8 +3735,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "What does answer mean?",
-            "optionLabel": "B"
+            "optionText": "What does answer mean?"
           }
         },
         {
@@ -3780,8 +3744,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "I'm sorry, I don't understand.",
-            "optionLabel": "C"
+            "optionText": "I'm sorry, I don't understand."
           }
         },
         {
@@ -3790,8 +3753,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "What's this in English?",
-            "optionLabel": "D"
+            "optionText": "What's this in English?"
           }
         },
         {
@@ -3800,8 +3762,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Can you repeat that, please?",
-            "optionLabel": "E"
+            "optionText": "Can you repeat that, please?"
           }
         },
         {
@@ -3810,8 +3771,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "I'm sorry, I don't know.",
-            "optionLabel": "F"
+            "optionText": "I'm sorry, I don't know."
           }
         },
         {
@@ -3820,8 +3780,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "How do you spell Brazil?",
-            "optionLabel": "G"
+            "optionText": "How do you spell Brazil?"
           }
         }
       ]
@@ -3929,8 +3888,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"How do you spell that?\"",
-            "optionLabel": "A"
+            "optionText": "\"How do you spell that?\""
           }
         },
         {
@@ -3939,8 +3897,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"What's this in English?\" ",
-            "optionLabel": "B"
+            "optionText": "\"What's this in English?\" "
           }
         },
         {
@@ -3949,8 +3906,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "\"Excuse me, what does _______ mean?\"",
-            "optionLabel": "C"
+            "optionText": "\"Excuse me, what does _______ mean?\""
           }
         }
       ]
@@ -3977,8 +3933,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": " \"I'm sorry, I don't know.\" ",
-            "optionLabel": "A"
+            "optionText": " \"I'm sorry, I don't know.\" "
           }
         },
         {
@@ -3987,8 +3942,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "\"Can you repeat that, please?\" ",
-            "optionLabel": "B"
+            "optionText": "\"Can you repeat that, please?\" "
           }
         },
         {
@@ -3997,8 +3951,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"What does that mean?\" ",
-            "optionLabel": "C"
+            "optionText": "\"What does that mean?\" "
           }
         }
       ]
@@ -4025,8 +3978,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"How do you spell that?\" ",
-            "optionLabel": "A"
+            "optionText": "\"How do you spell that?\" "
           }
         },
         {
@@ -4035,8 +3987,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": " \"I'm sorry, I don't understand.\" ",
-            "optionLabel": "B"
+            "optionText": " \"I'm sorry, I don't understand.\" "
           }
         },
         {
@@ -4045,8 +3996,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"What's this in English?\"",
-            "optionLabel": "C"
+            "optionText": "\"What's this in English?\""
           }
         }
       ]
@@ -4073,8 +4023,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"Can you repeat that, please?\" ",
-            "optionLabel": "A"
+            "optionText": "\"Can you repeat that, please?\" "
           }
         },
         {
@@ -4083,8 +4032,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": " \"I'm sorry, I don't know.\" ",
-            "optionLabel": "B"
+            "optionText": " \"I'm sorry, I don't know.\" "
           }
         },
         {
@@ -4093,8 +4041,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"What does that mean?\"",
-            "optionLabel": "C"
+            "optionText": "\"What does that mean?\""
           }
         }
       ]
@@ -4121,8 +4068,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"Excuse me, what does _______ mean?\" ",
-            "optionLabel": "A"
+            "optionText": "\"Excuse me, what does _______ mean?\" "
           }
         },
         {
@@ -4131,8 +4077,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "\"How do you spell _______?\" ",
-            "optionLabel": "B"
+            "optionText": "\"How do you spell _______?\" "
           }
         },
         {
@@ -4141,8 +4086,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"What's this in English?\"",
-            "optionLabel": "C"
+            "optionText": "\"What's this in English?\""
           }
         }
       ]
@@ -4169,8 +4113,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"Excuse me, what does _______ mean?\" ",
-            "optionLabel": "A"
+            "optionText": "\"Excuse me, what does _______ mean?\" "
           }
         },
         {
@@ -4179,8 +4122,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "\"How do you spell _______?\" ",
-            "optionLabel": "B"
+            "optionText": "\"How do you spell _______?\" "
           }
         },
         {
@@ -4189,8 +4131,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "\"What's this in English?\"",
-            "optionLabel": "C"
+            "optionText": "\"What's this in English?\""
           }
         }
       ]
@@ -4598,8 +4539,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "books",
-            "optionLabel": "A"
+            "optionText": "books"
           }
         },
         {
@@ -4608,8 +4548,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a dictionary",
-            "optionLabel": "B"
+            "optionText": "a dictionary"
           }
         },
         {
@@ -4618,8 +4557,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "a computer",
-            "optionLabel": "C"
+            "optionText": "a computer"
           }
         },
         {
@@ -4628,8 +4566,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a notebook",
-            "optionLabel": "D"
+            "optionText": "a notebook"
           }
         },
         {
@@ -4638,8 +4575,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "pens",
-            "optionLabel": "E"
+            "optionText": "pens"
           }
         },
         {
@@ -4648,8 +4584,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "pencils",
-            "optionLabel": "F"
+            "optionText": "pencils"
           }
         },
         {
@@ -4658,8 +4593,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a mobile",
-            "optionLabel": "G"
+            "optionText": "a mobile"
           }
         },
         {
@@ -4668,8 +4602,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "a sandwich",
-            "optionLabel": "H"
+            "optionText": "a sandwich"
           }
         }
       ]
@@ -4696,8 +4629,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a mobile",
-            "optionLabel": "A"
+            "optionText": "a mobile"
           }
         },
         {
@@ -4706,8 +4638,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "photos",
-            "optionLabel": "B"
+            "optionText": "photos"
           }
         },
         {
@@ -4716,8 +4647,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "a diary",
-            "optionLabel": "C"
+            "optionText": "a diary"
           }
         },
         {
@@ -4726,8 +4656,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a pen",
-            "optionLabel": "D"
+            "optionText": "a pen"
           }
         },
         {
@@ -4736,8 +4665,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "books",
-            "optionLabel": "E"
+            "optionText": "books"
           }
         },
         {
@@ -4746,8 +4674,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "an umbrella",
-            "optionLabel": "F"
+            "optionText": "an umbrella"
           }
         },
         {
@@ -4756,8 +4683,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "an apple",
-            "optionLabel": "G"
+            "optionText": "an apple"
           }
         },
         {
@@ -4766,8 +4692,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "sandwiches",
-            "optionLabel": "H"
+            "optionText": "sandwiches"
           }
         }
       ]
@@ -4794,8 +4719,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a camera",
-            "optionLabel": "A"
+            "optionText": "a camera"
           }
         },
         {
@@ -4804,8 +4728,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "a mobile phone",
-            "optionLabel": "B"
+            "optionText": "a mobile phone"
           }
         },
         {
@@ -4814,8 +4737,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "books",
-            "optionLabel": "C"
+            "optionText": "books"
           }
         },
         {
@@ -4824,8 +4746,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "a watch",
-            "optionLabel": "D"
+            "optionText": "a watch"
           }
         },
         {
@@ -4834,8 +4755,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a notebook",
-            "optionLabel": "E"
+            "optionText": "a notebook"
           }
         },
         {
@@ -4844,8 +4764,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "pens",
-            "optionLabel": "F"
+            "optionText": "pens"
           }
         },
         {
@@ -4854,8 +4773,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "a pencil",
-            "optionLabel": "G"
+            "optionText": "a pencil"
           }
         },
         {
@@ -4864,8 +4782,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "an umbrella",
-            "optionLabel": "H"
+            "optionText": "an umbrella"
           }
         }
       ]
@@ -6588,8 +6505,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "full stop (.)",
-            "optionLabel": "A"
+            "optionText": "full stop (.)"
           }
         },
         {
@@ -6598,8 +6514,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "question mark (?)",
-            "optionLabel": "B"
+            "optionText": "question mark (?)"
           }
         }
       ]
@@ -6626,8 +6541,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "full stop (.)",
-            "optionLabel": "A"
+            "optionText": "full stop (.)"
           }
         },
         {
@@ -6636,8 +6550,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "question mark (?)",
-            "optionLabel": "B"
+            "optionText": "question mark (?)"
           }
         }
       ]
@@ -6876,8 +6789,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "At the beginning of a sentence.",
-            "optionLabel": "A"
+            "optionText": "At the beginning of a sentence."
           }
         },
         {
@@ -6886,8 +6798,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "In the middle of a word.",
-            "optionLabel": "B"
+            "optionText": "In the middle of a word."
           }
         },
         {
@@ -6896,8 +6807,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "For the word \"I\".",
-            "optionLabel": "C"
+            "optionText": "For the word \"I\"."
           }
         },
         {
@@ -6906,8 +6816,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "For countries.",
-            "optionLabel": "D"
+            "optionText": "For countries."
           }
         },
         {
@@ -6916,8 +6825,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "After a comma (,)",
-            "optionLabel": "E"
+            "optionText": "After a comma (,)"
           }
         },
         {
@@ -6926,8 +6834,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "For cities.",
-            "optionLabel": "F"
+            "optionText": "For cities."
           }
         },
         {
@@ -6936,8 +6843,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "For colours.",
-            "optionLabel": "G"
+            "optionText": "For colours."
           }
         },
         {
@@ -6946,8 +6852,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "For names.",
-            "optionLabel": "H"
+            "optionText": "For names."
           }
         }
       ]
@@ -7042,8 +6947,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Luciano's From Italy.",
-            "optionLabel": "A"
+            "optionText": "Luciano's From Italy."
           }
         },
         {
@@ -7052,8 +6956,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Luciano's from Italy.",
-            "optionLabel": "B"
+            "optionText": "Luciano's from Italy."
           }
         },
         {
@@ -7062,8 +6965,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Luciano's from italy.",
-            "optionLabel": "C"
+            "optionText": "Luciano's from italy."
           }
         }
       ]
@@ -7090,8 +6992,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Where's Elizabeth from?",
-            "optionLabel": "A"
+            "optionText": "Where's Elizabeth from?"
           }
         },
         {
@@ -7100,8 +7001,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Where's elizabeth From?",
-            "optionLabel": "B"
+            "optionText": "Where's elizabeth From?"
           }
         },
         {
@@ -7110,8 +7010,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "where's Elizabeth from?",
-            "optionLabel": "C"
+            "optionText": "where's Elizabeth from?"
           }
         }
       ]
@@ -7138,8 +7037,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Alexei's From Moscow.",
-            "optionLabel": "A"
+            "optionText": "Alexei's From Moscow."
           }
         },
         {
@@ -7148,8 +7046,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "alexei's from Moscow.",
-            "optionLabel": "B"
+            "optionText": "alexei's from Moscow."
           }
         },
         {
@@ -7158,8 +7055,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Alexei's from Moscow.",
-            "optionLabel": "C"
+            "optionText": "Alexei's from Moscow."
           }
         }
       ]
@@ -7186,8 +7082,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Hello, I'm David Smith.",
-            "optionLabel": "A"
+            "optionText": "Hello, I'm David Smith."
           }
         },
         {
@@ -7196,8 +7091,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "hello, I'm David Smith.",
-            "optionLabel": "B"
+            "optionText": "hello, I'm David Smith."
           }
         },
         {
@@ -7206,8 +7100,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Hello, i'm David Smith.",
-            "optionLabel": "C"
+            "optionText": "Hello, i'm David Smith."
           }
         }
       ]
@@ -7234,8 +7127,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "nick's from Bristol, In the UK.",
-            "optionLabel": "A"
+            "optionText": "nick's from Bristol, In the UK."
           }
         },
         {
@@ -7244,8 +7136,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Nick's from Bristol, in the UK.",
-            "optionLabel": "B"
+            "optionText": "Nick's from Bristol, in the UK."
           }
         },
         {
@@ -7254,8 +7145,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Nick's from bristol, in the Uk.",
-            "optionLabel": "C"
+            "optionText": "Nick's from bristol, in the Uk."
           }
         }
       ]
@@ -7282,8 +7172,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "She's from orlando, in the Usa.",
-            "optionLabel": "A"
+            "optionText": "She's from orlando, in the Usa."
           }
         },
         {
@@ -7292,8 +7181,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "She's from Orlando, in the USA.",
-            "optionLabel": "B"
+            "optionText": "She's from Orlando, in the USA."
           }
         },
         {
@@ -7302,8 +7190,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "she's from Orlando, in the USA.",
-            "optionLabel": "C"
+            "optionText": "she's from Orlando, in the USA."
           }
         }
       ]
@@ -8323,26 +8210,20 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 10
+        "exerciseOrder": 13
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 10: Nói",
-      "refId": "video:bea35212-b8db-4acb-9f80-2ed4e589b02c|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "I‘m not American.",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "I‘m not American",
-            "I'm not American",
-            "I’m not American",
-            "Im not American",
-            "I am not American"
-          ],
-          "student": "I‘m not American.",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -8353,25 +8234,20 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 10
+        "exerciseOrder": 13
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 10: Nói",
-      "refId": "video:bea35212-b8db-4acb-9f80-2ed4e589b02c|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "You aren’t a teacher.",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "You aren’t a teacher",
-            "You aren't a teacher",
-            "You arent a teacher",
-            "You aren't a teacher."
-          ],
-          "student": "You aren’t a teacher.",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -8382,27 +8258,20 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 10
+        "exerciseOrder": 13
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 10: Nói",
-      "refId": "video:bea35212-b8db-4acb-9f80-2ed4e589b02c|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "He isn’t from Berlin.",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "He isn’t from Berlin",
-            "He isn't from Berlin",
-            "He isnt from Berlin",
-            "He is not from Berlin",
-            "He's not from Berlin",
-            "He’s not from Berlin"
-          ],
-          "student": "He isn’t from Berlin.",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -8413,25 +8282,20 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 10
+        "exerciseOrder": 13
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 10: Nói",
-      "refId": "video:bea35212-b8db-4acb-9f80-2ed4e589b02c|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "She isn’t Australian. ",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "She isn’t Australian",
-            "She isn't Australian",
-            "She isnt Australian",
-            "She is not Australian"
-          ],
-          "student": "She isn’t Australian.",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -8442,25 +8306,20 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 10
+        "exerciseOrder": 13
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 10: Nói",
-      "refId": "video:bea35212-b8db-4acb-9f80-2ed4e589b02c|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "It isn’t a Mercedes.",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "It isn’t a Mercedes",
-            "It isn't a Mercedes",
-            "It isnt a Mercedes",
-            "It is not a Mercedes"
-          ],
-          "student": "It isn’t a Mercedes.",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -8471,132 +8330,96 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 11
+        "exerciseOrder": 17
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 11: Ngữ pháp",
-      "refId": "video:bea35212-b8db-4acb-9f80-2ed4e589b02c|dcd6735f-4b55-45fd-847f-7529eccbcb56",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 17: Ngữ pháp",
+      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|dcd6735f-4b55-45fd-847f-7529eccbcb56",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "12/12",
+      "correct": null,
+      "score": null,
       "instruction": "Fill the gaps with ’m, ’m not, ’s, isn’t, ’re, or aren’t",
       "answer": [
         {
           "id": 1,
           "correct": " He's Vietnamese. Heisn't a student.",
-          "student": " He's Vietnamese. Heisn't a student.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s",
               "isn't"
             ],
-            "studentWords": [
-              "'s",
-              "isn't"
-            ],
+            "studentWords": null,
             "template": " He{'s} Vietnamese. He{isn't} a student."
           }
         },
         {
           "id": 2,
           "correct": " I'm from the UK, but I'm not from London.",
-          "student": " I'm from the UK, but I'm not from London.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'m",
               "'m not"
             ],
-            "studentWords": [
-              "'m",
-              "'m not"
-            ],
+            "studentWords": null,
             "template": " I{'m} from the UK, but I{'m not} from London."
           }
         },
         {
           "id": 3,
           "correct": " She isn't Australian. She's from the USA.",
-          "student": " She isn't Australian. She's from the USA.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "isn't",
               "'s"
             ],
-            "studentWords": [
-              "isn't",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " She {isn't} Australian. She{'s} from the USA."
           }
         },
         {
           "id": 4,
-          "correct": " She isn't a teacher, he's a student.",
-          "student": " She isn't a teacher, he's a student.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "correct": " She 's a teacher, heisn't a student.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "isn't",
-              "'s"
+              "'s",
+              "isn't"
             ],
-            "studentWords": [
-              "isn't",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " She {isn't} a teacher, he{'s} a student."
           }
         },
         {
           "id": 5,
           "correct": " It's a car. It isn't a bicycle.",
-          "student": " It's a car. It isn't a bicycle.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s",
               "isn't"
             ],
-            "studentWords": [
-              "'s",
-              "isn't"
-            ],
+            "studentWords": null,
             "template": " It{'s} a car. It {isn't} a bicycle."
           }
         },
         {
           "id": 6,
           "correct": " You aren't from China. You're a student.",
-          "student": " You aren't from China. You 're a student.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "aren't",
               "'re"
             ],
-            "studentWords": [
-              "aren't",
-              " 're"
-            ],
+            "studentWords": null,
             "template": " You {aren't} from China. You{'re} a student."
           }
         }
@@ -9677,8 +9500,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Yes, he is.",
-            "optionLabel": "A"
+            "optionText": "Yes, he is."
           }
         },
         {
@@ -9687,8 +9509,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "No, he isn't.",
-            "optionLabel": "B"
+            "optionText": "No, he isn't."
           }
         }
       ]
@@ -9715,8 +9536,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Yes, he is.",
-            "optionLabel": "A"
+            "optionText": "Yes, he is."
           }
         },
         {
@@ -9725,8 +9545,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "No, he isn't.",
-            "optionLabel": "B"
+            "optionText": "No, he isn't."
           }
         }
       ]
@@ -9753,8 +9572,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Yes, she is.",
-            "optionLabel": "A"
+            "optionText": "Yes, she is."
           }
         },
         {
@@ -9763,8 +9581,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "No, she isn't.",
-            "optionLabel": "B"
+            "optionText": "No, she isn't."
           }
         }
       ]
@@ -9791,8 +9608,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Yes, she is.",
-            "optionLabel": "A"
+            "optionText": "Yes, she is."
           }
         },
         {
@@ -9801,8 +9617,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "No, she isn't.",
-            "optionLabel": "B"
+            "optionText": "No, she isn't."
           }
         }
       ]
@@ -9829,8 +9644,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Yes, she is.",
-            "optionLabel": "A"
+            "optionText": "Yes, she is."
           }
         },
         {
@@ -9839,8 +9653,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "No, she isn't.",
-            "optionLabel": "B"
+            "optionText": "No, she isn't."
           }
         }
       ]
@@ -9867,8 +9680,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Yes, I am.",
-            "optionLabel": "A"
+            "optionText": "Yes, I am."
           }
         },
         {
@@ -9877,8 +9689,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "No, I'm not.",
-            "optionLabel": "B"
+            "optionText": "No, I'm not."
           }
         }
       ]
@@ -13229,8 +13040,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "first name ",
-            "optionLabel": "A"
+            "optionText": "first name "
           }
         },
         {
@@ -13239,8 +13049,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "surnames",
-            "optionLabel": "B"
+            "optionText": "surnames"
           }
         },
         {
@@ -13249,8 +13058,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "names in email addresses ",
-            "optionLabel": "C"
+            "optionText": "names in email addresses "
           }
         },
         {
@@ -13259,8 +13067,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "addresses",
-            "optionLabel": "D"
+            "optionText": "addresses"
           }
         },
         {
@@ -13269,8 +13076,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "letters in postcodes ",
-            "optionLabel": "E"
+            "optionText": "letters in postcodes "
           }
         },
         {
@@ -13279,8 +13085,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "nationalities",
-            "optionLabel": "F"
+            "optionText": "nationalities"
           }
         },
         {
@@ -13289,8 +13094,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "countries",
-            "optionLabel": "G"
+            "optionText": "countries"
           }
         },
         {
@@ -13299,8 +13103,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "company names",
-            "optionLabel": "H"
+            "optionText": "company names"
           }
         }
       ]
@@ -13405,8 +13208,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Is Benetton an italian company?",
-            "optionLabel": "A"
+            "optionText": "Is Benetton an italian company?"
           }
         },
         {
@@ -13415,8 +13217,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "is benetton an Italian Company?",
-            "optionLabel": "B"
+            "optionText": "is benetton an Italian Company?"
           }
         },
         {
@@ -13425,8 +13226,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Is Benetton An Italian Company?",
-            "optionLabel": "C"
+            "optionText": "Is Benetton An Italian Company?"
           }
         },
         {
@@ -13435,8 +13235,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Is Benetton an Italian company?",
-            "optionLabel": "D"
+            "optionText": "Is Benetton an Italian company?"
           }
         }
       ]
@@ -13463,8 +13262,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Her name is Mrs Alice Roberts.",
-            "optionLabel": "A"
+            "optionText": "Her name is Mrs Alice Roberts."
           }
         },
         {
@@ -13473,8 +13271,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "her name is mrs Alice Roberts.",
-            "optionLabel": "B"
+            "optionText": "her name is mrs Alice Roberts."
           }
         },
         {
@@ -13483,8 +13280,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Her name is Mrs alice roberts.",
-            "optionLabel": "C"
+            "optionText": "Her name is Mrs alice roberts."
           }
         },
         {
@@ -13493,8 +13289,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Her Name Is Mrs Alice Roberts.",
-            "optionLabel": "D"
+            "optionText": "Her Name Is Mrs Alice Roberts."
           }
         }
       ]
@@ -13521,8 +13316,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Are You Mr Henry Long?",
-            "optionLabel": "A"
+            "optionText": "Are You Mr Henry Long?"
           }
         },
         {
@@ -13531,8 +13325,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Are you Mr henry long?",
-            "optionLabel": "B"
+            "optionText": "Are you Mr henry long?"
           }
         },
         {
@@ -13541,8 +13334,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Are you Mr Henry Long?",
-            "optionLabel": "C"
+            "optionText": "Are you Mr Henry Long?"
           }
         },
         {
@@ -13551,8 +13343,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Are you mr henry long?",
-            "optionLabel": "D"
+            "optionText": "Are you mr henry long?"
           }
         }
       ]
@@ -13579,8 +13370,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Ford is an American company.",
-            "optionLabel": "A"
+            "optionText": "Ford is an American company."
           }
         },
         {
@@ -13589,8 +13379,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "ford is an American company.",
-            "optionLabel": "B"
+            "optionText": "ford is an American company."
           }
         },
         {
@@ -13599,8 +13388,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "ford is an American Company.",
-            "optionLabel": "C"
+            "optionText": "ford is an American Company."
           }
         },
         {
@@ -13609,8 +13397,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Ford is An American Company.",
-            "optionLabel": "D"
+            "optionText": "Ford is An American Company."
           }
         }
       ]
@@ -13637,8 +13424,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Her address is 1306 south Beach, miami.",
-            "optionLabel": "A"
+            "optionText": "Her address is 1306 south Beach, miami."
           }
         },
         {
@@ -13647,8 +13433,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Her address is 1306 South beach, Miami.",
-            "optionLabel": "B"
+            "optionText": "Her address is 1306 South beach, Miami."
           }
         },
         {
@@ -13657,8 +13442,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Her address is 1306 South Beach, Miami.",
-            "optionLabel": "C"
+            "optionText": "Her address is 1306 South Beach, Miami."
           }
         },
         {
@@ -13667,8 +13451,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Her address is 1306 south beach, miami.",
-            "optionLabel": "D"
+            "optionText": "Her address is 1306 south beach, miami."
           }
         }
       ]
@@ -13695,8 +13478,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "My address is 26 New street, London sw19 4gp.",
-            "optionLabel": "A"
+            "optionText": "My address is 26 New street, London sw19 4gp."
           }
         },
         {
@@ -13705,8 +13487,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "My address is 26 New Street, London SW19 4GP.",
-            "optionLabel": "B"
+            "optionText": "My address is 26 New Street, London SW19 4GP."
           }
         },
         {
@@ -13715,8 +13496,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "My address is 26 New Street, London sw19 4gp.",
-            "optionLabel": "C"
+            "optionText": "My address is 26 New Street, London sw19 4gp."
           }
         },
         {
@@ -13725,8 +13505,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "My address is 26 New street, London SW19 4GP.",
-            "optionLabel": "D"
+            "optionText": "My address is 26 New street, London SW19 4GP."
           }
         }
       ]
@@ -15559,8 +15338,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Verb: be",
-            "optionLabel": "A"
+            "optionText": "Verb: be"
           }
         },
         {
@@ -15569,8 +15347,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "'s",
-            "optionLabel": "B"
+            "optionText": "'s"
           }
         },
         {
@@ -15579,8 +15356,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "a comma \",\"",
-            "optionLabel": "C"
+            "optionText": "a comma \",\""
           }
         }
       ]
@@ -16848,29 +16624,1410 @@
       "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 5: Nghe",
       "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|f7fa1985-f4fe-42c9-8393-a2aaa8f0ad74",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "8/8",
       "instruction": "Listen and write down the prices in NUMBER. Example: £17",
       "answer": [
         {
           "id": 1,
-          "correct": " \nA. £7.60\n\nB. 21p\n\nC. $21.50\n\nD. €100\n\nE. 70c\n\nF. $35\n\nG. €17\n\nH.  £3.75",
-          "student": null,
-          "status": null,
+          "correct": " \nA. £17\n\nB. 70p\n\nC. $100\n\nD. €21\n\nE. 35c\n\nF. $21.50\n\nG. €3.75\n\nH.  £7.60",
+          "student": " \nA. £17\n\nB. 70p\n\nC. $100\n\nD. €21\n\nE. 35c\n\nF. $21.50\n\nG. €3.75\n\nH.  £7.60",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "7.60",
-              "21",
-              "21.50",
-              "100",
-              "70",
-              "35",
               "17",
-              "3.75"
+              "70",
+              "100",
+              "21",
+              "35",
+              "21.50",
+              "3.75",
+              "7.60"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "17",
+              "70",
+              "100",
+              "21",
+              "35",
+              "21.50",
+              "3.75",
+              "7.60"
+            ],
             "template": " \nA. £{17}\n\nB. {70}p\n\nC. ${100}\n\nD. €{21}\n\nE. {35}c\n\nF. ${21.50}\n\nG. €{3.75}\n\nH.  £{7.60}"
           }
+        }
+      ]
+    },
+    "2712151e-c065-49b9-89c7-1aa836fdeb54": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "£17 ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "seventeen pounds",
+            "£17",
+            "seventeen pounds.",
+            "£ 17"
+          ],
+          "student": "£17",
+          "status": "Correct"
+        }
+      ]
+    },
+    "6cf85807-00ec-47eb-89a3-d3afd0c45155": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "70p ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "70p",
+            "seventy pence",
+            "seventy p",
+            "70 pence",
+            "70 p",
+            "70 pay",
+            "seventy pay"
+          ],
+          "student": "70p",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3dfee17a-34b0-418e-811c-50c8db1b9ee1": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "$100 ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "$100",
+            "one hundred dollars",
+            "a hundred dollars",
+            "$ 100",
+            "won hundred dollars",
+            "one-hundred dollars",
+            "uh hundred dollars"
+          ],
+          "student": "$100",
+          "status": "Correct"
+        }
+      ]
+    },
+    "beb5311e-9630-4bec-be43-2e4320fc20ee": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "€21 ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "€21",
+            "twenty one euros",
+            "€ 21",
+            "21€",
+            "21 €",
+            "21 euros",
+            "twenty-one euros"
+          ],
+          "student": "€21",
+          "status": "Correct"
+        }
+      ]
+    },
+    "42d8cfeb-bf66-4663-8931-a6fe8a02835f": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "35c ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "35c",
+            "thirty five cents",
+            "35 cents",
+            "35C",
+            "thirty-five cents"
+          ],
+          "student": "35c",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a3af2707-4acd-473f-ae14-791fc6336b7f": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "$21.50 ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "$21.50",
+            "twenty one dollars and fifty cents",
+            "twenty one dollars fifty",
+            "$ 21.50",
+            "twenty-one dollars and fifty cents",
+            "twenty-one dollars fifty"
+          ],
+          "student": "$21.50",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b939a0db-d5aa-4982-acd4-eaa4fb5793b4": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "€3.75 ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "€3.75",
+            "three euros and seventy five cents",
+            "three euros seventy five",
+            "€ 3.75",
+            "3.75€",
+            "3.75 €",
+            "three euros and seventy-five cents",
+            "three euros seventy five cents",
+            "three euros and seventy five"
+          ],
+          "student": "€3.75",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c2691be1-611f-4cec-9427-81a67ee3b05a": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|ec1217a9-e867-4669-93f0-b4e9f8a512df",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "£7.60 ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "£7.60",
+            "seven pounds and sixty cents",
+            "seven pounds sixty",
+            "£ 7.60",
+            "seven pounds sixty cents",
+            "seven pounds & sixty cents"
+          ],
+          "student": "£7.60",
+          "status": "Correct"
+        }
+      ]
+    },
+    "87522703-5ba2-4c4c-aa2a-72b09dc51529": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 7: Nghe",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|00f238a9-154f-4a2d-9359-76a42662b10f",
+      "type": "Checklist",
+      "correct": true,
+      "score": "2/2",
+      "instruction": "What does the woman order? Choose what she orders.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "egg sandwich"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "cheese and tomato sandwich"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "coffee"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "cappuccino "
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "orange juice"
+          }
+        },
+        {
+          "id": 6,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "mineral water"
+          }
+        }
+      ]
+    },
+    "45fdeb5b-5547-42fb-941b-57892c5f9522": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 7: Nghe",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|00f238a9-154f-4a2d-9359-76a42662b10f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What is the price of her order? Write the NUMBER only. Example: 6.45",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "4.55"
+          ],
+          "student": "4.55",
+          "status": "Correct"
+        }
+      ]
+    },
+    "605a40d2-a20b-404e-a3be-c779281f0aa1": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 7: Nghe",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|00f238a9-154f-4a2d-9359-76a42662b10f",
+      "type": "Checklist",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "What does the man order? Choose what he orders.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "orange juice"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "egg sandwich"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "coffee"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "cappuccino"
+          }
+        },
+        {
+          "id": 5,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "cheese and tomato sandwich"
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "croissant"
+          }
+        }
+      ]
+    },
+    "68dd296f-fba5-407e-8e3b-7b1bc4ad159b": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 7: Nghe",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|00f238a9-154f-4a2d-9359-76a42662b10f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What is the price of his order? Write the NUMBER only. Example: 6.45",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "8.60"
+          ],
+          "student": "8.60",
+          "status": "Correct"
+        }
+      ]
+    },
+    "1d9f545c-d186-4cbd-ba59-c1eaaaa28060": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 8: Ngữ pháp",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|048f2449-5602-4433-8c6f-f830e4da0f70",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Listen to the recording.  Fill in the gaps with IS or ARE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " How much is this watch? ",
+          "student": " How much is this watch? ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is"
+            ],
+            "studentWords": [
+              "is"
+            ],
+            "template": " How much {is} this watch? "
+          }
+        },
+        {
+          "id": 2,
+          "correct": " How much is it? ",
+          "student": " How much is it? ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is"
+            ],
+            "studentWords": [
+              "is"
+            ],
+            "template": " How much {is} it? "
+          }
+        },
+        {
+          "id": 3,
+          "correct": " How much are the pens?",
+          "student": " How much are the pens?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "are"
+            ],
+            "studentWords": [
+              "are"
+            ],
+            "template": " How much {are} the pens?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " How much are they?",
+          "student": " How much are they?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "are"
+            ],
+            "studentWords": [
+              "are"
+            ],
+            "template": " How much {are} they?"
+          }
+        }
+      ]
+    },
+    "cf5ad3f3-973a-42b6-a622-d52773fdba5c": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|fc1e0e8a-f694-4bfb-b7d2-1b67bb8182da",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "How much is the tuna salad?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "89a9cdd6-50e7-4483-9a0a-8f1483198c70": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|fc1e0e8a-f694-4bfb-b7d2-1b67bb8182da",
+      "type": "ShortAnswerWordBase",
+      "correct": null,
+      "score": null,
+      "instruction": "How much are two cups of tea?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [],
+          "student": null,
+          "status": null
+        }
+      ]
+    },
+    "7099fb37-c112-47a0-98e3-f872f326c99b": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 10: Đọc",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|042a7e42-d44a-4e78-a679-cc1813a6115a",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Read the menu again and fill in the gaps.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " How much is the orange juice? – It’s €1.90.",
+          "student": " How much is the orange juice? – It’s €1.90.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is",
+              "1.90"
+            ],
+            "studentWords": [
+              "is",
+              "1.90"
+            ],
+            "template": " How much {is} the orange juice? – It’s €{1.90}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " How much are two egg sandwiches? – It’s €4.90.",
+          "student": " How much are two egg sandwiches? – It’s €4.90.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "are"
+            ],
+            "studentWords": [
+              "are"
+            ],
+            "template": " How much {are} two egg sandwiches? – It’s €4.90."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " How much is the tuna salad ? – It’s €3.50.",
+          "student": " How much is the tuna salad ? – It’s €3.50.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "tuna salad"
+            ],
+            "studentWords": [
+              "tuna salad"
+            ],
+            "template": " How much is the {tuna salad} ? – It’s €3.50."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " How much is a bottle of mineral water ? – It’s €1.55.",
+          "student": " How much is a bottle of mineral water ? – It’s €1.55.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is",
+              "mineral water"
+            ],
+            "studentWords": [
+              "is",
+              "mineral water"
+            ],
+            "template": " How much {is} a bottle of {mineral water} ? – It’s €1.55."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " How much are two cups of tea? – It’s €3.20.",
+          "student": " how much are two cups of tea? – It’s €3.20.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much are"
+            ],
+            "studentWords": [
+              "how much are"
+            ],
+            "template": " {How much are} two cups of tea? – It’s €3.20."
+          }
+        }
+      ]
+    },
+    "247b8de6-a1e3-49ba-9bdf-31cf110e27da": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 3 > Eat in or take away? > Video tương tác > Bài tập 11: Nghe",
+      "refId": "video:b1b74927-31da-4445-9be1-4ea13b85bebf|50a9400b-5217-4402-8398-019fe6533355",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Watch the video again. Complete the conversations with the words in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nASSISTANT: Can I help you?\n\t\t\nCUSTOMER: Yes, an orange juice and a cheese and tomato sandwich, please.\n---------------------------\n\nASSISTANT: Sure. Anything else?\n\t\t\nCUSTOMER: Yes, a croissant and an egg sandwich, please.\n\nCUSTOMER: No, that’s all, thanks.\n----------------------------\n\nASSISTANT: Eat in or take away?\n\t\t\nCUSTOMER: Eat in, please.\n\t\t\nCUSTOMER: Take away, please.\n----------------------------\n\nASSISTANT: OK, that’s £8.60, please.\n\nCUSTOMER: Thank you very much.\n\t\t\nCUSTOMER: Thanks a lot.\n\nASSISTANT: You’re welcome.\n",
+          "student": " \nASSISTANT: Can I help you?\n\t\t\nCUSTOMER: Yes, an orange juice and a cheese and tomato sandwich, please.\n---------------------------\n\nASSISTANT: Sure. Anything else?\n\t\t\nCUSTOMER: Yes, a croissant and an egg sandwich, please.\n\nCUSTOMER: No, that’s all, thanks.\n----------------------------\n\nASSISTANT: Eat in or take away?\n\t\t\nCUSTOMER: Eat in, please.\n\t\t\nCUSTOMER: Take away, please.\n----------------------------\n\nASSISTANT: OK, that’s £8.60, please.\n\nCUSTOMER: Thank you very much.\n\t\t\nCUSTOMER: Thanks a lot.\n\nASSISTANT: You’re welcome.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "help",
+              "please",
+              "thanks",
+              "away",
+              "in",
+              "very"
+            ],
+            "studentWords": [
+              "help",
+              "please",
+              "thanks",
+              "away",
+              "in",
+              "very"
+            ],
+            "template": " \nASSISTANT: Can I {help} you?\n\t\t\nCUSTOMER: Yes, an orange juice and a cheese and tomato sandwich, {please}.\n---------------------------\n\nASSISTANT: Sure. Anything else?\n\t\t\nCUSTOMER: Yes, a croissant and an egg sandwich, please.\n\nCUSTOMER: No, that’s all, {thanks}.\n----------------------------\n\nASSISTANT: Eat in or take {away}?\n\t\t\nCUSTOMER: Eat {in}, please.\n\t\t\nCUSTOMER: Take away, please.\n----------------------------\n\nASSISTANT: OK, that’s £8.60, please.\n\nCUSTOMER: Thank you {very} much.\n\t\t\nCUSTOMER: Thanks a lot.\n\nASSISTANT: You’re welcome.\n"
+          }
+        }
+      ]
+    },
+    "d0d836bd-6b02-46e3-be8b-cc7c4bacc215": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|b26b13be-01bc-4a80-bb0f-cf14963b12a5",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "16/16",
+      "instruction": "Match the food and drinks to their names.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "fruit",
+          "student": "fruit",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/12_9572_1724395724082.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "tea",
+          "student": "tea",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/13_9585_1724395727771.png",
+            "optionLabel": "L"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "coffee",
+          "student": "coffee",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/14_3828_1724395731169.png",
+            "optionLabel": "O"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "vegetables",
+          "student": "vegetables",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/15_9085_1724395735828.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "orange juice",
+          "student": "orange juice",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/16_454_1724395739894.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "milk",
+          "student": "milk",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/17_1543_1724395743617.png",
+            "optionLabel": "N"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "bread",
+          "student": "bread",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/18_9405_1724395747299.png",
+            "optionLabel": "M"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "water",
+          "student": "water",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/19_7132_1724395750983.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "fish",
+          "student": "fish",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/20_6990_1724395755458.png",
+            "optionLabel": "I"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "rice",
+          "student": "rice",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/21_6210_1724395759773.png",
+            "optionLabel": "J"
+          }
+        },
+        {
+          "id": 11,
+          "correct": "meat",
+          "student": "meat",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/22_3292_1724395763466.png",
+            "optionLabel": "K"
+          }
+        },
+        {
+          "id": 12,
+          "correct": "cheese",
+          "student": "cheese",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/23_8646_1724395767629.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 13,
+          "correct": "eggs",
+          "student": "eggs",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/24_663_1724395771636.png",
+            "optionLabel": "P"
+          }
+        },
+        {
+          "id": 14,
+          "correct": "sugar",
+          "student": "sugar",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/25_9939_1724395775424.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 15,
+          "correct": "pasta",
+          "student": "pasta",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/26_42_1724395779204.png",
+            "optionLabel": "H"
+          }
+        },
+        {
+          "id": 16,
+          "correct": "chocolate",
+          "student": "chocolate",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/27_1208_1724395782673.png",
+            "optionLabel": "E"
+          }
+        }
+      ]
+    },
+    "deb2893d-768b-402c-9ae0-f62099093b6e": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Fruit",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Fruit"
+          ],
+          "student": "Fruit",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f1c06b97-78f8-4ed1-b0f7-c8807e0e9f14": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Tea",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Tea",
+            "tea",
+            "tee",
+            "ti"
+          ],
+          "student": "Tea",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b35299ec-6b50-4d0a-b942-04e44f70243f": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Coffee",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Coffee"
+          ],
+          "student": "Coffee",
+          "status": "Correct"
+        }
+      ]
+    },
+    "dd07209b-5378-44d1-a97f-e0c6b461fd2b": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Vegetables",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Vegetables",
+            "vegetables",
+            "vegatables",
+            "vegetabels"
+          ],
+          "student": "Vegetables",
+          "status": "Correct"
+        }
+      ]
+    },
+    "eae4e3bd-6d49-4e29-90bf-abeb036939d9": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Orange Juice",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Orange Juice",
+            "orange juice"
+          ],
+          "student": "Orange Juice",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a8b0c3e8-625f-4891-aac0-996a41f5cff9": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Milk",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Milk"
+          ],
+          "student": "Milk",
+          "status": "Correct"
+        }
+      ]
+    },
+    "0db4f536-670b-4252-85be-462a1573c35a": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Bread",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Bread",
+            "bread",
+            "bred"
+          ],
+          "student": "Bread",
+          "status": "Correct"
+        }
+      ]
+    },
+    "22b353d9-6334-47bf-bfa5-f0baf35412b8": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Water",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Water",
+            "water"
+          ],
+          "student": "Water",
+          "status": "Correct"
+        }
+      ]
+    },
+    "4817a78f-e660-49d9-a441-bf3ed1f0780a": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Fish",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Fish",
+            "fish"
+          ],
+          "student": "Fish",
+          "status": "Correct"
+        }
+      ]
+    },
+    "69e99544-7ae6-422a-baa7-e48d0d34cc56": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Rice",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Rice",
+            "rice",
+            "rise",
+            "Rise"
+          ],
+          "student": "Rice",
+          "status": "Correct"
+        }
+      ]
+    },
+    "03ecc667-abf1-4d9c-af8d-e65ebd93a8b3": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Meat",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Meat",
+            "meet",
+            "mete"
+          ],
+          "student": "Meat",
+          "status": "Correct"
+        }
+      ]
+    },
+    "35c3d453-a44e-4828-bccd-a2016ee18ff7": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Cheese",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Cheese",
+            "cheese",
+            "cheeze",
+            "chese",
+            "she's",
+            "shes"
+          ],
+          "student": "Cheese",
+          "status": "Correct"
+        }
+      ]
+    },
+    "075da4e0-f378-4459-82b8-9ada74d7b422": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Eggs",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Eggs",
+            "eggs"
+          ],
+          "student": "Eggs",
+          "status": "Correct"
+        }
+      ]
+    },
+    "7298b5b4-0d28-4f0d-b102-7e75e1ea4c83": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Sugar",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Sugar",
+            "sugar",
+            "SUGAR",
+            "Sugar?"
+          ],
+          "student": "Sugar",
+          "status": "Correct"
+        }
+      ]
+    },
+    "538e508c-b019-4081-b497-6cacf93e384d": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Pasta",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Pasta",
+            "pasta",
+            "PASTA"
+          ],
+          "student": "Pasta",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2d03bfd5-c062-4061-aaa8-54a3009fd788": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73964612-0d06-4b9a-8836-f39980b52b8d",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Chocolate",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Chocolate",
+            "chocolate",
+            "CHOCOLATE"
+          ],
+          "student": "Chocolate",
+          "status": "Correct"
         }
       ]
     },
@@ -18278,8 +19435,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "apple",
-            "optionLabel": "A"
+            "optionText": "apple"
           }
         },
         {
@@ -18288,8 +19444,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "practise",
-            "optionLabel": "B"
+            "optionText": "practise"
           }
         },
         {
@@ -18298,8 +19453,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "China",
-            "optionLabel": "C"
+            "optionText": "China"
           }
         },
         {
@@ -18308,8 +19462,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "vocabulary",
-            "optionLabel": "D"
+            "optionText": "vocabulary"
           }
         },
         {
@@ -18318,8 +19471,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "woman",
-            "optionLabel": "E"
+            "optionText": "woman"
           }
         },
         {
@@ -18328,8 +19480,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "sandwich",
-            "optionLabel": "F"
+            "optionText": "sandwich"
           }
         },
         {
@@ -18338,8 +19489,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Brazil",
-            "optionLabel": "G"
+            "optionText": "Brazil"
           }
         },
         {
@@ -18348,8 +19498,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "Italy",
-            "optionLabel": "H"
+            "optionText": "Italy"
           }
         }
       ]
@@ -18376,8 +19525,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "apple",
-            "optionLabel": "A"
+            "optionText": "apple"
           }
         },
         {
@@ -18386,8 +19534,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "practise",
-            "optionLabel": "B"
+            "optionText": "practise"
           }
         },
         {
@@ -18396,8 +19543,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "China",
-            "optionLabel": "C"
+            "optionText": "China"
           }
         },
         {
@@ -18406,8 +19552,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "vocabulary",
-            "optionLabel": "D"
+            "optionText": "vocabulary"
           }
         },
         {
@@ -18416,8 +19561,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "woman",
-            "optionLabel": "E"
+            "optionText": "woman"
           }
         },
         {
@@ -18426,8 +19570,7 @@
           "student": false,
           "status": "Process",
           "meta": {
-            "optionText": "sandwich",
-            "optionLabel": "F"
+            "optionText": "sandwich"
           }
         },
         {
@@ -18436,8 +19579,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Brazil",
-            "optionLabel": "G"
+            "optionText": "Brazil"
           }
         },
         {
@@ -18446,8 +19588,7 @@
           "student": true,
           "status": "Correct",
           "meta": {
-            "optionText": "Italy",
-            "optionLabel": "H"
+            "optionText": "Italy"
           }
         }
       ]
@@ -23342,6 +24483,738 @@
               "is"
             ],
             "template": " \nMUM: Hello, Erin. {Are} you OK?\n\nERIN: Yes, I {'a|am} fine, Mum.\n\nMUM: Where {'re|are} you?\n\nERIN: I {'m|am} with Silvia. We {'re|are} in a café.\n\nMUM: {Is} Olivia with you?\n\nERIN: No, she {'s not|isn't|is not}. She {'s|is} at a friend's house.\n"
+          }
+        }
+      ]
+    },
+    "ce3e8575-fbca-4aae-8d18-ac53bd67d368": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "Food and drink",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 1: Food and drink",
+      "refId": "homework:978d3ee5-1a1e-42b5-991d-0370c820e5e6|e85bcae7-96f0-4e5e-91d5-b48636a9f96f",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "10/11",
+      "instruction": "Write the food and drink. Use the hints in each picture.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " an espresso",
+          "student": " an espresso",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "espresso"
+            ],
+            "studentWords": [
+              "espresso"
+            ],
+            "template": " an {espresso}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a mineral water",
+          "student": " a mineral water",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "mineral water"
+            ],
+            "studentWords": [
+              "mineral water"
+            ],
+            "template": " a {mineral water}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " an egg sandwich",
+          "student": " an egg sandwich",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "egg sandwich"
+            ],
+            "studentWords": [
+              "egg sandwich"
+            ],
+            "template": " an {egg sandwich}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a tuna salad",
+          "student": " a tuna salad",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "tuna salad"
+            ],
+            "studentWords": [
+              "tuna salad"
+            ],
+            "template": " a {tuna salad}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a tea",
+          "student": " a tea",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "tea"
+            ],
+            "studentWords": [
+              "tea"
+            ],
+            "template": " a {tea}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a coffee",
+          "student": " a iced coffee",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "coffee"
+            ],
+            "studentWords": [
+              "iced coffee"
+            ],
+            "template": " a {coffee}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " an orange juice",
+          "student": " an orange juice",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "orange juice"
+            ],
+            "studentWords": [
+              "orange juice"
+            ],
+            "template": " an {orange juice}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a croissant",
+          "student": " a croissant",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "croissant"
+            ],
+            "studentWords": [
+              "croissant"
+            ],
+            "template": " a {croissant}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " a cappuccino",
+          "student": " a cappuccino",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cappuccino"
+            ],
+            "studentWords": [
+              "cappuccino"
+            ],
+            "template": " a {cappuccino}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " a cheese and tomato sandwich",
+          "student": " a cheese and tomato sandwich",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cheese",
+              "tomato sandwich"
+            ],
+            "studentWords": [
+              "cheese",
+              "tomato sandwich"
+            ],
+            "template": " a {cheese} and {tomato sandwich}"
+          }
+        }
+      ]
+    },
+    "9b4a728c-266c-4113-9fa1-a575932ef0e9": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "Money and prices",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 2: Money and prices",
+      "refId": "homework:efbbaa34-2d5c-4c7e-ae14-458e5115285e|7ee4e0e5-97f8-478e-9b7e-1004e366223b",
+      "type": "MatchingType1",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Match the prices to the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "one dollar and fifty cents",
+          "student": "one dollar and fifty cents",
+          "status": "Correct",
+          "meta": {
+            "left": "$1.50",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "three pounds ninety nine",
+          "student": "three pounds ninety nine",
+          "status": "Correct",
+          "meta": {
+            "left": "£3.99",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "fifteen cents",
+          "student": "fifteen cents",
+          "status": "Correct",
+          "meta": {
+            "left": "15c",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "sixty-four euros",
+          "student": "sixty-four euros",
+          "status": "Correct",
+          "meta": {
+            "left": "€64",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "seven pounds",
+          "student": "seven pounds",
+          "status": "Correct",
+          "meta": {
+            "left": "£7",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "thirty pence",
+          "student": "thirty pence",
+          "status": "Correct",
+          "meta": {
+            "left": "30p",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "ten euros sixty",
+          "student": "ten euros sixty",
+          "status": "Correct",
+          "meta": {
+            "left": "€10.60",
+            "optionLabel": "G"
+          }
+        }
+      ]
+    },
+    "4e88ea04-c495-47cb-afb3-992fd11a19a3": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "Money and prices",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 3: Money and prices",
+      "refId": "homework:e04b4186-c6f6-419c-84fd-619551645e3f|46009173-335a-434a-8410-a1a6ba3f75ae",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Write these prices in words. Example: seventy five dollars",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " $75 -> seventy-five dollars|seventy five dollars",
+          "student": " $75 -> seventy five dollars",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "seventy-five dollars|seventy five dollars"
+            ],
+            "studentWords": [
+              "seventy five dollars"
+            ],
+            "template": " $75 -> {seventy-five dollars|seventy five dollars}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " €7 -> seven euros",
+          "student": " €7 -> seven euros",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "seven euros"
+            ],
+            "studentWords": [
+              "seven euros"
+            ],
+            "template": " €7 -> {seven euros}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " 20c -> twenty cents",
+          "student": " 20c -> twenty cents",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty cents"
+            ],
+            "studentWords": [
+              "twenty cents"
+            ],
+            "template": " 20c -> {twenty cents}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " £15 -> fifteen pounds",
+          "student": " £15 -> fifteen pounds",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifteen pounds"
+            ],
+            "studentWords": [
+              "fifteen pounds"
+            ],
+            "template": " £15 -> {fifteen pounds}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " 25p -> twenty-five p|twenty-five pence|twenty five p|twenty five pence",
+          "student": " 25p -> twenty five pence",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty-five p|twenty-five pence|twenty five p|twenty five pence"
+            ],
+            "studentWords": [
+              "twenty five pence"
+            ],
+            "template": " 25p -> {twenty-five p|twenty-five pence|twenty five p|twenty five pence}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " £9.70 -> nine seventy|nine pounds seventy",
+          "student": " £9.70 -> nine pounds seventy",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "nine seventy|nine pounds seventy"
+            ],
+            "studentWords": [
+              "nine pounds seventy"
+            ],
+            "template": " £9.70 -> {nine seventy|nine pounds seventy}"
+          }
+        }
+      ]
+    },
+    "38b9dd24-c0ff-4d39-aef7-d452c9144482": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "How much...?",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 4: How much...?",
+      "refId": "homework:c26f270b-806a-407d-ac25-d9cf8f1d263c|b4a464c7-7473-4061-acf5-af9987b4e45b",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Fill in the gaps with HOW MUCH IS or HOW MUCH ARE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: How much is the small bag?\n\nB: It's £39.99.",
+          "student": " \nA: how much is the small bag?\n\nB: It's £39.99.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much is"
+            ],
+            "studentWords": [
+              "how much is"
+            ],
+            "template": " \nA: {How much is} the small bag?\n\nB: It's £39.99."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: How much are these pens?\n\nB: They're £2.95.",
+          "student": " \nA: how much are these pens?\n\nB: They're £2.95.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much are"
+            ],
+            "studentWords": [
+              "how much are"
+            ],
+            "template": " \nA: {How much are} these pens?\n\nB: They're £2.95."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \n\nA: How much are the croissants?\n\nB: They're €1.60.",
+          "student": " \n\nA: how much are the croissants?\n\nB: They're €1.60.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much are"
+            ],
+            "studentWords": [
+              "how much are"
+            ],
+            "template": " \n\nA: {How much are} the croissants?\n\nB: They're €1.60."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: How much is this watch?\n\nB: It's $100.",
+          "student": " \nA: how much is this watch?\n\nB: It's $100.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much is"
+            ],
+            "studentWords": [
+              "how much is"
+            ],
+            "template": " \nA: {How much is} this watch?\n\nB: It's $100."
+          }
+        }
+      ]
+    },
+    "eb5609b2-43b2-439b-8843-844f42311c18": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "How much...?",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 5: How much...?",
+      "refId": "homework:17756322-61a4-4959-b5b7-9431d8a4fa7b|8bf5e3cd-d4e9-4579-bb9b-c058e8986959",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Write the correct words to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " How much is this pen?",
+          "student": " how much is this pen?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much"
+            ],
+            "studentWords": [
+              "how much"
+            ],
+            "template": " {How much} is this pen?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " How much are the vegetables?",
+          "student": " How much are the vegetables?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "much"
+            ],
+            "studentWords": [
+              "much"
+            ],
+            "template": " How {much} are the vegetables?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " One coffee, please. How much is it?",
+          "student": " One coffee, please. How much is it?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is"
+            ],
+            "studentWords": [
+              "is"
+            ],
+            "template": " One coffee, please. How much {is} it?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " One tea and an egg sandwich, please. How much are they?",
+          "student": " One tea and an egg sandwich, please. How much are they?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "are"
+            ],
+            "studentWords": [
+              "are"
+            ],
+            "template": " One tea and an egg sandwich, please. How much {are} they?"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " \nA: How much are the pencils?\n\nB: They 're|are $0.50 for each.",
+          "student": " \nA: how much are the pencils?\n\nB: They are $0.50 for each.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How much are",
+              "'re|are"
+            ],
+            "studentWords": [
+              "how much are",
+              "are"
+            ],
+            "template": " \nA: {How much are} the pencils?\n\nB: They {'re|are} $0.50 for each."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " \nA: This croissant looks nice. How much is it?\n\nB: It 's|is £1.20.",
+          "student": " \nA: This croissant looks nice. How much is it?\n\nB: It is £1.20.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "much is",
+              "'s|is"
+            ],
+            "studentWords": [
+              "much is",
+              "is"
+            ],
+            "template": " \nA: This croissant looks nice. How {much is} it?\n\nB: It {'s|is} £1.20."
+          }
+        }
+      ]
+    },
+    "524e6771-4f33-4086-ba8d-956894ffdd99": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "In a café",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 6: In a café",
+      "refId": "homework:9133e24e-91f3-4eb4-8828-a1506c18ef5d|6d9eb060-7ff6-4dd6-9849-92c9164db22b",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Complete the conversation 1 with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation 1\n\nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, a coffee and a croissant, please.\n\nASSISTANT: Sure. Anything else?\n\nCUSTOMER: No, that's all. Thanks.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Eat in, please.\n\nASSISTANT: OK, that's £3.50, please.\n\nCUSTOMER: Thanks a lot.\n\nASSISTANT: You're welcome.\n",
+          "student": " Conversation 1\n\nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, a coffee and a croissant, please.\n\nASSISTANT: Sure. Anything else?\n\nCUSTOMER: No, that's all. Thanks.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Eat in, please.\n\nASSISTANT: OK, that's £3.50, please.\n\nCUSTOMER: Thanks a lot.\n\nASSISTANT: You're welcome.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Can",
+              "please",
+              "Anything",
+              "in",
+              "away",
+              "Eat",
+              "that's",
+              "Thanks",
+              "welcome"
+            ],
+            "studentWords": [
+              "Can",
+              "please",
+              "Anything",
+              "in",
+              "away",
+              "Eat",
+              "that's",
+              "Thanks",
+              "welcome"
+            ],
+            "template": " Conversation 1\n\nASSISTANT: {Can} I help you?\n\nCUSTOMER: Yes, a coffee and a croissant, {please}.\n\nASSISTANT: Sure. {Anything} else?\n\nCUSTOMER: No, that's all. Thanks.\n\nASSISTANT: Eat {in} or take {away}?\n\nCUSTOMER: {Eat} in, please.\n\nASSISTANT: OK, {that's} £3.50, please.\n\nCUSTOMER: {Thanks} a lot.\n\nASSISTANT: You're {welcome}.\n"
+          }
+        }
+      ]
+    },
+    "581badcd-2d2b-4456-9300-6394d8504a4c": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 2,
+        "lessonName": "Eat in or take away?",
+        "moduleType": "homework",
+        "exerciseName": "In a café",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Eat in or take away? > Bài tập về nhà > Bài tập 6: In a café",
+      "refId": "homework:9133e24e-91f3-4eb4-8828-a1506c18ef5d|6d9eb060-7ff6-4dd6-9849-92c9164db22b",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Complete the conversation 2 with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation 2\n \nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, a cappuccino, please.\n\nASSISTANT: Sure. Anything else?\n\nCUSTOMER: Yes, an egg sandwich, please.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Take away, please.\n\nASSISTANT: OK, that £4.75, please.\n\nCUSTOMER: Thank you very much.\n\nASSISTANT: You're welcome.\n",
+          "student": " Conversation 2\n \nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, a cappuccino, please.\n\nASSISTANT: Sure. Anything else?\n\nCUSTOMER: Yes, an egg sandwich, please.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Take away, please.\n\nASSISTANT: OK, that £4.75, please.\n\nCUSTOMER: Thank you very much.\n\nASSISTANT: You're welcome.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "help",
+              "Sure",
+              "else",
+              "please",
+              "Eat",
+              "take",
+              "away",
+              "Thank",
+              "much",
+              "You're"
+            ],
+            "studentWords": [
+              "help",
+              "Sure",
+              "else",
+              "please",
+              "Eat",
+              "take",
+              "away",
+              "Thank",
+              "much",
+              "You're"
+            ],
+            "template": " Conversation 2\n \nASSISTANT: Can I {help} you?\n\nCUSTOMER: Yes, a cappuccino, please.\n\nASSISTANT: {Sure}. Anything {else}?\n\nCUSTOMER: Yes, an egg sandwich, {please}.\n\nASSISTANT: {Eat} in or {take} away?\n\nCUSTOMER: Take {away}, please.\n\nASSISTANT: OK, that £4.75, please.\n\nCUSTOMER: {Thank} you very {much}.\n\nASSISTANT: {You're} welcome.\n"
           }
         }
       ]
