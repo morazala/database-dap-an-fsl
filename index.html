@@ -1157,7 +1157,7 @@ function buildSidebarToc(root){
       const lessonNode = unitNode.lessons[lessonName];
       const lessonKeyId = `${unitKey}|l:${lessonName}`;
       const lessonItems = flattenTreeItems(lessonNode);
-      const lessonLabel = lessonNode.lessonOrder != null ? `Bài học ${lessonNode.lessonOrder + 1}` : lessonName;
+      const lessonLabel = lessonNode.lessonOrder != null ? `Bài học ${lessonNode.lessonOrder + 1} ` : lessonName;
       return `<div class="toc-lesson" data-jump="${escapeAttr(lessonKeyId)}" title="${escapeAttr(lessonName)}">
         <span>${escapeHtml(lessonLabel)}</span>
         <span class="toc-lesson-score">${scoreLabel(lessonItems)}</span>
