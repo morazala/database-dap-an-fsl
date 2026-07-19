@@ -234,6 +234,20 @@
   .gapfill-blockgroup-label{ font-family:var(--font-mono); font-size:12.5px; font-weight:700; color:var(--ink-soft); margin-bottom:6px; }
   .gapfill-blocks{ display:flex; flex-direction:column; }
 
+  /* Khi dữ liệu có kèm câu ngữ cảnh gốc (meta.template) — hiện nguyên câu
+     y như trên FSEL, chỗ trống được thay bằng 1 answer-block nổi bật nằm
+     ngay trong dòng chữ (to hơn, có nền màu, vẫn bấm để copy được). */
+  .gapfill-context{ font-size:15.5px; line-height:2.15; white-space:normal; color:var(--ink); }
+  .answer-block.blk-inline{
+    display:inline-flex; vertical-align:middle; margin:0 3px; padding:4px 12px 4px 12px;
+    font-size:1.08em; border-radius:8px; margin-bottom:0; position:relative;
+  }
+  .answer-block.blk-inline .blk-copied-tag{
+    position:absolute; top:-24px; left:50%; transform:translateX(-50%);
+    background:var(--ink); color:#fff; padding:2px 8px; border-radius:6px;
+    margin-left:0; z-index:2;
+  }
+
   /* Dạng điền-vào-chỗ-trống khác (vd DragAndDropSentenceOrder) — giữ nguyên
      định dạng gốc: 1 dòng gộp các đáp án nối bằng dấu gạch ngang. */
   .gapfill-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:5px; }
@@ -366,6 +380,24 @@ function handleBlkImgError(img){
   if(fb) fb.style.display = 'inline';
 }
 
+// Dựng lại nguyên câu ngữ cảnh gốc (template, còn nguyên các dấu "{...}"
+// đánh dấu chỗ trống, giữ cả xuống dòng nếu có — ví dụ 1 hội thoại nhiều
+// lượt thoại) — và LẦN LƯỢT thay từng "{...}" (đúng theo thứ tự xuất hiện)
+// bằng 1 answer-block nổi bật nằm ngay trong dòng chữ, ứng với từng phần
+// tử trong mảng "words" theo đúng thứ tự đó. Escape phần chữ ngữ cảnh trước
+// khi thay thế để không phá layout nếu câu gốc chứa ký tự đặc biệt.
+function renderGapContextHtml(template, words, counters){
+  let i = 0;
+  const withBlocks = escapeHtml(template).replace(/\{[^}]*\}/g, () => {
+    const raw = words[i] !== undefined ? words[i] : '';
+    i++;
+    const cls = nextBlockClass(counters);
+    return `<span class="answer-block blk-inline ${cls}" data-copy="${escapeHtml(raw)}">`
+      + `<span class="blk-text">${renderPossibleImage(raw)}</span>${COPIED_TAG}</span>`;
+  });
+  return withBlocks.replace(/\r?\n/g, '<br>');
+}
+
 // ---------------- File loading ----------------
 const dropzone = document.getElementById('dropzone');
 const fileInput = document.getElementById('file-input');
@@ -494,9 +526,26 @@ function partHtml(p, counters, questionType){
     counters.gap = (counters.gap || 0) + 1;
 
     if(GAP_BLOCK_QUESTION_TYPES.has(questionType)){
-      // Chỉ riêng 2 dạng này: đánh số chỗ trống ở trên, mỗi từ đúng bên
-      // dưới là 1 answer-block riêng (có mũi tên "→"), màu xen kẽ liên tục
-      // theo counters.block chứ không lặp lại theo từng chỗ trống.
+      // Nếu dữ liệu có kèm câu ngữ cảnh gốc (meta.template — câu gốc còn
+      // nguyên các dấu "{...}" đánh dấu chỗ trống, y hệt những gì hiện trên
+      // FSEL), ưu tiên hiện nguyên câu đó và thay từng "{...}" bằng 1
+      // answer-block nổi bật nằm ngay trong dòng chữ, đúng thứ tự xuất hiện.
+      // Chỉ dùng cách này khi số lượng "{...}" khớp đúng số từ đáp án, để
+      // không hiện sai lệch nếu dữ liệu template không đầy đủ.
+      const placeholderCount = typeof p.meta.template === 'string'
+        ? (p.meta.template.match(/\{[^}]*\}/g) || []).length
+        : 0;
+      if(placeholderCount > 0 && placeholderCount === words.length){
+        const contextHtml = renderGapContextHtml(p.meta.template, words, counters);
+        return `<div class="part gapfill-part">
+          <div class="gapfill-blockgroup-label">${counters.gap}.</div>
+          <div class="gapfill-context">${contextHtml}</div>
+        </div>`;
+      }
+      // Dự phòng (dữ liệu cũ chưa có meta.template): đánh số chỗ trống ở
+      // trên, mỗi từ đúng bên dưới là 1 answer-block riêng (có mũi tên "→"),
+      // màu xen kẽ liên tục theo counters.block chứ không lặp lại theo từng
+      // chỗ trống.
       const blocks = words.map(w => {
         const cls = nextBlockClass(counters);
         return `<div class="answer-block ${cls}" data-copy="${escapeHtml(w)}">
