@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-19T03:12:35.713Z",
-  "totalQuestions": 295,
+  "exportedAt": "2026-07-19T06:21:03.905Z",
+  "totalQuestions": 319,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -119,7 +119,8 @@
             "studentWords": [
               "name",
               "meet"
-            ]
+            ],
+            "template": " Conversation 1\n\nSTEPHAN: Hello, I'm Stefan. What's your {name}?\nEMEL: Hello, my name's Emel.\nSTEPHAN: Nice to {meet} you.\nEMEL: You too."
           }
         },
         {
@@ -141,7 +142,8 @@
               "How",
               "fine",
               "thanks"
-            ]
+            ],
+            "template": " Conversation 2\n\nTIM: Hi, Anita.\nANITA: Hi, Tim. {How} are you?\nTIM: I'm {fine}, thanks. And you?\nANITA: I'm OK, {thanks}."
           }
         }
       ]
@@ -181,7 +183,8 @@
               "I",
               "I",
               "my"
-            ]
+            ],
+            "template": " \nFill in the gaps with \"I\" or \"my\".\n1. Hello, {I}'m Stefan.\n2. {I}'m fine, thanks.\n3. {My} name's Emel."
           }
         },
         {
@@ -206,7 +209,8 @@
               "you",
               "you",
               "your"
-            ]
+            ],
+            "template": " \nFill in the gaps with \"you\" or \"your\".\n1. How are {you}?\n2. Nice to meet {you}.\n3. {You} too.\n4. What's {your} name?"
           }
         }
       ]
@@ -429,7 +433,8 @@
               "my",
               "you",
               "you"
-            ]
+            ],
+            "template": " \nConversation A\nSUE: Hello, my name's Sue. What's {your} name?\nMARIO: Hello, {my} name is Mario.\nSUE: Nice to meet {you}.\nMARIO: {You} too."
           }
         },
         {
@@ -454,7 +459,8 @@
               "I",
               "you",
               "I"
-            ]
+            ],
+            "template": " \nConversation B\nADAM: Hi, Meg.\nMEG: Hi Adam. How are {you}?\nADAM: {I}'m fine, thanks. And {you}?\nMEG: {I}'m OK, thanks."
           }
         }
       ]
@@ -1066,7 +1072,8 @@
               "0207996320",
               "07655421769",
               "034915326753"
-            ]
+            ],
+            "template": " \nConversation A\nHome phone number: {02075996320}\n\nConversation B\nMobile number: {07655421769}\n\nConversation C\nPhone number in Madrid: {0034915326753}"
           }
         }
       ]
@@ -1236,7 +1243,8 @@
             "studentWords": [
               "goodbye",
               "soon"
-            ]
+            ],
+            "template": " \nLUCY: {Goodbye}, Miki.\nMIKI: Bye, Lucy. See you {soon}.\nLUCY: Yes, see you."
           }
         }
       ]
@@ -1273,7 +1281,8 @@
             "studentWords": [
               "see",
               "goodbye"
-            ]
+            ],
+            "template": " CONVERSATION 1\nEmily: I'm going home. {See} you tomorrow!\nJessica: {Bye|Goodbye} Emily! Have a good one.\nEmily: You too!"
           }
         },
         {
@@ -1292,7 +1301,8 @@
             "studentWords": [
               "see",
               "bye"
-            ]
+            ],
+            "template": " CONVERSATION 2\nChris: Alright, I’m going to school now. {see} you later, Sarah!\nSarah: {Bye|Goodbye}. See you."
           }
         },
         {
@@ -1311,7 +1321,8 @@
             "studentWords": [
               "goodbye",
               "you"
-            ]
+            ],
+            "template": " CONVERSATION 3\nMichael: Well, I should go now. {Bye|Goodbye|See you|See you soon|See you later}, Ashley!\nAshley: Bye, Michael! Take care.\nMichael: {You} too!"
           }
         }
       ]
@@ -2100,7 +2111,8 @@
             "studentWords": [
               "Where",
               "from"
-            ]
+            ],
+            "template": " \nConversation 1: \nMaria: {Where} are you from, Li?\nLi: I'm from China. And you?\nMaria: I'm {from} Mexico."
           }
         },
         {
@@ -2119,7 +2131,8 @@
             "studentWords": [
               "from",
               "you"
-            ]
+            ],
+            "template": " \nConversation 2: \nAhmed: Where are you {from}, Anya?\nAnya: I'm from Russia. How about {you}?\nAhmed: I'm from Egypt."
           }
         },
         {
@@ -2138,7 +2151,8 @@
             "studentWords": [
               "are",
               "I'm"
-            ]
+            ],
+            "template": " \nConversation 3: \nSophia: Where {are} you from, Ben?\nBen: {I'm|I am} from Australia. Where were you born?\nSophia: I was born in Germany, but I live in the USA now."
           }
         }
       ]
@@ -2325,7 +2339,8 @@
               "his",
               "he",
               "he"
-            ]
+            ],
+            "template": "    \n1. What's {his} name?\n2. {His} name's Stefan.\n3. {He}'s from Russia.\n4. Where's {he} from?"
           }
         }
       ]
@@ -2368,7 +2383,8 @@
               "her",
               "she",
               "she"
-            ]
+            ],
+            "template": " \n1. What's {her} name?\n2. {Her} name's Emel.\n3. Where's {she} from?\n4. {She}'s from Turkey."
           }
         }
       ]
@@ -3012,7 +3028,8 @@
               "owalska",
               "halid",
               "azeer"
-            ]
+            ],
+            "template": " \nStudent 1: D{orota} K{owalska}\nStudent 2: K{halid} N{azeer}"
           }
         }
       ]
@@ -3421,7 +3438,8 @@
               "an",
               "a",
               "an"
-            ]
+            ],
+            "template": " \n1. I have {a} bag\n2. Jane has {an} apple.\n3. Mike has {a} dictionary.\n4. My sister has {an} umbrella."
           }
         }
       ]
@@ -3458,7 +3476,8 @@
             "studentWords": [
               "a",
               "an"
-            ]
+            ],
+            "template": " \n1. We use {a} with nouns that begin with a consonant sound.\n2. We use {an} with nouns that begin with a vowel sound."
           }
         }
       ]
@@ -3492,7 +3511,8 @@
             ],
             "studentWords": [
               "a"
-            ]
+            ],
+            "template": " {a} country"
           }
         },
         {
@@ -3508,7 +3528,8 @@
             ],
             "studentWords": [
               "a"
-            ]
+            ],
+            "template": " {a} number"
           }
         },
         {
@@ -3524,7 +3545,8 @@
             ],
             "studentWords": [
               "an"
-            ]
+            ],
+            "template": " {an} English dictionary"
           }
         },
         {
@@ -3540,7 +3562,8 @@
             ],
             "studentWords": [
               "a"
-            ]
+            ],
+            "template": " {a} student"
           }
         },
         {
@@ -3556,7 +3579,8 @@
             ],
             "studentWords": [
               "an"
-            ]
+            ],
+            "template": " {an} answer"
           }
         },
         {
@@ -3572,7 +3596,8 @@
             ],
             "studentWords": [
               "a"
-            ]
+            ],
+            "template": " {a} phone number"
           }
         },
         {
@@ -3588,7 +3613,8 @@
             ],
             "studentWords": [
               "an"
-            ]
+            ],
+            "template": " {an} Italian bag"
           }
         }
       ]
@@ -3751,7 +3777,8 @@
             "studentWords": [
               "mean",
               "understand"
-            ]
+            ],
+            "template": " \nDOROTA: What does ‘answer’ {mean}?\nSALLY: I ask a question, you say the answer. \nDOROTA: I'm sorry, I don't {understand}."
           }
         },
         {
@@ -3773,7 +3800,8 @@
               "excuse",
               "in english",
               "repeat"
-            ]
+            ],
+            "template": " \nPABLO: {excuse} me.\nSALLY: Yes, Pablo?\nPABLO: What's this {in English}?\nSALLY: It's a pencil.\nPABLO: Can you {repeat} that, please?"
           }
         },
         {
@@ -3792,7 +3820,8 @@
             "studentWords": [
               "know",
               "spell"
-            ]
+            ],
+            "template": " \nSALLY: What's the answer to question 1? Pablo?\nPABLO: I'm sorry, I don't {know}.\nSALLY: Dorota?\nDOROTA: It's Brazil.\nSALLY: That's right. Good.\nKHALID: Excuse me. How do you {spell} Brazil?"
           }
         }
       ]
@@ -4099,7 +4128,8 @@
             "studentWords": [
               "Excuse",
               "mean"
-            ]
+            ],
+            "template": " \nPABLO: {Excuse} me. What does notebook {mean}? \nSALLY: Look. This is a notebook."
           }
         },
         {
@@ -4118,7 +4148,8 @@
             "studentWords": [
               "understand",
               "repeat"
-            ]
+            ],
+            "template": " \nSALLY: Do exercise 4 on page 10.  \nDOROTA: I'm sorry, I don't {understand}. Can you {repeat} that, please? \nSALLY: Do exercise 4 on page 10."
           }
         },
         {
@@ -4137,7 +4168,8 @@
             "studentWords": [
               "sorry",
               "know"
-            ]
+            ],
+            "template": " \nSALLY: What's the answer to question 2?  \nKHALID: I'm {sorry}. I don’t {know}."
           }
         },
         {
@@ -4156,7 +4188,8 @@
             "studentWords": [
               "What's",
               "spell"
-            ]
+            ],
+            "template": " \nPABLO: {What's} this in English? \nSALLY: It's an umbrella. \nPABLO: How do you {spell} that? \nSALLY: U-m-b-r-e-double l-a."
           }
         }
       ]
@@ -4325,7 +4358,8 @@
             ],
             "studentWords": [
               "chair"
-            ]
+            ],
+            "template": " {chair|a chair}"
           }
         },
         {
@@ -4341,7 +4375,8 @@
             ],
             "studentWords": [
               "watch"
-            ]
+            ],
+            "template": " {watch|a watch}"
           }
         },
         {
@@ -4357,7 +4392,8 @@
             ],
             "studentWords": [
               "computer"
-            ]
+            ],
+            "template": " {computer| a computer}"
           }
         },
         {
@@ -4373,7 +4409,8 @@
             ],
             "studentWords": [
               "diary"
-            ]
+            ],
+            "template": " {a diary|diary}"
           }
         },
         {
@@ -4389,7 +4426,8 @@
             ],
             "studentWords": [
               "sandwich"
-            ]
+            ],
+            "template": " {a sandwich|sandwich}"
           }
         },
         {
@@ -4405,7 +4443,8 @@
             ],
             "studentWords": [
               "table"
-            ]
+            ],
+            "template": " {a table|table}"
           }
         },
         {
@@ -4421,7 +4460,8 @@
             ],
             "studentWords": [
               "camera"
-            ]
+            ],
+            "template": " {a camera|camera}"
           }
         }
       ]
@@ -4863,7 +4903,8 @@
             "studentWords": [
               "person",
               "people"
-            ]
+            ],
+            "template": " Emily is a friendly {person}. Emily and Ben are two friendly {people}."
           }
         },
         {
@@ -4882,7 +4923,8 @@
             "studentWords": [
               "watch",
               "watches"
-            ]
+            ],
+            "template": " Emily always carries a {watch} to know when it's time for class. Ben carries two {watches}."
           }
         },
         {
@@ -4901,7 +4943,8 @@
             "studentWords": [
               "pens",
               "pen"
-            ]
+            ],
+            "template": " Emily always has two {pens} in her bag. Ben usually only carries one {pen}, and sometimes he borrows one from Emily."
           }
         },
         {
@@ -4920,7 +4963,8 @@
             "studentWords": [
               "dictionary",
               "dictionaries"
-            ]
+            ],
+            "template": " Emily has a {dictionary} to help her with new English words. Ben carries two {dictionaries}."
           }
         }
       ]
@@ -5012,7 +5056,8 @@
               "men",
               "women",
               "people"
-            ]
+            ],
+            "template": " \na chair => {chairs}\na table => {tables}\na thing => {things}\na boy => {boys}\na watch => {watches}\na sandwich => {sandwiches}\na diary => {diaries}\na baby => {babies}\na man => {men}\na woman => {women}\na person => {people}"
           }
         }
       ]
@@ -5049,7 +5094,8 @@
             "studentWords": [
               "camera",
               "China"
-            ]
+            ],
+            "template": " Is your {camera} from {China}?"
           }
         },
         {
@@ -5068,7 +5114,8 @@
             "studentWords": [
               "apples",
               "bag"
-            ]
+            ],
+            "template": " Your {apples} are in my {bag}."
           }
         },
         {
@@ -5084,7 +5131,8 @@
             ],
             "studentWords": [
               "alphabet"
-            ]
+            ],
+            "template": " Practise the {alphabet}."
           }
         },
         {
@@ -5103,7 +5151,8 @@
             "studentWords": [
               "computer",
               "Japan"
-            ]
+            ],
+            "template": " My {computer} is from {Japan}."
           }
         },
         {
@@ -5119,7 +5168,8 @@
             ],
             "studentWords": [
               "Brazil"
-            ]
+            ],
+            "template": " ls he from Italy or {Brazil}?"
           }
         },
         {
@@ -5141,7 +5191,8 @@
               "teacher",
               "man",
               "woman"
-            ]
+            ],
+            "template": " ls your {teacher} a {man} or a {woman}?"
           }
         }
       ]
@@ -5361,7 +5412,8 @@
             ],
             "studentWords": [
               "mbrell"
-            ]
+            ],
+            "template": " I open up to keep you dry on a rainy day. What am I?\n     => An u{mbrell}a"
           }
         },
         {
@@ -5377,7 +5429,8 @@
             ],
             "studentWords": [
               "hai"
-            ]
+            ],
+            "template": " I have four legs but I cannot walk, and you can sit on me. What am I?\n     => A c{hai}r"
           }
         },
         {
@@ -5393,7 +5446,8 @@
             ],
             "studentWords": [
               "USA"
-            ]
+            ],
+            "template": " I am in the same country as the Statue of Liberty is. Where am I?\n     => The {USA}"
           }
         },
         {
@@ -5409,7 +5463,8 @@
             ],
             "studentWords": [
               "ompute"
-            ]
+            ],
+            "template": " I have a screen and a keyboard, and you can use me to play games or learn new things. What am I?\n     => A c{ompute}r"
           }
         }
       ]
@@ -5455,7 +5510,8 @@
               " my",
               "you",
               "you"
-            ]
+            ],
+            "template": " \nBOB: Hello, {I}'m Bob. What's {your} name?\nANN: Hello, {my} name's Ann.\nBOB: Nice to meet {you}\nANN: {You} too."
           }
         },
         {
@@ -5480,7 +5536,8 @@
               "I",
               "you",
               "I"
-            ]
+            ],
+            "template": " \nKIM: Hi, Liz.\nLIZ: Hi, Kim. How are {you}?\nKIM: {I}'m fine, thanks. And {you}?\nLIZ: {I}'m OK, thanks."
           }
         }
       ]
@@ -5514,7 +5571,8 @@
             ],
             "studentWords": [
               "six"
-            ]
+            ],
+            "template": " 6 -> {six}"
           }
         },
         {
@@ -5530,7 +5588,8 @@
             ],
             "studentWords": [
               "eleven"
-            ]
+            ],
+            "template": " 11 -> {eleven}"
           }
         },
         {
@@ -5546,7 +5605,8 @@
             ],
             "studentWords": [
               "three"
-            ]
+            ],
+            "template": " 3 -> {three}"
           }
         },
         {
@@ -5562,7 +5622,8 @@
             ],
             "studentWords": [
               "eight"
-            ]
+            ],
+            "template": " 8 -> {eight}"
           }
         },
         {
@@ -5578,7 +5639,8 @@
             ],
             "studentWords": [
               "twelve"
-            ]
+            ],
+            "template": " 12 -> {twelve}"
           }
         },
         {
@@ -5594,7 +5656,8 @@
             ],
             "studentWords": [
               "four"
-            ]
+            ],
+            "template": " 4 -> {four}"
           }
         }
       ]
@@ -5631,7 +5694,8 @@
             "studentWords": [
               "Goodbye",
               "See you soon"
-            ]
+            ],
+            "template": " \nSALLY: {Goodbye}, Colin.\nCOLIN: Bye, Sally. {See you soon}.\nSALLY: Yes, see you."
           }
         },
         {
@@ -5647,7 +5711,8 @@
             ],
             "studentWords": [
               "home number"
-            ]
+            ],
+            "template": " \nPAUL: What's your {home number}?\nDAVE: It's 020 7946 0873."
           }
         },
         {
@@ -5666,7 +5731,8 @@
             "studentWords": [
               "this is",
               "to meet you"
-            ]
+            ],
+            "template": " \nANDY: Tom, {this is} Lily.\nTOM: Hello, Lily. Nice {to meet you}.\nLILY: You too."
           }
         },
         {
@@ -5685,7 +5751,8 @@
             "studentWords": [
               "first name",
               "your surname"
-            ]
+            ],
+            "template": " \nSALLY: What's your {first name}, please?\nLUCAS: It's Lucas.\nSALLY: What's {your surname}?\nLUCAS: It's Hermandez."
           }
         }
       ]
@@ -5728,7 +5795,8 @@
               "his",
               "he",
               "he"
-            ]
+            ],
+            "template": " \nA: What's {his} name?\nB: {His} name's Peter.\nA: Where's {he} from?\nB: {He}'s from the USA."
           }
         },
         {
@@ -5753,7 +5821,8 @@
               "her",
               "she",
               "she"
-            ]
+            ],
+            "template": " \nA: What's {her} name?\nB: {Her} name's Lisa.\nA: Where's {she} from?\nB: {She}'s from the UK."
           }
         }
       ]
@@ -5787,7 +5856,8 @@
             ],
             "studentWords": [
               "USA"
-            ]
+            ],
+            "template": " Number 1: The {USA}"
           }
         },
         {
@@ -5803,7 +5873,8 @@
             ],
             "studentWords": [
               "razil"
-            ]
+            ],
+            "template": " Number 3: B{razil|Brazil}"
           }
         },
         {
@@ -5819,7 +5890,8 @@
             ],
             "studentWords": [
               "ermany"
-            ]
+            ],
+            "template": " Number 5: G{ermany|Germany}"
           }
         },
         {
@@ -5835,7 +5907,8 @@
             ],
             "studentWords": [
               "ussia"
-            ]
+            ],
+            "template": " Number 10: R{ussia|Russia}"
           }
         },
         {
@@ -5851,7 +5924,8 @@
             ],
             "studentWords": [
               "hina"
-            ]
+            ],
+            "template": " Number 11: C{hina|China}"
           }
         },
         {
@@ -5867,7 +5941,8 @@
             ],
             "studentWords": [
               "ustralia"
-            ]
+            ],
+            "template": " Number 12: A{ustralia|Australia}"
           }
         }
       ]
@@ -5901,7 +5976,8 @@
             ],
             "studentWords": [
               "Excuse"
-            ]
+            ],
+            "template": " {Excuse} me."
           }
         },
         {
@@ -5917,7 +5993,8 @@
             ],
             "studentWords": [
               "repeat"
-            ]
+            ],
+            "template": " Can you {repeat} that, please?"
           }
         },
         {
@@ -5933,7 +6010,8 @@
             ],
             "studentWords": [
               "sorry"
-            ]
+            ],
+            "template": " I'm {sorry}, I don't understand."
           }
         },
         {
@@ -5949,7 +6027,8 @@
             ],
             "studentWords": [
               "What's"
-            ]
+            ],
+            "template": " {What's} this in English?"
           }
         },
         {
@@ -5965,7 +6044,8 @@
             ],
             "studentWords": [
               "spell"
-            ]
+            ],
+            "template": " How do you {spell} computer?"
           }
         },
         {
@@ -5981,7 +6061,8 @@
             ],
             "studentWords": [
               "mean"
-            ]
+            ],
+            "template": " What does diary {mean}?"
           }
         },
         {
@@ -5997,7 +6078,8 @@
             ],
             "studentWords": [
               "know"
-            ]
+            ],
+            "template": " I'm sorry, I don't {know}"
           }
         }
       ]
@@ -6027,7 +6109,8 @@
             "correctWords": [
               "dictionary"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 1: a {dictionary}"
           }
         },
         {
@@ -6039,7 +6122,8 @@
             "correctWords": [
               "umbrella"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 2: an {umbrella}"
           }
         },
         {
@@ -6051,7 +6135,8 @@
             "correctWords": [
               "apple"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 3: an {apple}"
           }
         },
         {
@@ -6063,7 +6148,8 @@
             "correctWords": [
               "pen"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 4: a {pen}"
           }
         },
         {
@@ -6075,7 +6161,8 @@
             "correctWords": [
               "book"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 5: a {book}"
           }
         },
         {
@@ -6087,7 +6174,8 @@
             "correctWords": [
               "bag"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 6: a {bag}"
           }
         },
         {
@@ -6099,7 +6187,8 @@
             "correctWords": [
               "pencil"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 7: a {pencil}"
           }
         },
         {
@@ -6111,7 +6200,8 @@
             "correctWords": [
               "phone|mobile"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " Picture 8: a {phone|mobile}"
           }
         }
       ]
@@ -6141,7 +6231,8 @@
             "correctWords": [
               "chairs"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " chair -> {chairs}"
           }
         },
         {
@@ -6153,7 +6244,8 @@
             "correctWords": [
               "watches"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " watch -> {watches}"
           }
         },
         {
@@ -6165,7 +6257,8 @@
             "correctWords": [
               "people"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " person -> {people}"
           }
         },
         {
@@ -6177,7 +6270,8 @@
             "correctWords": [
               "babies"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " baby -> {babies}"
           }
         },
         {
@@ -6189,7 +6283,8 @@
             "correctWords": [
               "men"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " man -> {men}"
           }
         },
         {
@@ -6201,7 +6296,8 @@
             "correctWords": [
               "women"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " woman -> {women}"
           }
         },
         {
@@ -6213,7 +6309,8 @@
             "correctWords": [
               "tables"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " table -> {tables}"
           }
         },
         {
@@ -6225,7 +6322,8 @@
             "correctWords": [
               "countries"
             ],
-            "studentWords": null
+            "studentWords": null,
+            "template": " country -> {countries}"
           }
         }
       ]
@@ -6328,7 +6426,8 @@
               ".",
               "?",
               "."
-            ]
+            ],
+            "template": " \nFELIX: Hello, I'm Felix Hofmann{.}  \nBRIGITTE: Hello, my name's Brigitte Laurent{.}\nF: Nice to meet you{.}\nB: You too. Where are you from{?} \nF: I'm from Germany. And you{?}  \nB: I'm from Paris{.}"
           }
         }
       ]
@@ -6434,7 +6533,8 @@
             ],
             "studentWords": [
               "Where are you from?"
-            ]
+            ],
+            "template": " from / Where / you / are\n--> {Where are you from?}"
           }
         },
         {
@@ -6450,7 +6550,8 @@
             ],
             "studentWords": [
               "My name's William"
-            ]
+            ],
+            "template": " William  /name's / My\n--> {My name's William.}"
           }
         },
         {
@@ -6466,7 +6567,8 @@
             ],
             "studentWords": [
               "Where's she from?"
-            ]
+            ],
+            "template": " from / Where's / she\n--> {Where's she from?}"
           }
         },
         {
@@ -6482,7 +6584,8 @@
             ],
             "studentWords": [
               "I'm from the UK"
-            ]
+            ],
+            "template": " the UK / from / I'm\n--> {I'm from the UK.}"
           }
         },
         {
@@ -6498,7 +6601,8 @@
             ],
             "studentWords": [
               "How are you"
-            ]
+            ],
+            "template": " you / are / How\n--> {How are you?}"
           }
         },
         {
@@ -6514,7 +6618,8 @@
             ],
             "studentWords": [
               "She's from The USA"
-            ]
+            ],
+            "template": " the USA / from / She's\n--> {She's from the USA.}"
           }
         },
         {
@@ -6530,7 +6635,8 @@
             ],
             "studentWords": [
               "I'm fine thanks"
-            ]
+            ],
+            "template": " thanks / fine, / I'm\n--> {I'm fine, thanks.}"
           }
         }
       ]
@@ -6567,7 +6673,8 @@
             "studentWords": [
               "I",
               "G"
-            ]
+            ],
+            "template": " Hello, {I}'m Felix. I'm from {G}ermany."
           }
         },
         {
@@ -6583,7 +6690,8 @@
             ],
             "studentWords": [
               "N"
-            ]
+            ],
+            "template": " {N}ice to meet you, Felix."
           }
         },
         {
@@ -6602,7 +6710,8 @@
             "studentWords": [
               "B",
               "P"
-            ]
+            ],
+            "template": " I'm {B}rigitte. I'm from {P}aris. Welcome!"
           }
         }
       ]
@@ -7188,7 +7297,8 @@
               " UK",
               "Spain",
               "China"
-            ]
+            ],
+            "template": " \n1. _t_ly -> Italy\n2. Br_z_l -> {Brazil}\n3. R_ss__ -> {Russia}\n4. the _S_ -> the {USA}\n5. G_rm_ny -> {Germany}\n6. _gypt -> {Egypt}\n7. __str_l__ -> {Australia}\n8. V__tn_m -> {Vietnam}\n9. S__th K_r__ -> {South Korea}\n10. the _K -> the {UK}\n11. Sp__n -> {Spain}\n12. Ch_n_ -> {China}"
           }
         }
       ]
@@ -7605,7 +7715,8 @@
             ],
             "studentWords": [
               "I'm"
-            ]
+            ],
+            "template": " Hi, my name’s Katy. {I'm} British."
           }
         },
         {
@@ -7621,7 +7732,8 @@
             ],
             "studentWords": [
               "He's"
-            ]
+            ],
+            "template": " His name’s Dieter. {He's} German."
           }
         },
         {
@@ -7637,7 +7749,8 @@
             ],
             "studentWords": [
               "She's"
-            ]
+            ],
+            "template": " Her name’s Luciana. {She's} Brazilian."
           }
         },
         {
@@ -7653,7 +7766,8 @@
             ],
             "studentWords": [
               "It's"
-            ]
+            ],
+            "template": " I’m Hector and this is my car. {It's} American."
           }
         }
       ]
@@ -7687,7 +7801,8 @@
             ],
             "studentWords": [
               "’m"
-            ]
+            ],
+            "template": " I{’m} British. (= I am)"
           }
         },
         {
@@ -7703,7 +7818,8 @@
             ],
             "studentWords": [
               " 're"
-            ]
+            ],
+            "template": " You{'re} a student. (= you are)"
           }
         },
         {
@@ -7719,7 +7835,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " He{'s} German. (= he is)"
           }
         },
         {
@@ -7735,7 +7852,8 @@
             ],
             "studentWords": [
               " 's"
-            ]
+            ],
+            "template": " She{'s} Brazilian. (= she is)"
           }
         },
         {
@@ -7751,7 +7869,8 @@
             ],
             "studentWords": [
               " 's"
-            ]
+            ],
+            "template": " It{'s} American. (= it is)"
           }
         }
       ]
@@ -7933,7 +8052,8 @@
             ],
             "studentWords": [
               "'m not"
-            ]
+            ],
+            "template": " I{'m not} American. (= am not)"
           }
         },
         {
@@ -7949,7 +8069,8 @@
             ],
             "studentWords": [
               " 're not"
-            ]
+            ],
+            "template": " You{'re not|aren't} a teacher. (= are not)"
           }
         },
         {
@@ -7965,7 +8086,8 @@
             ],
             "studentWords": [
               " 's not"
-            ]
+            ],
+            "template": " He{'s not|isn't} from Berlin. (= is not)"
           }
         },
         {
@@ -7981,7 +8103,8 @@
             ],
             "studentWords": [
               " 's not"
-            ]
+            ],
+            "template": " She{'s not|isn't} Australian. (= is not)"
           }
         },
         {
@@ -7997,7 +8120,8 @@
             ],
             "studentWords": [
               " 's not"
-            ]
+            ],
+            "template": " It{'s not|isn't} a Mercedes. (= is not)"
           }
         }
       ]
@@ -8182,7 +8306,8 @@
             "studentWords": [
               "'s",
               "isn't"
-            ]
+            ],
+            "template": " He{'s} Vietnamese. He{isn't} a student."
           }
         },
         {
@@ -8201,7 +8326,8 @@
             "studentWords": [
               "'m",
               "'m not"
-            ]
+            ],
+            "template": " I{'m} from the UK, but I{'m not} from London."
           }
         },
         {
@@ -8220,7 +8346,8 @@
             "studentWords": [
               "isn't",
               "'s"
-            ]
+            ],
+            "template": " She {isn't} Australian. She{'s} from the USA."
           }
         },
         {
@@ -8239,7 +8366,8 @@
             "studentWords": [
               "isn't",
               "'s"
-            ]
+            ],
+            "template": " She {isn't} a teacher, he{'s} a student."
           }
         },
         {
@@ -8258,7 +8386,8 @@
             "studentWords": [
               "'s",
               "isn't"
-            ]
+            ],
+            "template": " It{'s} a car. It {isn't} a bicycle."
           }
         },
         {
@@ -8277,7 +8406,8 @@
             "studentWords": [
               "aren't",
               " 're"
-            ]
+            ],
+            "template": " You {aren't} from China. You{'re} a student."
           }
         }
       ]
@@ -8700,7 +8830,8 @@
             "studentWords": [
               "Mexico",
               "a musician"
-            ]
+            ],
+            "template": " MARCO\n\nCountry: {Mexico}\n\nJob: {a musician|musician}"
           }
         },
         {
@@ -8719,7 +8850,8 @@
             "studentWords": [
               "France",
               " a teacher"
-            ]
+            ],
+            "template": " EMMA\n\nCountry: {France}\n\nJob: {a teacher|teacher}\n"
           }
         },
         {
@@ -8738,7 +8870,8 @@
             "studentWords": [
               "Italy",
               "an actress"
-            ]
+            ],
+            "template": " SOFIA\n\nCountry: {Italy}\n\nJob: {an actress|actress}"
           }
         }
       ]
@@ -8918,7 +9051,8 @@
             ],
             "studentWords": [
               "are"
-            ]
+            ],
+            "template": " Where {are} you from?"
           }
         },
         {
@@ -8934,7 +9068,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " Where {'s|is} he/she/it from?"
           }
         },
         {
@@ -8950,7 +9085,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " What {'s|is} your name?"
           }
         },
         {
@@ -8966,7 +9102,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " What {'s|is} his/her name?"
           }
         },
         {
@@ -8982,7 +9119,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " What {'s|is} your job?"
           }
         },
         {
@@ -8998,7 +9136,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " What {'s|is} his/her job? "
           }
         }
       ]
@@ -9570,7 +9709,8 @@
             "studentWords": [
               "are",
               "am"
-            ]
+            ],
+            "template": " {Are} you from Russia?\n\nYes, I {am}. / No, I’m not."
           }
         },
         {
@@ -9589,7 +9729,8 @@
             "studentWords": [
               "is",
               "isn't"
-            ]
+            ],
+            "template": " {Is} he a doctor?\n\nYes, he is. / No, he {isn't}."
           }
         },
         {
@@ -9608,7 +9749,8 @@
             "studentWords": [
               "is",
               "is"
-            ]
+            ],
+            "template": " {Is} she Italian?\n\nYes, she {is} / No she isn’t.\n"
           }
         },
         {
@@ -9630,7 +9772,8 @@
               "is",
               "is",
               "isn't"
-            ]
+            ],
+            "template": " {Is} it Japanese? \n\nYes, it {is}. / No, it {isn't}.\n"
           }
         }
       ]
@@ -9929,7 +10072,8 @@
               "L117HR",
               " 07854864247",
               " k.wendell9@gmail.com"
-            ]
+            ],
+            "template": " THE CITY GYM - NEW MEMBER FORM\n\nFirst name: Karen\n\nSurname: {Wendell}\n\nNationality: {British}\n\nAddress: {7 Hatherley} Road, Liverpool {L117HR|L11 7HR}\n\nMobile number: {07854864247}\n\nEmail address: {k.wendell9@gmail.com}\n"
           }
         }
       ]
@@ -9969,7 +10113,8 @@
               "u",
               "a",
               "e"
-            ]
+            ],
+            "template": " What’s your s{u}r n{a}m{e}?"
           }
         },
         {
@@ -9997,7 +10142,8 @@
               "o",
               "a",
               "i"
-            ]
+            ],
+            "template": " What’s your n{a}t{i}{o}n{a}l{i}ty? "
           }
         },
         {
@@ -10016,7 +10162,8 @@
             "studentWords": [
               "a",
               "e"
-            ]
+            ],
+            "template": " What’s your {a}ddr{e}ss? "
           }
         },
         {
@@ -10041,7 +10188,8 @@
               "i",
               "u",
               "e"
-            ]
+            ],
+            "template": " What’s your m{o}b{i}le n{u}mb{e}r? "
           }
         },
         {
@@ -10069,7 +10217,8 @@
               "i",
               "a",
               "e"
-            ]
+            ],
+            "template": " What’s your {e}m{a}{i}l   {a}ddr{e}ss?"
           }
         }
       ]
@@ -10291,7 +10440,8 @@
             ],
             "studentWords": [
               "What's your surname"
-            ]
+            ],
+            "template": " \nA: {What’s your surname|What is your surname}?\n\nB: Smith."
           }
         },
         {
@@ -10307,7 +10457,8 @@
             ],
             "studentWords": [
               "What's your nationality"
-            ]
+            ],
+            "template": " \nA: {What's your nationality|What is your nationality}?\n\nB: I’m British."
           }
         },
         {
@@ -10323,7 +10474,8 @@
             ],
             "studentWords": [
               "What's your address"
-            ]
+            ],
+            "template": " \nA: {What’s your address|What is your address}?\n\nB: It’s 12 Lee Road, London."
           }
         },
         {
@@ -10339,7 +10491,8 @@
             ],
             "studentWords": [
               "What's your mobile number"
-            ]
+            ],
+            "template": " \nA: {What’s your mobile number|What is your mobile number}?\n\nB: It’s 07700 900195."
           }
         },
         {
@@ -10355,7 +10508,8 @@
             ],
             "studentWords": [
               "What's your email address"
-            ]
+            ],
+            "template": " \nA: {What’s your email address|What is your email address}?\n\nB: It’s e.smith@webnet.com."
           }
         }
       ]
@@ -10434,7 +10588,8 @@
             ],
             "studentWords": [
               "Good morning"
-            ]
+            ],
+            "template": " Conversation A:\n\nGood morning, Mr. Brown.\n\n{Good morning}, Amanda.\n\n"
           }
         },
         {
@@ -10453,7 +10608,8 @@
             "studentWords": [
               "Good afternoon",
               "Good afternoon"
-            ]
+            ],
+            "template": " Conversation B:\n\n{Good afternoon}, Mrs King.\n\n{Good afternoon}.\n"
           }
         },
         {
@@ -10472,7 +10628,8 @@
             "studentWords": [
               "Good evening",
               "Good evening"
-            ]
+            ],
+            "template": " Conversation C:\n\n{Good evening}, sir.\n\n{Good evening}.\n"
           }
         },
         {
@@ -10491,7 +10648,8 @@
             "studentWords": [
               "Good night",
               "Good night"
-            ]
+            ],
+            "template": " Conversation D:\n\nThank you very much. {Good night}.\n\n{Good night}, sir."
           }
         }
       ]
@@ -11084,7 +11242,8 @@
             ],
             "studentWords": [
               "i"
-            ]
+            ],
+            "template": " 30:    th{i}rty"
           }
         },
         {
@@ -11100,7 +11259,8 @@
             ],
             "studentWords": [
               "o"
-            ]
+            ],
+            "template": " 40:    f{o}rty"
           }
         },
         {
@@ -11116,7 +11276,8 @@
             ],
             "studentWords": [
               "i"
-            ]
+            ],
+            "template": " 50:    f{i}fty"
           }
         },
         {
@@ -11132,7 +11293,8 @@
             ],
             "studentWords": [
               "i"
-            ]
+            ],
+            "template": " 60:    s{i}xty"
           }
         },
         {
@@ -11151,7 +11313,8 @@
             "studentWords": [
               "e",
               "e"
-            ]
+            ],
+            "template": " 70:    s{e}v{e}nty"
           }
         },
         {
@@ -11170,7 +11333,8 @@
             "studentWords": [
               "e",
               "i"
-            ]
+            ],
+            "template": " 80:    {e} {i}ghty"
           }
         },
         {
@@ -11189,7 +11353,8 @@
             "studentWords": [
               "i",
               "e"
-            ]
+            ],
+            "template": " 90:   n{i}n{e}ty"
           }
         },
         {
@@ -11208,7 +11373,8 @@
             "studentWords": [
               "u",
               "e"
-            ]
+            ],
+            "template": " 100:  a h{u}ndr{e}d"
           }
         }
       ]
@@ -11332,7 +11498,8 @@
             ],
             "studentWords": [
               "thirty-five"
-            ]
+            ],
+            "template": " 35: {thirty-five|thirty five}"
           }
         },
         {
@@ -11348,7 +11515,8 @@
             ],
             "studentWords": [
               "forty-nine"
-            ]
+            ],
+            "template": " 49: {forty-nine|forty nine}"
           }
         },
         {
@@ -11364,7 +11532,8 @@
             ],
             "studentWords": [
               "fifty-two"
-            ]
+            ],
+            "template": " 52: {fifty-two|fifty two}"
           }
         },
         {
@@ -11380,7 +11549,8 @@
             ],
             "studentWords": [
               "sixty-eight"
-            ]
+            ],
+            "template": " 68: {sixty-eight|sixty eight}"
           }
         },
         {
@@ -11396,7 +11566,8 @@
             ],
             "studentWords": [
               "seventy-three"
-            ]
+            ],
+            "template": " 73: {seventy-three|seventy three}"
           }
         },
         {
@@ -11412,7 +11583,8 @@
             ],
             "studentWords": [
               "eighty-six"
-            ]
+            ],
+            "template": " 86: {eighty-six|eighty six}"
           }
         },
         {
@@ -11428,7 +11600,8 @@
             ],
             "studentWords": [
               "ninety-four"
-            ]
+            ],
+            "template": " 94: {ninety-four|ninety four}"
           }
         }
       ]
@@ -11694,7 +11867,8 @@
             ],
             "studentWords": [
               "3"
-            ]
+            ],
+            "template": " a car: {3}"
           }
         },
         {
@@ -11710,7 +11884,8 @@
             ],
             "studentWords": [
               "4"
-            ]
+            ],
+            "template": " a dog: {4} "
           }
         },
         {
@@ -11726,7 +11901,8 @@
             ],
             "studentWords": [
               "1"
-            ]
+            ],
+            "template": " a house: {1}"
           }
         },
         {
@@ -11742,7 +11918,8 @@
             ],
             "studentWords": [
               "5"
-            ]
+            ],
+            "template": " a girl: {5}"
           }
         },
         {
@@ -11758,7 +11935,8 @@
             ],
             "studentWords": [
               "2"
-            ]
+            ],
+            "template": " a cat: {2}"
           }
         }
       ]
@@ -11792,7 +11970,8 @@
             ],
             "studentWords": [
               "13"
-            ]
+            ],
+            "template": " The cat is {13|thirteen}."
           }
         },
         {
@@ -11808,7 +11987,8 @@
             ],
             "studentWords": [
               "100"
-            ]
+            ],
+            "template": " The house is {100|a hundred|one hundred} years old."
           }
         },
         {
@@ -11824,7 +12004,8 @@
             ],
             "studentWords": [
               "9"
-            ]
+            ],
+            "template": " The girl is {9|nine}."
           }
         },
         {
@@ -11840,7 +12021,8 @@
             ],
             "studentWords": [
               "21"
-            ]
+            ],
+            "template": " The car is {21|twenty-one} years old."
           }
         },
         {
@@ -11856,7 +12038,8 @@
             ],
             "studentWords": [
               "7"
-            ]
+            ],
+            "template": " The dog is {7|seven}."
           }
         }
       ]
@@ -11896,7 +12079,8 @@
               "How",
               "is",
               "old"
-            ]
+            ],
+            "template": " \nA: {How} old {is} your house?\n\nB: It’s 100 years {old}."
           }
         },
         {
@@ -11915,7 +12099,8 @@
             "studentWords": [
               "are",
               "I'm"
-            ]
+            ],
+            "template": " \nA: How old {are} you?\nB: {I'm} thirty."
           }
         }
       ]
@@ -12127,6 +12312,1211 @@
         }
       ]
     },
+    "4c0607d4-3306-44f1-bf05-3fd0d318d7de": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|1bf00705-fac3-49b5-8932-0001975301d9",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Write the nationalities.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Germany -> German",
+          "student": " Germany -> german",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "German"
+            ],
+            "studentWords": [
+              "german"
+            ],
+            "template": " Germany -> {German}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Spain -> Spanish",
+          "student": " Spain -> spanish",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Spanish"
+            ],
+            "studentWords": [
+              "spanish"
+            ],
+            "template": " Spain -> {Spanish}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " the USA -> American",
+          "student": " the USA -> american",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "American"
+            ],
+            "studentWords": [
+              "american"
+            ],
+            "template": " the USA -> {American}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " China -> Chinese",
+          "student": " China -> chinese",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Chinese"
+            ],
+            "studentWords": [
+              "chinese"
+            ],
+            "template": " China -> {Chinese}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Turkey -> Turkish",
+          "student": " Turkey -> turkish",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Turkish"
+            ],
+            "studentWords": [
+              "turkish"
+            ],
+            "template": " Turkey -> {Turkish}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Brazil -> Brazilian",
+          "student": " Brazil -> brazilian",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Brazilian"
+            ],
+            "studentWords": [
+              "brazilian"
+            ],
+            "template": " Brazil -> {Brazilian}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " the UK -> British",
+          "student": " the UK -> british",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "British"
+            ],
+            "studentWords": [
+              "british"
+            ],
+            "template": " the UK -> {British}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Russia -> Russian",
+          "student": " Russia -> russian",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Russian"
+            ],
+            "studentWords": [
+              "russian"
+            ],
+            "template": " Russia -> {Russian}"
+          }
+        }
+      ]
+    },
+    "c4dfe6d8-4f20-4326-8af3-0b233a67eb46": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|1bf00705-fac3-49b5-8932-0001975301d9",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Fill in the gaps with the correct positive (+) or negative (-) form of BE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " I 'm not|am not (-) from the UK. I 'm|am (+) from the USA.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "'m not|am not",
+              "'m|am"
+            ],
+            "studentWords": null,
+            "template": " I {'m not|am not} (-) from the UK. I {'m|am} (+) from the USA."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Marta 's not|isn't|is not (-) from Brazil. She 's|is (+) from Colombia.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "'s not|isn't|is not",
+              "'s|is"
+            ],
+            "studentWords": null,
+            "template": " Marta {'s not|isn't|is not} (-) from Brazil. She {'s|is} (+) from Colombia."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " You 're not|aren't|are not (-) a teacher. You 're|are (+) a student.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "'re not|aren't|are not",
+              "'re|are"
+            ],
+            "studentWords": null,
+            "template": " You {'re not|aren't|are not} (-) a teacher. You {'re|are} (+) a student."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " It 's not|isn't|is not (-) a German car. It 's|is (+) a Japanese car.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "'s not|isn't|is not",
+              "'s|is"
+            ],
+            "studentWords": null,
+            "template": " It {'s not|isn't|is not} (-) a German car. It {'s|is} (+) a Japanese car."
+          }
+        }
+      ]
+    },
+    "328adccd-1f91-4aa3-a193-193a9eecb7bc": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|1bf00705-fac3-49b5-8932-0001975301d9",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Write the jobs. Use A or AN.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a teacher",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a teacher"
+            ],
+            "studentWords": null,
+            "template": " {a teacher}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a musician",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a musician"
+            ],
+            "studentWords": null,
+            "template": " {a musician}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a police officer|a policeman",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a police officer|a policeman"
+            ],
+            "studentWords": null,
+            "template": " {a police officer|a policeman}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a doctor",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a doctor"
+            ],
+            "studentWords": null,
+            "template": " {a doctor}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a sales assistant|a shop assistant",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a sales assistant|a shop assistant"
+            ],
+            "studentWords": null,
+            "template": " {a sales assistant|a shop assistant}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " an actor",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "an actor"
+            ],
+            "studentWords": null,
+            "template": " {an actor}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " a waitress",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a waitress"
+            ],
+            "studentWords": null,
+            "template": " {a waitress}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a taxi driver",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "a taxi driver"
+            ],
+            "studentWords": null,
+            "template": " {a taxi driver}"
+          }
+        }
+      ]
+    },
+    "d3dfd993-d475-49c0-bfb8-397d488cb98f": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|1bf00705-fac3-49b5-8932-0001975301d9",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Fill in the gaps in these conversations. Use the correct form of BE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Where are you from?\nB: I 'm|am from Egypt.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "are",
+              "'m|am"
+            ],
+            "studentWords": null,
+            "template": " \nA: Where {are} you from?\nB: I {'m|am} from Egypt."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: Is your teacher from the UK?\nB: No, she isn't|'s not.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "isn't|'s not"
+            ],
+            "studentWords": null,
+            "template": " \nA: {Is} your teacher from the UK?\nB: No, she {isn't|'s not}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: What 's|is his name?\nB: His name 's|is Henry.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "'s|is",
+              "'s|is"
+            ],
+            "studentWords": null,
+            "template": " \nA: What {'s|is} his name?\nB: His name {'s|is} Henry."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: Is Mrs Jones from London?\nB: Yes, she is.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "is"
+            ],
+            "studentWords": null,
+            "template": " \nA: {Is} Mrs Jones from London?\nB: Yes, she {is}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " \nA: Are you from Mexico?\nB: Yes, I am.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Are",
+              "am"
+            ],
+            "studentWords": null,
+            "template": " \nA: {Are} you from Mexico?\nB: Yes, I {am}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " \nA: Am I in this class?\nB: No, you 're not|aren't.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Am",
+              "'re not|aren't"
+            ],
+            "studentWords": null,
+            "template": " \nA: {Am} I in this class?\nB: No, you {'re not|aren't}."
+          }
+        }
+      ]
+    },
+    "9d46a25c-d9e3-4607-9d42-ddb4818b26b6": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|1bf00705-fac3-49b5-8932-0001975301d9",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Silvia is at The City Gym. Write the correct questions from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nPETER: Right, I need some personal information. What's your first name, please?\n\nSILVIA: It's Silvia.\n\nPETER: What's your surname ?\n\nSILVIA: It's Thorpe.\n\nPETER: How do you spell that ?\n\nSILVIA: T-h-o-r-p-e.\n\nPETER: What's your nationality ?\n\nSILVIA: I'm Australian.\n\nPETER: What's your address ?\n\nSILVIA: It's 39 Park Street, Liverpool, L19 5RF.\n\nPETER: What's your mobile number ?\n\nSILVIA: My mobile number? It's 07900 900478.\n\nPETER: What's your email address ?\n\nSILVIA: It's silvia.thorpe@webmail.net.\n\nPETER: Thank you.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "What's your first name",
+              "What's your surname",
+              "How do you spell that",
+              "What's your nationality",
+              "What's your address",
+              "What's your mobile number",
+              "What's your email address"
+            ],
+            "studentWords": null,
+            "template": " \nPETER: Right, I need some personal information. {What's your first name}, please?\n\nSILVIA: It's Silvia.\n\nPETER: {What's your surname} ?\n\nSILVIA: It's Thorpe.\n\nPETER: {How do you spell that} ?\n\nSILVIA: T-h-o-r-p-e.\n\nPETER: {What's your nationality} ?\n\nSILVIA: I'm Australian.\n\nPETER: {What's your address} ?\n\nSILVIA: It's 39 Park Street, Liverpool, L19 5RF.\n\nPETER: {What's your mobile number} ?\n\nSILVIA: My mobile number? It's 07900 900478.\n\nPETER: {What's your email address} ?\n\nSILVIA: It's silvia.thorpe@webmail.net.\n\nPETER: Thank you."
+          }
+        }
+      ]
+    },
+    "8e82aca2-a76b-46ea-83e8-316ed26313da": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|1bf00705-fac3-49b5-8932-0001975301d9",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Write the numbers.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Number 20 -> twenty\n\nNumber 46 -> forty six|forty-six\n\nNumber 33 -> thirty three|thirty-three\n\n Number 15 -> fifteen\n\nNumber  58 -> fifty eight|fifty-eight\n\nNumber 100 -> a hundred|one hundred\n\nNumber 12 -> twelve",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "forty six|forty-six",
+              "thirty three|thirty-three",
+              "fifteen",
+              "fifty eight|fifty-eight",
+              "a hundred|one hundred",
+              "twelve"
+            ],
+            "studentWords": null,
+            "template": " Number 20 -> twenty\n\nNumber 46 -> {forty six|forty-six}\n\nNumber 33 -> {thirty three|thirty-three}\n\n Number 15 -> {fifteen}\n\nNumber  58 -> {fifty eight|fifty-eight}\n\nNumber 100 -> {a hundred|one hundred}\n\nNumber 12 -> {twelve}"
+          }
+        }
+      ]
+    },
+    "5dfe836d-e6b9-4fd8-a48f-5eaa69a93ada": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 2: Đọc",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|63c387a3-1465-48b2-9edd-22e3c09b1dee",
+      "type": "MatchingType2",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Match each photo to the correct business card.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/Frame28_7569_1724139990024.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/Frame28_7569_1724139990024.png",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38027_2053_1724139969662.png"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/Frame26_8517_1724139982230.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/Frame26_8517_1724139982230.png",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38028_6135_1724139974191.png"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/Frame27_9162_1724139986199.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/Frame27_9162_1724139986199.png",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38029_8675_1724139977797.png"
+          }
+        }
+      ]
+    },
+    "92cc7a9d-043c-439a-b579-085bec294ad1": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|3603c56f-19d5-4d47-bc4d-cc810f7eab9b",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": null,
+      "score": null,
+      "instruction": "Read the business cards then choose the correct option to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Scott Davis is {a manager//*a musician*}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " He’s from {Seattle//*Sydney*}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " His email address is {*s.davis@gmail.net*//sdavis@gmailnet}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Janet Richards is {British//*American*}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " She’s {*a manager*//a musician}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Her phone number is {206 181 7904//*206 818 7904*}."
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Lucy Smith is {a musician//*an actress*}."
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " She’s {*British*//American}."
+          }
+        },
+        {
+          "id": 9,
+          "correct": null,
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Her {home//*mobile*} number is 07986 342187."
+          }
+        }
+      ]
+    },
+    "61f145ad-e66b-4d96-8ed2-5ba64c1d2853": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 4: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|e362501a-ac7e-4984-b34f-553774826e6e",
+      "type": "Checklist",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Tick anything that starts with a capital letter.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "first name "
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "surnames"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "names in email addresses "
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "addresses"
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "letters in postcodes "
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "nationalities"
+          }
+        },
+        {
+          "id": 7,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "countries"
+          }
+        },
+        {
+          "id": 8,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "company names"
+          }
+        }
+      ]
+    },
+    "f4d483ea-11d4-4eff-8007-8305be068fc9": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 5: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|e9b50419-5b4f-419a-bc81-e374b7ff8b22",
+      "type": "MatchingType1",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Match the words with capital letters to the right category.  ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Mr, Mrs, Ms, Miss",
+          "student": "Mr, Mrs, Ms, Miss",
+          "status": "Correct",
+          "meta": {
+            "left": "titles "
+          }
+        },
+        {
+          "id": 2,
+          "correct": "76 Queen Street, Manchester",
+          "student": "76 Queen Street, Manchester",
+          "status": "Correct",
+          "meta": {
+            "left": "addresses"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "M18 3JS",
+          "student": "M18 3JS",
+          "status": "Correct",
+          "meta": {
+            "left": "postcodes"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "City Computers",
+          "student": "City Computers",
+          "status": "Correct",
+          "meta": {
+            "left": "companies"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "She’s American.",
+          "student": "She’s American.",
+          "status": "Correct",
+          "meta": {
+            "left": "nationalities"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "How old are you?",
+          "student": "How old are you?",
+          "status": "Correct",
+          "meta": {
+            "left": "the beginning of a sentence"
+          }
+        }
+      ]
+    },
+    "79ee721a-784c-4994-9b54-2cf931090781": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|723b1d24-b5e6-4a4d-a092-5911195da20e",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "is benetton an italian company?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Is Benetton an italian company?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "is benetton an Italian Company?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Is Benetton An Italian Company?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Is Benetton an Italian company?"
+          }
+        }
+      ]
+    },
+    "03ccce45-1bdc-4b44-9f2e-1baf463d84c6": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|723b1d24-b5e6-4a4d-a092-5911195da20e",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "her name is mrs alice roberts.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Her name is Mrs Alice Roberts."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "her name is mrs Alice Roberts."
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Her name is Mrs alice roberts."
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Her Name Is Mrs Alice Roberts."
+          }
+        }
+      ]
+    },
+    "8d133878-3d21-412c-8cb3-9ddbc2d8c196": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|723b1d24-b5e6-4a4d-a092-5911195da20e",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "are you mr henry long?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Are You Mr Henry Long?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Are you Mr henry long?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Are you Mr Henry Long?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Are you mr henry long?"
+          }
+        }
+      ]
+    },
+    "3b4261d0-5cfa-45d7-b1f2-13208950652c": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|723b1d24-b5e6-4a4d-a092-5911195da20e",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "ford is an american company.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Ford is an American company."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "ford is an American company."
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "ford is an American Company."
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ford is An American Company."
+          }
+        }
+      ]
+    },
+    "191064d8-0e4d-4f90-b80e-4cd779559fe5": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|723b1d24-b5e6-4a4d-a092-5911195da20e",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "her address is 1306 south beach, miami.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Her address is 1306 south Beach, miami."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Her address is 1306 South beach, Miami."
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Her address is 1306 South Beach, Miami."
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Her address is 1306 south beach, miami."
+          }
+        }
+      ]
+    },
+    "6505cd34-3948-49bc-9335-dda3e8fee158": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|723b1d24-b5e6-4a4d-a092-5911195da20e",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "my address is 26 new street, london sw19 4gp.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "My address is 26 New street, London sw19 4gp."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "My address is 26 New Street, London SW19 4GP."
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "My address is 26 New Street, London sw19 4gp."
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "My address is 26 New street, London SW19 4GP."
+          }
+        }
+      ]
+    },
+    "ffe76075-87d8-4d4a-8bef-5221d2c3120a": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "video",
+        "exerciseName": "Viết",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Unit 2 Test > Video tương tác > Bài tập 7: Viết",
+      "refId": "video:2b03bc89-ab57-43bc-b70f-ddbdcc6e799a|b5a4fe93-883e-4332-985c-efc66bac9179",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Fill in the rest of the form using the information on her business card. Don't forget capital letters!",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " PARK HOTEL - REGISTRATION FORM\n\nfirst name: Lucy\n\nsurname: Smith\n\nnationality: British\n\naddress: 76 Queen Street, Manchester|76 Queen Street Manchester\n\npostcode: M18 3JS|M183JS\n\nhome number: 01612849865|0161 284 9865\n\nmobile number: 07986342187|07986 342187\n\nemail address: lucy.smith@webmail.co.uk\n\nroom number: 314\n",
+          "student": " PARK HOTEL - REGISTRATION FORM\n\nfirst name: Lucy\n\nsurname: Smith\n\nnationality: British\n\naddress: 76 Queen Street, Manchester\n\npostcode: M18 3JS\n\nhome number: 0161 284 9865\n\nmobile number: 07986 342187\n\nemail address: lucy.smith@webmail.co.uk\n\nroom number: 314\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Smith",
+              "76 Queen Street, Manchester|76 Queen Street Manchester",
+              "M18 3JS|M183JS",
+              "01612849865|0161 284 9865",
+              "07986342187|07986 342187",
+              "lucy.smith@webmail.co.uk"
+            ],
+            "studentWords": [
+              "Smith",
+              "76 Queen Street, Manchester",
+              "M18 3JS",
+              "0161 284 9865",
+              "07986 342187",
+              "lucy.smith@webmail.co.uk"
+            ],
+            "template": " PARK HOTEL - REGISTRATION FORM\n\nfirst name: Lucy\n\nsurname: {Smith}\n\nnationality: British\n\naddress: {76 Queen Street, Manchester|76 Queen Street Manchester}\n\npostcode: {M18 3JS|M183JS}\n\nhome number: {01612849865|0161 284 9865}\n\nmobile number: {07986342187|07986 342187}\n\nemail address: {lucy.smith@webmail.co.uk}\n\nroom number: 314\n"
+          }
+        }
+      ]
+    },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
         "unitName": "Unit 1",
@@ -12159,7 +13549,8 @@
             "studentWords": [
               "his",
               "he"
-            ]
+            ],
+            "template": " {his} name is John. {He} is a student."
           }
         },
         {
@@ -12175,7 +13566,8 @@
             ],
             "studentWords": [
               "your"
-            ]
+            ],
+            "template": " Is this {your} book? Yes, it is my book."
           }
         },
         {
@@ -12194,7 +13586,8 @@
             "studentWords": [
               "she",
               "her"
-            ]
+            ],
+            "template": " {she} is Maria. {her} bag is red."
           }
         },
         {
@@ -12210,7 +13603,8 @@
             ],
             "studentWords": [
               "he"
-            ]
+            ],
+            "template": " This is Tom. {He} is my friend."
           }
         },
         {
@@ -12229,7 +13623,8 @@
             "studentWords": [
               "you",
               "I"
-            ]
+            ],
+            "template": " Do {you} have a pencil? Yes, {I} have a pencil."
           }
         },
         {
@@ -12248,7 +13643,8 @@
             "studentWords": [
               "he",
               "his"
-            ]
+            ],
+            "template": " {He} is a teacher. {His} name is Mr. Brown."
           }
         },
         {
@@ -12267,7 +13663,8 @@
             "studentWords": [
               "your",
               "he"
-            ]
+            ],
+            "template": " Is this {your} brother? Yes, {he} is."
           }
         },
         {
@@ -12286,7 +13683,8 @@
             "studentWords": [
               "I",
               "her"
-            ]
+            ],
+            "template": " {I} have a sister. {Her} name is Lucy."
           }
         },
         {
@@ -12305,7 +13703,8 @@
             "studentWords": [
               "she",
               "she"
-            ]
+            ],
+            "template": " {She} is Sarah. {She} likes to play soccer."
           }
         }
       ]
@@ -12351,7 +13750,8 @@
               "my name's",
               "to meet",
               "You too"
-            ]
+            ],
+            "template": " PAULA: {Hello}, I'm Paula. {What's your} name?\nENZO: Hello, {my name's} Enzo.\nPAULA: Nice {to meet} you.\nENZO: {You too}."
           }
         },
         {
@@ -12379,7 +13779,8 @@
               "I'm fine",
               "And you",
               "thanks"
-            ]
+            ],
+            "template": " LENA: {Hi}, Amir.\nAMIR: Hi, Lena. {How are} you?\nLENA: {I'm fine}, thanks. {And you}?\nAMIR: I'm OK, {thanks}"
           }
         }
       ]
@@ -12425,7 +13826,8 @@
               "ice",
               "eet",
               "oo"
-            ]
+            ],
+            "template": " Example: W_________ your name? -> What's your name?\n\nYVONNE: Robert, t{this|his} is Meilin.\nROBERT: H{i|Hi|ello|hello}, Meilin. N{Nice|ice} to m{eet|meet} you.\nMEILIN: You t{oo|too}."
           }
         },
         {
@@ -12453,7 +13855,8 @@
               "ee",
               "oon",
               "ee"
-            ]
+            ],
+            "template": " LENA: B{ye|bye}, Amir.\nAMIR: G{oodbye|goodbye}, Lena. S{ee|see} you s{oon|soon}.\nLENA: Yes, s{ee|see} you."
           }
         }
       ]
@@ -12520,7 +13923,8 @@
               "ten",
               "eleven",
               "twelve"
-            ]
+            ],
+            "template": " \n0 -> zero\n1 -> {one}\n2 -> {two}\n3 -> {three}\n4 -> {four}\n5 -> {five}\n6 -> {six}\n7 -> {seven}\n8 -> {eight}\n9 -> {nine}\n10 -> {ten}\n11 -> {eleven}\n12 -> {twelve}"
           }
         }
       ]
@@ -12566,7 +13970,8 @@
               "my",
               "you",
               "you"
-            ]
+            ],
+            "template": " HUGO: Hello, {I}'m Hugo. What's {your} name?\nLIAN: Hi, {my} name's Lian.\nHUGO: Nice to meet {you}.\nLIAN: {You} too."
           }
         },
         {
@@ -12591,7 +13996,8 @@
               "I",
               "you",
               "I"
-            ]
+            ],
+            "template": " CARLA: Hello, Alexei.\nALEXEI: Hi, Carla. How are {you}?\nCARLA: {I}'m fine, thanks. And {you}?\nALEXEI: {I}'m OK, thanks."
           }
         }
       ]
@@ -12637,7 +14043,8 @@
               "It's",
               "your",
               "number"
-            ]
+            ],
+            "template": " A: {What's} your {mobile} number?\nB: {It's} 090-900-1873.\nA: What's {your} home {number}?\nB: It's 0121-496-0317."
           }
         }
       ]
@@ -12704,7 +14111,8 @@
               "UK",
               "exico",
               "ussia"
-            ]
+            ],
+            "template": " \nCountry 1: E{gypt} (4 letters are missing)\nCountry 2: I{taly} (4 letters are missing)\nCountry 3: A{ustralia} (7 letters are missing)\nCountry 4: The {USA} (3 letters are missing)\nCountry 5: B{razil} (5 letters are missing)\nCountry 6: S{pain} (4 letters are missing)\nCountry 7: C{hina} (4 letters are missing)\nCountry 8: G{ermany} (6 letters are missing)\nCountry 9: T{urkey} (5 letters are missing)\nCountry 10: The {UK} (2 letters are missing)\nCountry 11: M{exico} (5 letters are missing)\nCountry 12: R{ussia} (5 letters are missing)"
           }
         }
       ]
@@ -12762,7 +14170,8 @@
               "from",
               "And",
               "I'm"
-            ]
+            ],
+            "template": " FABIEN: {Hello}, I'm Fabien.\nCLARA: Hi, my {name's} Clara.\nFABIEN: {Nice} to {meet} you.\nCLARA: You {too}.\nFABIEN: {Where} are you from?\nCLARA: I'm {from} Spain. {And} you?\nFABIEN: {I'm} from France."
           }
         }
       ]
@@ -12820,7 +14229,8 @@
               "too",
               "from",
               "I'm"
-            ]
+            ],
+            "template": " \nEMMA: {Hi}, Brian.\nBRIAN: Hello, Emma. {How} are you?\nEMMA: I'm fine, {thanks}. And {you}?\nBRIAN: I'm OK, thanks.\nEMMA: Brian, {this} is Kaoru.\nBRIAN: Hello, Kaoru. {Nice} to meet you.\nKAORU: You {too}.\nEMMA: Where are you {from}?\nKAORU: {I'm} from Osaka, in Japan."
           }
         }
       ]
@@ -12857,7 +14267,8 @@
             "studentWords": [
               "his",
               "he"
-            ]
+            ],
+            "template": " \n{his} name's Enrique Iglesias.\n{he}'s from Spain."
           }
         },
         {
@@ -12876,7 +14287,8 @@
             "studentWords": [
               "her",
               "she"
-            ]
+            ],
+            "template": " \n{her} name's Kate Winslet.\n{she}'s from the UK."
           }
         },
         {
@@ -12901,7 +14313,8 @@
               "his",
               "he",
               "he"
-            ]
+            ],
+            "template": " \nA: What's {his} name?\nB: {his} name's Will Smith.\nA: Where's {he} from?\nB: {he}'s from the USA."
           }
         },
         {
@@ -12926,7 +14339,8 @@
               "her",
               "she",
               "she"
-            ]
+            ],
+            "template": " \nA: What's {her} name?\nB: {her} name's Shakira.\nA: Where's {she} from?\nB: {She}'s from Colombia."
           }
         }
       ]
@@ -13005,7 +14419,8 @@
               "v",
               "y",
               "z"
-            ]
+            ],
+            "template": " \na - {b} - {c}\nd - {e} - f\n{g} - {h} - i\n{j} - k - {l}\nm - {n} - {o}\n{p} - q - {r}\ns - {t} - {u}\n{v} - w - x\n{y} - {z}"
           }
         }
       ]
@@ -13054,7 +14469,8 @@
               "surname",
               "How",
               "spell"
-            ]
+            ],
+            "template": " \nTEACHER: What's {your} first {name}, please?\nANTONIO: It's Antonio.\nTEACHER: {What's} your {surname}?\nANTONIO: Morales.\nTEACHER: {How} do you {spell} that?\nANTONIO: M-o-r-a-l-e-s."
           }
         }
       ]
@@ -13112,7 +14528,8 @@
               "en",
               "ook",
               "pple"
-            ]
+            ],
+            "template": " \n1. a d{ictionary}\n2. a p{encil}\n3. a m{obile}\n4. a n{otebook}\n5. an u{mbrella}\n6. a b{ag}\n7. a p{en}\n8. a b{ook}\n9. an a{pple}"
           }
         }
       ]
@@ -13149,7 +14566,8 @@
             "studentWords": [
               "Excuse me",
               "How do you spell"
-            ]
+            ],
+            "template": " GABRIELA: {Excuse me}.\nTEACHER: Yes, Gabriela?\nGABRIELA: {How do you spell} dictionary?\nTEACHER: D-i-c-t-i-o-n-a-r-y\nGABRIELA: Thank you."
           }
         },
         {
@@ -13168,7 +14586,8 @@
             "studentWords": [
               "What does",
               "I don't understand"
-            ]
+            ],
+            "template": " JOHANN: Excuse me. {What does} surname mean?\nTEACHER: It's your family name.\nJOHANN: I'm sorry, {I don't understand}.\nTEACHER: Your first name is Johann. Your surname is Schulz.\nJOHANN: Oh, OK. Thank you."
           }
         },
         {
@@ -13184,7 +14603,8 @@
             ],
             "studentWords": [
               "Can you repeat that"
-            ]
+            ],
+            "template": " TEACHER: Look at the photo on page 12.\nYOUSSEF: {Can you repeat that}, please?\nTEACHER: Look at the photo on page 12."
           }
         },
         {
@@ -13200,7 +14620,8 @@
             ],
             "studentWords": [
               "in English"
-            ]
+            ],
+            "template": " DENIZ: Excuse me. What's this {in English}?\nTEACHER: It's a notebook.\nDENIZ: OK, thank you."
           }
         },
         {
@@ -13216,7 +14637,8 @@
             ],
             "studentWords": [
               "I don't know"
-            ]
+            ],
+            "template": " TEACHER: Jiang, what's the answer to question 2?\nJIANG: I'm sorry, {I don't know}."
           }
         }
       ]
@@ -13280,7 +14702,8 @@
               "diary",
               "chair",
               "person"
-            ]
+            ],
+            "template": " \n1. WATCH\n2. {TABLE}\n3. {SANDWICH}\n4. {WOMAN}\n5. {BABY}\n6. ➡️{CAMERA} - ⬇️{COMPUTER}\n7. {BOY}\n8. {MAN}\n9. {DIARY}\n10. {CHAIR}\n11. {GIRL}"
           }
         }
       ]
@@ -13344,7 +14767,8 @@
               "women",
               "watches",
               "answers"
-            ]
+            ],
+            "template": " \n1. a student -> students\n2. a teacher -> {teachers}\n3. a person -> {people}\n4. a thing -> {things}\n5. a baby -> {babies}\n6. a man -> {men}\n7. a name -> {names}\n8. a country -> {countries}\n9. a sandwich -> {sandwiches}\n10. a woman -> {women}\n11. a watch -> {watches}\n12. an answer -> {answers}"
           }
         }
       ]
@@ -13952,7 +15376,8 @@
               "cups",
               "tables",
               "books"
-            ]
+            ],
+            "template": " \nWatch -> watches\nBeach -> {beaches}\nBaby -> {babies}\nParty -> {parties}\nFoot -> {feet}\nTooth -> {teeth}\nChild -> {children}\nWindow -> {windows}\nTree -> {trees}\nCup -> {cups}\nTable -> {tables}\nBook -> {books}"
           }
         }
       ]
@@ -14013,7 +15438,8 @@
               "a",
               "an",
               "a"
-            ]
+            ],
+            "template": " \n{an} apple\n{a} book\n{an} elephant\n{a} car\n{an} umbrella\n{a} dog\n{an} ice cream\n{a} house\n{an} orange\n{a} teacher"
           }
         }
       ]
@@ -14056,7 +15482,8 @@
               "'s",
               "'s",
               "'s"
-            ]
+            ],
+            "template": " His name{'s} Roger.\nHe{'s} from the USA.\nHer name{'s} Camille.\nShe{'s} French."
           }
         },
         {
@@ -14075,7 +15502,8 @@
             "studentWords": [
               "'m",
               "'m"
-            ]
+            ],
+            "template": " Hello, I{'m} Alicia.\nI{'m} Colombian."
           }
         },
         {
@@ -14091,7 +15519,8 @@
             ],
             "studentWords": [
               "'re'"
-            ]
+            ],
+            "template": " You{'re} in the Starter class."
           }
         },
         {
@@ -14113,7 +15542,8 @@
               "'s",
               "'m",
               "'m"
-            ]
+            ],
+            "template": " Hello, my name{'s} Hiro.\nI{'m} Japanese and I{'m} a manager."
           }
         },
         {
@@ -14129,7 +15559,8 @@
             ],
             "studentWords": [
               "'s"
-            ]
+            ],
+            "template": " This is my car.\nIt{'s} Italian."
           }
         }
       ]
@@ -14163,7 +15594,8 @@
             ],
             "studentWords": [
               " He's not a student"
-            ]
+            ],
+            "template": " Example:\nI'm a teacher. -> I'm not a teacher.\n\nHe's a student.\n-> {He's not a student|He isn't a student|He is not a student}."
           }
         },
         {
@@ -14179,7 +15611,8 @@
             ],
             "studentWords": [
               "You're not from Russia"
-            ]
+            ],
+            "template": " You're from Russia.\n-> {You're not from Russia|You aren't from Russia|You are not from Russia}."
           }
         },
         {
@@ -14195,7 +15628,8 @@
             ],
             "studentWords": [
               " It's not German"
-            ]
+            ],
+            "template": " It's German.\n-> {It's not German|It isn't German|it is not German}."
           }
         },
         {
@@ -14211,7 +15645,8 @@
             ],
             "studentWords": [
               " She's not Chinese"
-            ]
+            ],
+            "template": " She's Chinese.\n-> {She's not Chinese|She isn't Chinese|she is not Chinese}."
           }
         },
         {
@@ -14227,7 +15662,8 @@
             ],
             "studentWords": [
               "I'm not British"
-            ]
+            ],
+            "template": " I'm British.\n-> {I'm not British|I am not British}."
           }
         },
         {
@@ -14243,7 +15679,8 @@
             ],
             "studentWords": [
               "my teacher's not American"
-            ]
+            ],
+            "template": " My teacher's American.\n-> {my teacher's not American|my teacher isn't american|myteacher is not american}."
           }
         },
         {
@@ -14259,7 +15696,8 @@
             ],
             "studentWords": [
               " you're not a singer"
-            ]
+            ],
+            "template": " You're a singer.\n-> {you're not a singer|you aren't a singer|you are not a singer}."
           }
         }
       ]
@@ -14296,7 +15734,8 @@
             "studentWords": [
               "'s",
               "'s not"
-            ]
+            ],
+            "template": " \n✔ - positive\n✘ - negative\nExample:\nKylie ____ (✘) British. She _____ (✔) Australian.\n-> Kylie isn't British. She's Australian.\n\nNew Delhi{'s|is} (✔) the capital of India. It{'s not|isn't} (✘) the capital of Bangladesh.\n"
           }
         },
         {
@@ -14315,7 +15754,8 @@
             "studentWords": [
               "isn't",
               "'s"
-            ]
+            ],
+            "template": " Cameron{isn't|'s not|is not} (✘) from Spain. She{'s|is} (✔) from America."
           }
         },
         {
@@ -14334,7 +15774,8 @@
             "studentWords": [
               "'s",
               "'s"
-            ]
+            ],
+            "template": " Renault{'s|is} (✔) a French company. Their office{'s|is} (✔) in Paris."
           }
         },
         {
@@ -14353,7 +15794,8 @@
             "studentWords": [
               "'s not",
               "'s"
-            ]
+            ],
+            "template": " Big Ben{'s not|isn't|is not} (✘) in Washington. It{'s|is} (✔) in London."
           }
         },
         {
@@ -14372,7 +15814,8 @@
             "studentWords": [
               "isn't",
               "'s"
-            ]
+            ],
+            "template": " Starbucks{'s|isn't|is not} (✘) a British company. It{'s|is} (✔) American."
           }
         }
       ]
@@ -14406,7 +15849,8 @@
             ],
             "studentWords": [
               "talian"
-            ]
+            ],
+            "template": " (→) I{talian}"
           }
         },
         {
@@ -14422,7 +15866,8 @@
             ],
             "studentWords": [
               "exican"
-            ]
+            ],
+            "template": " (→) M{exican}"
           }
         },
         {
@@ -14438,7 +15883,8 @@
             ],
             "studentWords": [
               " ritish"
-            ]
+            ],
+            "template": " (→) B{ritish}"
           }
         },
         {
@@ -14454,7 +15900,8 @@
             ],
             "studentWords": [
               "gyptian"
-            ]
+            ],
+            "template": " (→) E{gyptian}"
           }
         },
         {
@@ -14470,7 +15917,8 @@
             ],
             "studentWords": [
               "merican"
-            ]
+            ],
+            "template": " (→) A{merican}"
           }
         },
         {
@@ -14486,7 +15934,8 @@
             ],
             "studentWords": [
               "olombian"
-            ]
+            ],
+            "template": " (→) C{olombian}"
           }
         },
         {
@@ -14502,7 +15951,8 @@
             ],
             "studentWords": [
               "apanese"
-            ]
+            ],
+            "template": " (→) J{apanese}"
           }
         },
         {
@@ -14518,7 +15968,8 @@
             ],
             "studentWords": [
               "erman"
-            ]
+            ],
+            "template": " (↓) G{erman}"
           }
         },
         {
@@ -14534,7 +15985,8 @@
             ],
             "studentWords": [
               "hinese"
-            ]
+            ],
+            "template": " (↓) C{hinese}"
           }
         },
         {
@@ -14550,7 +16002,8 @@
             ],
             "studentWords": [
               "urkish"
-            ]
+            ],
+            "template": " (↓) T{urkish}"
           }
         },
         {
@@ -14566,7 +16019,8 @@
             ],
             "studentWords": [
               "rench"
-            ]
+            ],
+            "template": " (↓) F{rench}"
           }
         },
         {
@@ -14582,7 +16036,8 @@
             ],
             "studentWords": [
               "ustralian"
-            ]
+            ],
+            "template": " (↓) A{ustralian}"
           }
         },
         {
@@ -14598,7 +16053,8 @@
             ],
             "studentWords": [
               "razilian"
-            ]
+            ],
+            "template": " (↓) B{razilian}"
           }
         },
         {
@@ -14614,7 +16070,8 @@
             ],
             "studentWords": [
               "ussian"
-            ]
+            ],
+            "template": " (↓) R{ussian}"
           }
         },
         {
@@ -14630,7 +16087,8 @@
             ],
             "studentWords": [
               "panish"
-            ]
+            ],
+            "template": " (↓) S{panish}"
           }
         }
       ]
@@ -14700,7 +16158,8 @@
               "waiter",
               "doctor",
               "teacher"
-            ]
+            ],
+            "template": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an {actress}\n\nJob 3: an {actor} \n\nJob 4: a {taxi} {driver} \n\nJob 5: a {sales} {assistant} \n\nJob 6: a {musician} \n\nJob 7: a {police} {officer} \n\nJob 8: a {waitress} \n\nJob 9: a {waiter} \n\nJob 10: a {doctor} \n\nJob 11: a {teacher} \n"
           }
         }
       ]
@@ -14749,7 +16208,8 @@
               "'m",
               "is",
               "'m"
-            ]
+            ],
+            "template": " Conversation A\n\nA: Hello, what{'s|is} your name?\nB: My name {'s|is} Oliver.\nA: Where {'re|are} you from?\nB: I {'m|am} from the UK.\nA: What {'s|is} your job?\nB: I {'m|am} an actor."
           }
         },
         {
@@ -14792,7 +16252,8 @@
               "job",
               "'m",
               "an"
-            ]
+            ],
+            "template": " Conversation B\n\nA: Hi, what{'s|is} your name?\nB: My name {'s|is} Holly.\nA: {Where} are you {from}?\nB: I {'m|am} from {the} USA.\nA: What{'s|is} your {job}?\nB: I {'m|am} {an} actress.\n\n"
           }
         }
       ]
@@ -14841,7 +16302,8 @@
               "'s",
               "'s",
               "'s"
-            ]
+            ],
+            "template": " Conversation 1:\n\nA: What {'s|is} his name?\n\nB: His name {'s|is} Bruce.\n\nA: Where {'s|is} he from?\n\nB: He {'s|is} from Australia.\n\nA: What {'s|is} his job?\n\nB: He {'s|is} a waiter."
           }
         },
         {
@@ -14872,7 +16334,8 @@
               "she's",
               "what's",
               "she's"
-            ]
+            ],
+            "template": " Conversation 2:\n\nA: {What's|What is} her name?\n\nB: Her {name's|name is} Aylin.\n\nA: {Where's|Where is} she from?\n\nB: {She's|She is} from Turkey.\n\nA: {What's|What is} her job?\n\nB: {She's|She is} a doctor."
           }
         },
         {
@@ -14921,7 +16384,8 @@
               "her",
               "she's",
               "a"
-            ]
+            ],
+            "template": " Conversation 3:\n\nA: {What's|What is} {her} name?\n\nB: {Her} {name} is Jamila.\n\nA: {Where's|Where is} {she} from?\n\nB: {She's|She is} {from} Egypt.\n\nA: {What's|What is} {her} job?\n\nB: {She's|She is} {a} manager."
           }
         },
         {
@@ -14973,7 +16437,8 @@
               "his",
               "he's",
               "a"
-            ]
+            ],
+            "template": " Conversation 4:\n\nA: {What's|What is} {his} {name}?\n\nB: {His} name {'s|is} Sebastian.\n\nA: {Where's|Where is} {he} from?\n\nB: {He's|He is} {from} Mexico.\n\nA: {What's|What is} {his} job?\n\nB: {He's|He is} {a} teacher."
           }
         }
       ]
@@ -15172,7 +16637,8 @@
             ],
             "studentWords": [
               "No"
-            ]
+            ],
+            "template": " {No}, he isn't."
           }
         },
         {
@@ -15188,7 +16654,8 @@
             ],
             "studentWords": [
               "no"
-            ]
+            ],
+            "template": " {No}, she isn't."
           }
         },
         {
@@ -15204,7 +16671,8 @@
             ],
             "studentWords": [
               "yes"
-            ]
+            ],
+            "template": " {Yes}, she is."
           }
         },
         {
@@ -15220,7 +16688,8 @@
             ],
             "studentWords": [
               "isn't"
-            ]
+            ],
+            "template": " No, she {isn't|is not}."
           }
         },
         {
@@ -15236,7 +16705,8 @@
             ],
             "studentWords": [
               "is"
-            ]
+            ],
+            "template": " Yes, she {is}."
           }
         },
         {
@@ -15252,7 +16722,8 @@
             ],
             "studentWords": [
               "yes"
-            ]
+            ],
+            "template": " {Yes}, he is."
           }
         },
         {
@@ -15268,7 +16739,8 @@
             ],
             "studentWords": [
               "isn't"
-            ]
+            ],
+            "template": " No, he {isn't|is not}."
           }
         }
       ]
@@ -15305,7 +16777,8 @@
             "studentWords": [
               "Mr",
               "Good evening"
-            ]
+            ],
+            "template": " Conversation 1\n\nA: Good evening, {Mr} Clark.\n\nB: {Good evening}."
           }
         },
         {
@@ -15324,7 +16797,8 @@
             "studentWords": [
               "Good night",
               "Good night"
-            ]
+            ],
+            "template": " Conversation 2\n\nA: {Good night}, Sophie.\n\nB: {Good night}, Mum."
           }
         },
         {
@@ -15343,7 +16817,8 @@
             "studentWords": [
               "Good morning",
               "Good morning"
-            ]
+            ],
+            "template": " Conversation 3\n\nA: {Good morning}, Janet.\n\nB: {Good morning}, Clive."
           }
         },
         {
@@ -15365,7 +16840,8 @@
               "Good afternoon",
               "Mrs",
               "Good afternoon"
-            ]
+            ],
+            "template": " Conversation 4\n\nA: {Good afternoon}, {Mrs} Jones.\n\nB: {Good afternoon}."
           }
         }
       ]
@@ -15420,7 +16896,8 @@
               "What's your email address",
               "Are you married",
               "What's your mobile number"
-            ]
+            ],
+            "template": " CONVERSATION\n\nELLEN: Good afternoon. Welcome to the CICLERS Bank. My name's Ellen.\n\nNEIL: Nice to meet you.\n\nELLEN: You too. {What's your first name, please}?\n\nNEIL: It's Neil.\n\nELLEN: Thank you. {What's your surname}?\n\nNEIL: It's Horton.\n\nELLEN: {How do you spell that, please}?\n\nNEIL: It's H-O-R-T-O-N.\n\nELLEN: Thank you. {What's your nationality}?  \n\nNEIL: I'm Australian. \n\nELLEN: {What's your address}? \n\nNEIL: It's 17 William Street, London SE18 4ED.\n\nELLEN: Thanks. {What's your email address}?\n\nNEIL: It's neil.horton@webmail.co.uk.\n\nELLEN: OK. {Are you married}? \n\nNEIL: No, I'm single.\n\nELLEN: {What's your mobile number}? \n\nNEIL: 07988 456319.\n\nELLEN: Thank you very much.\n"
           }
         }
       ]
@@ -15472,7 +16949,8 @@
               "New York",
               "15551234567",
               "sarah.johnson@gmail.com"
-            ]
+            ],
+            "template": " ELEGANT STUDIO - NEW MEMBER FORM\n\nFirst name: {Sarah}\n\nSurname: {Johnson}\n\nNationality: {American}\n\nAddress: {123 Maple} Avenue, {New York}, NY 10001\n\nMobile number: {15551234567}\n\nEmail address: {sarah.johnson@gmail.com}\n\n"
           }
         }
       ]
@@ -15548,7 +17026,8 @@
               "My",
               "email",
               "is"
-            ]
+            ],
+            "template": " CONVERSATION\n\nMary: Good morning! Welcome to Mountain Gym. How can I help you today?\n\nMichael: Good morning! I'd like to register for a new membership, please.\n\nMary: Great! Let's get you signed up. {What's|What is} your first name?\n\nMichael: It's {Michael}.\n\nMary: And what's your {surname}?\n\nMichael: It's {Smith}.\n\nMary: Thank you, Michael. What is your {nationality}?\n\nMichael: I'm {Canadian}.\n\nMary: Perfect. Now, what's {your} home {address}?\n\nMichael: It's 123 {Maple} Street, {Vancouver}.\n\nMary: Got it. I'll also need your mobile number. What {'s|is} your mobile {number}?\n\nMichael: {My} mobile number is +1 604 123 4567.\n\nMary: Thanks, Michael. Lastly, what is your {email} address?\n\nMichael: It {'s|is} msmith@gmail.com.\n\nMary: All set! Welcome to Mountain Gym, Michael. We'll send you a confirmation email with all the details.\n\nMichael: Thank you, Mary. I'm excited to start!\n\nMary: You're welcome! Enjoy your workouts!"
           }
         }
       ]
@@ -15609,7 +17088,8 @@
               "my",
               "email",
               "it"
-            ]
+            ],
+            "template": " CONVERSATION\n\nArthur: Good afternoon! Welcome to the local library. How can I help you today?\n\nMaiko: Good afternoon! I'd like to register for a new membership, please.\n\nArthur: Of course! Let's get started. What {is} (is / are) your first name?\n\nMaiko: {It's|It is} (It's / It're) Maiko.\n\nArthur: What's {your} (her / your) surname?\n\nMaiko: It's Sagima.\n\nArthur: Thank you, Maiko. What is your {nationality} (country / nationality)?\n\nMaiko: I'm {Japanese} (Japan / Japanese).\n\nArthur: Great. Now, {what} (what / where) is your home address?\n\nMaiko: It's 456 Cherry Blossom Lane, London.\n\nArthur: Got it. And what's your mobile {number} (number / phone)?\n\nMaiko: {My} (Our / My) mobile number is +81 90 1234 5678.\n\nArthur: OK, and lastly, what is your {email} (internet / email) address ?\n\nMaiko: {It} (It / They) is maiko.sagima@gmail.com.\n\nArthur: All done! Welcome to the library, Maiko. \n\nMaiko: Thank you, Arthur! \n\nArthur: You're very welcome! "
           }
         }
       ]
@@ -15643,7 +17123,8 @@
             ],
             "studentWords": [
               "thirty"
-            ]
+            ],
+            "template": " Number 30: {thirty}"
           }
         },
         {
@@ -15659,7 +17140,8 @@
             ],
             "studentWords": [
               "fourteen"
-            ]
+            ],
+            "template": " Number 14: {fourteen}"
           }
         },
         {
@@ -15675,7 +17157,8 @@
             ],
             "studentWords": [
               "forty"
-            ]
+            ],
+            "template": " Number 40: {forty}"
           }
         },
         {
@@ -15691,7 +17174,8 @@
             ],
             "studentWords": [
               "fifteen"
-            ]
+            ],
+            "template": " Number 15: {fifteen}"
           }
         },
         {
@@ -15707,7 +17191,8 @@
             ],
             "studentWords": [
               "fifty"
-            ]
+            ],
+            "template": " Number 50: {fifty}"
           }
         },
         {
@@ -15723,7 +17208,8 @@
             ],
             "studentWords": [
               "sixteen"
-            ]
+            ],
+            "template": " Number 16: {sixteen}"
           }
         },
         {
@@ -15739,7 +17225,8 @@
             ],
             "studentWords": [
               "sixty"
-            ]
+            ],
+            "template": " Number 60: {sixty}"
           }
         },
         {
@@ -15755,7 +17242,8 @@
             ],
             "studentWords": [
               "seventeen"
-            ]
+            ],
+            "template": " Number 17: {seventeen}"
           }
         },
         {
@@ -15771,7 +17259,8 @@
             ],
             "studentWords": [
               "seventy"
-            ]
+            ],
+            "template": " Number 70: {seventy}"
           }
         },
         {
@@ -15787,7 +17276,8 @@
             ],
             "studentWords": [
               "eighteen"
-            ]
+            ],
+            "template": " Number 18: {eighteen}"
           }
         },
         {
@@ -15803,7 +17293,8 @@
             ],
             "studentWords": [
               "eighty"
-            ]
+            ],
+            "template": " Number 80: {eighty}"
           }
         },
         {
@@ -15819,7 +17310,8 @@
             ],
             "studentWords": [
               "nineteen"
-            ]
+            ],
+            "template": " Number 19: {nineteen}"
           }
         },
         {
@@ -15835,7 +17327,8 @@
             ],
             "studentWords": [
               "ninety"
-            ]
+            ],
+            "template": " Number 90: {ninety}"
           }
         }
       ]
@@ -15869,7 +17362,8 @@
             ],
             "studentWords": [
               "seventy-seven"
-            ]
+            ],
+            "template": " thirty-one + forty-six = {seventy-seven}"
           }
         },
         {
@@ -15885,7 +17379,8 @@
             ],
             "studentWords": [
               "twenty-six"
-            ]
+            ],
+            "template": " eighty-nine - sixty-three = {twenty-six}"
           }
         },
         {
@@ -15901,7 +17396,8 @@
             ],
             "studentWords": [
               "forty-two"
-            ]
+            ],
+            "template": " twenty-four + eighteen = {forty-two}"
           }
         },
         {
@@ -15917,7 +17413,8 @@
             ],
             "studentWords": [
               "fifty-one"
-            ]
+            ],
+            "template": " ninety-three - forty-two = {fifty-one}"
           }
         },
         {
@@ -15933,7 +17430,8 @@
             ],
             "studentWords": [
               "a hundred"
-            ]
+            ],
+            "template": " sixty-six + thirty-four = {one hundred|a hundred}"
           }
         }
       ]
@@ -15970,7 +17468,8 @@
             "studentWords": [
               "How old",
               "years"
-            ]
+            ],
+            "template": " Conversation 1\n\nA: {How old} is your car?\n\nB: It's seventy-one {years} old.\n\n"
           }
         },
         {
@@ -15989,7 +17488,8 @@
             "studentWords": [
               "How old are",
               "I'm"
-            ]
+            ],
+            "template": " Conversation 2\n\nA: This is Max.\n\nB: Hello. {How old are} you?\n\nC: {I'm} seven.\n"
           }
         },
         {
@@ -16008,7 +17508,8 @@
             "studentWords": [
               "How old is",
               "He's"
-            ]
+            ],
+            "template": " Conversation 3\n\nA: {How old is} your dog?\n\nB: {He's} twelve.\n"
           }
         }
       ]
@@ -16225,6 +17726,839 @@
           "status": "Correct",
           "meta": {
             "sentenceTemplate": " {poeple//*people*}"
+          }
+        }
+      ]
+    },
+    "7e54eeab-117b-463b-9948-aeceec604326": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "homework",
+        "exerciseName": "Spelling: jobs",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Bài tập về nhà > Bài tập 6: Spelling: jobs",
+      "refId": "homework:34eddb4c-09ae-492a-952c-3e10e85ec531|34369156-2e8e-4327-896e-6738fef9dba8",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Write these jobs by filling the vowels (A, E, I, O, U) in each gap. Write the whole words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a waiter",
+          "student": " a waiter",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "waiter"
+            ],
+            "studentWords": [
+              "waiter"
+            ],
+            "template": " a {waiter}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a waitress",
+          "student": " a waitress",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "waitress"
+            ],
+            "studentWords": [
+              "waitress"
+            ],
+            "template": " a {waitress}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a doctor",
+          "student": " a doctor",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "doctor"
+            ],
+            "studentWords": [
+              "doctor"
+            ],
+            "template": " a {doctor}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " an actor",
+          "student": " an actor",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "actor"
+            ],
+            "studentWords": [
+              "actor"
+            ],
+            "template": " an {actor}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " an actress",
+          "student": " an actress",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "actress"
+            ],
+            "studentWords": [
+              "actress"
+            ],
+            "template": " an {actress}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a taxi driver",
+          "student": " a taxi driver",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "taxi driver"
+            ],
+            "studentWords": [
+              "taxi driver"
+            ],
+            "template": " a {taxi driver}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " a manager",
+          "student": " a manager",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "manager"
+            ],
+            "studentWords": [
+              "manager"
+            ],
+            "template": " a {manager}"
+          }
+        }
+      ]
+    },
+    "1fa62754-3e49-4b4a-b335-c608e90f9f23": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "homework",
+        "exerciseName": "Jobs & Nationalities",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Bài tập về nhà > Bài tập 1: Jobs & Nationalities",
+      "refId": "homework:93199960-de2f-40a4-938b-149c7ed34d70|ec25908a-a4a7-49f7-b658-512dea64c3fc",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "4/5",
+      "instruction": "Write the jobs for each person. Use A or AN.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Alice is a musician. ",
+          "student": " Alice is a musician. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a musician"
+            ],
+            "studentWords": [
+              "a musician"
+            ],
+            "template": " Alice is {a musician}. "
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Emir is a doctor.",
+          "student": " Emir is a doctor.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a doctor"
+            ],
+            "studentWords": [
+              "a doctor"
+            ],
+            "template": " Emir is {a doctor}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Ganna is an actress.",
+          "student": " Ganna is an actress.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "an actress"
+            ],
+            "studentWords": [
+              "an actress"
+            ],
+            "template": " Ganna is {an actress}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Jenny is a sales assistant|a shop assistant. ",
+          "student": " Jenny is sale assistant. ",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "a sales assistant|a shop assistant"
+            ],
+            "studentWords": [
+              "sale assistant"
+            ],
+            "template": " Jenny is {a sales assistant|a shop assistant}. "
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Augusto is a police officer|a policeman. ",
+          "student": " Augusto is a police officer. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a police officer|a policeman"
+            ],
+            "studentWords": [
+              "a police officer"
+            ],
+            "template": " Augusto is {a police officer|a policeman}. "
+          }
+        }
+      ]
+    },
+    "430b228a-7992-49be-9853-2a2f820a1d93": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "homework",
+        "exerciseName": "Jobs & Nationalities",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Unit 2 Test > Bài tập về nhà > Bài tập 1: Jobs & Nationalities",
+      "refId": "homework:93199960-de2f-40a4-938b-149c7ed34d70|ec25908a-a4a7-49f7-b658-512dea64c3fc",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "4/5",
+      "instruction": "Write the nationalities for each person. The first letter is given.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Alice's Italian.",
+          "student": " Alice's Italian.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "talian"
+            ],
+            "studentWords": [
+              "talian"
+            ],
+            "template": " Alice's I{talian}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Emir's Turkish.",
+          "student": " Emir's Turkish.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "urkish"
+            ],
+            "studentWords": [
+              "urkish"
+            ],
+            "template": " Emir's T{urkish}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Ganna's Egyptian.",
+          "student": " Ganna's Egyptian.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "gyptian"
+            ],
+            "studentWords": [
+              "gyptian"
+            ],
+            "template": " Ganna's E{gyptian}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Jenny's Australian.",
+          "student": " Jenny's Australian.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ustralian"
+            ],
+            "studentWords": [
+              "ustralian"
+            ],
+            "template": " Jenny's A{ustralian}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Augusto's Brazilian.",
+          "student": " Augusto's BBrazilian.",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "razilian"
+            ],
+            "studentWords": [
+              "Brazilian"
+            ],
+            "template": " Augusto's B{razilian}."
+          }
+        }
+      ]
+    },
+    "d0837ca8-6734-47d3-b53c-bea88f969f9e": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "homework",
+        "exerciseName": "Verb BE",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > Unit 2 Test > Bài tập về nhà > Bài tập 2: Verb BE",
+      "refId": "homework:9ccbb9ce-f8db-4170-bebd-409a7170a3b6|68af631f-6acb-440e-a865-ad2f97fc042b",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "24/24",
+      "instruction": "Complete the short conversations using the correct form of BE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Is Alice a teacher?\n\nB: No, she 's not|isn't|is not. She 's|is a musician.\n\nA: Where 's|is she from?\n\nB: She 's|is from Italy. She 's|is Italian.\n",
+          "student": " \nA: is Alice a teacher?\n\nB: No, she isn't. She is a musician.\n\nA: Where is she from?\n\nB: She is from Italy. She is Italian.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is",
+              "'s not|isn't|is not",
+              "'s|is",
+              "'s|is",
+              "'s|is",
+              "'s|is"
+            ],
+            "studentWords": [
+              "is",
+              "isn't",
+              "is",
+              "is",
+              "is",
+              "is"
+            ],
+            "template": " \nA: {Is} Alice a teacher?\n\nB: No, she {'s not|isn't|is not}. She {'s|is} a musician.\n\nA: Where {'s|is} she from?\n\nB: She {'s|is} from Italy. She {'s|is} Italian.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: What 's|is his job?\n\nB: He 's|is a doctor.\n\nA: Is he from Turkey?\n\nB: Yes, he is.",
+          "student": " \nA: What is his job?\n\nB: He is a doctor.\n\nA: is he from Turkey?\n\nB: Yes, he is.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "'s|is",
+              "'s|is",
+              "Is",
+              "is"
+            ],
+            "studentWords": [
+              "is",
+              "is",
+              "is",
+              "is"
+            ],
+            "template": " \nA: What {'s|is} his job?\n\nB: He {'s|is} a doctor.\n\nA: {Is} he from Turkey?\n\nB: Yes, he {is}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: Is Ganna an actress?\n\nB: Yes, she is.\n\nA: Is she American?\n\nB: No, she 's not|isn't|is not.",
+          "student": " \nA: is Ganna an actress?\n\nB: Yes, she is.\n\nA: is she American?\n\nB: No, she isn't.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is",
+              "is",
+              "Is",
+              "'s not|isn't|is not"
+            ],
+            "studentWords": [
+              "is",
+              "is",
+              "is",
+              "isn't"
+            ],
+            "template": " \nA: {Is} Ganna an actress?\n\nB: Yes, she {is}.\n\nA: {Is} she American?\n\nB: No, she {'s not|isn't|is not}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: Jenny's my new friend. She 's|is a shop assistant.\n\nB: Hi Jenny. Are you from the UK?\n\nC: No, I 'm not|am not. I 'm|am from Australia.\n\nB: Nice to meet you.",
+          "student": " \nA: Jenny's my new friend. She is a shop assistant.\n\nB: Hi Jenny. are you from the UK?\n\nC: No, I am not. I 'm from Australia.\n\nB: Nice to meet you.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "'s|is",
+              "Are",
+              "'m not|am not",
+              "'m|am"
+            ],
+            "studentWords": [
+              "is",
+              "are",
+              "am not",
+              "'m"
+            ],
+            "template": " \nA: Jenny's my new friend. She {'s|is} a shop assistant.\n\nB: Hi Jenny. {Are} you from the UK?\n\nC: No, I {'m not|am not}. I {'m|am} from Australia.\n\nB: Nice to meet you."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " \nA: Are you Carlos?\n\nB: No, I'm not|am not. I 'm|am Augusto.\n\nA: Hi, Augusto. I think you 're|are Mexican.\n\nB: That's not correct. I 'm|am Brazilian. I 'm|am a policeman from Brazil.",
+          "student": " \nA: are you Carlos?\n\nB: No, Iam not. I 'm Augusto.\n\nA: Hi, Augusto. I think you are Mexican.\n\nB: That's not correct. I 'm Brazilian. I 'm a policeman from Brazil.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Are",
+              "'m not|am not",
+              "'m|am",
+              "'re|are",
+              "'m|am",
+              "'m|am"
+            ],
+            "studentWords": [
+              "are",
+              "am not",
+              "'m",
+              "are",
+              "'m",
+              "'m"
+            ],
+            "template": " \nA: {Are} you Carlos?\n\nB: No, I{'m not|am not}. I {'m|am} Augusto.\n\nA: Hi, Augusto. I think you {'re|are} Mexican.\n\nB: That's not correct. I {'m|am} Brazilian. I {'m|am} a policeman from Brazil."
+          }
+        }
+      ]
+    },
+    "41a439e2-a1ea-46cf-8b6a-12de462cad77": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "homework",
+        "exerciseName": "Numbers 13 - 100",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 2 > Unit 2 Test > Bài tập về nhà > Bài tập 3: Numbers 13 - 100",
+      "refId": "homework:0e0bcf55-5b1d-42ff-844c-582198137278|2530b464-8642-43a8-9cf8-e63bf01b8c43",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Write the numbers.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Number 21 -> twenty-one|twenty one",
+          "student": " Number 21 -> twenty-one",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty-one|twenty one"
+            ],
+            "studentWords": [
+              "twenty-one"
+            ],
+            "template": " Number 21 -> {twenty-one|twenty one}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Number 11 -> eleven",
+          "student": " Number 11 -> eleven",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eleven"
+            ],
+            "studentWords": [
+              "eleven"
+            ],
+            "template": " Number 11 -> {eleven}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Number 18 -> eighteen",
+          "student": " Number 18 -> eighteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eighteen"
+            ],
+            "studentWords": [
+              "eighteen"
+            ],
+            "template": " Number 18 -> {eighteen}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Number 52 -> fifty-two|fifty two",
+          "student": " Number 52 -> fifty-two",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifty-two|fifty two"
+            ],
+            "studentWords": [
+              "fifty-two"
+            ],
+            "template": " Number 52 -> {fifty-two|fifty two}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Number 30 -> thirty",
+          "student": " Number 30 -> thirty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "thirty"
+            ],
+            "studentWords": [
+              "thirty"
+            ],
+            "template": " Number 30 -> {thirty}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Number 44 -> forty-four|forty four",
+          "student": " Number 44 -> forty-four",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "forty-four|forty four"
+            ],
+            "studentWords": [
+              "forty-four"
+            ],
+            "template": " Number 44 -> {forty-four|forty four}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Number 99 -> ninety-nine|ninety nine",
+          "student": " Number 99 -> ninety-nine",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ninety-nine|ninety nine"
+            ],
+            "studentWords": [
+              "ninety-nine"
+            ],
+            "template": " Number 99 -> {ninety-nine|ninety nine}"
+          }
+        }
+      ]
+    },
+    "30486f8b-56e4-4239-88c5-fc514c7bf3c1": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "homework",
+        "exerciseName": "Personal information",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > Unit 2 Test > Bài tập về nhà > Bài tập 4: Personal information",
+      "refId": "homework:230bbdb7-847f-48c8-a4c9-b90c7bcfac9f|147d07ba-4227-4158-bd79-8b3449377b0a",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Natalie is at the City Bank. Complete the conversation.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nTOM: Good morning, welcome to the CIty Bank. How can I help you?\n\nNATALIE: Hello, I'd like to open a bank account.\n\nTOM: Very well. What's your first name, please?\n\nNATALIE: It's Natalie.\n\nTOM: And what's your surname?\n\nNATALIE: It's Gavinsky.\n\nTOM: And how do you spell that?\n\nNATALIE: G-A-V-I-N-S-K-Y.\n\nTOM: Thank you. And what's your nationality, Natalie?\n\nNATALIE: I'm American.\n\nTOM: What's your address?\n\nNATALIE: It's 24 Church Street, Brooklyn. \n\nTOM: All right, what's your mobile number?\n\nNATALIE: I don't have a mobile phone.\n\nTOM: What's your home number then?\n\nNATALIE: It's 3985784323.\n\nTOM: Lastly, what's your email address?\n\nNATALIE: It's nat.gavinsky@hotmail.uk\n\nTOM: Thank you very much. \n",
+          "student": " \nTOM: Good morning, welcome to the CIty Bank. How can I help you?\n\nNATALIE: Hello, I'd like to open a bank account.\n\nTOM: Very well. What's your first name, please?\n\nNATALIE: It's Natalie.\n\nTOM: And what's your surname?\n\nNATALIE: It's Gavinsky.\n\nTOM: And how do you spell that?\n\nNATALIE: G-A-V-I-N-S-K-Y.\n\nTOM: Thank you. And what's your nationality, Natalie?\n\nNATALIE: I'm American.\n\nTOM: What's your address?\n\nNATALIE: It's 24 Church Street, Brooklyn. \n\nTOM: All right, what's your mobile number?\n\nNATALIE: I don't have a mobile phone.\n\nTOM: What's your home number then?\n\nNATALIE: It's 3985784323.\n\nTOM: Lastly, what's your email address?\n\nNATALIE: It's nat.gavinsky@hotmail.uk\n\nTOM: Thank you very much. \n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "first",
+              "surname",
+              "spell",
+              "nationality",
+              "your",
+              "mobile",
+              "home",
+              "email"
+            ],
+            "studentWords": [
+              "first",
+              "surname",
+              "spell",
+              "nationality",
+              "your",
+              "mobile",
+              "home",
+              "email"
+            ],
+            "template": " \nTOM: Good morning, welcome to the CIty Bank. How can I help you?\n\nNATALIE: Hello, I'd like to open a bank account.\n\nTOM: Very well. What's your {first} name, please?\n\nNATALIE: It's Natalie.\n\nTOM: And what's your {surname}?\n\nNATALIE: It's Gavinsky.\n\nTOM: And how do you {spell} that?\n\nNATALIE: G-A-V-I-N-S-K-Y.\n\nTOM: Thank you. And what's your {nationality}, Natalie?\n\nNATALIE: I'm American.\n\nTOM: What's {your} address?\n\nNATALIE: It's 24 Church Street, Brooklyn. \n\nTOM: All right, what's your {mobile} number?\n\nNATALIE: I don't have a mobile phone.\n\nTOM: What's your {home} number then?\n\nNATALIE: It's 3985784323.\n\nTOM: Lastly, what's your {email} address?\n\nNATALIE: It's nat.gavinsky@hotmail.uk\n\nTOM: Thank you very much. \n"
+          }
+        }
+      ]
+    },
+    "95cfdd76-0fa4-48ad-bb29-c048d0505c37": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 4,
+        "lessonName": "Unit 2 Test",
+        "moduleType": "homework",
+        "exerciseName": "Review: be",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 2 > Unit 2 Test > Bài tập về nhà > Bài tập 5: Review: be",
+      "refId": "homework:8fa55c71-130d-4a0a-9d22-fbb7cac29481|4ca61ebb-5fa6-441c-a9a9-e1befc07b883",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "21/21",
+      "instruction": "Complete the conversations with the correct form of BE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Hi, I'm|am Thomas. What 's|is your name?\n\nB: Hello, Thomas. My name 's|is Tina. \n\nA: Where 're|are you from?\n\nB: I 'm|am from Italy. Are you from the USA?\n",
+          "student": " \nA: Hi, Iam Thomas. What is your name?\n\nB: Hello, Thomas. My name is Tina. \n\nA: Where are you from?\n\nB: I 'm from Italy. are you from the USA?\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "'m|am",
+              "'s|is",
+              "'s|is",
+              "'re|are",
+              "'m|am",
+              "Are"
+            ],
+            "studentWords": [
+              "am",
+              "is",
+              "is",
+              "are",
+              "'m",
+              "are"
+            ],
+            "template": " \nA: Hi, I{'m|am} Thomas. What {'s|is} your name?\n\nB: Hello, Thomas. My name {'s|is} Tina. \n\nA: Where {'re|are} you from?\n\nB: I {'m|am} from Italy. {Are} you from the USA?\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: Is he your brother?\n\nB: No, he 's not|isn't|is not. He 's|is my friend.\n\nA: How old is he?\n\nB: He 's|is fifteen.\n",
+          "student": " \nA: is he your brother?\n\nB: No, he isn't. He 's my friend.\n\nA: How old is he?\n\nB: He 's fifteen.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is",
+              "'s not|isn't|is not",
+              "'s|is",
+              "is",
+              "'s|is"
+            ],
+            "studentWords": [
+              "is",
+              "isn't",
+              "'s",
+              "is",
+              "'s"
+            ],
+            "template": " \nA: {Is} he your brother?\n\nB: No, he {'s not|isn't|is not}. He {'s|is} my friend.\n\nA: How old {is} he?\n\nB: He {'s|is} fifteen.\n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: Are they your dogs?\n\nB: Yes, they are.\n\nA: How old are they?\n\nB: Oh, they 're|are old. They 're|are 10 years old.\n",
+          "student": " \nA: are they your dogs?\n\nB: Yes, they are.\n\nA: How old are they?\n\nB: Oh, they are old. They are 10 years old.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Are",
+              "are",
+              "are",
+              "'re|are",
+              "'re|are"
+            ],
+            "studentWords": [
+              "are",
+              "are",
+              "are",
+              "are",
+              "are"
+            ],
+            "template": " \nA: {Are} they your dogs?\n\nB: Yes, they {are}.\n\nA: How old {are} they?\n\nB: Oh, they {'re|are} old. They {'re|are} 10 years old.\n"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: How old is your house?\n\nB: It 's|is 100. \n\nA: And is this your new car?\n\nB: No, it 's not|isn't|is not. It 's|is my old car.\n",
+          "student": " \nA: How old is your house?\n\nB: It 's 100. \n\nA: And is this your new car?\n\nB: No, it isn't. It is my old car.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is",
+              "'s|is",
+              "is",
+              "'s not|isn't|is not",
+              "'s|is"
+            ],
+            "studentWords": [
+              "is",
+              "'s",
+              "is",
+              "isn't",
+              "is"
+            ],
+            "template": " \nA: How old {is} your house?\n\nB: It {'s|is} 100. \n\nA: And {is} this your new car?\n\nB: No, it {'s not|isn't|is not}. It {'s|is} my old car.\n"
           }
         }
       ]
