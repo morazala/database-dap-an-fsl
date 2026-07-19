@@ -323,13 +323,7 @@
     max-width:920px; margin:0 auto; padding:10px 18px;
     display:flex; align-items:center; gap:8px; overflow:hidden;
   }
-  @media(min-width:720px){ #breadcrumb-inner{ padding-left:64px; } }
-  #breadcrumb-toc-btn{
-    flex:none; width:32px; height:32px; border-radius:8px; border:1px solid #ccd4e2;
-    background:#fff; color:var(--ink); cursor:pointer; font-size:15px; display:flex;
-    align-items:center; justify-content:center;
-  }
-  #breadcrumb-toc-btn:hover{ background:var(--chip-bg); }
+  @media(min-width:720px){ #breadcrumb-inner{ padding-left:20px; } }
   #breadcrumb-trail{
     flex:1; min-width:0; display:flex; align-items:center; gap:6px;
     font-family:var(--font-body); font-size:13.5px; color:var(--ink-soft);
@@ -346,75 +340,62 @@
     #breadcrumb-trail .bc-seg.bc-exercise{ display:none; }
   }
 
-  /* Nút "Về đầu trang". */
-  #back-to-top{
-    position:fixed; right:20px; bottom:24px; z-index:999;
-    width:44px; height:44px; border-radius:50%; border:none;
-    background:var(--ink); color:#fff; font-size:18px; cursor:pointer;
-    display:none; align-items:center; justify-content:center;
-    box-shadow:0 4px 14px rgba(20,30,60,.28);
-    transition:transform .12s ease, opacity .12s ease;
+  /* Vùng cảm ứng sát mép trái màn hình — di chuột vào đây sẽ tự mở sidebar
+     mục lục; không cần bấm nút. Chỉ hoạt động khi đang xem theo Cây phân cấp. */
+  #toc-edge-zone{
+    position:fixed; top:0; left:0; bottom:0; width:16px; z-index:1009;
+    display:none;
   }
-  #back-to-top.visible{ display:flex; }
-  #back-to-top:hover{ transform:translateY(-2px); }
-
-  /* Nút mở/đóng mục lục (TOC) — nổi cố định, luôn có mặt khi đang xem theo
-     Cây phân cấp, kể cả trước khi cuộn trang. */
-  #toc-toggle-btn{
-    position:fixed; left:20px; bottom:24px; z-index:999;
-    display:none; align-items:center; gap:8px;
-    background:var(--ink); color:#fff; border:none; border-radius:24px;
-    padding:11px 18px 11px 15px; font-family:var(--font-body); font-weight:600; font-size:13.5px;
-    cursor:pointer; box-shadow:0 4px 14px rgba(20,30,60,.28);
+  #toc-edge-zone.active{ display:block; }
+  /* Que nắm nhỏ luôn hé lộ ở mép trái để gợi ý có sidebar, có thể bấm được
+     trên màn hình cảm ứng (không có hover). */
+  #toc-edge-handle{
+    position:fixed; left:0; top:50%; transform:translateY(-50%); z-index:1009;
+    width:7px; height:64px; border-radius:0 8px 8px 0;
+    background:var(--ink); opacity:.32;
+    transition:opacity .15s ease, width .15s ease;
+    cursor:pointer;
   }
-  #toc-toggle-btn.visible{ display:flex; }
-  #toc-toggle-btn .toc-icon{ font-size:15px; }
+  #toc-edge-zone.active #toc-edge-handle{ display:block; }
+  #toc-edge-handle:hover{ opacity:.7; width:10px; }
 
-  /* Lớp phủ tối phía sau khi mục lục mở (chủ yếu cho màn hình hẹp). */
-  #toc-backdrop{
-    position:fixed; inset:0; background:rgba(20,25,40,.28); z-index:1010;
-    opacity:0; pointer-events:none; transition:opacity .18s ease;
-  }
-  #toc-backdrop.visible{ opacity:1; pointer-events:auto; }
-
-  /* Bảng mục lục (Unit → Bài học) trượt ra từ bên trái. */
+  /* Sidebar mục lục (Unit → Bài học) — thon gọn, trượt ra từ bên trái khi
+     hover vào mép trái, tự thu vào khi chuột rời khỏi khung. */
   #toc-panel{
-    position:fixed; top:0; bottom:0; left:0; width:300px; max-width:85vw; z-index:1011;
+    position:fixed; top:0; bottom:0; left:0; width:230px; max-width:78vw; z-index:1011;
     background:var(--card-bg); border-right:1px solid #e3e7ef;
     box-shadow:4px 0 24px rgba(20,30,60,.14);
-    transform:translateX(-100%); transition:transform .2s ease;
+    transform:translateX(-100%); transition:transform .18s ease;
     display:flex; flex-direction:column;
   }
   #toc-panel.visible{ transform:translateX(0); }
   #toc-panel-head{
     display:flex; align-items:center; justify-content:space-between; gap:8px;
-    padding:16px 16px 12px; border-bottom:2px solid var(--ink); flex:none;
+    padding:12px 12px 9px; border-bottom:2px solid var(--ink); flex:none;
   }
-  #toc-panel-head h2{ font-family:var(--font-display); font-size:22px; margin:0; }
+  #toc-panel-head h2{ font-family:var(--font-display); font-size:18px; margin:0; }
   #toc-panel-close{
-    width:30px; height:30px; border-radius:8px; border:1px solid #ccd4e2; background:#fff;
-    cursor:pointer; font-size:14px; color:var(--ink-soft); flex:none;
+    width:24px; height:24px; border-radius:7px; border:1px solid #ccd4e2; background:#fff;
+    cursor:pointer; font-size:12px; color:var(--ink-soft); flex:none;
   }
   #toc-panel-close:hover{ background:var(--chip-bg); }
-  #toc-panel-body{ flex:1; overflow-y:auto; padding:10px 10px 24px; }
-  #toc-panel-empty{ padding:16px; color:var(--ink-soft); font-size:13.5px; text-align:center; }
+  #toc-panel-body{ flex:1; overflow-y:auto; padding:6px 7px 18px; }
+  #toc-panel-empty{ padding:14px; color:var(--ink-soft); font-size:12.5px; text-align:center; }
 
-  .toc-unit{ margin-bottom:4px; }
+  .toc-unit{ margin-bottom:2px; }
   .toc-unit-label{
-    font-family:var(--font-display); font-size:17px; padding:9px 10px; border-radius:8px;
-    cursor:pointer; display:flex; align-items:center; justify-content:space-between; gap:8px;
+    font-family:var(--font-display); font-size:14.5px; padding:6px 8px; border-radius:7px;
+    cursor:pointer; line-height:1.25;
   }
   .toc-unit-label:hover{ background:var(--chip-bg); }
   .toc-unit-label.active{ background:var(--ink); color:#fff; }
-  .toc-unit-score{ font-family:var(--font-mono); font-size:11.5px; opacity:.75; white-space:nowrap; }
-  .toc-lessons{ padding-left:14px; border-left:2px dashed var(--rule); margin:2px 0 8px 12px; }
+  .toc-lessons{ padding-left:10px; border-left:2px dashed var(--rule); margin:1px 0 6px 9px; }
   .toc-lesson{
-    padding:6px 9px; border-radius:7px; cursor:pointer; font-size:13.5px; color:var(--ink-soft);
-    display:flex; align-items:center; justify-content:space-between; gap:8px;
+    padding:4px 7px; border-radius:6px; cursor:pointer; font-size:12px; color:var(--ink-soft);
+    line-height:1.25;
   }
   .toc-lesson:hover{ background:var(--chip-bg); color:var(--ink); }
   .toc-lesson.active{ background:var(--correct-bg); color:var(--correct); font-weight:700; }
-  .toc-lesson-score{ font-family:var(--font-mono); font-size:11px; opacity:.8; white-space:nowrap; }
 
   /* Khoảng đệm phía trên khi cuộn-tới-mục (scroll-margin) để mục tiêu không
      bị thanh breadcrumb dính che mất phần trên cùng. */
@@ -430,15 +411,11 @@
 
 <div id="breadcrumb-bar">
   <div id="breadcrumb-inner">
-    <button id="breadcrumb-toc-btn" title="Mở mục lục">☰</button>
     <div id="breadcrumb-trail"></div>
   </div>
 </div>
 
-<button id="toc-toggle-btn"><span class="toc-icon">☰</span> Mục lục</button>
-<button id="back-to-top" title="Về đầu trang">↑</button>
-
-<div id="toc-backdrop"></div>
+<div id="toc-edge-zone"><div id="toc-edge-handle" title="Mục lục"></div></div>
 <div id="toc-panel">
   <div id="toc-panel-head">
     <h2>📑 Mục lục</h2>
@@ -1117,17 +1094,15 @@ let smartNavEnabled = false;
 const scrollProgressFill = document.getElementById('scroll-progress-fill');
 const breadcrumbBar = document.getElementById('breadcrumb-bar');
 const breadcrumbTrail = document.getElementById('breadcrumb-trail');
-const backToTopBtn = document.getElementById('back-to-top');
-const tocToggleBtn = document.getElementById('toc-toggle-btn');
-const breadcrumbTocBtn = document.getElementById('breadcrumb-toc-btn');
+const tocEdgeZone = document.getElementById('toc-edge-zone');
+const tocEdgeHandle = document.getElementById('toc-edge-handle');
 const tocPanel = document.getElementById('toc-panel');
-const tocBackdrop = document.getElementById('toc-backdrop');
 const tocPanelBody = document.getElementById('toc-panel-body');
 const tocPanelClose = document.getElementById('toc-panel-close');
 
 function setSmartNavEnabled(enabled){
   smartNavEnabled = enabled;
-  tocToggleBtn.classList.toggle('visible', enabled);
+  tocEdgeZone.classList.toggle('active', enabled);
   if(!enabled){
     breadcrumbBar.classList.remove('visible');
     breadcrumbBar.style.display = 'none';
@@ -1147,7 +1122,6 @@ function buildSidebarToc(root){
   tocPanelBody.innerHTML = unitNames.map(unitName => {
     const unitNode = root[unitName];
     const unitKey = `u:${unitName}`;
-    const unitItems = flattenTreeItems(unitNode);
     const lessonNames = Object.keys(unitNode.lessons).sort((a,b) => {
       const oa = unitNode.lessons[a].lessonOrder, ob = unitNode.lessons[b].lessonOrder;
       if(oa != null && ob != null) return oa - ob;
@@ -1156,18 +1130,11 @@ function buildSidebarToc(root){
     const lessonsHtml = lessonNames.map(lessonName => {
       const lessonNode = unitNode.lessons[lessonName];
       const lessonKeyId = `${unitKey}|l:${lessonName}`;
-      const lessonItems = flattenTreeItems(lessonNode);
       const lessonLabel = lessonNode.lessonOrder != null ? `Bài học ${lessonNode.lessonOrder + 1} ` : lessonName;
-      return `<div class="toc-lesson" data-jump="${escapeAttr(lessonKeyId)}" title="${escapeAttr(lessonName)}">
-        <span>${escapeHtml(lessonLabel)}</span>
-        <span class="toc-lesson-score">${scoreLabel(lessonItems)}</span>
-      </div>`;
+      return `<div class="toc-lesson" data-jump="${escapeAttr(lessonKeyId)}" title="${escapeAttr(lessonName)}">${escapeHtml(lessonLabel)}</div>`;
     }).join('');
     return `<div class="toc-unit" data-unit-key="${escapeAttr(unitKey)}">
-      <div class="toc-unit-label" data-jump="${escapeAttr(unitKey)}">
-        <span>${escapeHtml(unitName)}</span>
-        <span class="toc-unit-score">${scoreLabel(unitItems)}</span>
-      </div>
+      <div class="toc-unit-label" data-jump="${escapeAttr(unitKey)}" title="${escapeAttr(unitName)}">${escapeHtml(unitName)}</div>
       <div class="toc-lessons">${lessonsHtml}</div>
     </div>`;
   }).join('');
@@ -1196,22 +1163,43 @@ document.getElementById('toc-panel-body').addEventListener('click', e => {
 
 function openTocPanel(){
   tocPanel.classList.add('visible');
-  tocBackdrop.classList.add('visible');
 }
 function closeTocPanel(){
   tocPanel.classList.remove('visible');
-  tocBackdrop.classList.remove('visible');
 }
-tocToggleBtn.addEventListener('click', openTocPanel);
-breadcrumbTocBtn.addEventListener('click', openTocPanel);
 tocPanelClose.addEventListener('click', closeTocPanel);
-tocBackdrop.addEventListener('click', closeTocPanel);
 
-backToTopBtn.addEventListener('click', () => {
-  window.scrollTo({ top:0, behavior:'smooth' });
-});
+// ---- Tự động hiện/ẩn sidebar mục lục khi di chuột vào/ra mép trái ----
+// Di chuột vào dải mỏng sát mép trái màn hình sẽ mở sidebar; đưa chuột ra
+// khỏi cả dải mép trái lẫn khung sidebar sẽ tự đóng lại sau một khoảng trễ
+// ngắn để không bị chớp tắt khi di chuột ngang qua.
+const hasHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+let tocCloseTimer = null;
+function cancelTocClose(){
+  if(tocCloseTimer){ clearTimeout(tocCloseTimer); tocCloseTimer = null; }
+}
+function scheduleTocClose(){
+  cancelTocClose();
+  tocCloseTimer = setTimeout(closeTocPanel, 220);
+}
+if(hasHover){
+  tocEdgeZone.addEventListener('mouseenter', () => { cancelTocClose(); openTocPanel(); });
+  tocEdgeZone.addEventListener('mouseleave', scheduleTocClose);
+  tocPanel.addEventListener('mouseenter', cancelTocClose);
+  tocPanel.addEventListener('mouseleave', scheduleTocClose);
+} else {
+  // Màn hình cảm ứng: chạm vào que nắm để mở/đóng, chạm ra ngoài để đóng.
+  tocEdgeHandle.addEventListener('click', e => {
+    e.stopPropagation();
+    tocPanel.classList.contains('visible') ? closeTocPanel() : openTocPanel();
+  });
+  document.addEventListener('click', e => {
+    if(!tocPanel.classList.contains('visible')) return;
+    if(!tocPanel.contains(e.target)) closeTocPanel();
+  });
+}
 
-// ---- Cập nhật thanh tiến trình, nút "về đầu trang" và breadcrumb khi cuộn ----
+// ---- Cập nhật thanh tiến trình và breadcrumb khi cuộn ----
 function textOf(el, selector){
   const node = el.querySelector(selector);
   return node ? node.textContent.trim() : '';
@@ -1223,7 +1211,6 @@ function updateSmartNav(){
   const scrollable = doc.scrollHeight - doc.clientHeight;
   const pct = scrollable > 0 ? Math.min(100, (scrollTop / scrollable) * 100) : 0;
   scrollProgressFill.style.width = pct + '%';
-  backToTopBtn.classList.toggle('visible', scrollTop > 420);
 
   if(!smartNavEnabled) return;
 
