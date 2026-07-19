@@ -294,6 +294,10 @@
     <div class="sub">Đọc file JSON xuất ra từ bảng "FSEL Collector"</div>
   </header>
   <div id="gist-sync-banner" style="display:none; margin-bottom:16px; padding:10px 14px; border-radius:8px; font-size:13px; line-height:1.5;"></div>
+  <div id="update-banner" style="display:none; margin-bottom:16px; padding:12px 14px; border-radius:8px; font-size:13.5px; line-height:1.5; background:#fff1a6; color:#5c4a06; border:1px solid #e8d27a; align-items:center; gap:12px; flex-wrap:wrap;">
+    <span style="flex:1; min-width:200px;">🔄 Trang này đang mở bản cũ — đã có bản cập nhật mới hơn.</span>
+    <button id="update-reload-btn" style="font-family:var(--font-body); font-weight:700; font-size:13px; background:#5c4a06; color:#fff; border:none; border-radius:7px; padding:7px 14px; cursor:pointer;">Tải lại trang ngay</button>
+  </div>
 
   <div id="dropzone">
     <div class="dz-icon">📥</div>
@@ -1096,6 +1100,80 @@ async function loadFromGist(){
 
 loadFromGist();
 setInterval(loadFromGist, GIST_SYNC_CONFIG.pollIntervalMs);
+
+// ---------------- Phát hiện bản mới đã deploy (GitHub Pages) — TỰ ĐỘNG ----------------
+// Trang này có thể bị người dùng mở & để mở nhiều ngày liền. Mỗi khi có bản
+// cập nhật mới được đẩy lên GitHub Pages, các tab đang mở bản CŨ sẽ không tự
+// nhận ra — vì mọi thứ đã được tải & chạy sẵn trong bộ nhớ trình duyệt.
+//
+// Cách phát hiện KHÔNG cần tự tay đổi số phiên bản mỗi lần deploy: GitHub
+// Pages (Fastly CDN) tự trả về header "ETag" (và/hoặc "Last-Modified") cho
+// mỗi file tĩnh, giá trị này tự đổi mỗi khi nội dung file thay đổi (mỗi lần
+// bạn commit/deploy bản mới). Nên chỉ cần:
+//   1. Lúc mới mở trang, tự fetch lại chính URL của trang (kèm chống cache)
+//      để lấy "chữ ký" hiện tại (ETag ưu tiên, rồi tới Last-Modified, cuối
+//      cùng mới tới độ dài nội dung nếu server không trả 2 header trên).
+//   2. Định kỳ fetch lại và so sánh với chữ ký ban đầu — khác nhau tức là
+//      server đã có bản mới hơn bản đang chạy trong tab này.
+// Không có bước thủ công nào cần nhớ khi deploy.
+const UPDATE_CHECK_INTERVAL_MS = 5 * 60 * 1000; // 5 phút / lần
+let baselineSignature = null;
+let updateBannerShown = false;
+
+function pageSignatureFrom(res, text){
+  const etag = res.headers.get('ETag');
+  if(etag) return 'etag:' + etag;
+  const lastMod = res.headers.get('Last-Modified');
+  if(lastMod) return 'lm:' + lastMod;
+  return 'len:' + text.length; // dự phòng cuối cùng nếu server không trả 2 header trên
+}
+
+async function fetchSelfSignature(){
+  const url = location.pathname + '?_=' + Date.now();
+  const res = await fetch(url, { cache: 'no-store' });
+  if(!res.ok) return null;
+  const text = await res.text();
+  return pageSignatureFrom(res, text);
+}
+
+function showUpdateBanner(){
+  if(updateBannerShown) return;
+  updateBannerShown = true;
+  const el = document.getElementById('update-banner');
+  if(el) el.style.display = 'flex';
+}
+
+async function checkForUpdate(){
+  // Chỉ chạy khi trang được host qua http/https thật (GitHub Pages) — bỏ qua
+  // khi mở ở dạng blob:/file: (vd nút "🔍 Mở trình xem đáp án" trong FSEL
+  // Collector tạo ra), vì các trường hợp đó không có "bản mới hơn trên
+  // server" để so sánh.
+  if(!/^https?:$/.test(location.protocol)) return;
+  try{
+    if(baselineSignature == null){
+      baselineSignature = await fetchSelfSignature();
+      return; // lần đầu chỉ để lấy chữ ký gốc, chưa có gì để so sánh
+    }
+    const sig = await fetchSelfSignature();
+    if(sig && sig !== baselineSignature) showUpdateBanner();
+  }catch(e){
+    // Lỗi mạng tạm thời — bỏ qua, tự thử lại ở lần poll kế tiếp.
+  }
+}
+
+const updateReloadBtn = document.getElementById('update-reload-btn');
+if(updateReloadBtn) updateReloadBtn.addEventListener('click', () => location.reload());
+
+// Lấy chữ ký gốc sớm sau khi mở trang (nhường băng thông cho các lần tải dữ
+// liệu ban đầu), sau đó so sánh định kỳ, và thêm 1 lần mỗi khi người dùng
+// quay lại tab (vd đã mở sẵn từ hôm trước, giờ mới chuyển sang xem).
+setTimeout(checkForUpdate, 15000);
+setInterval(checkForUpdate, UPDATE_CHECK_INTERVAL_MS);
+document.addEventListener('visibilitychange', () => {
+  if(document.visibilityState === 'visible') checkForUpdate();
+});
+
+
 </script>
 </body>
 </html>
