@@ -216,6 +216,14 @@
   .answer-block.copied .blk-copied-tag{ display:inline-flex; }
   .blk-copied-tag{ display:none; align-items:center; gap:3px; margin-left:auto; font-size:11.5px; font-weight:700; opacity:.9; white-space:nowrap; }
 
+  /* Nhãn chữ cái đáp án (A, B, C...) đi kèm 1 số dạng câu hỏi (vd ghép cặp
+     MatchingType1, trắc nghiệm) — giữ lại đúng chữ cái như hiển thị trên
+     FSEL, tô màu đỏ, xen kẽ 2 sắc độ theo thứ tự xuất hiện trong thẻ câu
+     hỏi (giống answer-block), font to hơn chữ đáp án 1 chút để dễ nhận ra. */
+  .opt-label{ font-weight:800; font-size:1.12em; margin-right:3px; }
+  .opt-label-a{ color:#c0392b; }
+  .opt-label-b{ color:#e0402c; }
+
   /* Ảnh minh hoạ trong 1 khối đáp án (khi đáp án là link ảnh) — kích thước
      cố định + object-fit:cover để không bị vỡ layout khi ảnh gốc có độ
      phân giải / tỉ lệ khác nhau. */
@@ -462,13 +470,29 @@ function handleJSON(json){
 const GAP_BLOCK_QUESTION_TYPES = new Set(['GapFillScoreByGap', 'GapFillWordBankScoreByGap']);
 
 // "counters" được truyền xuyên suốt 1 thẻ câu hỏi (q-card) để: (1) đánh số
-// thứ tự các chỗ trống (counters.gap), và (2) xen kẽ 2 màu nền giữa MỌI
+// thứ tự các chỗ trống (counters.gap), (2) xen kẽ 2 màu nền giữa MỌI
 // answer-block xuất hiện trong thẻ đó theo đúng thứ tự hiển thị
 // (counters.block) — nhờ vậy 2 khối đáp án nằm sát nhau luôn khác màu nhau,
-// bất kể chúng thuộc loại đáp án nào.
+// bất kể chúng thuộc loại đáp án nào — và (3) xen kẽ 2 sắc độ đỏ giữa các
+// nhãn chữ cái (A, B, C...) xuất hiện trong thẻ đó (counters.label).
 function nextBlockClass(counters){
   counters.block = (counters.block || 0) + 1;
   return (counters.block % 2 === 1) ? 'blk-a' : 'blk-b';
+}
+function nextLabelClass(counters){
+  counters.label = (counters.label || 0) + 1;
+  return (counters.label % 2 === 1) ? 'opt-label-a' : 'opt-label-b';
+}
+
+// Trả về HTML cho nhãn chữ cái (A, B, C...) đi kèm 1 đáp án, nếu dữ liệu có
+// (meta.optionLabel — chỉ có ở file JSON xuất từ bản Collector mới). Với
+// file JSON cũ (chưa có field này), trả về chuỗi rỗng — không hiện gì thêm,
+// không lỗi. Có dấu "." theo sau và 1 khoảng trắng, giống định dạng gốc
+// trên FSEL (vd "D. ten pounds").
+function optionLabelHtml(label, counters){
+  if(label == null || label === '') return '';
+  const cls = nextLabelClass(counters);
+  return `<span class="opt-label ${cls}">${escapeHtml(label)}.</span> `;
 }
 
 // Mọi answer-block đều được gắn data-copy (đã escape HTML nên giữ nguyên
@@ -498,11 +522,15 @@ function partHtml(p, counters, questionType){
     const text = escapeHtml(rawText);
     const cls = nextBlockClass(counters);
     const rawLeft = p.meta.left ?? '';
+    // Chỉ hiện nhãn chữ cái (A, B, C...) cho đúng dạng MatchingType1 — các
+    // dạng ghép-cặp khác dùng chung handler này ở collector nhưng KHÔNG hiện
+    // chữ cái, vì thứ tự word-bank của chúng không mang ý nghĩa hiển thị.
+    const labelHtml = (questionType === 'MatchingType1') ? optionLabelHtml(p.meta.optionLabel, counters) : '';
     return `<div class="part match-part">
       <span class="match-left">${renderPossibleImage(rawLeft)}</span>
       <span class="match-arrow">→</span>
       <div class="answer-block ${cls}" data-copy="${text}">
-        <span class="blk-text">${renderPossibleImage(rawText)}</span>
+        <span class="blk-text">${labelHtml}${renderPossibleImage(rawText)}</span>
         ${COPIED_TAG}
       </div>
     </div>`;
@@ -594,7 +622,7 @@ function cardHtml(id, entry){
   const badgeClass = isUnknown ? 'badge-unknown' : (isCorrect ? 'badge-correct' : (isIncorrect ? 'badge-wrong' : 'badge-neutral'));
   const badgeText = isUnknown ? '?' : (isCorrect ? '✓' : (isIncorrect ? '✗' : '–'));
   const searchBlob = escapeAttr([entry.instruction, entry.type, entry.where, id].filter(Boolean).join(' '));
-  const counters = { gap: 0, block: 0 };
+  const counters = { gap: 0, block: 0, label: 0 };
   const body = isUnknown
     ? `<div class="unknown-note">⚠️ Dạng câu hỏi chưa được script xử lý.<br>Chữ ký cấu trúc: <code>${escapeHtml(entry.signature || '')}</code><br>Hãy dùng nút "Unknown (gộp)" trong FSEL Collector để lấy chi tiết đầy đủ.</div>`
     : ((entry.answer || []).map(p => partHtml(p, counters, entry.type)).filter(Boolean).join('') || '<div class="part note-part">Không có dữ liệu đáp án chi tiết.</div>');
@@ -1172,8 +1200,6 @@ setInterval(checkForUpdate, UPDATE_CHECK_INTERVAL_MS);
 document.addEventListener('visibilitychange', () => {
   if(document.visibilityState === 'visible') checkForUpdate();
 });
-
-
 </script>
 </body>
 </html>
