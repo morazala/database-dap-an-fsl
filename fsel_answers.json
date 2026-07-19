@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-19T10:06:15.181Z",
-  "totalQuestions": 431,
+  "exportedAt": "2026-07-19T13:11:24.144Z",
+  "totalQuestions": 481,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -18031,6 +18031,2366 @@
         }
       ]
     },
+    "6c1c248b-a4bf-4661-a63c-10195d08cd28": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|73fef6a6-a76d-4643-b3a4-3c609a4b5c83",
+      "type": "MatchingType2",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Match the sentences to the correct pictures.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/30_1210_1724396729737.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/30_1210_1724396729737.png",
+          "status": "Correct",
+          "meta": {
+            "left": "I like fish.",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/28_4196_1724396718712.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/28_4196_1724396718712.png",
+          "status": "Correct",
+          "meta": {
+            "left": "I love chocolate.",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/31_4834_1724396734906.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/31_4834_1724396734906.png",
+          "status": "Correct",
+          "meta": {
+            "left": "I drink a lot of coffee.",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "https://s3-sgn10.fptcloud.com/fsel/Videos/29_7168_1724396724333.png",
+          "student": "https://s3-sgn10.fptcloud.com/fsel/Videos/29_7168_1724396724333.png",
+          "status": "Correct",
+          "meta": {
+            "left": "I eat a lot of rice.",
+            "optionLabel": "B"
+          }
+        }
+      ]
+    },
+    "da02d5df-a5da-468d-a6c6-0e47df53579c": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|444f2fdf-1a42-42d1-9a2d-837c52487df5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "I drink a lot of coffee.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "I drink a lot of coffee",
+            "i drink a lot of coffee",
+            "I drink a lot of coffee."
+          ],
+          "student": "I drink a lot of coffee.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "74956995-249a-49c4-b71a-f2708cf981d2": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|444f2fdf-1a42-42d1-9a2d-837c52487df5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "I eat a lot of rice.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "I eat a lot of rice",
+            "I eat alot of rice",
+            "I eat allot of rice",
+            "I eat a lotta rice",
+            "i eat a lot of rice"
+          ],
+          "student": "I eat a lot of rice.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "d282fe7f-61fc-4c39-a1dd-983cac68cc54": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 5: Nghe",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|f36d0c1d-c742-4c0e-83b8-9e70830a6cf9",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Listen to the audio and choose the correct words to complete each sentence.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "husband",
+          "student": "husband",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Nick is Fiona’s {*husband*//son}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "coffee",
+          "student": "coffee",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Fiona and Nick love {*coffee*//milk}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "tea",
+          "student": "tea",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They drink a lot of {water//*tea*}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "fish",
+          "student": "fish",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They eat a lot of {meat//*fish*}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "eggs",
+          "student": "eggs",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Anne and Kevin like {*eggs*//cheese}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "pasta",
+          "student": "pasta",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They also eat a lot of {vegetables//*pasta*}."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "chocolate",
+          "student": "chocolate",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They love {fruit//*chocolate*}."
+          }
+        }
+      ]
+    },
+    "7d302e56-dc2c-4593-bfe2-224e9425a1b5": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 6: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|74e2d2b4-5405-40b1-b962-1131827376c3",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "0/4",
+      "instruction": "Read and listen to the articles. Write the number of foods and drinks that each person likes. Write ONE number only.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Zoe: 8",
+          "student": " Zoe: 5",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "8"
+            ],
+            "studentWords": [
+              "5"
+            ],
+            "template": " Zoe: {8}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Ed: 6",
+          "student": " Ed: 5",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "6"
+            ],
+            "studentWords": [
+              "5"
+            ],
+            "template": " Ed: {6}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Mei: 8",
+          "student": " Mei: 5",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "8"
+            ],
+            "studentWords": [
+              "5"
+            ],
+            "template": " Mei: {8}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Ben: 8",
+          "student": " Ben: 5",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "8"
+            ],
+            "studentWords": [
+              "5"
+            ],
+            "template": " Ben: {8}"
+          }
+        }
+      ]
+    },
+    "dfee7928-3839-4d02-85f4-8cf1461388a5": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who like rice and pasta.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "dbe38dd4-4e7e-4933-9f01-30fb4bf31e9f": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who eat a lot of sandwiches.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "d4498ef9-4740-4524-bbb8-7346e663a714": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who drink a lot of coffee.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "a3430f7a-f840-4943-9061-9cfd2aad84d9": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who love salads.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "d8aaa00f-42fe-4f24-a5aa-cbe9fdcd84ba": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who eat a lot of fruit.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "07c539e2-faed-47bd-906f-44b9104a4c29": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who like chocolate biscuits.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "025ea99a-384e-4fe5-9fba-16f49d05ef6f": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0c3f381b-733b-41fb-b5d2-fde2b1f45809",
+      "type": "Checklist",
+      "correct": false,
+      "score": "0/2",
+      "instruction": "Tick (✓) the names of people who love ice cream.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Zoe"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ed"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Mei"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Ben"
+          }
+        }
+      ]
+    },
+    "29874f51-5652-491a-94ef-a84a42440627": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|94fef281-038b-4d3d-9b99-9e288137803a",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Look at the vowels in CAPITAL. Listen and choose the different vowel sound.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "mUch",
+          "student": "mUch",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {hOt//Orange//*mUch*}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "dOctor",
+          "student": "dOctor",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {mOther//*dOctor*//sOn}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "dOllar",
+          "student": "dOllar",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*dOllar*//cOuntry//mOney}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "lOve",
+          "student": "lOve",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {dOg//chOcolate//*lOve*}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "shOp",
+          "student": "shOp",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*shOp*//nUmber//brOther}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "hUsband",
+          "student": "hUsband",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {wAtch//*hUsband*//wrOng}"
+          }
+        }
+      ]
+    },
+    "7b31f685-646c-4438-b472-06cde2be7e4b": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0de5c5cc-7622-4f97-8ffd-60a6a14dc419",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "much - /ʌ/ - “uhh”",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "much"
+          ],
+          "student": "much",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a5eaca8b-ccbc-4bb6-9691-17661c3783d3": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0de5c5cc-7622-4f97-8ffd-60a6a14dc419",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "doctor - /ɒ/ - “aww” ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "doctor"
+          ],
+          "student": "doctor - /ɒ/ - “aww”",
+          "status": "Fail"
+        }
+      ]
+    },
+    "604f786f-3494-4a83-b3b2-db59e444ca46": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0de5c5cc-7622-4f97-8ffd-60a6a14dc419",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "dollar - /ɒ/ - “aww” ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "dollar",
+            "Dollar",
+            "DOLLAR",
+            "doller",
+            "dolla"
+          ],
+          "student": "dollar - /ɒ/ - “aww”",
+          "status": "Fail"
+        }
+      ]
+    },
+    "77e1b336-e104-4db1-a0f6-c337e37d7580": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0de5c5cc-7622-4f97-8ffd-60a6a14dc419",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "love - /ʌ/ - “uhh”",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "love"
+          ],
+          "student": "love - /ʌ/ - “uhh”",
+          "status": "Fail"
+        }
+      ]
+    },
+    "8d9c2095-89af-4c13-86c0-022119823513": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0de5c5cc-7622-4f97-8ffd-60a6a14dc419",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "shop - /ɒ/ - “aww” ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "shop"
+          ],
+          "student": "shop - /ɒ/ - “aww”",
+          "status": "Fail"
+        }
+      ]
+    },
+    "fc914140-5669-4cfb-969d-ab7b69f17c99": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 3 > Food I like > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:93ac35c5-1349-4b1b-b754-7293687b0f3e|0de5c5cc-7622-4f97-8ffd-60a6a14dc419",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "husband - /ʌ/ - “uhh”",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "husband",
+            "husbend",
+            "huzband",
+            "hazband"
+          ],
+          "student": "husband - /ʌ/ - “uhh”",
+          "status": "Fail"
+        }
+      ]
+    },
+    "0393e7ea-e0fc-43f9-bfac-e804b656faad": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bff63082-2ade-4fa2-afc6-585086ce76f6",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Write the opposite of these adjectives.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " good -> bad",
+          "student": " good -> bad",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "bad"
+            ],
+            "studentWords": [
+              "bad"
+            ],
+            "template": " good -> {bad}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " big -> small|little",
+          "student": " big -> small",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "small|little"
+            ],
+            "studentWords": [
+              "small"
+            ],
+            "template": " big -> {small|little}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " friendly -> unfriendly",
+          "student": " friendly -> unfriendly ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "unfriendly"
+            ],
+            "studentWords": [
+              "unfriendly "
+            ],
+            "template": " friendly -> {unfriendly}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " cheap -> expensive",
+          "student": " cheap -> expensive",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "expensive"
+            ],
+            "studentWords": [
+              "expensive"
+            ],
+            "template": " cheap -> {expensive}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " hot -> cold",
+          "student": " hot -> cold",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cold"
+            ],
+            "studentWords": [
+              "cold"
+            ],
+            "template": " hot -> {cold}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " new -> old",
+          "student": " new -> old",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "old"
+            ],
+            "studentWords": [
+              "old"
+            ],
+            "template": " new -> {old}"
+          }
+        }
+      ]
+    },
+    "f06392cf-6789-4fe6-8ef0-2e2e9df73935": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bff63082-2ade-4fa2-afc6-585086ce76f6",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Fill in the gaps with the correct positive (+) or negative (-) form of be.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nHi Roberto\n\nHow are (+) you? David and I are (+) in the UK! We aren't|are not|'re not (-) in London today, we 're|are (+) in a hotel in Brighton. The rooms aren't|are not (-) very big, but they 're|are (+) very nice. The hotel 's not|isn't|is not (-) very expensive and the manager 's|is (+) very friendly.\nI 'm not|am not (-) in the hotel now, I 'm|am (+) in a café in Brighton. It 's|is (+) a beautiful city, but it 's not|isn't|is not (-) very hot here!\n\nSee you soon.\nLove Julia\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "are",
+              "are",
+              "aren't|are not|'re not",
+              "'re|are",
+              "aren't|are not",
+              "'re|are",
+              "'s not|isn't|is not",
+              "'s|is",
+              "'m not|am not",
+              "'m|am",
+              "'s|is",
+              "'s not|isn't|is not"
+            ],
+            "studentWords": null,
+            "template": " \nHi Roberto\n\nHow {are} (+) you? David and I {are} (+) in the UK! We {aren't|are not|'re not} (-) in London today, we {'re|are} (+) in a hotel in Brighton. The rooms {aren't|are not} (-) very big, but they {'re|are} (+) very nice. The hotel {'s not|isn't|is not} (-) very expensive and the manager {'s|is} (+) very friendly.\nI {'m not|am not} (-) in the hotel now, I {'m|am} (+) in a café in Brighton. It {'s|is} (+) a beautiful city, but it {'s not|isn't|is not} (-) very hot here!\n\nSee you soon.\nLove Julia\n"
+          }
+        }
+      ]
+    },
+    "19c0436b-8e51-4741-8b90-6f00fa62377a": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bff63082-2ade-4fa2-afc6-585086ce76f6",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Look at Roy and Jane's family. Write ONE word in each gap to complete these sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Jane is Roy's wife. ",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "wife"
+            ],
+            "studentWords": null,
+            "template": " Jane is Roy's {wife}. "
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Pam is Roy and Jane's daughter.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "daughter"
+            ],
+            "studentWords": null,
+            "template": " Pam is Roy and Jane's {daughter}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Nick is their son.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "son"
+            ],
+            "studentWords": null,
+            "template": " Nick is their {son}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Leo is Pam's husband.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Pam's"
+            ],
+            "studentWords": null,
+            "template": " Leo is {Pam's} husband."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Pam is Nick's sister.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "sister"
+            ],
+            "studentWords": null,
+            "template": " Pam is Nick's {sister}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Jo is Steve's sister.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Steve's"
+            ],
+            "studentWords": null,
+            "template": " Jo is {Steve's} sister."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Leo is Jo's dad|father.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "dad|father"
+            ],
+            "studentWords": null,
+            "template": " Leo is Jo's {dad|father}."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Jane is Pam's mother.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Jane"
+            ],
+            "studentWords": null,
+            "template": " {Jane} is Pam's mother."
+          }
+        },
+        {
+          "id": 9,
+          "correct": " Roy is Steve's grandfather|granddad.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "grandfather|granddad"
+            ],
+            "studentWords": null,
+            "template": " Roy is Steve's {grandfather|granddad}."
+          }
+        },
+        {
+          "id": 10,
+          "correct": " Steve and Jo are Leo and Pam's children.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "children"
+            ],
+            "studentWords": null,
+            "template": " Steve and Jo are Leo and Pam's {children}."
+          }
+        },
+        {
+          "id": 11,
+          "correct": " Roy and Jane are Steve and Jo's grandparents.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "grandparents"
+            ],
+            "studentWords": null,
+            "template": " Roy and Jane are Steve and Jo's {grandparents}."
+          }
+        }
+      ]
+    },
+    "ac8c3375-fa0c-418c-bdda-88c4896eb9f7": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bff63082-2ade-4fa2-afc6-585086ce76f6",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": null,
+      "score": null,
+      "instruction": "Choose the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "my",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Where's {I//*my*} bag?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "your",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Where are {you//*your*} parents from?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "she",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " Is {*she*//her} an actress?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Our",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " {We//*Our*} teacher's name is Caroline."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "He",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " {*He*//His} isn't from Thailand."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "their",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " What's {they//*their*} father's name?"
+          }
+        }
+      ]
+    },
+    "d6efeacb-dc28-47ce-b335-c9d794ddf7f1": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bff63082-2ade-4fa2-afc6-585086ce76f6",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Read this conversation in a café. Fill in the gaps with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, two coffees, please.\n\nASSISTANT: Anything else?\n\nCUSTOMER: Yes, an egg sandwich, please.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Eat in, please.\n\nASSISTANT: OK, that's £6.35, please.\n\nCUSTOMER: Thank you very much.\n\nASSISTANT: You're welcome.",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "help",
+              "please",
+              "else",
+              "sandwich",
+              "take",
+              "in",
+              "that's",
+              "much",
+              "welcome"
+            ],
+            "studentWords": null,
+            "template": " \nASSISTANT: Can I {help} you?\n\nCUSTOMER: Yes, two coffees, {please}.\n\nASSISTANT: Anything {else}?\n\nCUSTOMER: Yes, an egg {sandwich}, please.\n\nASSISTANT: Eat in or {take} away?\n\nCUSTOMER: Eat {in}, please.\n\nASSISTANT: OK, {that's} £6.35, please.\n\nCUSTOMER: Thank you very {much}.\n\nASSISTANT: You're {welcome}."
+          }
+        }
+      ]
+    },
+    "fdc67df8-43fe-4919-95a6-0424dd7fd0eb": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bff63082-2ade-4fa2-afc6-585086ce76f6",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Write the words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " sugar",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "sugar"
+            ],
+            "studentWords": null,
+            "template": " {sugar}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " cheese",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "cheese"
+            ],
+            "studentWords": null,
+            "template": " {cheese}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " milk",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "milk"
+            ],
+            "studentWords": null,
+            "template": " {milk}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " chocolate",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "chocolate"
+            ],
+            "studentWords": null,
+            "template": " {chocolate}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " fruit",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "fruit"
+            ],
+            "studentWords": null,
+            "template": " {fruit}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " bread",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "bread"
+            ],
+            "studentWords": null,
+            "template": " {bread}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " eggs|egg",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "eggs|egg"
+            ],
+            "studentWords": null,
+            "template": " {eggs|egg}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " vegetables|vegetable",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "vegetables|vegetable"
+            ],
+            "studentWords": null,
+            "template": " {vegetables|vegetable}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " tea",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "tea"
+            ],
+            "studentWords": null,
+            "template": " {tea}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " meat",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "meat"
+            ],
+            "studentWords": null,
+            "template": " {meat}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " fish",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "fish"
+            ],
+            "studentWords": null,
+            "template": " {fish}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": " water",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "water"
+            ],
+            "studentWords": null,
+            "template": " {water}"
+          }
+        }
+      ]
+    },
+    "fd66b732-2ffb-4162-aa3a-225b71d6cf00": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 2: Ngữ pháp",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|003be238-4936-4e79-9148-81f7c428da42",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Contraction or Possessive? Choose the correct option.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Possessive",
+          "student": "Possessive",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " This is Sarah's book. {Contraction//*Possessive*}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Contraction",
+          "student": "Contraction",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They’re going to the park. {*Contraction*//Possessive}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Possessive",
+          "student": "Possessive",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The cat's tail is long. {Contraction//*Possessive*}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Contraction",
+          "student": "Contraction",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " It's very hot today. {*Contraction*//Possessive}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "Possessive",
+          "student": "Possessive",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " John's bike is blue. {Contraction//*Possessive*}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "Contraction",
+          "student": "Contraction",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She isn’t my classmate. {*Contraction*//Possessive}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "Possessive",
+          "student": "Possessive",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The dog's bowl is empty. {Contraction//*Possessive*}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "Contraction",
+          "student": "Contraction",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " It's time for lunch. {*Contraction*//Possessive}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "Possessive",
+          "student": "Possessive",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " That is my brother's car. {Contraction//*Possessive*}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "Possessive",
+          "student": "Possessive",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The teacher's desk is clean. {Contraction//*Possessive*}"
+          }
+        }
+      ]
+    },
+    "1628bd21-f587-4a7a-ac10-d2a3f903cfcd": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 3: Ngữ pháp",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|3dcf6721-8e31-4d41-ba34-d0bbdc4a2403",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Write these sentences again with apostrophes – ’. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Im an actor and shes a teacher.\n\n-> I'm an actor and she's a teacher.",
+          "student": " Im an actor and shes a teacher.\n\n-> I'm an actor and she's a teacher..",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I'm an actor and she's a teacher"
+            ],
+            "studentWords": [
+              "I'm an actor and she's a teacher."
+            ],
+            "template": " Im an actor and shes a teacher.\n\n-> {I'm an actor and she's a teacher}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Youre Sallys brother.\n\n-> You're Sally's brother.",
+          "student": " Youre Sallys brother.\n\n-> You're Sally's brother..",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "You're Sally's brother"
+            ],
+            "studentWords": [
+              "You're Sally's brother."
+            ],
+            "template": " Youre Sallys brother.\n\n-> {You're Sally's brother}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " They arent Bobs children.\n\n-> They aren't Bob's children.",
+          "student": " They arent Bobs children.\n\n-> They aren't Bob's children..",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "They aren't Bob's children"
+            ],
+            "studentWords": [
+              "They aren't Bob's children."
+            ],
+            "template": " They arent Bobs children.\n\n-> {They aren't Bob's children}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Were in Mr Wests English class.\n\n-> We're in Mr West's English class|We're in Mr. West's English class.",
+          "student": " Were in Mr Wests English class.\n\n-> We're in Mr West's English class..",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "We're in Mr West's English class|We're in Mr. West's English class"
+            ],
+            "studentWords": [
+              "We're in Mr West's English class."
+            ],
+            "template": " Were in Mr Wests English class.\n\n-> {We're in Mr West's English class|We're in Mr. West's English class}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Theyre French and hes Italian.\n\n-> They're French and he's Italian.",
+          "student": " Theyre French and hes Italian.\n\n-> They're French and he's Italian..",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "They're French and he's Italian"
+            ],
+            "studentWords": [
+              "They're French and he's Italian."
+            ],
+            "template": " Theyre French and hes Italian.\n\n-> {They're French and he's Italian}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Whats your fathers name?\n\n-> What's your father's name?",
+          "student": " Whats your fathers name?\n\n-> What's your father's name??",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's your father's name"
+            ],
+            "studentWords": [
+              "What's your father's name?"
+            ],
+            "template": " Whats your fathers name?\n\n-> {What's your father's name}?"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Wheres Jacks wife from?\n\n-> Where's Jack's wife from?",
+          "student": " Wheres Jacks wife from?\n\n-> Where's Jack's wife from??",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Where's Jack's wife from"
+            ],
+            "studentWords": [
+              "Where's Jack's wife from?"
+            ],
+            "template": " Wheres Jacks wife from?\n\n-> {Where's Jack's wife from}?"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Marys mother isnt from the UK.\n\n-> Mary's mother isn't from the UK.",
+          "student": " Marys mother isnt from the UK.\n\n-> Mary's mother isn't from the UK..",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Mary's mother isn't from the UK"
+            ],
+            "studentWords": [
+              "Mary's mother isn't from the UK."
+            ],
+            "template": " Marys mother isnt from the UK.\n\n-> {Mary's mother isn't from the UK}."
+          }
+        },
+        {
+          "id": 9,
+          "correct": " Whos Helenas English teacher?\n\n-> Who's Helena's English teacher?",
+          "student": " Whos Helenas English teacher?\n\n-> Who's Helena's English teacher??",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Who's Helena's English teacher"
+            ],
+            "studentWords": [
+              "Who's Helena's English teacher?"
+            ],
+            "template": " Whos Helenas English teacher?\n\n-> {Who's Helena's English teacher}?"
+          }
+        }
+      ]
+    },
+    "78634e76-29e7-456d-a9f4-f079987a92dc": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 4: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|7dca49d6-f85a-4c89-b5c0-7107489644f6",
+      "type": "MatchingType2",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Match each word with the correct definition.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Not working and having fun",
+          "student": "Not working and having fun",
+          "status": "Correct",
+          "meta": {
+            "left": "on holiday",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Land next to the sea with sand",
+          "student": "Land next to the sea with sand",
+          "status": "Correct",
+          "meta": {
+            "left": "a beach",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "A structure to walk or drive over water",
+          "student": "A structure to walk or drive over water",
+          "status": "Correct",
+          "meta": {
+            "left": "a bridge",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Very good and surprising",
+          "student": "Very good and surprising",
+          "status": "Correct",
+          "meta": {
+            "left": "amazing",
+            "optionLabel": "B"
+          }
+        }
+      ]
+    },
+    "6dc0d6bf-e30a-43ca-983c-47bb1b147b65": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are Jane and Brian in San Francisco?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Yes, they are."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "No, they aren't."
+          }
+        }
+      ]
+    },
+    "a92a98bd-367a-4f5e-8a4e-e95f670cdc7d": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are they in a big hotel?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, they are."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "No, they aren't."
+          }
+        }
+      ]
+    },
+    "351d3858-f047-486f-be02-f8c37f60aeb4": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Is their hotel near the beach?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Yes, it is."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "No, it isn't."
+          }
+        }
+      ]
+    },
+    "cde96fec-fcfc-4fe3-ba29-c7ad28313829": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Is their room very big?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, it is."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "No, it isn't."
+          }
+        }
+      ]
+    },
+    "89ee2af8-503c-48da-bce8-e4bbf6d3f256": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Is Brian's brother in San Francisco?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, he is."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "No, he isn't."
+          }
+        }
+      ]
+    },
+    "f07da193-eb57-409e-a71c-554d0e831f05": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are the people very friendly?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Yes, they are."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "No, they aren't."
+          }
+        }
+      ]
+    },
+    "fb42e040-940d-49e7-899a-6bfe03c5b59b": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|8941b6dc-a003-4e4f-9abf-574112d1198b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Is the food very expensive?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, it is."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "No, it isn't."
+          }
+        }
+      ]
+    },
+    "d5f584e4-e701-4e19-aa5b-14b99b43f68e": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 6: Đọc",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|bf3db0ed-4d88-42c2-a886-5b2d6d3ff75d",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Read the email again and write the missing words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Our room is nice, but it isn’t very big.",
+          "student": " Our room is nice, but it isn’t very big.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " Our room is nice, {but} it isn’t very big."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Brian’s brother is in the USA too, but he isn’t in San Francisco.",
+          "student": " Brian’s brother is in the USA too, but he isn’t in San Francisco.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " Brian’s brother is in the USA too, {but} he isn’t in San Francisco."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " The people here are very friendly and we love the restaurants and cafés.",
+          "student": " The people here are very friendly and we love the restaurants and cafés.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " The people here are very friendly {and} we love the restaurants and cafés."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " The food is good and it’s very cheap.",
+          "student": " The food is good and it’s very cheap.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " The food is good {and} it’s very cheap."
+          }
+        }
+      ]
+    },
+    "f75399bb-9df5-44c3-8495-503deff7c437": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 7: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|cebe0427-a488-4a1c-9ec1-6e38f5f705a6",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Connect these sentences with “and” or “but”.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Our hotel is very cheap. It isn’t near the beach.\n\n-> Our hotel is very cheap, but it isn't near the beach.",
+          "student": " Our hotel is very cheap. It isn’t near the beach.\n\n-> Our hotel is very cheap, but it isn’t near the beach.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Our hotel is very cheap, but it isn't near the beach"
+            ],
+            "studentWords": [
+              "Our hotel is very cheap, but it isn’t near the beach"
+            ],
+            "template": " Our hotel is very cheap. It isn’t near the beach.\n\n-> {Our hotel is very cheap, but it isn't near the beach}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " The restaurant is nice. The food is very good.\n\n-> The restaurant is nice and the food is very good.",
+          "student": " The restaurant is nice. The food is very good.\n\n-> The restaurant is nice and the food is very good.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "The restaurant is nice and the food is very good"
+            ],
+            "studentWords": [
+              "The restaurant is nice and the food is very good"
+            ],
+            "template": " The restaurant is nice. The food is very good.\n\n-> {The restaurant is nice and the food is very good}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " I love fruit. I eat a lot of vegetables.\n\n-> I love fruit and I eat a lot of vegetables.",
+          "student": " I love fruit. I eat a lot of vegetables.\n\n-> I love fruit and I eat a lot of vegetables.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I love fruit and I eat a lot of vegetables"
+            ],
+            "studentWords": [
+              "I love fruit and I eat a lot of vegetables"
+            ],
+            "template": " I love fruit. I eat a lot of vegetables.\n\n-> {I love fruit and I eat a lot of vegetables}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " She’s a German teacher. She isn’t from Germany.\n\n-> She's a German teacher, but she isn't from Germany.",
+          "student": " She’s a German teacher. She isn’t from Germany.\n\n-> She’s a German teacher, but she isn’t from Germany.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "She's a German teacher, but she isn't from Germany"
+            ],
+            "studentWords": [
+              "She’s a German teacher, but she isn’t from Germany"
+            ],
+            "template": " She’s a German teacher. She isn’t from Germany.\n\n-> {She's a German teacher, but she isn't from Germany}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " They’re my friends. They aren’t in my class.\n\n-> They're my friends, but they aren't in my class.",
+          "student": " They’re my friends. They aren’t in my class.\n\n-> They’re my friends, but they aren’t in my class.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "They're my friends, but they aren't in my class"
+            ],
+            "studentWords": [
+              "They’re my friends, but they aren’t in my class"
+            ],
+            "template": " They’re my friends. They aren’t in my class.\n\n-> {They're my friends, but they aren't in my class}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Brian is friendly. His brother is very unfriendly.\n\n-> Brian is friendly, but his brother is very unfriendly.",
+          "student": " Brian is friendly. His brother is very unfriendly.\n\n-> Brian is friendly, but his brother is very unfriendly.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Brian is friendly, but his brother is very unfriendly"
+            ],
+            "studentWords": [
+              "Brian is friendly, but his brother is very unfriendly"
+            ],
+            "template": " Brian is friendly. His brother is very unfriendly.\n\n-> {Brian is friendly, but his brother is very unfriendly}."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " She’s from London. She’s an actress.\n\n-> She's from London and she's an actress.",
+          "student": " She’s from London. She’s an actress.\n\n-> She’s from London and she’s an actress.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "She's from London and she's an actress"
+            ],
+            "studentWords": [
+              "She’s from London and she’s an actress"
+            ],
+            "template": " She’s from London. She’s an actress.\n\n-> {She's from London and she's an actress}."
+          }
+        }
+      ]
+    },
+    "86b3f67a-cc67-4556-a90c-488d23cfa396": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 3 > Unit 3 Test > Video tương tác > Bài tập 8: Từ vựng",
+      "refId": "video:c3b78d7b-8d26-451a-ad0b-9a83d5d707a9|38b05dab-32b1-4fc3-beab-964c193d2412",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Read the email. Fill in the gaps with AND or BUT.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nHi Greg,\n\nHow are you? I’m on holiday in Rome! I’m in a small hotel near the Colosseum. My room is nice and it’s very cheap. My sister Angie is in Rome too, but my brother isn’t here. The people are very friendly, but my Italian isn’t very good! The food is very nice and I love the pasta here. \n\nSee you soon!\n\nBest wishes,\nEvelyn",
+          "student": " \nHi Greg,\n\nHow are you? I’m on holiday in Rome! I’m in a small hotel near the Colosseum. My room is nice and it’s very cheap. My sister Angie is in Rome too, but my brother isn’t here. The people are very friendly, but my Italian isn’t very good! The food is very nice and I love the pasta here. \n\nSee you soon!\n\nBest wishes,\nEvelyn",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and",
+              "but",
+              "but",
+              "and"
+            ],
+            "studentWords": [
+              "and",
+              "but",
+              "but",
+              "and"
+            ],
+            "template": " \nHi Greg,\n\nHow are you? I’m on holiday in Rome! I’m in a small hotel near the Colosseum. My room is nice {and} it’s very cheap. My sister Angie is in Rome too, {but} my brother isn’t here. The people are very friendly, {but} my Italian isn’t very good! The food is very nice {and} I love the pasta here. \n\nSee you soon!\n\nBest wishes,\nEvelyn"
+          }
+        }
+      ]
+    },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
         "unitName": "Unit 1",
@@ -25215,6 +27575,1881 @@
               "You're"
             ],
             "template": " Conversation 2\n \nASSISTANT: Can I {help} you?\n\nCUSTOMER: Yes, a cappuccino, please.\n\nASSISTANT: {Sure}. Anything {else}?\n\nCUSTOMER: Yes, an egg sandwich, {please}.\n\nASSISTANT: {Eat} in or {take} away?\n\nCUSTOMER: Take {away}, please.\n\nASSISTANT: OK, that £4.75, please.\n\nCUSTOMER: {Thank} you very {much}.\n\nASSISTANT: {You're} welcome.\n"
+          }
+        }
+      ]
+    },
+    "a107c41d-a169-451b-861b-4efb7e6dc467": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "homework",
+        "exerciseName": "Food and drink",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Food I like > Bài tập về nhà > Bài tập 1: Food and drink",
+      "refId": "homework:c9daf594-ba52-48fe-bdc2-93a691786705|3f1fbea1-35ec-41f4-977c-db78c06d0b40",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "11/16",
+      "instruction": "Complete the crossword.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " rice",
+          "student": " rice",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "rice"
+            ],
+            "studentWords": [
+              "rice"
+            ],
+            "template": " {rice}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " chocolate",
+          "student": " chocolate",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "chocolate"
+            ],
+            "studentWords": [
+              "chocolate"
+            ],
+            "template": " {chocolate}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " cheese",
+          "student": " cheese",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cheese"
+            ],
+            "studentWords": [
+              "cheese"
+            ],
+            "template": " {cheese}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " fish",
+          "student": " fish",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fish"
+            ],
+            "studentWords": [
+              "fish"
+            ],
+            "template": " {fish}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " vegetables",
+          "student": " egg",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "vegetables"
+            ],
+            "studentWords": [
+              "egg"
+            ],
+            "template": " {vegetables}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " orange juice",
+          "student": " cereal",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "orange juice"
+            ],
+            "studentWords": [
+              "cereal"
+            ],
+            "template": " {orange juice}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " sugar",
+          "student": " bread",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "sugar"
+            ],
+            "studentWords": [
+              "bread"
+            ],
+            "template": " {sugar}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " bread",
+          "student": " juice",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "bread"
+            ],
+            "studentWords": [
+              "juice"
+            ],
+            "template": " {bread}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " eggs",
+          "student": " vegetable",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "eggs"
+            ],
+            "studentWords": [
+              "vegetable"
+            ],
+            "template": " {eggs}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " meat",
+          "student": " meat",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "meat"
+            ],
+            "studentWords": [
+              "meat"
+            ],
+            "template": " {meat}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " pasta",
+          "student": " pasta",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "pasta"
+            ],
+            "studentWords": [
+              "pasta"
+            ],
+            "template": " {pasta}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": " water",
+          "student": " water",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "water"
+            ],
+            "studentWords": [
+              "water"
+            ],
+            "template": " {water}"
+          }
+        },
+        {
+          "id": 13,
+          "correct": " tea",
+          "student": " tea ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "tea"
+            ],
+            "studentWords": [
+              "tea "
+            ],
+            "template": " {tea}"
+          }
+        },
+        {
+          "id": 14,
+          "correct": " coffee",
+          "student": " coffee",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "coffee"
+            ],
+            "studentWords": [
+              "coffee"
+            ],
+            "template": " {coffee}"
+          }
+        },
+        {
+          "id": 15,
+          "correct": " fruit",
+          "student": " fruit",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fruit"
+            ],
+            "studentWords": [
+              "fruit"
+            ],
+            "template": " {fruit}"
+          }
+        },
+        {
+          "id": 16,
+          "correct": " milk",
+          "student": " milk",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "milk"
+            ],
+            "studentWords": [
+              "milk"
+            ],
+            "template": " {milk}"
+          }
+        }
+      ]
+    },
+    "ac46eaa1-2f06-46e3-8384-2db94a5c8866": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "homework",
+        "exerciseName": "love, like, eat, drink, a lot of",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Food I like > Bài tập về nhà > Bài tập 2: love, like, eat, drink, a lot of",
+      "refId": "homework:a5d119cb-8937-4745-8dad-50e80a0de801|864b1578-968c-46b0-8a8c-1f2e5840aecb",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the sentences. Use the hints in the picture. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " I like fish and rice.",
+          "student": " I like fish and rice.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "like"
+            ],
+            "studentWords": [
+              "like"
+            ],
+            "template": " I {like} fish and rice."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I drink a lot of milk.",
+          "student": " I drink a lot of milk.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "drink",
+              "lot"
+            ],
+            "studentWords": [
+              "drink",
+              "lot"
+            ],
+            "template": " I {drink} a {lot} of milk."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " I eat a lot of vegetables.",
+          "student": " I eat a lot of vegetables.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eat",
+              "lot"
+            ],
+            "studentWords": [
+              "eat",
+              "lot"
+            ],
+            "template": " I {eat} a {lot} of vegetables."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " I love chocolate.",
+          "student": " I love chocolate.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "love"
+            ],
+            "studentWords": [
+              "love"
+            ],
+            "template": " I {love} chocolate."
+          }
+        }
+      ]
+    },
+    "1840ea9a-674f-4db4-8e48-755f8e1e4327": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation: syllables",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 3 > Food I like > Bài tập về nhà > Bài tập 3: Pronunciation: syllables",
+      "refId": "homework:40626191-6508-45c6-95ec-863d5bda2453|beb35641-d077-4dad-b9f4-a43f6d5cc8de",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Write the number of syllables in these words. Write ONE number only.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " friendly -> 2",
+          "student": " friendly -> 2",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "2"
+            ],
+            "studentWords": [
+              "2"
+            ],
+            "template": " friendly -> {2}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " unfriendly -> 3",
+          "student": " unfriendly -> 3",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "3"
+            ],
+            "studentWords": [
+              "3"
+            ],
+            "template": " unfriendly -> {3}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " cheap -> 1",
+          "student": " cheap -> 1",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "1"
+            ],
+            "studentWords": [
+              "1"
+            ],
+            "template": " cheap -> {1}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " expensive -> 3",
+          "student": " expensive -> 3",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "3"
+            ],
+            "studentWords": [
+              "3"
+            ],
+            "template": " expensive -> {3}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " ugly -> 2",
+          "student": " ugly -> 2",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "2"
+            ],
+            "studentWords": [
+              "2"
+            ],
+            "template": " ugly -> {2}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " beautiful -> 3",
+          "student": " beautiful -> 3",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "3"
+            ],
+            "studentWords": [
+              "3"
+            ],
+            "template": " beautiful -> {3}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " husband -> 2",
+          "student": " husband -> 2",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "2"
+            ],
+            "studentWords": [
+              "2"
+            ],
+            "template": " husband -> {2}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " wife -> 1",
+          "student": " wife -> 1",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "1"
+            ],
+            "studentWords": [
+              "1"
+            ],
+            "template": " wife -> {1}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " grandson -> 2",
+          "student": " grandson -> 2",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "2"
+            ],
+            "studentWords": [
+              "2"
+            ],
+            "template": " grandson -> {2}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " grandchildren -> 3",
+          "student": " grandchildren -> 3",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "3"
+            ],
+            "studentWords": [
+              "3"
+            ],
+            "template": " grandchildren -> {3}"
+          }
+        }
+      ]
+    },
+    "03214dec-9577-43de-8665-0d5234a8d6c1": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation: /ɒ/ and /ʌ/",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 3 > Food I like > Bài tập về nhà > Bài tập 4: Pronunciation: /ɒ/ and /ʌ/",
+      "refId": "homework:bff0aace-65dd-41bc-83d7-72e12f120ced|3db37265-ca16-4c42-b4b8-dc4ac7820272",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Look at the vowels in CAPITAL. Choose the correct vowel sounds.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "ɒ",
+          "student": "ɒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Orange {*ɒ*//ʌ}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "ʌ",
+          "student": "ʌ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " brOther {ɒ//*ʌ*}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "ʌ",
+          "student": "ʌ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " hUsband {ɒ//*ʌ*}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "ɒ",
+          "student": "ɒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " chOcolate {*ɒ*//ʌ}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "ɒ",
+          "student": "ɒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " dOctor {*ɒ*//ʌ}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "ʌ",
+          "student": "ʌ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " mOther {ɒ//*ʌ*}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "ɒ",
+          "student": "ɒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " dOllar {*ɒ*//ʌ}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "ɒ",
+          "student": "ɒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " wAtch {*ɒ*//ʌ}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "ʌ",
+          "student": "ʌ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " lOve {ɒ//*ʌ*}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "ʌ",
+          "student": "ʌ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " sOn {ɒ//*ʌ*}"
+          }
+        }
+      ]
+    },
+    "e35b30fc-b643-4a3e-b3e4-0793a7a465e1": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 3,
+        "lessonName": "Food I like",
+        "moduleType": "homework",
+        "exerciseName": "Spelling: numbers",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Food I like > Bài tập về nhà > Bài tập 5: Spelling: numbers",
+      "refId": "homework:7ff397dc-e11e-4960-a37c-6179895f91f4|9d0f0b4e-ff13-45ea-bf89-de39ca1a0ebd",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Write these numbers in words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " 5 -> five",
+          "student": " 5 -> five",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "five"
+            ],
+            "studentWords": [
+              "five"
+            ],
+            "template": " 5 -> {five}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " 15 -> fifteen",
+          "student": " 15 -> fifteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifteen"
+            ],
+            "studentWords": [
+              "fifteen"
+            ],
+            "template": " 15 -> {fifteen}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " 56 -> fifty-six|fifty six",
+          "student": " 56 -> fifty-six",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifty-six|fifty six"
+            ],
+            "studentWords": [
+              "fifty-six"
+            ],
+            "template": " 56 -> {fifty-six|fifty six}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " 14 -> fourteen",
+          "student": " 14 -> fourteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fourteen"
+            ],
+            "studentWords": [
+              "fourteen"
+            ],
+            "template": " 14 -> {fourteen}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " 40 -> forty",
+          "student": " 40 -> forty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "forty"
+            ],
+            "studentWords": [
+              "forty"
+            ],
+            "template": " 40 -> {forty}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " 28 -> twenty-eight|twenty eight",
+          "student": " 28 -> twenty-eight",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty-eight|twenty eight"
+            ],
+            "studentWords": [
+              "twenty-eight"
+            ],
+            "template": " 28 -> {twenty-eight|twenty eight}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " 99 -> ninety-nine|ninety nine",
+          "student": " 99 -> ninety-nine",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ninety-nine|ninety nine"
+            ],
+            "studentWords": [
+              "ninety-nine"
+            ],
+            "template": " 99 -> {ninety-nine|ninety nine}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " 11 -> eleven",
+          "student": " 11 -> eleven",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eleven"
+            ],
+            "studentWords": [
+              "eleven"
+            ],
+            "template": " 11 -> {eleven}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " 12 -> twelve",
+          "student": " 12 -> twelve",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "twelve"
+            ],
+            "studentWords": [
+              "twelve"
+            ],
+            "template": " 12 -> {twelve}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " 83 -> eighty-three|eighty three",
+          "student": " 83 -> eighty-three",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eighty-three|eighty three"
+            ],
+            "studentWords": [
+              "eighty-three"
+            ],
+            "template": " 83 -> {eighty-three|eighty three}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " 31 -> thirty-one|thirty one",
+          "student": " 31 -> thirty-one",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "thirty-one|thirty one"
+            ],
+            "studentWords": [
+              "thirty-one"
+            ],
+            "template": " 31 -> {thirty-one|thirty one}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": " 100 -> a hundred|one hundred",
+          "student": " 100 -> one hundred",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a hundred|one hundred"
+            ],
+            "studentWords": [
+              "one hundred"
+            ],
+            "template": " 100 -> {a hundred|one hundred}"
+          }
+        }
+      ]
+    },
+    "9d419cf1-8eca-43c4-b682-d3f80034fa4a": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "Word order with adjectives; very",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 1: Word order with adjectives; very",
+      "refId": "homework:05fe73ce-b27a-4f70-be23-53ee491291c3|3bbe351d-825d-4fc1-bb7a-991c5f913b1d",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Make sentences with these words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Your",
+              "house",
+              "is",
+              "very",
+              "beautiful",
+              "."
+            ],
+            "studentWords": [
+              "Your",
+              "house",
+              "is",
+              "very",
+              "beautiful",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "My",
+              "cat",
+              "is",
+              "not",
+              "very",
+              "friendly",
+              "."
+            ],
+            "studentWords": [
+              "My",
+              "cat",
+              "is",
+              "not",
+              "very",
+              "friendly",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "It's",
+              "a",
+              "very",
+              "expensive",
+              "car",
+              "."
+            ],
+            "studentWords": [
+              "It's",
+              "a",
+              "very",
+              "expensive",
+              "car",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "He's",
+              "a",
+              "very",
+              "good",
+              "teacher",
+              "."
+            ],
+            "studentWords": [
+              "He's",
+              "a",
+              "very",
+              "good",
+              "teacher",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "The",
+              "pens",
+              "are",
+              "cheap",
+              "."
+            ],
+            "studentWords": [
+              "The",
+              "pens",
+              "are",
+              "cheap",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "It's",
+              "a",
+              "very",
+              "small",
+              "school",
+              "."
+            ],
+            "studentWords": [
+              "It's",
+              "a",
+              "very",
+              "small",
+              "school",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Vietnam",
+              "is",
+              "a",
+              "hot",
+              "country",
+              "."
+            ],
+            "studentWords": [
+              "Vietnam",
+              "is",
+              "a",
+              "hot",
+              "country",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "The",
+              "photos",
+              "are",
+              "very",
+              "bad",
+              "."
+            ],
+            "studentWords": [
+              "The",
+              "photos",
+              "are",
+              "very",
+              "bad",
+              "."
+            ]
+          }
+        }
+      ]
+    },
+    "244f4f73-3b14-4a05-9b95-2ad10af02ae4": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "Verb: BE (singular & plural)",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 2: Verb: BE (singular & plural)",
+      "refId": "homework:6c2407f8-2fc5-48ca-89a6-f1e60a496c96|0b158aa8-171e-436f-b3d4-2ff6f9947c83",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Choose IS, AM, or ARE to complete these sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "are",
+          "student": "are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Where {is//am//*are*} the children?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "are",
+          "student": "are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They {is//am//*are*} in their rooms."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "is",
+          "student": "is",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " How old {*is*//am//are} your daughter?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "is",
+          "student": "is",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " David {*is*//am//are} not very old, he's 45."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "Am",
+          "student": "Am",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Is//*Am*//Are} I in this class?"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "are",
+          "student": "are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " How much {is//am//*are*} the sandwiches?"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "is",
+          "student": "is",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The orange juice in this café {*is*//am//are} really nice."
+          }
+        },
+        {
+          "id": 8,
+          "correct": "is",
+          "student": "is",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " It {*is*//am//are} very hot in the summer."
+          }
+        }
+      ]
+    },
+    "adf6f3e7-38ea-4b35-9245-9a3e15f5859d": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "Family",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 3: Family",
+      "refId": "homework:cfceec9f-7722-4177-98c1-65ad990e22ed|0b73aeb6-914b-4f66-b038-dd75030755a1",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Look at the Smith family. Write the correct word to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Mary is John's wife.",
+          "student": " Mary is John's wife.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "wife"
+            ],
+            "studentWords": [
+              "wife"
+            ],
+            "template": " Mary is John's {wife}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " John and Mary are Bob's parents.",
+          "student": " John and Mary are bob's parents.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Bob's"
+            ],
+            "studentWords": [
+              "bob's"
+            ],
+            "template": " John and Mary are {Bob's} parents."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Bob is Ellen's husband.",
+          "student": " Bob is Ellen's husband.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "husband"
+            ],
+            "studentWords": [
+              "husband"
+            ],
+            "template": " Bob is Ellen's {husband}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Mike is Ellen's son.",
+          "student": " Mike is Ellen's son.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "son"
+            ],
+            "studentWords": [
+              "son"
+            ],
+            "template": " Mike is Ellen's {son}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Ellen is Ashley's mother.",
+          "student": " Ellen is Ashley's mother.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "mother"
+            ],
+            "studentWords": [
+              "mother"
+            ],
+            "template": " Ellen is Ashley's {mother}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Joy is Mike and Ashley's brother.",
+          "student": " joy is Mike and Ashley's brother.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Joy"
+            ],
+            "studentWords": [
+              "joy"
+            ],
+            "template": " {Joy} is Mike and Ashley's brother."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Ashley is Mike and Joy's sister.",
+          "student": " Ashley is Mike and joy's sister.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Joy's"
+            ],
+            "studentWords": [
+              "joy's"
+            ],
+            "template": " Ashley is Mike and {Joy's} sister."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Mike, Ashley, and Joy are Mary and John's grandchildren.",
+          "student": " Mike, Ashley, and Joy are Mary and John's grandchildren.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "grandchildren"
+            ],
+            "studentWords": [
+              "grandchildren"
+            ],
+            "template": " Mike, Ashley, and Joy are Mary and John's {grandchildren}."
+          }
+        }
+      ]
+    },
+    "fbf87e22-583b-4ed3-bfeb-e75096ce07b1": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "Subject pronouns & possessive adjectives",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 4: Subject pronouns & possessive adjectives",
+      "refId": "homework:5657594a-9bf4-4dce-b918-eaeb4b9e7e76|90bb938a-c8c0-41fc-acf9-5687769b285c",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Choose the correct word to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "My",
+          "student": "My",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*My*//I//Your} name is Michael. I'm a doctor."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "your",
+          "student": "your",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Is this {our//*your*//their} house? - Yes, it is. We love our house very much."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Maiko",
+          "student": "Maiko",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Her//Maiko's//*Maiko*} is 13 years old."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "They",
+          "student": "They",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " I like your pictures. {*They*//Their//We} are very nice."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "his",
+          "student": "his",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " How old is {he//Tom//*his*} car?"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "her",
+          "student": "her",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Are {you//*her*//she} parents from Australia? - No, they aren't."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "Her",
+          "student": "Her",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {She//*Her*//They} parents are from Turkey."
+          }
+        },
+        {
+          "id": 8,
+          "correct": "your",
+          "student": "your",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " How much is {*your*//she//it} watch?"
+          }
+        }
+      ]
+    },
+    "2b0df511-d524-4afb-9891-453baa6d4a83": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "Food and drink",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 5: Food and drink",
+      "refId": "homework:866d250f-aa76-4de6-9dde-1ea1a88eae01|8a89d87c-d7f9-41be-9464-4ab889f2a85f",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "11/11",
+      "instruction": "Write the name of the food or drink. The first letters are given.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " rice",
+          "student": " rice",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ice"
+            ],
+            "studentWords": [
+              "ice"
+            ],
+            "template": " r{ice}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " orange juice",
+          "student": " orange juice",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "range",
+              "uice"
+            ],
+            "studentWords": [
+              "range",
+              "uice"
+            ],
+            "template": " o{range} j{uice}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " fruit",
+          "student": " fruit",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ruit"
+            ],
+            "studentWords": [
+              "ruit"
+            ],
+            "template": " f{ruit}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " chocolate",
+          "student": " chocolate",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hocolate"
+            ],
+            "studentWords": [
+              "hocolate"
+            ],
+            "template": " c{hocolate}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " fish",
+          "student": " fish",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ish"
+            ],
+            "studentWords": [
+              "ish"
+            ],
+            "template": " f{ish}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " bread",
+          "student": " bread",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "read"
+            ],
+            "studentWords": [
+              "read"
+            ],
+            "template": " b{read}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " cheese",
+          "student": " cheese",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "heese"
+            ],
+            "studentWords": [
+              "heese"
+            ],
+            "template": " c{heese}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " coffee",
+          "student": " coffee",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "offee"
+            ],
+            "studentWords": [
+              "offee"
+            ],
+            "template": " c{offee}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " vegetable|egetables",
+          "student": " vegetable",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "egetable|egetables"
+            ],
+            "studentWords": [
+              "egetable"
+            ],
+            "template": " v{egetable|egetables}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " pasta",
+          "student": " pasta",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "asta"
+            ],
+            "studentWords": [
+              "asta"
+            ],
+            "template": " p{asta}"
+          }
+        }
+      ]
+    },
+    "f6c07f13-ad0a-4db2-bd2b-2c80907cdd93": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "Ordering food and drink",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 6: Ordering food and drink",
+      "refId": "homework:8ef6fb25-37ec-42cc-b544-6f64001239d8|be1f76d3-8f23-4399-967a-628f55cf1d76",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "16/16",
+      "instruction": "Write one word in each gap to complete the conversations.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nASSISTANT: Good morning, can I help you?\n\nCUSTOMER: Yes, one orange juice, please.\n\nASSISTANT: Sure, anything else?\n\nCUSTOMER: Two cappuccinos, please. That's all.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Take away, please\n\nASSISTANT: OK, that's $4.50 please.\n\nCUSTOMER: Thank you.\n\nASSISTANT: You're welcome. Have a nice day!\n",
+          "student": " \nASSISTANT: good morning, can I help you?\n\nCUSTOMER: Yes, one orange juice, please.\n\nASSISTANT: Sure, anything else?\n\nCUSTOMER: Two cappuccinos, please. That's all.\n\nASSISTANT: eat in or take away?\n\nCUSTOMER: Take away, please\n\nASSISTANT: OK, that's $4.50 please.\n\nCUSTOMER: Thank you.\n\nASSISTANT: You're welcome. Have a nice day!\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good",
+              "please",
+              "anything",
+              "Eat",
+              "away",
+              "you",
+              "welcome"
+            ],
+            "studentWords": [
+              "good",
+              "please",
+              "anything",
+              "eat",
+              "away",
+              "you",
+              "welcome"
+            ],
+            "template": " \nASSISTANT: {Good} morning, can I help you?\n\nCUSTOMER: Yes, one orange juice, {please}.\n\nASSISTANT: Sure, {anything} else?\n\nCUSTOMER: Two cappuccinos, please. That's all.\n\nASSISTANT: {Eat} in or take away?\n\nCUSTOMER: Take {away}, please\n\nASSISTANT: OK, that's $4.50 please.\n\nCUSTOMER: Thank {you}.\n\nASSISTANT: You're {welcome}. Have a nice day!\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, an egg sandwich, please.\n\nASSISTANT: Sure. Anything else?\n\nCUSTOMER: A bottle of mineral water and a tuna salad, please.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Eat in, please.\n\nASSISTANT: Ok, that's £6.80 please.\n\nCUSTOMER: Thank you very much.\n\nASSISTANT: Thank you!\n",
+          "student": " \nASSISTANT: Can I help you?\n\nCUSTOMER: Yes, an egg sandwich, please.\n\nASSISTANT: sure. Anything else?\n\nCUSTOMER: A bottle of mineral water and a tuna salad, please.\n\nASSISTANT: Eat in or take away?\n\nCUSTOMER: Eat in, please.\n\nASSISTANT: Ok, that's £6.80 please.\n\nCUSTOMER: Thank you very much.\n\nASSISTANT: thank you!\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "help",
+              "an",
+              "Sure",
+              "water",
+              "take",
+              "in",
+              "please",
+              "very",
+              "Thank"
+            ],
+            "studentWords": [
+              "help",
+              "an",
+              "sure",
+              "water",
+              "take",
+              "in",
+              "please",
+              "very",
+              "thank"
+            ],
+            "template": " \nASSISTANT: Can I {help} you?\n\nCUSTOMER: Yes, {an} egg sandwich, please.\n\nASSISTANT: {Sure}. Anything else?\n\nCUSTOMER: A bottle of mineral {water} and a tuna salad, please.\n\nASSISTANT: Eat in or {take} away?\n\nCUSTOMER: Eat {in}, please.\n\nASSISTANT: Ok, that's £6.80 {please}.\n\nCUSTOMER: Thank you {very} much.\n\nASSISTANT: {Thank} you!\n"
+          }
+        }
+      ]
+    },
+    "2344f64b-2162-4ba5-b2b3-f77ad78b6d96": {
+      "location": {
+        "unitName": "Unit 3",
+        "lessonOrder": 4,
+        "lessonName": "Unit 3 Test",
+        "moduleType": "homework",
+        "exerciseName": "and; but",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 3 > Unit 3 Test > Bài tập về nhà > Bài tập 7: and; but",
+      "refId": "homework:d434c516-8898-4cf1-8087-b30e032b01f2|5fd0e895-4663-4654-a32f-59e8271dc24b",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Complete the sentences with AND or BUT.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " They’re my friends, but they aren’t in my school.\n",
+          "student": " They’re my friends, but they aren’t in my school.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " They’re my friends, {but} they aren’t in my school.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " He’s a doctor and he’s from New York.",
+          "student": " He’s a doctor and he’s from New York.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " He’s a doctor {and} he’s from New York."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Our hotel is very bad, but its price is expensive.",
+          "student": " Our hotel is very bad, but its price is expensive.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " Our hotel is very bad, {but} its price is expensive."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " The restaurant is beautiful and the waiters are very nice. ",
+          "student": " The restaurant is beautiful and the waiters are very nice. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " The restaurant is beautiful {and} the waiters are very nice. "
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Sarah is friendly, but her brother is very unfriendly.",
+          "student": " Sarah is friendly, but her brother is very unfriendly.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " Sarah is friendly, {but} her brother is very unfriendly."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " The room is big and the hotel is near the beach.",
+          "student": " The room is big and the hotel is near the beach.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " The room is big {and} the hotel is near the beach."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " I love rice and I eat a lot of pasta.",
+          "student": " I love rice and I eat a lot of pasta.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " I love rice {and} I eat a lot of pasta."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " She’s an English teacher, but she isn’t from the UK.",
+          "student": " She’s an English teacher, but she isn’t from the UK.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " She’s an English teacher, {but} she isn’t from the UK."
           }
         }
       ]
