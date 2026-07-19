@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-18T12:29:17.526Z",
-  "totalQuestions": 239,
+  "exportedAt": "2026-07-19T03:12:35.713Z",
+  "totalQuestions": 295,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -9843,45 +9843,45 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 4: Nghe",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|72b0fa0d-c0bb-43b1-b3cf-ab547fbdce71",
       "type": "DragAndDropListSentenceOrder",
-      "correct": null,
-      "score": null,
+      "correct": false,
+      "score": "0/1",
       "instruction": "Watch the video. Put the questions in the order you hear them. ",
       "answer": [
         {
           "id": 1,
           "correct": "What’s your first name, please?",
           "student": null,
-          "status": null
+          "status": "Correct"
         },
         {
           "id": 2,
           "correct": "What’s your surname?",
           "student": null,
-          "status": null
+          "status": "Correct"
         },
         {
           "id": 3,
           "correct": "What’s your nationality?",
           "student": null,
-          "status": null
+          "status": "Correct"
         },
         {
           "id": 4,
           "correct": "What’s your address?",
           "student": null,
-          "status": null
+          "status": "Fail"
         },
         {
           "id": 5,
           "correct": "What’s your mobile number?",
           "student": null,
-          "status": null
+          "status": "Fail"
         },
         {
           "id": 6,
           "correct": "What’s your email address?",
           "student": null,
-          "status": null
+          "status": "Correct"
         }
       ]
     },
@@ -9946,29 +9946,43 @@
       "where": "Unit 2 > Personal information > Video tương tác > Bài tập 6: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|eed0d7d2-6206-4923-a5c9-332549abd4bb",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "19/19",
       "instruction": "Complete the questions with the missing vowels: A, E, I, O, or U. Write ONE letter in each gap.",
       "answer": [
         {
           "id": 1,
-          "correct": " What’s your sur nema?",
-          "student": null,
-          "status": null,
+          "correct": " What’s your sur name?",
+          "student": " What’s your sur name?",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "u",
-              "e",
-              "a"
+              "a",
+              "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "u",
+              "a",
+              "e"
+            ]
           }
         },
         {
           "id": 2,
           "correct": " What’s your nationality? ",
-          "student": null,
-          "status": null,
+          "student": " What’s your nationality? ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "a",
@@ -9977,52 +9991,2139 @@
               "a",
               "i"
             ],
-            "studentWords": null
+            "studentWords": [
+              "a",
+              "i",
+              "o",
+              "a",
+              "i"
+            ]
           }
         },
         {
           "id": 3,
           "correct": " What’s your address? ",
-          "student": null,
-          "status": null,
+          "student": " What’s your address? ",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "a",
               "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "a",
+              "e"
+            ]
           }
         },
         {
           "id": 4,
-          "correct": " What’s your mibele numbor? ",
-          "student": null,
-          "status": null,
+          "correct": " What’s your mobile number? ",
+          "student": " What’s your mobile number? ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
+              "o",
               "i",
-              "e",
               "u",
-              "o"
+              "e"
             ],
-            "studentWords": null
+            "studentWords": [
+              "o",
+              "i",
+              "u",
+              "e"
+            ]
           }
         },
         {
           "id": 5,
-          "correct": " What’s your ameal   eddriss?",
-          "student": null,
-          "status": null,
+          "correct": " What’s your email   address?",
+          "student": " What’s your email   address?",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "a",
               "e",
               "a",
+              "i",
+              "a",
+              "e"
+            ],
+            "studentWords": [
+              "e",
+              "a",
+              "i",
+              "a",
+              "e"
+            ]
+          }
+        }
+      ]
+    },
+    "477ce85a-e849-4068-bb42-4b3bcb9e09cc": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What’s your first name, please?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What’s your first name, please?",
+            "What’s your first name please",
+            "What is your first name please",
+            "What is your first name, please?",
+            "Whats your first name please",
+            "Whats your first name, please?",
+            "What's your first name please",
+            "What's your first name, please?"
+          ],
+          "student": "What’s your first name, please?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "763a46d7-2f23-44a6-b1e2-d73c2414258e": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What’s your surname?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What’s your surname?",
+            "What's your surname?",
+            "Whats your surname?",
+            "What is your surname?",
+            "What is you're surname?",
+            "What's you're surname?",
+            "Whats you're surname?"
+          ],
+          "student": "What’s your surname?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "0165385c-fbe3-4594-84f3-29df2e96f8fc": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What’s your nationality?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What’s your nationality?",
+            "What's your nationality?",
+            "Whats your nationality?",
+            "What is your nationality?"
+          ],
+          "student": "What’s your nationality?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e0c8b0fa-7d17-48bf-9379-060d7e007c36": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What’s your address?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What’s your address?",
+            "What is your address?",
+            "What's your address?",
+            "Whats your address?",
+            "What s your address?"
+          ],
+          "student": "What’s your address?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "6920a782-cb0d-4631-8877-7e05214a62e9": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What’s your mobile number?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What’s your mobile number?",
+            "Whats your mobile number?",
+            "What is your mobile number?",
+            "What's your mobile number?"
+          ],
+          "student": "What’s your mobile number?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2b38c6f6-e6d9-421d-9b84-3977db9e937d": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What’s your email address?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What’s your email address?",
+            "What's your email address?",
+            "What is your email address?",
+            "Whats your email address?",
+            "What is your e-mail address?",
+            "What's your e-mail address?",
+            "Whats your e-mail address?",
+            "What is your e mail address?",
+            "What's your e mail address?",
+            "Whats your e mail address?"
+          ],
+          "student": "What’s your email address?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "bf0cd44a-0572-4b27-a2cb-e5379d725278": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Từ vựng",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|8f76de17-96d2-4e28-b756-d5264e463149",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Fill in the missing question for each answer.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: What’s your surname|What is your surname?\n\nB: Smith.",
+          "student": " \nA: What's your surname?\n\nB: Smith.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your surname|What is your surname"
+            ],
+            "studentWords": [
+              "What's your surname"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: What's your nationality|What is your nationality?\n\nB: I’m British.",
+          "student": " \nA: What's your nationality?\n\nB: I’m British.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's your nationality|What is your nationality"
+            ],
+            "studentWords": [
+              "What's your nationality"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: What’s your address|What is your address?\n\nB: It’s 12 Lee Road, London.",
+          "student": " \nA: What's your address?\n\nB: It’s 12 Lee Road, London.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your address|What is your address"
+            ],
+            "studentWords": [
+              "What's your address"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: What’s your mobile number|What is your mobile number?\n\nB: It’s 07700 900195.",
+          "student": " \nA: What's your mobile number?\n\nB: It’s 07700 900195.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your mobile number|What is your mobile number"
+            ],
+            "studentWords": [
+              "What's your mobile number"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " \nA: What’s your email address|What is your email address?\n\nB: It’s e.smith@webnet.com.",
+          "student": " \nA: What's your email address?\n\nB: It’s e.smith@webnet.com.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What’s your email address|What is your email address"
+            ],
+            "studentWords": [
+              "What's your email address"
+            ]
+          }
+        }
+      ]
+    },
+    "9a3747bf-0712-42d0-b814-16d5857d94a2": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 9: Từ vựng",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|9d9d4ed0-c8e5-4d43-bf94-7bfd44204c6d",
+      "type": "MatchingType1",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Match each name to the correct meaning.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a man (married or single)",
+          "student": "a man (married or single)",
+          "status": "Correct",
+          "meta": {
+            "left": "Mr (Brown)"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "a married woman",
+          "student": "a married woman",
+          "status": "Correct",
+          "meta": {
+            "left": "Mrs or Ms (Brown)"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "a single woman",
+          "student": "a single woman",
+          "status": "Correct",
+          "meta": {
+            "left": "Miss or Ms (Roberts)"
+          }
+        }
+      ]
+    },
+    "0c24d0a5-de73-451b-b305-3861b7ed06c3": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 10: Từ vựng",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|0b68b200-90ca-4532-9019-7f169f18a4ae",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Complete the conversations with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation A:\n\nGood morning, Mr. Brown.\n\nGood morning, Amanda.\n\n",
+          "student": " Conversation A:\n\nGood morning, Mr. Brown.\n\nGood morning, Amanda.\n\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good morning"
+            ],
+            "studentWords": [
+              "Good morning"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation B:\n\nGood afternoon, Mrs King.\n\nGood afternoon.\n",
+          "student": " Conversation B:\n\nGood afternoon, Mrs King.\n\nGood afternoon.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good afternoon",
+              "Good afternoon"
+            ],
+            "studentWords": [
+              "Good afternoon",
+              "Good afternoon"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Conversation C:\n\nGood evening, sir.\n\nGood evening.\n",
+          "student": " Conversation C:\n\nGood evening, sir.\n\nGood evening.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good evening",
+              "Good evening"
+            ],
+            "studentWords": [
+              "Good evening",
+              "Good evening"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Conversation D:\n\nThank you very much. Good night.\n\nGood night, sir.",
+          "student": " Conversation D:\n\nThank you very much. Good night.\n\nGood night, sir.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good night",
+              "Good night"
+            ],
+            "studentWords": [
+              "Good night",
+              "Good night"
+            ]
+          }
+        }
+      ]
+    },
+    "0680bfeb-023e-4010-95f8-b23c6fcb01c6": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": " Good morning, Mr. Brown.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good morning, Mr. Brown",
+            "Good morning Mr. Brown",
+            "good morning mr. brown",
+            "good morning, mr. brown",
+            "Good morning Mr Brown",
+            "Good morning, Mr Brown",
+            "good morning mr brown",
+            "good morning, mr brown",
+            "Good morning Mister Brown",
+            "Good morning, Mister Brown",
+            "good morning mister brown",
+            "good morning, mister brown"
+          ],
+          "student": "Good morning, Mr. Brown.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "68987aad-40fa-4d5c-afb1-c850a46d4845": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good morning, Amanda.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good morning, Amanda",
+            "Good morning Amanda",
+            "\"Good morning, Amanda\""
+          ],
+          "student": "Good morning, Amanda.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f51f7b76-3785-4095-9eed-4565c3f6b96f": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good afternoon, Mrs King.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good afternoon, Mrs King",
+            "Good afternoon Mrs King",
+            "Good afternoon, Mrs. King",
+            "Good afternoon Mrs. King",
+            "Good afternoon!",
+            "Mrs. King"
+          ],
+          "student": "Good afternoon, Mrs King.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "cc3ded78-4283-43bc-aaec-6fc8f6021147": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good afternoon.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good afternoon",
+            "Good afternoon!"
+          ],
+          "student": "Good afternoon.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "21e0e4d6-8576-4138-95a3-f098bd656a50": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good evening, sir.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good evening, sir",
+            "Good evening sir",
+            "good evening sir",
+            "good evening, sir",
+            "good evening sur",
+            "good evenin sir",
+            "good evenin, sir",
+            "good evenin sur"
+          ],
+          "student": "Good evening, sir.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5832eaa3-d275-468c-9ee6-538270219873": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good evening.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good evening",
+            "Good evening.",
+            "Good evenin",
+            "Good evenin'"
+          ],
+          "student": "Good evening.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f6ec646c-e1ba-427e-ba2d-684ceba16019": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Thank you very much. Good night.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Thank you very much. Good night",
+            "Thank you very much Good night",
+            "Thank you very much! Good night",
+            "Thank you very much, Good night",
+            "Thank you very much. Goodnight",
+            "Thank you very much Goodnight",
+            "Thank you very much, Goodnight"
+          ],
+          "student": "Thank you very much. Good night.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5f69d94e-6cf9-445a-b03c-4ec59cdf2548": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Good night, sir.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Good night, sir",
+            "Good night sir",
+            "Goodnight sir",
+            "Goodnight, sir",
+            "Good knight sir",
+            "Good knight, sir"
+          ],
+          "student": "Good night, sir.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9691f3c4-f0d6-4f73-bc5a-2297db59c828": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|fad81500-d594-473b-af21-43fb76d5fb9a",
+      "type": "MatchingType1",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Match the numbers with the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "thirteen",
+          "student": "thirteen",
+          "status": "Correct",
+          "meta": {
+            "left": "13"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "fourteen",
+          "student": "fourteen",
+          "status": "Correct",
+          "meta": {
+            "left": "14"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "fifteen",
+          "student": "fifteen",
+          "status": "Correct",
+          "meta": {
+            "left": "15"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "sixteen",
+          "student": "sixteen",
+          "status": "Correct",
+          "meta": {
+            "left": "16"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "seventeen",
+          "student": "seventeen",
+          "status": "Correct",
+          "meta": {
+            "left": "17"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "eighteen",
+          "student": "eighteen",
+          "status": "Correct",
+          "meta": {
+            "left": "18"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "nineteen",
+          "student": "nineteen",
+          "status": "Correct",
+          "meta": {
+            "left": "19"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "twenty",
+          "student": "twenty",
+          "status": "Correct",
+          "meta": {
+            "left": "20"
+          }
+        }
+      ]
+    },
+    "c420ce8f-111c-4156-ac72-d689d5cfe5da": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "13",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "thirteen",
+            "13"
+          ],
+          "student": "13",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f13284bf-36ce-4746-9b1e-5253db133b92": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "14",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "fourteen",
+            "14",
+            "Fourteen",
+            "FOURTEEN"
+          ],
+          "student": "14",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3e87e6cf-cb93-4a8c-9941-f2083be14085": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "15",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "fifteen",
+            "15"
+          ],
+          "student": "15",
+          "status": "Correct"
+        }
+      ]
+    },
+    "20d7f074-35e1-4927-871e-4778e65b27a0": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "16",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "sixteen",
+            "16",
+            "six teen"
+          ],
+          "student": "16",
+          "status": "Correct"
+        }
+      ]
+    },
+    "cacb3aa1-fa3b-441b-bff5-8d80e8e8e001": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "17",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "seventeen",
+            "17"
+          ],
+          "student": "17",
+          "status": "Correct"
+        }
+      ]
+    },
+    "0e677005-5477-4a82-b896-9e96b6eb640a": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "18",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "eighteen",
+            "18",
+            "eight teen"
+          ],
+          "student": "18",
+          "status": "Correct"
+        }
+      ]
+    },
+    "11f448cc-2b6c-4528-a90c-8c4b6998662c": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "19",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "nineteen",
+            "19",
+            "1 9"
+          ],
+          "student": "19",
+          "status": "Correct"
+        }
+      ]
+    },
+    "11b991e9-402f-4777-bcc3-5668949ecdf0": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 2: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|54a4b0dd-09e2-4d1e-880b-b31d12f130c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "20",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "twenty",
+            "20"
+          ],
+          "student": "20",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f5eb42e8-dee7-4b33-add0-a120880499ea": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 3: Từ vựng",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|09a0edcf-5235-46e4-9836-2b79540651c0",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Write ONE vowel in each gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " 30:    thirty",
+          "student": " 30:    thirty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "i"
+            ],
+            "studentWords": [
+              "i"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " 40:    forty",
+          "student": " 40:    forty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "o"
+            ],
+            "studentWords": [
+              "o"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " 50:    fifty",
+          "student": " 50:    fifty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "i"
+            ],
+            "studentWords": [
+              "i"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " 60:    sixty",
+          "student": " 60:    sixty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "i"
+            ],
+            "studentWords": [
+              "i"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " 70:    seventy",
+          "student": " 70:    seventy",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "e",
+              "e"
+            ],
+            "studentWords": [
+              "e",
+              "e"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": " 80:    e ighty",
+          "student": " 80:    e ighty",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
               "e",
               "i"
             ],
-            "studentWords": null
+            "studentWords": [
+              "e",
+              "i"
+            ]
           }
+        },
+        {
+          "id": 7,
+          "correct": " 90:   ninety",
+          "student": " 90:   ninety",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "i",
+              "e"
+            ],
+            "studentWords": [
+              "i",
+              "e"
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": " 100:  a hundred",
+          "student": " 100:  a hundred",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "u",
+              "e"
+            ],
+            "studentWords": [
+              "u",
+              "e"
+            ]
+          }
+        }
+      ]
+    },
+    "8ca4357a-f9d7-4119-ac76-8289f9d9acc7": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 4: Nghe",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|b3dde402-41bc-4c12-ba24-a71f19e84369",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Choose the number that you hear.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "seventeen",
+          "student": "seventeen",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*seventeen*//seventy}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "ninety",
+          "student": "ninety",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {nineteen//*ninety*}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "fifty",
+          "student": "fifty",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {fifteen//*fifty*}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "thirteen",
+          "student": "thirteen",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*thirteen*//thirty}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "thirty",
+          "student": "thirty",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {thirteen//*thirty*}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "nineteen",
+          "student": "nineteen",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*nineteen*//ninety}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "seventy",
+          "student": "seventy",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {seventeen//*seventy*}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "fifteen",
+          "student": "fifteen",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*fifteen*//fifty}"
+          }
+        }
+      ]
+    },
+    "92678138-cf22-44ad-a02e-eb8bcf139877": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|160b58a7-dbeb-4124-b6fa-6d033fd13e5a",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Write the numbers.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " 35: thirty-five|thirty five",
+          "student": " 35: thirty-five",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "thirty-five|thirty five"
+            ],
+            "studentWords": [
+              "thirty-five"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " 49: forty-nine|forty nine",
+          "student": " 49: forty-nine",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "forty-nine|forty nine"
+            ],
+            "studentWords": [
+              "forty-nine"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " 52: fifty-two|fifty two",
+          "student": " 52: fifty-two",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifty-two|fifty two"
+            ],
+            "studentWords": [
+              "fifty-two"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " 68: sixty-eight|sixty eight",
+          "student": " 68: sixty-eight",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sixty-eight|sixty eight"
+            ],
+            "studentWords": [
+              "sixty-eight"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " 73: seventy-three|seventy three",
+          "student": " 73: seventy-three",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "seventy-three|seventy three"
+            ],
+            "studentWords": [
+              "seventy-three"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": " 86: eighty-six|eighty six",
+          "student": " 86: eighty-six",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eighty-six|eighty six"
+            ],
+            "studentWords": [
+              "eighty-six"
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": " 94: ninety-four|ninety four",
+          "student": " 94: ninety-four",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ninety-four|ninety four"
+            ],
+            "studentWords": [
+              "ninety-four"
+            ]
+          }
+        }
+      ]
+    },
+    "3d2e959b-d85b-4a7c-b662-3e6748fffe06": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "27",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "twenty-seven",
+            "27",
+            "twenty seven"
+          ],
+          "student": "27",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9a9d22fb-1cbc-41d6-b606-69ccf241e668": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "35",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "thirty-five",
+            "35",
+            "thirty five"
+          ],
+          "student": "35",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a0fd19e8-0be4-4e61-a11c-49cb927872f6": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "49",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "forty-nine",
+            "49",
+            "forty nine",
+            "for nine",
+            "4 9",
+            "4-9"
+          ],
+          "student": "49",
+          "status": "Correct"
+        }
+      ]
+    },
+    "7995a360-cdf4-4453-9215-2b6fe52783e7": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "52",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "fifty-two",
+            "52",
+            "fifty two",
+            "fifty to",
+            "fifty too"
+          ],
+          "student": "52",
+          "status": "Correct"
+        }
+      ]
+    },
+    "33c7ead3-899c-4ce3-9a5e-976e9a89e494": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "68",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "sixty-eight",
+            "68",
+            "sixty eight"
+          ],
+          "student": "68",
+          "status": "Correct"
+        }
+      ]
+    },
+    "4929fd2b-9122-4cbd-8267-33258078b8c8": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "73",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "seventy-three",
+            "73",
+            "seventy three"
+          ],
+          "student": "73",
+          "status": "Correct"
+        }
+      ]
+    },
+    "ea9fc1a9-f5b3-4693-97d1-5afa9f10d143": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "86",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "eighty-six",
+            "86",
+            "eighty six",
+            "eight six"
+          ],
+          "student": "86",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f6e27c40-56f0-4cce-a90e-aab62b83d725": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0bcf5354-ddf3-4a18-ba31-a6787dad9954",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "94",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "ninety-four",
+            "94",
+            "ninety four",
+            "ninety for",
+            "nine four"
+          ],
+          "student": "94",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9e794760-2f25-4f2d-8229-c45a3b97c2e7": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 7: Từ vựng",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|0ef138d8-149a-4ba5-b419-ca8c0d0a2f53",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Write 1 - 5 to match the words with the pictures.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a car: 3",
+          "student": " a car: 3",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "3"
+            ],
+            "studentWords": [
+              "3"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a dog: 4 ",
+          "student": " a dog: 4 ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "4"
+            ],
+            "studentWords": [
+              "4"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a house: 1",
+          "student": " a house: 1",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "1"
+            ],
+            "studentWords": [
+              "1"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a girl: 5",
+          "student": " a girl: 5",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "5"
+            ],
+            "studentWords": [
+              "5"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a cat: 2",
+          "student": " a cat: 2",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "2"
+            ],
+            "studentWords": [
+              "2"
+            ]
+          }
+        }
+      ]
+    },
+    "22506f11-3d7a-4c0a-a50f-4673c5a4a3c5": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|eaeff992-f905-4a85-9007-6bf19ee3dcf8",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Listen to 5 conversations. Fill in the gaps with the correct number.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " The cat is 13|thirteen.",
+          "student": " The cat is 13.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "13|thirteen"
+            ],
+            "studentWords": [
+              "13"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " The house is 100|a hundred|one hundred years old.",
+          "student": " The house is 100 years old.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "100|a hundred|one hundred"
+            ],
+            "studentWords": [
+              "100"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " The girl is 9|nine.",
+          "student": " The girl is 9.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "9|nine"
+            ],
+            "studentWords": [
+              "9"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " The car is 21|twenty-one years old.",
+          "student": " The car is 21 years old.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "21|twenty-one"
+            ],
+            "studentWords": [
+              "21"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " The dog is 7|seven.",
+          "student": " The dog is 7.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "7|seven"
+            ],
+            "studentWords": [
+              "7"
+            ]
+          }
+        }
+      ]
+    },
+    "88e2989a-2b76-434b-aef4-f11adb885170": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 9: Nghe",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|8374ecad-ddc5-4d26-8d14-39e96249c489",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Listen and fill in the missing word from the word bank.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: How old is your house?\n\nB: It’s 100 years old.",
+          "student": " \nA: How old is your house?\n\nB: It’s 100 years old.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How",
+              "is",
+              "old"
+            ],
+            "studentWords": [
+              "How",
+              "is",
+              "old"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: How old are you?\nB: I'm thirty.",
+          "student": " \nA: How old are you?\nB: I'm thirty.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "are",
+              "I'm"
+            ],
+            "studentWords": [
+              "are",
+              "I'm"
+            ]
+          }
+        }
+      ]
+    },
+    "dbe435e5-4d9b-4426-bb5e-ed9fa9f66cf1": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 10: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|977deccf-3f02-4669-b138-c0dca610db28",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Picture 1",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "She’s eighty-five",
+            "She’s 85",
+            "She's eighty-five",
+            "She's eighty five",
+            "She’s eighty five",
+            "Shes eighty-five",
+            "Shes eighty five",
+            "She is eighty-five",
+            "She is eighty five",
+            "She's 85",
+            "Shes 85",
+            "She is 85"
+          ],
+          "student": "85",
+          "status": "Fail"
+        }
+      ]
+    },
+    "37cec989-2204-442e-ba1b-7f917f0dd1ad": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 10: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|977deccf-3f02-4669-b138-c0dca610db28",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Picture 2",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "She’s sixty",
+            "She's 60",
+            "She is sixty",
+            "She is 60",
+            "She's sixty",
+            "She’s 60",
+            "Shes sixty",
+            "Shes 60"
+          ],
+          "student": "60",
+          "status": "Fail"
+        }
+      ]
+    },
+    "72c49603-49cc-4121-87f2-f3767bed16ba": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 10: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|977deccf-3f02-4669-b138-c0dca610db28",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Picture 3",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "He’s twenty-three",
+            "He’s 23",
+            "He's twenty-three",
+            "He's 23",
+            "He is twenty-three",
+            "He is 23",
+            "He's twenty three",
+            "He is twenty three",
+            "He’s twenty three"
+          ],
+          "student": "23",
+          "status": "Fail"
+        }
+      ]
+    },
+    "aaccf5d5-4b5a-4648-8e5b-0eaae7bdf144": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 10: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|977deccf-3f02-4669-b138-c0dca610db28",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Picture 4",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "She’s fifty",
+            "She's 50",
+            "She's fifty",
+            "She\u0019s 50",
+            "She is fifty",
+            "She is 50",
+            "shes fifty",
+            "shes 50"
+          ],
+          "student": "50",
+          "status": "Fail"
+        }
+      ]
+    },
+    "aefd0428-1c6d-4321-98c9-f1c70eac7966": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 10: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|977deccf-3f02-4669-b138-c0dca610db28",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Picture 5",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "She’s eighteen",
+            "She's 18",
+            "She's eighteen",
+            "She’s 18",
+            "Shes eighteen",
+            "Shes 18",
+            "She is eighteen",
+            "She is 18"
+          ],
+          "student": "18",
+          "status": "Fail"
+        }
+      ]
+    },
+    "3f8216bc-3e8a-4326-9144-575146ba950e": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 2 > How old is she? > Video tương tác > Bài tập 10: Nói",
+      "refId": "video:718b175b-1138-4cb9-ae15-8fc38c0c3ceb|977deccf-3f02-4669-b138-c0dca610db28",
+      "type": "ShortAnswerWordBase",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Picture 6",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "He’s seventy-four",
+            "He’s 74",
+            "He's seventy-four",
+            "He's seventy four",
+            "He’s seventy four",
+            "Hes seventy-four",
+            "Hes seventy four",
+            "He is seventy-four",
+            "He is seventy four",
+            "He's 74",
+            "Hes 74",
+            "He is 74"
+          ],
+          "student": "74",
+          "status": "Fail"
         }
       ]
     },
@@ -13168,6 +15269,962 @@
             "studentWords": [
               "isn't"
             ]
+          }
+        }
+      ]
+    },
+    "ecc7bd13-4506-4e85-abe7-260815c2defa": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Titles & Greetings",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 1: Titles & Greetings",
+      "refId": "homework:a5e51d4f-0fad-4c84-8fac-9c22222ef45a|bc4a6064-ac76-4808-afea-c5f545c12ed1",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Complete the conversations by filling the gaps with the titles and greetings from the box. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation 1\n\nA: Good evening, Mr Clark.\n\nB: Good evening.",
+          "student": " Conversation 1\n\nA: Good evening, Mr Clark.\n\nB: Good evening.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Mr",
+              "Good evening"
+            ],
+            "studentWords": [
+              "Mr",
+              "Good evening"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation 2\n\nA: Good night, Sophie.\n\nB: Good night, Mum.",
+          "student": " Conversation 2\n\nA: Good night, Sophie.\n\nB: Good night, Mum.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good night",
+              "Good night"
+            ],
+            "studentWords": [
+              "Good night",
+              "Good night"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Conversation 3\n\nA: Good morning, Janet.\n\nB: Good morning, Clive.",
+          "student": " Conversation 3\n\nA: Good morning, Janet.\n\nB: Good morning, Clive.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good morning",
+              "Good morning"
+            ],
+            "studentWords": [
+              "Good morning",
+              "Good morning"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Conversation 4\n\nA: Good afternoon, Mrs Jones.\n\nB: Good afternoon.",
+          "student": " Conversation 4\n\nA: Good afternoon, Mrs Jones.\n\nB: Good afternoon.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Good afternoon",
+              "Mrs",
+              "Good afternoon"
+            ],
+            "studentWords": [
+              "Good afternoon",
+              "Mrs",
+              "Good afternoon"
+            ]
+          }
+        }
+      ]
+    },
+    "ba381d5a-f091-4dd8-9b4e-49fec7ec809a": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Personal information questions",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 2: Personal information questions",
+      "refId": "homework:33de7c0b-8381-44dc-8a60-9fd865341816|d9d46b78-1777-423f-adc7-6a6f8bff3cc0",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Read the conversation. Fill in the gaps with the questions from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " CONVERSATION\n\nELLEN: Good afternoon. Welcome to the CICLERS Bank. My name's Ellen.\n\nNEIL: Nice to meet you.\n\nELLEN: You too. What's your first name, please?\n\nNEIL: It's Neil.\n\nELLEN: Thank you. What's your surname?\n\nNEIL: It's Horton.\n\nELLEN: How do you spell that, please?\n\nNEIL: It's H-O-R-T-O-N.\n\nELLEN: Thank you. What's your nationality?  \n\nNEIL: I'm Australian. \n\nELLEN: What's your address? \n\nNEIL: It's 17 William Street, London SE18 4ED.\n\nELLEN: Thanks. What's your email address?\n\nNEIL: It's neil.horton@webmail.co.uk.\n\nELLEN: OK. Are you married? \n\nNEIL: No, I'm single.\n\nELLEN: What's your mobile number? \n\nNEIL: 07988 456319.\n\nELLEN: Thank you very much.\n",
+          "student": " CONVERSATION\n\nELLEN: Good afternoon. Welcome to the CICLERS Bank. My name's Ellen.\n\nNEIL: Nice to meet you.\n\nELLEN: You too. What's your first name, please?\n\nNEIL: It's Neil.\n\nELLEN: Thank you. What's your surname?\n\nNEIL: It's Horton.\n\nELLEN: How do you spell that, please?\n\nNEIL: It's H-O-R-T-O-N.\n\nELLEN: Thank you. What's your nationality?  \n\nNEIL: I'm Australian. \n\nELLEN: What's your address? \n\nNEIL: It's 17 William Street, London SE18 4ED.\n\nELLEN: Thanks. What's your email address?\n\nNEIL: It's neil.horton@webmail.co.uk.\n\nELLEN: OK. Are you married? \n\nNEIL: No, I'm single.\n\nELLEN: What's your mobile number? \n\nNEIL: 07988 456319.\n\nELLEN: Thank you very much.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's your first name, please",
+              "What's your surname",
+              "How do you spell that, please",
+              "What's your nationality",
+              "What's your address",
+              "What's your email address",
+              "Are you married",
+              "What's your mobile number"
+            ],
+            "studentWords": [
+              "What's your first name, please",
+              "What's your surname",
+              "How do you spell that, please",
+              "What's your nationality",
+              "What's your address",
+              "What's your email address",
+              "Are you married",
+              "What's your mobile number"
+            ]
+          }
+        }
+      ]
+    },
+    "f2b0f16d-746c-4c3c-b4c3-5e333a386b92": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Fill in a form",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 3: Fill in a form",
+      "refId": "homework:12d9adc3-eed0-44aa-86e2-1837739a9ee9|8a1669a6-120d-453b-a26a-09b057894481",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Read the conversation and fill in the form. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " ELEGANT STUDIO - NEW MEMBER FORM\n\nFirst name: Sarah\n\nSurname: Johnson\n\nNationality: American\n\nAddress: 123 Maple Avenue, New York, NY 10001\n\nMobile number: 15551234567\n\nEmail address: sarah.johnson@gmail.com\n\n",
+          "student": " ELEGANT STUDIO - NEW MEMBER FORM\n\nFirst name: Sarah\n\nSurname: Johnson\n\nNationality: American\n\nAddress: 123 Maple Avenue, New York, NY 10001\n\nMobile number: 15551234567\n\nEmail address: sarah.johnson@gmail.com\n\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Sarah",
+              "Johnson",
+              "American",
+              "123 Maple",
+              "New York",
+              "15551234567",
+              "sarah.johnson@gmail.com"
+            ],
+            "studentWords": [
+              "Sarah",
+              "Johnson",
+              "American",
+              "123 Maple",
+              "New York",
+              "15551234567",
+              "sarah.johnson@gmail.com"
+            ]
+          }
+        }
+      ]
+    },
+    "b599fd21-7cbc-4950-8f95-54baa6c94c6c": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Personal information",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 4: Personal information",
+      "refId": "homework:a73c4651-733e-4152-9b82-1c5c2010cf70|8c9dc6d6-4f38-4b34-9c7b-49201cf21049",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "15/15",
+      "instruction": "Read the form then complete the short conversation. Write ONE word in each gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " CONVERSATION\n\nMary: Good morning! Welcome to Mountain Gym. How can I help you today?\n\nMichael: Good morning! I'd like to register for a new membership, please.\n\nMary: Great! Let's get you signed up. What's|What is your first name?\n\nMichael: It's Michael.\n\nMary: And what's your surname?\n\nMichael: It's Smith.\n\nMary: Thank you, Michael. What is your nationality?\n\nMichael: I'm Canadian.\n\nMary: Perfect. Now, what's your home address?\n\nMichael: It's 123 Maple Street, Vancouver.\n\nMary: Got it. I'll also need your mobile number. What 's|is your mobile number?\n\nMichael: My mobile number is +1 604 123 4567.\n\nMary: Thanks, Michael. Lastly, what is your email address?\n\nMichael: It 's|is msmith@gmail.com.\n\nMary: All set! Welcome to Mountain Gym, Michael. We'll send you a confirmation email with all the details.\n\nMichael: Thank you, Mary. I'm excited to start!\n\nMary: You're welcome! Enjoy your workouts!",
+          "student": " CONVERSATION\n\nMary: Good morning! Welcome to Mountain Gym. How can I help you today?\n\nMichael: Good morning! I'd like to register for a new membership, please.\n\nMary: Great! Let's get you signed up. What's your first name?\n\nMichael: It's Michael.\n\nMary: And what's your surname?\n\nMichael: It's Smith.\n\nMary: Thank you, Michael. What is your nationality?\n\nMichael: I'm Canadian.\n\nMary: Perfect. Now, what's your home address?\n\nMichael: It's 123 Maple Street, Vancouver.\n\nMary: Got it. I'll also need your mobile number. What is your mobile number?\n\nMichael: My mobile number is +1 604 123 4567.\n\nMary: Thanks, Michael. Lastly, what is your email address?\n\nMichael: It is msmith@gmail.com.\n\nMary: All set! Welcome to Mountain Gym, Michael. We'll send you a confirmation email with all the details.\n\nMichael: Thank you, Mary. I'm excited to start!\n\nMary: You're welcome! Enjoy your workouts!",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's|What is",
+              "Michael",
+              "surname",
+              "Smith",
+              "nationality",
+              "Canadian",
+              "your",
+              "address",
+              "Maple",
+              "Vancouver",
+              "'s|is",
+              "number",
+              "My",
+              "email",
+              "'s|is"
+            ],
+            "studentWords": [
+              "What's",
+              "Michael",
+              "surname",
+              "Smith",
+              "nationality",
+              "Canadian",
+              "your",
+              "address",
+              "Maple",
+              "Vancouver",
+              "is",
+              "number",
+              "My",
+              "email",
+              "is"
+            ]
+          }
+        }
+      ]
+    },
+    "536cbc97-0513-4b43-a30a-17335589ff14": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 2,
+        "lessonName": "Personal information",
+        "moduleType": "homework",
+        "exerciseName": "Personal information",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 2 > Personal information > Bài tập về nhà > Bài tập 5: Personal information",
+      "refId": "homework:94392f60-7214-4887-bce5-d04348725105|91dcac96-1352-42ef-9b8a-ff088a7f7a92",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Choose the correct option to complete the conversation.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " CONVERSATION\n\nArthur: Good afternoon! Welcome to the local library. How can I help you today?\n\nMaiko: Good afternoon! I'd like to register for a new membership, please.\n\nArthur: Of course! Let's get started. What is (is / are) your first name?\n\nMaiko: It's|It is (It's / It're) Maiko.\n\nArthur: What's your (her / your) surname?\n\nMaiko: It's Sagima.\n\nArthur: Thank you, Maiko. What is your nationality (country / nationality)?\n\nMaiko: I'm Japanese (Japan / Japanese).\n\nArthur: Great. Now, what (what / where) is your home address?\n\nMaiko: It's 456 Cherry Blossom Lane, London.\n\nArthur: Got it. And what's your mobile number (number / phone)?\n\nMaiko: My (Our / My) mobile number is +81 90 1234 5678.\n\nArthur: OK, and lastly, what is your email (internet / email) address ?\n\nMaiko: It (It / They) is maiko.sagima@gmail.com.\n\nArthur: All done! Welcome to the library, Maiko. \n\nMaiko: Thank you, Arthur! \n\nArthur: You're very welcome! ",
+          "student": " CONVERSATION\n\nArthur: Good afternoon! Welcome to the local library. How can I help you today?\n\nMaiko: Good afternoon! I'd like to register for a new membership, please.\n\nArthur: Of course! Let's get started. What is (is / are) your first name?\n\nMaiko: it's (It's / It're) Maiko.\n\nArthur: What's your (her / your) surname?\n\nMaiko: It's Sagima.\n\nArthur: Thank you, Maiko. What is your nationality (country / nationality)?\n\nMaiko: I'm japanese (Japan / Japanese).\n\nArthur: Great. Now, what (what / where) is your home address?\n\nMaiko: It's 456 Cherry Blossom Lane, London.\n\nArthur: Got it. And what's your mobile number (number / phone)?\n\nMaiko: my (Our / My) mobile number is +81 90 1234 5678.\n\nArthur: OK, and lastly, what is your email (internet / email) address ?\n\nMaiko: it (It / They) is maiko.sagima@gmail.com.\n\nArthur: All done! Welcome to the library, Maiko. \n\nMaiko: Thank you, Arthur! \n\nArthur: You're very welcome! ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is",
+              "It's|It is",
+              "your",
+              "nationality",
+              "Japanese",
+              "what",
+              "number",
+              "My",
+              "email",
+              "It"
+            ],
+            "studentWords": [
+              "is",
+              "it's",
+              "your",
+              "nationality",
+              "japanese",
+              "what",
+              "number",
+              "my",
+              "email",
+              "it"
+            ]
+          }
+        }
+      ]
+    },
+    "24148610-819d-4194-914c-1be09cae706f": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "homework",
+        "exerciseName": "Numbers 13 - 100",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > How old is she? > Bài tập về nhà > Bài tập 1: Numbers 13 - 100",
+      "refId": "homework:d80c4b9d-708c-405f-aa34-915ddf523188|0b61adee-1449-4455-a5a4-51642ac22706",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "13/13",
+      "instruction": "Write the numbers in words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Number 30: thirty",
+          "student": " Number 30: thirty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "thirty"
+            ],
+            "studentWords": [
+              "thirty"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Number 14: fourteen",
+          "student": " Number 14: fourteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fourteen"
+            ],
+            "studentWords": [
+              "fourteen"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Number 40: forty",
+          "student": " Number 40: forty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "forty"
+            ],
+            "studentWords": [
+              "forty"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Number 15: fifteen",
+          "student": " Number 15: fifteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifteen"
+            ],
+            "studentWords": [
+              "fifteen"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Number 50: fifty",
+          "student": " Number 50: fifty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifty"
+            ],
+            "studentWords": [
+              "fifty"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Number 16: sixteen",
+          "student": " Number 16: sixteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sixteen"
+            ],
+            "studentWords": [
+              "sixteen"
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Number 60: sixty",
+          "student": " Number 60: sixty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sixty"
+            ],
+            "studentWords": [
+              "sixty"
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Number 17: seventeen",
+          "student": " Number 17: seventeen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "seventeen"
+            ],
+            "studentWords": [
+              "seventeen"
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "correct": " Number 70: seventy",
+          "student": " Number 70: seventy",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "seventy"
+            ],
+            "studentWords": [
+              "seventy"
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "correct": " Number 18: eighteen",
+          "student": " Number 18: eighteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eighteen"
+            ],
+            "studentWords": [
+              "eighteen"
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "correct": " Number 80: eighty",
+          "student": " Number 80: eighty",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eighty"
+            ],
+            "studentWords": [
+              "eighty"
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "correct": " Number 19: nineteen",
+          "student": " Number 19: nineteen",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "nineteen"
+            ],
+            "studentWords": [
+              "nineteen"
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "correct": " Number 90: ninety",
+          "student": " Number 90: ninety",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ninety"
+            ],
+            "studentWords": [
+              "ninety"
+            ]
+          }
+        }
+      ]
+    },
+    "57cea148-060f-4511-aef1-53fa3200d56e": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "homework",
+        "exerciseName": "Numbers 13 - 100",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > How old is she? > Bài tập về nhà > Bài tập 2: Numbers 13 - 100",
+      "refId": "homework:f262b7ea-43c5-4431-aefd-de8a4672a9e4|397fd4ce-998c-419e-9597-490989d9e278",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Write the answers in words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " thirty-one + forty-six = seventy-seven",
+          "student": " thirty-one + forty-six = seventy-seven",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "seventy-seven"
+            ],
+            "studentWords": [
+              "seventy-seven"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " eighty-nine - sixty-three = twenty-six",
+          "student": " eighty-nine - sixty-three = twenty-six",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty-six"
+            ],
+            "studentWords": [
+              "twenty-six"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " twenty-four + eighteen = forty-two",
+          "student": " twenty-four + eighteen = forty-two",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "forty-two"
+            ],
+            "studentWords": [
+              "forty-two"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": " ninety-three - forty-two = fifty-one",
+          "student": " ninety-three - forty-two = fifty-one",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "fifty-one"
+            ],
+            "studentWords": [
+              "fifty-one"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": " sixty-six + thirty-four = one hundred|a hundred",
+          "student": " sixty-six + thirty-four = a hundred",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "one hundred|a hundred"
+            ],
+            "studentWords": [
+              "a hundred"
+            ]
+          }
+        }
+      ]
+    },
+    "199b46b6-b2e6-41b0-8385-408d0d34aac0": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "homework",
+        "exerciseName": "How old ... ?",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 2 > How old is she? > Bài tập về nhà > Bài tập 3: How old ... ?",
+      "refId": "homework:19b20713-ebdc-4063-8f3b-786449de2d0c|bb7edd7e-d3e5-44e5-a55c-ed0a34eec5c7",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Fill in the gaps with these words and phrases.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation 1\n\nA: How old is your car?\n\nB: It's seventy-one years old.\n\n",
+          "student": " Conversation 1\n\nA: How old is your car?\n\nB: It's seventy-one years old.\n\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How old",
+              "years"
+            ],
+            "studentWords": [
+              "How old",
+              "years"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation 2\n\nA: This is Max.\n\nB: Hello. How old are you?\n\nC: I'm seven.\n",
+          "student": " Conversation 2\n\nA: This is Max.\n\nB: Hello. How old are you?\n\nC: I'm seven.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How old are",
+              "I'm"
+            ],
+            "studentWords": [
+              "How old are",
+              "I'm"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Conversation 3\n\nA: How old is your dog?\n\nB: He's twelve.\n",
+          "student": " Conversation 3\n\nA: How old is your dog?\n\nB: He's twelve.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "How old is",
+              "He's"
+            ],
+            "studentWords": [
+              "How old is",
+              "He's"
+            ]
+          }
+        }
+      ]
+    },
+    "25ba8d36-3350-43e2-bff6-7e0875487469": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation: word stress",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > How old is she? > Bài tập về nhà > Bài tập 4: Pronunciation: word stress",
+      "refId": "homework:5d7bde20-602c-49eb-be93-fb0712ce4066|b12f2ac3-8280-4029-8578-c0c539fbdc9b",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Choose the stress on these nationalities.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Ger",
+          "student": "Ger",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Ger*//man}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Ru",
+          "student": "Ru",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Ru*//ssian}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "me",
+          "student": "me",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {A//*me*//ri//can}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Bri",
+          "student": "Bri",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Bri*//tish}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "nese",
+          "student": "nese",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Chi//*nese*}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "Spa",
+          "student": "Spa",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Spa*//nish}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "zi",
+          "student": "zi",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Bra//*zi*//li//an}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "ta",
+          "student": "ta",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {I//*ta*//li//an}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "Tur",
+          "student": "Tur",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Tur*//kish}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "stra",
+          "student": "stra",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Au//*stra*//li//an}"
+          }
+        }
+      ]
+    },
+    "b6e8adfa-7c23-46d5-b7e6-c284f4091e1f": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 3,
+        "lessonName": "How old is she?",
+        "moduleType": "homework",
+        "exerciseName": "Spelling: plurals",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 2 > How old is she? > Bài tập về nhà > Bài tập 5: Spelling: plurals",
+      "refId": "homework:c7652c98-7c26-444a-999b-bb0877afa767|70ed2033-1502-4f94-8660-efba92987e1c",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Choose the correct plurals.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "chairs",
+          "student": "chairs",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*chairs*//chaires}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "diaries",
+          "student": "diaries",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {diarys//*diaries*}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "girls",
+          "student": "girls",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*girls*//girles}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "watches",
+          "student": "watches",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {watchs//*watches*}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "countries",
+          "student": "countries",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {countrys//*countries*}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "sandwiches",
+          "student": "sandwiches",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*sandwiches*//sandwichs}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "babies",
+          "student": "babies",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*babies*//babys}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "men",
+          "student": "men",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {mans//*men*}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "women",
+          "student": "women",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*women*//wimin}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "people",
+          "student": "people",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {poeple//*people*}"
           }
         }
       ]

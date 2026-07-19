@@ -1,8 +1,6 @@
 name: Đồng bộ Gist -> file JSON tĩnh
 
 # Chạy định kỳ (mỗi 5 phút) + cho phép bấm chạy tay từ tab Actions trên GitHub.
-# Token thật được lưu trong "Repository secret" (GIST_TOKEN) — KHÔNG nằm
-# trong code, KHÔNG bao giờ hiện ra cho khách truy cập trang public.
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -16,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Thêm dòng này để lấy đủ lịch sử commit, tránh lỗi khi chạy 'git pull --rebase'
+          fetch-depth: 0
 
       - name: Tải dữ liệu mới nhất từ Gist
         env:
@@ -42,11 +43,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add fsel_answers.json
           if ! git diff --staged --quiet; then
             git commit -m "Tự động đồng bộ đáp án từ Gist"
-            # Thêm dòng kéo code mới nhất về trước để tránh xung đột dữ liệu
-            git pull origin main --rebase
+            # Kéo code mới về, nếu trùng file fsel_answers.json thì ưu tiên lấy file vừa tải từ Gist xuống (-X theirs)
+            git pull origin main --rebase -X theirs
             git push origin main
           else
             echo "Không có gì thay đổi, bỏ qua push."
