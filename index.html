@@ -362,7 +362,7 @@
   /* Sidebar mục lục (Unit → Bài học) — thon gọn, trượt ra từ bên trái khi
      hover vào mép trái, tự thu vào khi chuột rời khỏi khung. */
   #toc-panel{
-    position:fixed; top:0; bottom:0; left:0; width:230px; max-width:78vw; z-index:1011;
+    position:fixed; top:0; bottom:0; left:0; width:auto; min-width:132px; max-width:200px; z-index:1011;
     background:var(--card-bg); border-right:1px solid #e3e7ef;
     box-shadow:4px 0 24px rgba(20,30,60,.14);
     transform:translateX(-100%); transition:transform .18s ease;
@@ -371,21 +371,22 @@
   #toc-panel.visible{ transform:translateX(0); }
   #toc-panel-head{
     display:flex; align-items:center; justify-content:space-between; gap:8px;
-    padding:12px 12px 9px; border-bottom:2px solid var(--ink); flex:none;
+    padding:10px 10px 8px; border-bottom:2px solid var(--ink); flex:none;
   }
-  #toc-panel-head h2{ font-family:var(--font-display); font-size:18px; margin:0; }
+  #toc-panel-head h2{ font-family:var(--font-display); font-size:16px; margin:0; white-space:nowrap; }
   #toc-panel-close{
-    width:24px; height:24px; border-radius:7px; border:1px solid #ccd4e2; background:#fff;
-    cursor:pointer; font-size:12px; color:var(--ink-soft); flex:none;
+    width:22px; height:22px; border-radius:7px; border:1px solid #ccd4e2; background:#fff;
+    cursor:pointer; font-size:11px; color:var(--ink-soft); flex:none;
   }
   #toc-panel-close:hover{ background:var(--chip-bg); }
-  #toc-panel-body{ flex:1; overflow-y:auto; padding:6px 7px 18px; }
+  #toc-panel-body{ flex:1; overflow-y:auto; overflow-x:hidden; padding:6px 6px 18px; }
   #toc-panel-empty{ padding:14px; color:var(--ink-soft); font-size:12.5px; text-align:center; }
 
   .toc-unit{ margin-bottom:2px; }
   .toc-unit-label{
     font-family:var(--font-display); font-size:14.5px; padding:6px 8px; border-radius:7px;
     cursor:pointer; line-height:1.25;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
   }
   .toc-unit-label:hover{ background:var(--chip-bg); }
   .toc-unit-label.active{ background:var(--ink); color:#fff; }
@@ -393,6 +394,7 @@
   .toc-lesson{
     padding:4px 7px; border-radius:6px; cursor:pointer; font-size:12px; color:var(--ink-soft);
     line-height:1.25;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
   }
   .toc-lesson:hover{ background:var(--chip-bg); color:var(--ink); }
   .toc-lesson.active{ background:var(--correct-bg); color:var(--correct); font-weight:700; }
@@ -1175,16 +1177,26 @@ tocPanelClose.addEventListener('click', closeTocPanel);
 // ngắn để không bị chớp tắt khi di chuột ngang qua.
 const hasHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 let tocCloseTimer = null;
+let tocOpenTimer = null;
 function cancelTocClose(){
   if(tocCloseTimer){ clearTimeout(tocCloseTimer); tocCloseTimer = null; }
 }
+function cancelTocOpen(){
+  if(tocOpenTimer){ clearTimeout(tocOpenTimer); tocOpenTimer = null; }
+}
 function scheduleTocClose(){
+  cancelTocOpen();
   cancelTocClose();
-  tocCloseTimer = setTimeout(closeTocPanel, 220);
+  tocCloseTimer = setTimeout(closeTocPanel, 800);
+}
+function scheduleTocOpen(){
+  cancelTocClose();
+  cancelTocOpen();
+  tocOpenTimer = setTimeout(openTocPanel, 800);
 }
 if(hasHover){
-  tocEdgeZone.addEventListener('mouseenter', () => { cancelTocClose(); openTocPanel(); });
-  tocEdgeZone.addEventListener('mouseleave', scheduleTocClose);
+  tocEdgeZone.addEventListener('mouseenter', scheduleTocOpen);
+  tocEdgeZone.addEventListener('mouseleave', () => { cancelTocOpen(); scheduleTocClose(); });
   tocPanel.addEventListener('mouseenter', cancelTocClose);
   tocPanel.addEventListener('mouseleave', scheduleTocClose);
 } else {
