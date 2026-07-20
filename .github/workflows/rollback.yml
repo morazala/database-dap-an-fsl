@@ -13,52 +13,39 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Get Gist Commit SHA from Workflow Run
         id: get_gist_data
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # 1. Tìm Commit SHA của repo tại Run đó
-          REPO_SHA=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --json number,headSha --jq ".[] | select(.number == ${{ github.event.inputs.run_number }}).headSha")
-          
-          if [ -z "$REPO_SHA" ]; then
-            echo "❌ Không tìm thấy Run #${{ github.event.inputs.run_number }}"
-            exit 1
-          fi
-          
-          echo "Tìm thấy Repo SHA tại thời điểm đó: $REPO_SHA"
-          
-          # 2. Clone Gist về thư mục tạm
-          git clone https://gist.github.com/bb8129ecb8bcc5efbde0f9a15fda315f.git gist_repo
-          
-          cd gist_repo
-          # Lấy thời gian tạo của repo commit
-          COMMIT_DATE=$(git log -1 --format=%ai $REPO_SHA 2>/dev/null || echo "")
+          # 1. Lấy thẳng thời gian chạy của Run từ repo gốc trước khi chuyển thư mục
+          # Thêm tham số --repo để ép gh chạy đúng repo chính
+          COMMIT_DATE=$(gh run view ${{ github.event.inputs.run_number }} --repo ${{ github.repository }} --json createdAt --jq ".createdAt")
           
           if [ -z "$COMMIT_DATE" ]; then
-            # ĐÃ SỬA TẠI ĐÂY: Loại bỏ ký tự lạ, dùng chuẩn --json createdAt
-            COMMIT_DATE=$(gh run view ${{ github.event.inputs.run_number }} --json createdAt --jq ".createdAt")
+            echo "❌ Không tìm thấy thông tin thời gian cho Run #${{ github.event.inputs.run_number }}"
+            exit 1
           fi
+          echo "Thời điểm chạy Run #${{ github.event.inputs.run_number }} là: $COMMIT_DATE"
           
-          echo "Thời điểm chạy Run: $COMMIT_DATE"
+          # 2. Bây giờ mới Clone Gist về thư mục tạm
+          git clone https://gist.github.com/bb8129ecb8bcc5efbde0f9a15fda315f.git gist_repo
           
-          # Tìm Gist Commit SHA gần nhất trước thời điểm Run đó kết thúc
+          # 3. Vào thư mục Gist và tìm commit cũ dựa trên thời gian đã lấy ở bước 1
+          cd gist_repo
           GIST_SHA=$(git log --before="$COMMIT_DATE" -1 --format=%H)
           
           if [ -z "$GIST_SHA" ]; then
-             echo "❌ Không xác định được commit cũ của Gist."
+             echo "❌ Không xác định được commit cũ của Gist trước thời điểm $COMMIT_DATE"
              exit 1
           fi
-          
           echo "Tìm thấy Gist Commit SHA tương ứng: $GIST_SHA"
           
           # Checkout file JSON tại thời điểm đó
           git checkout $GIST_SHA -- fsel_answers.json
           
-          # Đọc nội dung file JSON và xử lý xuống dòng để đẩy vào biến môi trường
+          # Đọc nội dung file JSON đẩy vào biến môi trường
           echo "GIST_CONTENT<<EOF" >> $GITHUB_ENV
           cat fsel_answers.json >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
