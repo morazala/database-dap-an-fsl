@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-20T11:51:50.739Z",
-  "totalQuestions": 630,
+  "exportedAt": "2026-07-20T12:31:22.619Z",
+  "totalQuestions": 635,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -38332,6 +38332,658 @@
               "office"
             ],
             "template": " She is a {manager} at a tech {company}. Her {office} is near a park."
+          }
+        }
+      ]
+    },
+    "09712a17-1bbf-4e61-9659-3c6889d90535": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 1,
+        "lessonName": "What's your job?",
+        "moduleType": "homework",
+        "exerciseName": "Jobs",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 1: Jobs",
+      "refId": "homework:28b0429c-9eaa-44db-8b43-e909275bbbf8|a9923f7e-d28e-408a-a991-27572fe47b50",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "12/13",
+      "instruction": "Write the jobs in the pictures. Write the full words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an actress\n\nJob 3: an actor \n\nJob 4: a taxi driver \n\nJob 5: a sales assistant \n\nJob 6: a musician \n\nJob 7: a police officer \n\nJob 8: a waitress \n\nJob 9: a waiter \n\nJob 10: a doctor \n\nJob 11: a teacher \n",
+          "student": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an actress\n\nJob 3: an actor \n\nJob 4: a taxi driver \n\nJob 5: a sale assistant \n\nJob 6: a musician \n\nJob 7: a police officer \n\nJob 8: a waitress \n\nJob 9: a waiter \n\nJob 10: a doctor \n\nJob 11: a teacher \n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Fail",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "actress",
+              "actor",
+              "taxi",
+              "driver",
+              "sales",
+              "assistant",
+              "musician",
+              "police",
+              "officer",
+              "waitress",
+              "waiter",
+              "doctor",
+              "teacher"
+            ],
+            "studentWords": [
+              "actress",
+              "actor",
+              "taxi",
+              "driver",
+              "sale",
+              "assistant",
+              "musician",
+              "police",
+              "officer",
+              "waitress",
+              "waiter",
+              "doctor",
+              "teacher"
+            ],
+            "template": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an {actress}\n\nJob 3: an {actor} \n\nJob 4: a {taxi} {driver} \n\nJob 5: a {sales} {assistant} \n\nJob 6: a {musician} \n\nJob 7: a {police} {officer} \n\nJob 8: a {waitress} \n\nJob 9: a {waiter} \n\nJob 10: a {doctor} \n\nJob 11: a {teacher} \n"
+          }
+        }
+      ]
+    },
+    "4fb03633-e92c-4983-b206-d2852e6b32fa": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 1,
+        "lessonName": "What's your job?",
+        "moduleType": "homework",
+        "exerciseName": "be (singular): Wh-questions",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 2: be (singular): Wh-questions",
+      "refId": "homework:810a904a-d333-4102-a4b5-946f87aace4b|f1db8a12-890c-4906-ad2a-ce318b993ae4",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "16/16",
+      "instruction": "Fill in the gaps in these conversations. Write ONE word in each gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation A\n\nA: Hello, what's|is your name?\nB: My name 's|is Oliver.\nA: Where 're|are you from?\nB: I 'm|am from the UK.\nA: What 's|is your job?\nB: I 'm|am an actor.",
+          "student": " Conversation A\n\nA: Hello, whatis your name?\nB: My name is Oliver.\nA: Where are you from?\nB: I 'm from the UK.\nA: What is your job?\nB: I 'm an actor.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "'s|is",
+              "'s|is",
+              "'re|are",
+              "'m|am",
+              "'s|is",
+              "'m|am"
+            ],
+            "studentWords": [
+              "is",
+              "is",
+              "are",
+              "'m",
+              "is",
+              "'m"
+            ],
+            "template": " Conversation A\n\nA: Hello, what{'s|is} your name?\nB: My name {'s|is} Oliver.\nA: Where {'re|are} you from?\nB: I {'m|am} from the UK.\nA: What {'s|is} your job?\nB: I {'m|am} an actor."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation B\n\nA: Hi, what's|is your name?\nB: My name 's|is Holly.\nA: Where are you from?\nB: I 'm|am from the USA.\nA: What's|is your job?\nB: I 'm|am an actress.\n\n",
+          "student": " Conversation B\n\nA: Hi, whatis your name?\nB: My name is Holly.\nA: where are you from?\nB: I 'm from the USA.\nA: Whatis your job?\nB: I 'm an actress.\n\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "'s|is",
+              "'s|is",
+              "Where",
+              "from",
+              "'m|am",
+              "the",
+              "'s|is",
+              "job",
+              "'m|am",
+              "an"
+            ],
+            "studentWords": [
+              "is",
+              "is",
+              "where",
+              "from",
+              "'m",
+              "the",
+              "is",
+              "job",
+              "'m",
+              "an"
+            ],
+            "template": " Conversation B\n\nA: Hi, what{'s|is} your name?\nB: My name {'s|is} Holly.\nA: {Where} are you {from}?\nB: I {'m|am} from {the} USA.\nA: What{'s|is} your {job}?\nB: I {'m|am} {an} actress.\n\n"
+          }
+        }
+      ]
+    },
+    "fea2b7fa-48f9-49d7-a906-075d366d1253": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 1,
+        "lessonName": "What's your job?",
+        "moduleType": "homework",
+        "exerciseName": "be (singular): Wh-questions",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 3: be (singular): Wh-questions",
+      "refId": "homework:ff680129-c5a6-488b-8975-2a08de4902c9|274da7ab-3d7c-4809-8669-e04238b88309",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "30/37",
+      "instruction": "Look at photos 1 - 4. Fill in the gaps in the conversations. Write ONE word in each gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation 1:\n\nA: What 's|is his name?\n\nB: His name 's|is Bruce.\n\nA: Where 's|is he from?\n\nB: He 's|is from Australia.\n\nA: What 's|is his job?\n\nB: He 's|is a waiter.",
+          "student": " Conversation 1:\n\nA: What 's his name?\n\nB: His name 's Bruce.\n\nA: Where 's he from?\n\nB: He 's from Australia.\n\nA: What 's his job?\n\nB: He 's a waiter.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "'s|is",
+              "'s|is",
+              "'s|is",
+              "'s|is",
+              "'s|is",
+              "'s|is"
+            ],
+            "studentWords": [
+              "'s",
+              "'s",
+              "'s",
+              "'s",
+              "'s",
+              "'s"
+            ],
+            "template": " Conversation 1:\n\nA: What {'s|is} his name?\n\nB: His name {'s|is} Bruce.\n\nA: Where {'s|is} he from?\n\nB: He {'s|is} from Australia.\n\nA: What {'s|is} his job?\n\nB: He {'s|is} a waiter."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation 2:\n\nA: What's|What is her name?\n\nB: Her name's|name is Aylin.\n\nA: Where's|Where is she from?\n\nB: She's|She is from Turkey.\n\nA: What's|What is her job?\n\nB: She's|She is a doctor.",
+          "student": " Conversation 2:\n\nA: what's her name?\n\nB: Her name's Aylin.\n\nA: where's she from?\n\nB: she's from Turkey.\n\nA: what's her job?\n\nB: she's a doctor.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's|What is",
+              "name's|name is",
+              "Where's|Where is",
+              "She's|She is",
+              "What's|What is",
+              "She's|She is"
+            ],
+            "studentWords": [
+              "what's",
+              "name's",
+              "where's",
+              "she's",
+              "what's",
+              "she's"
+            ],
+            "template": " Conversation 2:\n\nA: {What's|What is} her name?\n\nB: Her {name's|name is} Aylin.\n\nA: {Where's|Where is} she from?\n\nB: {She's|She is} from Turkey.\n\nA: {What's|What is} her job?\n\nB: {She's|She is} a doctor."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Conversation 3:\n\nA: What's|What is her name?\n\nB: Her name is Jamila.\n\nA: Where's|Where is she from?\n\nB: She's|She is from Egypt.\n\nA: What's|What is her job?\n\nB: She's|She is a manager.",
+          "student": " Conversation 3:\n\nA: what is her name?\n\nB: her name is Jamila.\n\nA: where is she from?\n\nB: she's from Egypt.\n\nA: what's her job?\n\nB: she's a manager.",
+          "status": [
+            "Fail",
+            "Fail",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's|What is",
+              "her",
+              "Her",
+              "name",
+              "Where's|Where is",
+              "she",
+              "She's|She is",
+              "from",
+              "What's|What is",
+              "her",
+              "She's|She is",
+              "a"
+            ],
+            "studentWords": [
+              "what",
+              "is her",
+              "her",
+              "name",
+              "where is",
+              "she",
+              "she's",
+              "from",
+              "what's",
+              "her",
+              "she's",
+              "a"
+            ],
+            "template": " Conversation 3:\n\nA: {What's|What is} {her} name?\n\nB: {Her} {name} is Jamila.\n\nA: {Where's|Where is} {she} from?\n\nB: {She's|She is} {from} Egypt.\n\nA: {What's|What is} {her} job?\n\nB: {She's|She is} {a} manager."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Conversation 4:\n\nA: What's|What is his name?\n\nB: His name 's|is Sebastian.\n\nA: Where's|Where is he from?\n\nB: He's|He is from Mexico.\n\nA: What's|What is his job?\n\nB: He's|He is a teacher.",
+          "student": " Conversation 4:\n\nA: what is his name?\n\nB: his name is Sebastian.\n\nA: where is he from?\n\nB: he's from Mexico.\n\nA: what's his job?\n\nB: he's a teacher.",
+          "status": [
+            "Fail",
+            "Fail",
+            "Fail",
+            "Correct",
+            "Correct",
+            "Fail",
+            "Fail",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What's|What is",
+              "his",
+              "name",
+              "His",
+              "'s|is",
+              "Where's|Where is",
+              "he",
+              "He's|He is",
+              "from",
+              "What's|What is",
+              "his",
+              "He's|He is",
+              "a"
+            ],
+            "studentWords": [
+              "what",
+              "is",
+              "his name",
+              "his",
+              "is",
+              "where",
+              "is he",
+              "he's",
+              "from",
+              "what's",
+              "his",
+              "he's",
+              "a"
+            ],
+            "template": " Conversation 4:\n\nA: {What's|What is} {his} {name}?\n\nB: {His} name {'s|is} Sebastian.\n\nA: {Where's|Where is} {he} from?\n\nB: {He's|He is} {from} Mexico.\n\nA: {What's|What is} {his} job?\n\nB: {He's|He is} {a} teacher."
+          }
+        }
+      ]
+    },
+    "6fa50508-a7c1-433c-bb59-cb989549e3d6": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 1,
+        "lessonName": "What's your job?",
+        "moduleType": "homework",
+        "exerciseName": "be (singular): Yes-No questions",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 4: be (singular): Yes-No questions",
+      "refId": "homework:b0b96377-8c54-444a-ba3d-0a810b99bf99|41a27d6e-a6a2-40b7-b133-0baac4cff81e",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Make questions with these words. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "he",
+              "a",
+              "police officer",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "he",
+              "a",
+              "police officer",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "Aylin",
+              "from",
+              "Germany",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "Aylin",
+              "from",
+              "Germany",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "she",
+              "a",
+              "doctor",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "she",
+              "a",
+              "doctor",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "Jamila",
+              "from",
+              "France",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "Jamila",
+              "from",
+              "France",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "she",
+              "a",
+              "manager",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "she",
+              "a",
+              "manager",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "Sebastian",
+              "from ",
+              "Mexico",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "Sebastian",
+              "from ",
+              "Mexico",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "he",
+              "a",
+              "waiter",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "he",
+              "a",
+              "waiter",
+              "?"
+            ]
+          }
+        }
+      ]
+    },
+    "ab777cf0-14d0-427a-a52b-feef310801ef": {
+      "location": {
+        "unitName": "Unit 2",
+        "lessonOrder": 1,
+        "lessonName": "What's your job?",
+        "moduleType": "homework",
+        "exerciseName": "be (singular): Yes-No questions",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 4: be (singular): Yes-No questions",
+      "refId": "homework:b0b96377-8c54-444a-ba3d-0a810b99bf99|41a27d6e-a6a2-40b7-b133-0baac4cff81e",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Write short answers to the questions above. Write ONE word in each gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " No, he isn't.",
+          "student": " No, he isn't.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "No"
+            ],
+            "studentWords": [
+              "No"
+            ],
+            "template": " {No}, he isn't."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " No, she isn't.",
+          "student": " no, she isn't.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "No"
+            ],
+            "studentWords": [
+              "no"
+            ],
+            "template": " {No}, she isn't."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Yes, she is.",
+          "student": " yes, she is.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes"
+            ],
+            "studentWords": [
+              "yes"
+            ],
+            "template": " {Yes}, she is."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " No, she isn't|is not.",
+          "student": " No, she isn't.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "isn't|is not"
+            ],
+            "studentWords": [
+              "isn't"
+            ],
+            "template": " No, she {isn't|is not}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Yes, she is.",
+          "student": " Yes, she is.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is"
+            ],
+            "studentWords": [
+              "is"
+            ],
+            "template": " Yes, she {is}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Yes, he is.",
+          "student": " yes, he is.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes"
+            ],
+            "studentWords": [
+              "yes"
+            ],
+            "template": " {Yes}, he is."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " No, he isn't|is not.",
+          "student": " No, he isn't.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "isn't|is not"
+            ],
+            "studentWords": [
+              "isn't"
+            ],
+            "template": " No, he {isn't|is not}."
           }
         }
       ]
