@@ -19,9 +19,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # 1. Lấy thẳng thời gian chạy của Run từ repo gốc trước khi chuyển thư mục
-          # Thêm tham số --repo để ép gh chạy đúng repo chính
-          COMMIT_DATE=$(gh run view ${{ github.event.inputs.run_number }} --repo ${{ github.repository }} --json createdAt --jq ".createdAt")
+          # SỬA TẠI ĐÂY: Dùng gh run list để tìm đúng số hiển thị (number) và bốc ra thời gian tạo (createdAt)
+          COMMIT_DATE=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --repo ${{ github.repository }} --json number,createdAt --jq ".[] | select(.number == ${{ github.event.inputs.run_number }}).createdAt")
           
           if [ -z "$COMMIT_DATE" ]; then
             echo "❌ Không tìm thấy thông tin thời gian cho Run #${{ github.event.inputs.run_number }}"
