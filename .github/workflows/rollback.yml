@@ -1,17 +1,14 @@
-name: Rollback File By Run Number
+name: Rollback GitHub Gist
 
 on:
   workflow_dispatch:
     inputs:
-      file_path:
-        description: 'Đường dẫn đến file JSON (VD: fsel_answers.json)'
-        required: true
       run_number:
-        description: 'Nhập số Run muốn rollback (VD: 30)'
+        description: 'Nhập số Run của workflow đồng bộ muốn quay về (VD: 30)'
         required: true
 
 jobs:
-  rollback-by-run:
+  rollback-gist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -19,35 +16,80 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get Commit SHA from Run Number
-        id: get_sha
+      - name: Get Gist Commit SHA from Workflow Run
+        id: get_gist_data
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # Đã sửa: dùng trường "number" thay vì "runNumber"
-          COMMIT_SHA=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --json number,headSha --jq ".[] | select(.number == ${{ github.event.inputs.run_number }}).headSha")
+          # 1. Tìm Commit SHA của repo tại Run đó để xem lúc đó code chạy thế nào
+          REPO_SHA=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --json number,headSha --jq ".[] | select(.number == ${{ github.event.inputs.run_number }}).headSha")
           
-          if [ -z "$COMMIT_SHA" ]; then
-            echo "❌ Không tìm thấy mã commit cho Run #${{ github.event.inputs.run_number }}"
+          if [ -z "$REPO_SHA" ]; then
+            echo "❌ Không tìm thấy Run #${{ github.event.inputs.run_number }}"
             exit 1
           fi
           
-          echo "Tìm thấy Commit SHA: $COMMIT_SHA"
-          echo "sha=$COMMIT_SHA" >> $GITHUB_OUTPUT
-
-      - name: Rollback file
-        run: |
-          git restore --source=${{ steps.get_sha.outputs.sha }} -- ${{ github.event.inputs.file_path }}
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "Tìm thấy Repo SHA tại thời điểm đó: $REPO_SHA"
           
-          if git diff --quiet ${{ github.event.inputs.file_path }}; then
-            echo "Không có thay đổi."
-          else
-            git add ${{ github.event.inputs.file_path }}
-            git commit -m "Chore: Rollback file ${{ github.event.inputs.file_path }} về phiên bản của Run #${{ github.event.inputs.run_number }}"
-            git push
+          # 2. Clone Gist về một thư mục tạm để xem lịch sử của Gist
+          git clone https://gist.github.com/bb8129ecb8bcc5efbde0f9a15fda315f.git gist_repo
+          
+          cd gist_repo
+          # Tìm commit của Gist được tạo trước hoặc đúng thời điểm chạy workflow đó
+          # Để đơn giản và chính xác nhất, ta sẽ lấy log dựa theo thời gian của Repo Commit
+          COMMIT_DATE=$(git log -1 --format=%ai $REPO_SHA 2>/dev/null || echo "")
+          
+          if [ -z "$COMMIT_DATE" ]; then
+            # Nếu không lấy được date từ repo commit (do chạy scheduled), lấy thời gian của chính Run đó
+            COMMIT_DATE=$(gh run view ${{ github.event.inputs.run_number }} --json編createdAt --jq ".createdAt")
           fi
+          
+          # Tìm Gist Commit SHA gần nhất trước thời điểm Run đó kết thúc
+          GIST_SHA=$(git log --before="$COMMIT_DATE" -1 --format=%H)
+          
+          if [ -z "$GIST_SHA" ]; then
+             echo "❌ Không xác định được commit cũ của Gist."
+             exit 1
+          fi
+          
+          echo "Tìm thấy Gist Commit SHA tương ứng: $GIST_SHA"
+          
+          # Checkout file JSON tại thời điểm đó
+          git checkout $GIST_SHA -- fsel_answers.json
+          
+          # Đọc nội dung file JSON và xử lý xuống dòng để đẩy vào biến môi trường
+          echo "GIST_CONTENT<<EOF" >> $GITHUB_ENV
+          cat fsel_answers.json >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update Gist via API
+        env:
+          # Bạn cần một Personal Access Token (PAT) có quyền 'gist' nếu GITHUB_TOKEN mặc định bị chặn quyền ghi Gist
+          # Nếu chạy lỗi quyền, hãy tạo Secret tên GIST_TOKEN nhé. Hiện tại tôi tạm dùng github.token
+          GH_TOKEN: ${{ secrets.GIST_TOKEN || github.token }}
+        run: |
+          # Dùng GitHub API để đè dữ liệu cũ lên Gist hiện tại
+          cat << 'EOF' > payload.json
+          {
+            "description": "Rollback dữ liệu về phiên bản cũ",
+            "files": {
+              "fsel_answers.json": {
+                "content": ""
+              }
+            }
+          }
+          EOF
+          
+          # Nhúng nội dung JSON cũ vào payload bằng jq để tránh lỗi cú pháp chữ
+          jq --arg content "$GIST_CONTENT" '.files["fsel_answers.json"].content = $content' payload.json > final_payload.json
+          
+          # Gửi request cập nhật Gist
+          curl -L \
+            -X PATCH \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/gists/bb8129ecb8bcc5efbde0f9a15fda315f \
+            -d @final_payload.json
+            
+          echo "🎉 Đã rollback Gist thành công về trạng thái của Run #${{ github.event.inputs.run_number }}!"
