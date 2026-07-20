@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-19T14:13:17.792Z",
+  "exportedAt": "2026-07-20T03:23:25.030Z",
   "totalQuestions": 481,
   "totalUnknownQuestions": 0,
   "answers": {
@@ -8210,20 +8210,26 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 13
+        "exerciseOrder": 14
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
-      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 14: Nói",
+      "refId": "video:bac4c6fd-5eba-4541-9b2a-dde66187dbc3|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "I‘m not American.",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "I‘m not American",
+            "I'm not American",
+            "I’m not American",
+            "Im not American",
+            "I am not American"
+          ],
+          "student": "I‘m not American.",
+          "status": "Correct"
         }
       ]
     },
@@ -8234,20 +8240,25 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 13
+        "exerciseOrder": 14
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
-      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 14: Nói",
+      "refId": "video:bac4c6fd-5eba-4541-9b2a-dde66187dbc3|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "You aren’t a teacher.",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "You aren’t a teacher",
+            "You aren't a teacher",
+            "You arent a teacher",
+            "You aren't a teacher."
+          ],
+          "student": "You aren’t a teacher.",
+          "status": "Correct"
         }
       ]
     },
@@ -8258,20 +8269,27 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 13
+        "exerciseOrder": 14
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
-      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 14: Nói",
+      "refId": "video:bac4c6fd-5eba-4541-9b2a-dde66187dbc3|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "He isn’t from Berlin.",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "He isn’t from Berlin",
+            "He isn't from Berlin",
+            "He isnt from Berlin",
+            "He is not from Berlin",
+            "He's not from Berlin",
+            "He’s not from Berlin"
+          ],
+          "student": "He isn’t from Berlin.",
+          "status": "Correct"
         }
       ]
     },
@@ -8282,20 +8300,25 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 13
+        "exerciseOrder": 14
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
-      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 14: Nói",
+      "refId": "video:bac4c6fd-5eba-4541-9b2a-dde66187dbc3|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "She isn’t Australian. ",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "She isn’t Australian",
+            "She isn't Australian",
+            "She isnt Australian",
+            "She is not Australian"
+          ],
+          "student": "She isn’t Australian.",
+          "status": "Correct"
         }
       ]
     },
@@ -8306,20 +8329,25 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 13
+        "exerciseOrder": 14
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 13: Nói",
-      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 14: Nói",
+      "refId": "video:bac4c6fd-5eba-4541-9b2a-dde66187dbc3|af2a3fb8-3d8a-43ce-8fef-5c8fdbad39a7",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "It isn’t a Mercedes.",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "It isn’t a Mercedes",
+            "It isn't a Mercedes",
+            "It isnt a Mercedes",
+            "It is not a Mercedes"
+          ],
+          "student": "It isn’t a Mercedes.",
+          "status": "Correct"
         }
       ]
     },
@@ -8330,96 +8358,132 @@
         "lessonName": "She's British",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 17
+        "exerciseOrder": 19
       },
-      "where": "Unit 2 > She's British > Video tương tác > Bài tập 17: Ngữ pháp",
-      "refId": "video:ced74f3b-8848-40e9-a6b1-6981029349eb|dcd6735f-4b55-45fd-847f-7529eccbcb56",
+      "where": "Unit 2 > She's British > Video tương tác > Bài tập 19: Ngữ pháp",
+      "refId": "video:bac4c6fd-5eba-4541-9b2a-dde66187dbc3|dcd6735f-4b55-45fd-847f-7529eccbcb56",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "12/12",
       "instruction": "Fill the gaps with ’m, ’m not, ’s, isn’t, ’re, or aren’t",
       "answer": [
         {
           "id": 1,
           "correct": " He's Vietnamese. Heisn't a student.",
-          "student": null,
-          "status": null,
+          "student": " He's Vietnamese. Heisn't a student.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "'s",
               "isn't"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "'s",
+              "isn't"
+            ],
             "template": " He{'s} Vietnamese. He{isn't} a student."
           }
         },
         {
           "id": 2,
           "correct": " I'm from the UK, but I'm not from London.",
-          "student": null,
-          "status": null,
+          "student": " I'm from the UK, but I'm not from London.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "'m",
               "'m not"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "'m",
+              "'m not"
+            ],
             "template": " I{'m} from the UK, but I{'m not} from London."
           }
         },
         {
           "id": 3,
           "correct": " She isn't Australian. She's from the USA.",
-          "student": null,
-          "status": null,
+          "student": " She isn't Australian. She's from the USA.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "isn't",
               "'s"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "isn't",
+              "'s"
+            ],
             "template": " She {isn't} Australian. She{'s} from the USA."
           }
         },
         {
           "id": 4,
-          "correct": " She 's a teacher, heisn't a student.",
-          "student": null,
-          "status": null,
+          "correct": " She isn't a teacher, he's a student.",
+          "student": " She 'isn't a teacher, he's a student.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "'s",
-              "isn't"
+              "isn't",
+              "'s"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "'isn't",
+              "'s"
+            ],
             "template": " She {isn't} a teacher, he{'s} a student."
           }
         },
         {
           "id": 5,
           "correct": " It's a car. It isn't a bicycle.",
-          "student": null,
-          "status": null,
+          "student": " It's a car. It isn't a bicycle.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "'s",
               "isn't"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "'s",
+              "isn't"
+            ],
             "template": " It{'s} a car. It {isn't} a bicycle."
           }
         },
         {
           "id": 6,
           "correct": " You aren't from China. You're a student.",
-          "student": null,
-          "status": null,
+          "student": " You aren't from China. You're a student.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "aren't",
               "'re"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "aren't",
+              "'re"
+            ],
             "template": " You {aren't} from China. You{'re} a student."
           }
         }
