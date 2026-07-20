@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-20T05:04:04.120Z",
-  "totalQuestions": 476,
+  "exportedAt": "2026-07-20T05:57:46.967Z",
+  "totalQuestions": 496,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -20465,6 +20465,984 @@
         }
       ]
     },
+    "5dd3084c-3e03-49d0-94b8-f035267a07d4": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 1: Đọc",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|be4f7208-640d-423e-aa10-d6961bc42dad",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Read the text. Fill in the gap with ONE WORD from the text.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Cesar is Carmen's husband.",
+          "student": " Cesar is Carmen's husband.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "husband"
+            ],
+            "studentWords": [
+              "husband"
+            ],
+            "template": " Cesar is Carmen's {husband}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Marissa is Carmen's daughter.",
+          "student": " Marissa is Carmen's daughter.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "daughter"
+            ],
+            "studentWords": [
+              "daughter"
+            ],
+            "template": " Marissa is Carmen's {daughter}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Teresa is Carmen's daughter.",
+          "student": " Teresa is Carmen's daughter.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "daughter"
+            ],
+            "studentWords": [
+              "daughter"
+            ],
+            "template": " Teresa is Carmen's {daughter}."
+          }
+        }
+      ]
+    },
+    "76c4e1e0-74c3-4f4c-86a4-4c381a4e477a": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 2: Đọc",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|21a091cc-630d-4db5-9086-125548f50b03",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Read the text again. Choose correct words to complete sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "married",
+          "student": "married",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Carmen is {single//*married*}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Mexican",
+          "student": "Mexican",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She's {*Mexican*//Colombian}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Mérida",
+          "student": "Mérida",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Carmen and Cesar live in {Mexico City//*Mérida*}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "three",
+          "student": "three",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Carmen's phone is {two//*three*} years old."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "is",
+          "student": "is",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Their flat {*is*//isn't} in the centre of the city."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "are",
+          "student": "are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Their daughters {*are*//aren't} very good at English."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "Italian",
+          "student": "Italian",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " They like {*Italian*//Chinese} food."
+          }
+        }
+      ]
+    },
+    "5cca6b0e-1a1d-4ac0-9a9c-968dbcea674e": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|9cd036cf-5be3-4983-8eca-1796d0c05cca",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Read the text again. Choose correct words from the text to complete sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " We don't live in Mexico city.",
+          "student": " We don't live in Mexico city.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "don't live"
+            ],
+            "studentWords": [
+              "don't live"
+            ],
+            "template": " We {don't live} in Mexico city."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I work for a mobile phone company.",
+          "student": " I work for a mobile phone company.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "work"
+            ],
+            "studentWords": [
+              "work"
+            ],
+            "template": " I {work} for a mobile phone company."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " I don't have a new phone.",
+          "student": " I don't have a new phone.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "don't have"
+            ],
+            "studentWords": [
+              "don't have"
+            ],
+            "template": " I {don't have} a new phone."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " We live in a very nice flat.",
+          "student": " We live in a very nice flat.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "live"
+            ],
+            "studentWords": [
+              "live"
+            ],
+            "template": " We {live} in a very nice flat."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " They like rock music.",
+          "student": " They like rock music.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "like"
+            ],
+            "studentWords": [
+              "like"
+            ],
+            "template": " They {like} rock music."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " They don't like Chinese food.",
+          "student": " They don't like Chinese food.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "don't like"
+            ],
+            "studentWords": [
+              "don't like"
+            ],
+            "template": " They {don't like} Chinese food."
+          }
+        }
+      ]
+    },
+    "2b5f3390-e854-4e0e-a65a-79a1812b2c25": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 4: Ngữ pháp",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|9d5306e0-6dd5-4332-a0d6-14459d01dc58",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Make present simple sentences. ​Put the words into the correct order. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "live",
+              "in",
+              "the",
+              "centre",
+              "of",
+              "the",
+              "city."
+            ],
+            "studentWords": [
+              "I",
+              "live",
+              "in",
+              "the",
+              "centre",
+              "of",
+              "the",
+              "city."
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "don't",
+              "work",
+              "in",
+              "an",
+              "office."
+            ],
+            "studentWords": [
+              "I",
+              "don't",
+              "work",
+              "in",
+              "an",
+              "office."
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "like",
+              "Italian",
+              "food."
+            ],
+            "studentWords": [
+              "I",
+              "like",
+              "Italian",
+              "food."
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "don't",
+              "like",
+              "rock",
+              "music. "
+            ],
+            "studentWords": [
+              "I",
+              "don't",
+              "like",
+              "rock",
+              "music. "
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "have",
+              "a",
+              "new",
+              "computer."
+            ],
+            "studentWords": [
+              "I",
+              "have",
+              "a",
+              "new",
+              "computer."
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "don't",
+              "have",
+              "a",
+              "sister."
+            ],
+            "studentWords": [
+              "I",
+              "don't",
+              "have",
+              "a",
+              "sister."
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "study",
+              "English."
+            ],
+            "studentWords": [
+              "I",
+              "study",
+              "English."
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "live",
+              "in",
+              "a",
+              "small",
+              "house."
+            ],
+            "studentWords": [
+              "I",
+              "live",
+              "in",
+              "a",
+              "small",
+              "house."
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "don't",
+              "work",
+              "for",
+              "an",
+              "American",
+              "company."
+            ],
+            "studentWords": [
+              "I",
+              "don't",
+              "work",
+              "for",
+              "an",
+              "American",
+              "company."
+            ]
+          }
+        }
+      ]
+    },
+    "695e18fa-bd96-4f7f-b3e7-7389bfa18b9c": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|ba3d33cb-fd19-46a5-a8bd-8824c0a08917",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "We live in a city called Merida. \"Live\" means:",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "To visit a place."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "To stay in a place as your home."
+          }
+        }
+      ]
+    },
+    "ce4c53f8-779b-499d-a96b-d202c1af75b4": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|ba3d33cb-fd19-46a5-a8bd-8824c0a08917",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "I work for a mobile phone company. \"Work\" means:",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "To rest.   "
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": " To do a job or task."
+          }
+        }
+      ]
+    },
+    "739be487-86b2-46ea-9094-50a040297a60": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|ba3d33cb-fd19-46a5-a8bd-8824c0a08917",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "We have two daughters. \"Have\" means:",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "To own something."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "To want something."
+          }
+        }
+      ]
+    },
+    "2c6720ed-c285-408d-8417-7dcc8733ba66": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|ba3d33cb-fd19-46a5-a8bd-8824c0a08917",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "They study English at school. “Study” means: ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "To play games."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "To learn about something."
+          }
+        }
+      ]
+    },
+    "c1888d7a-2ea5-4396-b67d-a229f0a65d6a": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|ba3d33cb-fd19-46a5-a8bd-8824c0a08917",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "They like football. \"Like\" means: ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "To enjoy something."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "To need something."
+          }
+        }
+      ]
+    },
+    "0c052330-409e-419c-964f-96feb3b7dcc5": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|e8a38300-6af9-44ea-bcef-d3b1d10998d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Live",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "live"
+          ],
+          "student": "live",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9d026ce1-9073-48dc-a3ef-34ca9429a191": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|e8a38300-6af9-44ea-bcef-d3b1d10998d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Work",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Work",
+            "work",
+            "WORK"
+          ],
+          "student": "work",
+          "status": "Correct"
+        }
+      ]
+    },
+    "df01b9c2-0987-4601-86ee-217dbfd88815": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|e8a38300-6af9-44ea-bcef-d3b1d10998d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Have",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Have",
+            "have"
+          ],
+          "student": "have",
+          "status": "Correct"
+        }
+      ]
+    },
+    "586f73d3-ddcc-4c76-badd-481b385bbab3": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|e8a38300-6af9-44ea-bcef-d3b1d10998d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Study",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Study"
+          ],
+          "student": "study",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5d9d7c65-282e-4b73-a5ae-01c4caea1628": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|e8a38300-6af9-44ea-bcef-d3b1d10998d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Like",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Like"
+          ],
+          "student": "like",
+          "status": "Correct"
+        }
+      ]
+    },
+    "30f03735-0301-41e8-9986-a0d0a4752d7f": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 7: Từ vựng",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|42aec2bf-4a14-45aa-ac96-3632d26194d9",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Match the words or phrases from the box to the correct verb.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " like rock music|football; like rock music|football",
+          "student": " like football; like rock music",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "rock music|football",
+              "rock music|football"
+            ],
+            "studentWords": [
+              "football",
+              "rock music"
+            ],
+            "template": " like {rock music|football}; like {rock music|football}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " have two children|a car; have two children|a car",
+          "student": " have two children; have a car",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "two children|a car",
+              "two children|a car"
+            ],
+            "studentWords": [
+              "two children",
+              "a car"
+            ],
+            "template": " have {two children|a car}; have {two children|a car}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " live in a flat|in the centre of the city|in the center of the city; live in a flat|in the centre of the city|in the center of the city",
+          "student": " live in a flat; live in the centre of the city",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "in a flat|in the centre of the city|in the center of the city",
+              "in a flat|in the centre of the city|in the center of the city"
+            ],
+            "studentWords": [
+              "in a flat",
+              "in the centre of the city"
+            ],
+            "template": " live {in a flat|in the centre of the city|in the center of the city}; live {in a flat|in the centre of the city|in the center of the city}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " work for a Spanish company|in an office; work for a Spanish company|in an office",
+          "student": " work for a Spanish company; work in an office",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "for a Spanish company|in an office",
+              "for a Spanish company|in an office"
+            ],
+            "studentWords": [
+              "for a Spanish company",
+              "in an office"
+            ],
+            "template": " work {for a Spanish company|in an office}; work {for a Spanish company|in an office}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " study English|languages; study English|languages",
+          "student": " study English; study languages",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "English|languages",
+              "English|languages"
+            ],
+            "studentWords": [
+              "English",
+              "languages"
+            ],
+            "template": " study {English|languages}; study {English|languages}"
+          }
+        }
+      ]
+    },
+    "dd38cec0-dcfa-48ed-86ca-166bc8607126": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 4 > Live, work and study > Video tương tác > Bài tập 8: Ngữ pháp",
+      "refId": "video:c9a4cfc9-ce9b-4c21-a644-dd79eae64fa2|8c29b7b9-54f9-4d5e-b418-cb4f4486cbc5",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Fill in the talk with positive (+) and negative (-) form of the words LIKE, LIVE, HAVE, WORK or STUDY.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nI live (+) in Boston, in the USA, with my wife, Brooke. We live (+) in a nice apartment in the old part of the city. I have (+) two brothers, but they don't live|do not live (-) in Boston, they live (+) in New York. I'm a manager and I work (+) in an office near my apartment. I like (+) Mexican food, but I don't like|do not like (-) Japanese food. In the evenings I study (+) Spanish at a language school. I like (+) Boston a lot, but it's a very expensive city!",
+          "student": " \nI live (+) in Boston, in the USA, with my wife, Brooke. We live (+) in a nice apartment in the old part of the city. I have (+) two brothers, but they don't live (-) in Boston, they live (+) in New York. I'm a manager and I work (+) in an office near my apartment. I like (+) Mexican food, but I don't like (-) Japanese food. In the evenings I study (+) Spanish at a language school. I like (+) Boston a lot, but it's a very expensive city!",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "live",
+              "live",
+              "have",
+              "don't live|do not live",
+              "live",
+              "work",
+              "like",
+              "don't like|do not like",
+              "study",
+              "like"
+            ],
+            "studentWords": [
+              "live",
+              "live",
+              "have",
+              "don't live",
+              "live",
+              "work",
+              "like",
+              "don't like",
+              "study",
+              "like"
+            ],
+            "template": " \nI {live} (+) in Boston, in the USA, with my wife, Brooke. We {live} (+) in a nice apartment in the old part of the city. I {have} (+) two brothers, but they {don't live|do not live} (-) in Boston, they {live} (+) in New York. I'm a manager and I {work} (+) in an office near my apartment. I {like} (+) Mexican food, but I {don't like|do not like} (-) Japanese food. In the evenings I {study} (+) Spanish at a language school. I {like} (+) Boston a lot, but it's a very expensive city!"
+          }
+        }
+      ]
+    },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
         "unitName": "Unit 1",
@@ -28872,6 +29850,577 @@
               "but"
             ],
             "template": " She’s an English teacher, {but} she isn’t from the UK."
+          }
+        }
+      ]
+    },
+    "5eee3c61-7865-4d30-96d1-4d3f8e218e82": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "homework",
+        "exerciseName": "Phrases with like, have, live, work, study",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 4 > Live, work and study > Bài tập về nhà > Bài tập 1: Phrases with like, have, live, work, study",
+      "refId": "homework:de56c72b-c710-4d39-ab59-9fea7b7ea7d6|4096c705-fb05-42fe-b0fc-3bb0562d0f2b",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "16/16",
+      "instruction": "Look at pictures 1 - 10 . Fill in the gaps with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " study English",
+          "student": " study English",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "study"
+            ],
+            "studentWords": [
+              "study"
+            ],
+            "template": " {study} English"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " work in an office",
+          "student": " work in an office",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "work",
+              "office"
+            ],
+            "studentWords": [
+              "work",
+              "office"
+            ],
+            "template": " {work} in an {office}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " like football",
+          "student": " like football",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "football"
+            ],
+            "studentWords": [
+              "football"
+            ],
+            "template": " like {football}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " live in a flat",
+          "student": " live in a flat",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "live",
+              "flat"
+            ],
+            "studentWords": [
+              "live",
+              "flat"
+            ],
+            "template": " {live} in a {flat}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " study languages",
+          "student": " study languages",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "languages"
+            ],
+            "studentWords": [
+              "languages"
+            ],
+            "template": " study {languages}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " like rock music",
+          "student": " like rock music",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "like",
+              "music"
+            ],
+            "studentWords": [
+              "like",
+              "music"
+            ],
+            "template": " {like} rock {music}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " have a car",
+          "student": " have a car",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "car"
+            ],
+            "studentWords": [
+              "car"
+            ],
+            "template": " have a {car}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " live in the centre of the city",
+          "student": " live in the centre of the city",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "centre",
+              "city"
+            ],
+            "studentWords": [
+              "centre",
+              "city"
+            ],
+            "template": " live in the {centre} of the {city}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " have two children",
+          "student": " have two children",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "have",
+              "children"
+            ],
+            "studentWords": [
+              "have",
+              "children"
+            ],
+            "template": " {have} two {children}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " work for a British   company",
+          "student": " work for a British   company",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "British",
+              "company"
+            ],
+            "studentWords": [
+              "British",
+              "company"
+            ],
+            "template": " work for a {British}   {company}"
+          }
+        }
+      ]
+    },
+    "abed4b74-e3c5-4123-864c-235f6e7d5750": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "homework",
+        "exerciseName": "Present simple (I, you, we, they): positive and negative",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 4 > Live, work and study > Bài tập về nhà > Bài tập 2: Present simple (I, you, we, they): positive and negative",
+      "refId": "homework:5f440435-a89c-4db8-a0be-6e97b2d39133|e1d0a079-f514-4b3f-aa7a-464f1c6a9b86",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Read about Josef. Fill in the gaps with the positive (+) or negative (-) of LIKE, HAVE, LIVE, WORK or STUDY.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nMy name's Josef and I live (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We have (+) two daughters, Katia and Elise, but we don't have|do not have (-) a son. Katia is 12 and Elise is 15. They study (+) languages at school and their English is very good. They like (+) rock music and Italian food, but they don't like|do not like (-) Chinese food.\n\nWe live (+) in a very nice flat in the centre of the city. I'm a teacher and I work (+) in a school near our flat. We don't have|do not have (-) a dog, but we have (+) three cats.\n",
+          "student": " \nMy name's Josef and I live (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We have (+) two daughters, Katia and Elise, but we don't have (-) a son. Katia is 12 and Elise is 15. They study (+) languages at school and their English is very good. They like (+) rock music and Italian food, but they don't like (-) Chinese food.\n\nWe live (+) in a very nice flat in the centre of the city. I'm a teacher and I work (+) in a school near our flat. We don't have (-) a dog, but we have (+) three cats.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "live",
+              "have",
+              "don't have|do not have",
+              "study",
+              "like",
+              "don't like|do not like",
+              "live",
+              "work",
+              "don't have|do not have",
+              "have"
+            ],
+            "studentWords": [
+              "live",
+              "have",
+              "don't have",
+              "study",
+              "like",
+              "don't like",
+              "live",
+              "work",
+              "don't have",
+              "have"
+            ],
+            "template": " \nMy name's Josef and I {live} (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We {have} (+) two daughters, Katia and Elise, but we {don't have|do not have} (-) a son. Katia is 12 and Elise is 15. They {study} (+) languages at school and their English is very good. They {like} (+) rock music and Italian food, but they {don't like|do not like} (-) Chinese food.\n\nWe {live} (+) in a very nice flat in the centre of the city. I'm a teacher and I {work} (+) in a school near our flat. We {don't have|do not have} (-) a dog, but we {have} (+) three cats.\n"
+          }
+        }
+      ]
+    },
+    "dae29c05-d6c1-48f2-a72a-760484c860b3": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "homework",
+        "exerciseName": "live; like; work; study; have",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 4 > Live, work and study > Bài tập về nhà > Bài tập 3: live; like; work; study; have",
+      "refId": "homework:2f3affeb-f7fd-4b2b-afee-a6400b73a304|437cc745-dee5-4a0b-8a36-2c07458942c9",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Choose the correct verbs.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "study",
+          "student": "study",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {work//*study*} Italian"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "like",
+          "student": "like",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*like*//live} Japanese food"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "have",
+          "student": "have",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*have*//study} a new computer"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "live",
+          "student": "live",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {like//*live*} in an old house"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "study",
+          "student": "study",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {work//*study*} Spanish"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "live",
+          "student": "live",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*live*//have} in the USA"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "have",
+          "student": "have",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {live//*have*} a good camera"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "work",
+          "student": "work",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {like//*work*} in a café"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "like",
+          "student": "like",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*like*//live} chocolate"
+          }
+        }
+      ]
+    },
+    "b20730ec-d778-4ced-8329-0b59f8adfc5b": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 0,
+        "lessonName": "Live, work and study",
+        "moduleType": "homework",
+        "exerciseName": "like; have; live; work; study",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 4 > Live, work and study > Bài tập về nhà > Bài tập 4: like; have; live; work; study",
+      "refId": "homework:b6232dd2-7ab5-4f98-ad40-8f3116e6be57|1e058158-ae95-4784-bde0-04384cdf19ac",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Put the words into the correct order to make present simple sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "don't",
+              "live",
+              "in",
+              "a",
+              "big",
+              "house."
+            ],
+            "studentWords": [
+              "I",
+              "don't",
+              "live",
+              "in",
+              "a",
+              "big",
+              "house."
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "We",
+              "live",
+              "in",
+              "an",
+              "apartment",
+              "in",
+              "the",
+              "centre",
+              "of",
+              "the",
+              "city."
+            ],
+            "studentWords": [
+              "We",
+              "live",
+              "in",
+              "an",
+              "apartment",
+              "in",
+              "the",
+              "centre",
+              "of",
+              "the",
+              "city."
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "They",
+              "don't",
+              "study",
+              "Spanish."
+            ],
+            "studentWords": [
+              "They",
+              "don't",
+              "study",
+              "Spanish."
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "work",
+              "in",
+              "a",
+              "nice",
+              "office."
+            ],
+            "studentWords": [
+              "I",
+              "work",
+              "in",
+              "a",
+              "nice",
+              "office."
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "We",
+              "don't",
+              "like",
+              "Chinese",
+              "food."
+            ],
+            "studentWords": [
+              "We",
+              "don't",
+              "like",
+              "Chinese",
+              "food."
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "don't",
+              "have",
+              "a",
+              "sister."
+            ],
+            "studentWords": [
+              "I",
+              "don't",
+              "have",
+              "a",
+              "sister."
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "They",
+              "work",
+              "for",
+              "a",
+              "Turkish",
+              "company."
+            ],
+            "studentWords": [
+              "They",
+              "work",
+              "for",
+              "a",
+              "Turkish",
+              "company."
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "We",
+              "study",
+              "English",
+              "at",
+              "school."
+            ],
+            "studentWords": [
+              "We",
+              "study",
+              "English",
+              "at",
+              "school."
+            ]
           }
         }
       ]
