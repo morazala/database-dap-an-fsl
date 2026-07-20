@@ -1,0 +1,53 @@
+name: Rollback File By Run Number
+
+on:
+  workflow_dispatch:
+    inputs:
+      file_path:
+        description: 'Đường dẫn đến file JSON (VD: data.json)'
+        required: true
+      run_number:
+        description: 'Nhập số Run muốn rollback (VD: 30)'
+        required: true
+
+jobs:
+  rollback-by-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get Commit SHA from Run Number
+        id: get_sha
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Dùng GitHub CLI để tìm SHA của Run Number được nhập
+          COMMIT_SHA=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --json runNumber,headSha --jq ".[] | select(.runNumber == ${{ github.event.inputs.run_number }}).headSha")
+          
+          if [ -z "$COMMIT_SHA" ]; then
+            echo "❌ Không tìm thấy mã commit cho Run #${{ github.event.inputs.run_number }}"
+            exit 1
+          fi
+          
+          echo "Tìm thấy Commit SHA: $COMMIT_SHA"
+          echo "sha=$COMMIT_SHA" >> $GITHUB_OUTPUT
+
+      - name: Rollback file
+        run: |
+          git restore --source=${{ steps.get_sha.outputs.sha }} -- ${{ github.event.inputs.file_path }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet ${{ github.event.inputs.file_path }}; then
+            echo "Không có thay đổi."
+          else
+            git add ${{ github.event.inputs.file_path }}
+            git commit -m "Chore: Rollback file ${{ github.event.inputs.file_path }} về phiên bản của Run #${{ github.event.inputs.run_number }}"
+            git push
+          fi

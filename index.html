@@ -652,10 +652,13 @@ function partHtml(p, counters, questionType){
     const text = escapeHtml(rawText);
     const cls = nextBlockClass(counters);
     const rawLeft = p.meta.left ?? '';
-    // Chỉ hiện nhãn chữ cái (A, B, C...) cho đúng dạng MatchingType1 — các
-    // dạng ghép-cặp khác dùng chung handler này ở collector nhưng KHÔNG hiện
-    // chữ cái, vì thứ tự word-bank của chúng không mang ý nghĩa hiển thị.
-    const labelHtml = (questionType === 'MatchingType1') ? optionLabelHtml(p.meta.optionLabel, counters) : '';
+    // Không hiện nhãn chữ cái (A, B, C...) cho bất kỳ dạng ghép-cặp nào —
+    // kể cả MatchingType1. Lý do: FSEL xáo trộn thứ tự lựa chọn theo TỪNG
+    // TÀI KHOẢN (mỗi acc thấy 1 thứ tự A-F khác nhau), nên chữ cái Collector
+    // ghi lại lúc scrape (dựa trên acc scrape) không còn đúng khi xem lại
+    // bằng 1 acc khác. Trước đây tưởng MatchingType1 là ngoại lệ ổn định
+    // nên có hiện — thực tế không phải, nên bỏ để tránh hiện sai.
+    const labelHtml = '';
     return `<div class="part match-part">
       <span class="match-left">${renderPossibleImage(rawLeft)}</span>
       <span class="match-arrow">→</span>
