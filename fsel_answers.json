@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-20T05:57:46.967Z",
-  "totalQuestions": 496,
+  "exportedAt": "2026-07-20T07:19:17.542Z",
+  "totalQuestions": 521,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -21443,6 +21443,985 @@
         }
       ]
     },
+    "131cb96c-c01b-4ba4-8d7a-5711a2f7d603": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 1: Nghe",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|09d4e0ae-5bad-44d4-b409-423fd2269f92",
+      "type": "Checklist",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Tick three things they like to do in their free time.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Go out with friends"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Eat pizza"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Go shopping"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Watch DVDs"
+          }
+        },
+        {
+          "id": 5,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Read books"
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Go to concerts"
+          }
+        },
+        {
+          "id": 7,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Enjoy the weather"
+          }
+        }
+      ]
+    },
+    "65ed66bc-0eac-4039-9482-8f8a5fc8d071": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|151e4c74-8bd3-4fdf-99b4-f6076c17ff99",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Are these sentences True (T) or False (F)?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {True//*False*} They live in a big house in London."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*True*//False} They don't like the weather in London."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*True*//False} They listen to rock music and rap."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {True//*False*} They don't watch DVDs."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {True//*False*} They go to the cinema a lot."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {True//*False*} They don't like Indian food."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*True*//False} They love fruit and chocolate biscuits."
+          }
+        }
+      ]
+    },
+    "81d031c7-9109-448f-b00c-50de108d6109": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|6bc29d99-47dc-4632-aaf2-7e10a72400d4",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Fill in the gaps in the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " What music do you like?",
+          "student": " what music do you like?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What",
+              "do"
+            ],
+            "studentWords": [
+              "what",
+              "do"
+            ],
+            "template": " {What} music {do} you like?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Do you go to concerts?",
+          "student": " do you go to concerts?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Do"
+            ],
+            "studentWords": [
+              "do"
+            ],
+            "template": " {Do} you go to concerts?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " What do you do in your free time?",
+          "student": " what do you do in your free time?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What",
+              "do"
+            ],
+            "studentWords": [
+              "what",
+              "do"
+            ],
+            "template": " {What} do you {do} in your free time?"
+          }
+        }
+      ]
+    },
+    "9490d0de-c145-47cf-a940-ddf89f4d1171": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 4: Ngữ pháp",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|6bef92d3-ebaa-4817-9186-da37bcbc559d",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Place each word of this question \"What food do you like?\" into the correct part of the table.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " WH: What food",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "What food"
+            ],
+            "studentWords": null,
+            "template": " WH: {What food}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Aux: do",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "do"
+            ],
+            "studentWords": null,
+            "template": " Aux: {do}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Subject: you",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "you"
+            ],
+            "studentWords": null,
+            "template": " Subject: {you}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Verb: like?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "like"
+            ],
+            "studentWords": null,
+            "template": " Verb: {like}?"
+          }
+        }
+      ]
+    },
+    "a2730c98-63c2-4278-9d95-2e20ebe68f7e": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 5: Ngữ pháp",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8802f33e-2ccb-4951-b4f4-cb9c99f56d07",
+      "type": "GapFillScoreByQuestion",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the table with \"do\" or \"don't\".",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " don't",
+          "student": " don't",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "don't"
+            ],
+            "studentWords": [
+              "don't"
+            ],
+            "template": " {don't}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Do",
+          "student": " do",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Do"
+            ],
+            "studentWords": [
+              "do"
+            ],
+            "template": " {Do}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " do",
+          "student": " do",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "do"
+            ],
+            "studentWords": [
+              "do"
+            ],
+            "template": " {do}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Do",
+          "student": " do",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Do"
+            ],
+            "studentWords": [
+              "do"
+            ],
+            "template": " {Do}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " do",
+          "student": " do",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "do"
+            ],
+            "studentWords": [
+              "do"
+            ],
+            "template": " {do}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " don't",
+          "student": " don't",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "don't"
+            ],
+            "studentWords": [
+              "don't"
+            ],
+            "template": " {don't}"
+          }
+        }
+      ]
+    },
+    "11f9b3f8-07d6-45ab-8021-c5c47b3710a0": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 6: Ngữ pháp",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|de468a9e-9787-49ce-8d06-95e9afb0a300",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Practice: Fill in the gaps with “do” or a verb.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Do they live in a small flat?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Do",
+              "live"
+            ],
+            "studentWords": null,
+            "template": " {Do} they {live} in a small flat?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Do they like the weather in London?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Do"
+            ],
+            "studentWords": null,
+            "template": " {Do} they like the weather in London?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " What do they do in their free time?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "do",
+              "do"
+            ],
+            "studentWords": null,
+            "template": " What {do} they {do} in their free time?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " go they Do out with friends a lot?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "go",
+              "Do"
+            ],
+            "studentWords": null,
+            "template": " {Do} they {go} out with friends a lot?"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Do they go to the cinema?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Do"
+            ],
+            "studentWords": null,
+            "template": " {Do} they go to the cinema?"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " like they Do Indian food?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "like",
+              "Do"
+            ],
+            "studentWords": null,
+            "template": " {Do} they {like} Indian food?"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Do they eat a lot of fruit?",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Do",
+              "eat"
+            ],
+            "studentWords": null,
+            "template": " {Do} they {eat} a lot of fruit?"
+          }
+        }
+      ]
+    },
+    "6922be4d-d429-419e-989b-a2b346d9f07e": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|2924ca06-f03c-4583-acad-5598e16d8310",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Where do you live?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Where do you live?",
+            "Where do you live",
+            "Where d'you live?"
+          ],
+          "student": "Where do you live?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "bc7b0176-7db5-4617-a97c-ef6f0472ac3c": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|2924ca06-f03c-4583-acad-5598e16d8310",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What music do you like?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "What music do you like?",
+            "What music do you like?",
+            "What music do you like",
+            "What music do u like?",
+            "What music d'you like?"
+          ],
+          "student": "What music do you like?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "1d8019c1-c993-4b3a-9ac8-be014b54d677": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|2924ca06-f03c-4583-acad-5598e16d8310",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Do you go to concerts?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Do you go to concerts?",
+            "Do you go to concerts",
+            "do you go to concerts?",
+            "do you go to concerts"
+          ],
+          "student": "Do you go to concerts?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f919dcae-d7da-4da0-b49d-3c3fde005cf6": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|2924ca06-f03c-4583-acad-5598e16d8310",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Do you like Mexican food?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Do you like Mexican food?",
+            "do you like Mexican food?",
+            "Do you like mexican food?",
+            "do you like mexican food?"
+          ],
+          "student": "Do you like Mexican food?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9b10162d-cf02-4b6b-bcaa-0d3df87febb3": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 8: Từ vựng",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|6ff2fa31-6e09-4027-97ed-38a62525b4bd",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Match the phrases with their correct pictures.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Watch TV or DVDs",
+          "student": "Watch TV or DVDs",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/efdf_3375_1726470492059.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Go shopping",
+          "student": "Go shopping",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/jh_2503_1726470500292.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Go to the cinema",
+          "student": "Go to the cinema",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/ef_9324_1726470517877.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Go out with friends",
+          "student": "Go out with friends",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/56_2626_1726470526299.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "Eat out ",
+          "student": "Eat out ",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/5_3068_1726470540854.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "Play tennis",
+          "student": "Play tennis",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/hk_4099_1726470547923.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "Go to concerts",
+          "student": "Go to concerts",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/87_3446_1726470581604.png",
+            "optionLabel": "H"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "Play video games",
+          "student": "Play video games",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/8kj_758_1726470592672.png",
+            "optionLabel": "E"
+          }
+        }
+      ]
+    },
+    "ef59aed3-67ec-4df5-9a9f-acd2b327fa4d": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Go to concerts",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Go to concerts",
+            "go to concerts",
+            "go two concerts",
+            "go too concerts",
+            "go 2 concerts"
+          ],
+          "student": "Go to concerts",
+          "status": "Correct"
+        }
+      ]
+    },
+    "674c44f8-9ebc-4282-a7dc-3ddff168fe7e": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Go to the cinema",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Go to the cinema"
+          ],
+          "student": "Go to the cinema",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a10f76a2-4585-4834-b281-57c5d2096f61": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Go shopping",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Go shopping",
+            "go shopping",
+            "Go Shopping"
+          ],
+          "student": "Go shopping",
+          "status": "Correct"
+        }
+      ]
+    },
+    "16ec1b1b-15ea-4741-9ffa-d75574882a8f": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Go out with friends",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Go out with friends",
+            "go out with friends"
+          ],
+          "student": "Go out with friends",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3c8a63d4-129a-40ac-9f06-bf348815e47a": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Play tennis",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Play tennis"
+          ],
+          "student": "Play tennis",
+          "status": "Correct"
+        }
+      ]
+    },
+    "7ec8f03b-fdfc-41d1-b5b2-fc29b15222cd": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Watch TV or DVDs",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Watch TV or DVDs",
+            "watch tv or dvds",
+            "Watch TV or dvds",
+            "watch TV or DVDs",
+            "watch tv or DVD's",
+            "Watch TV or DVD's",
+            "watch TV or dvd's"
+          ],
+          "student": "Watch TV or DVDs",
+          "status": "Correct"
+        }
+      ]
+    },
+    "720f29d9-b354-4682-bdf0-eeaec9cfb8b4": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Play video games",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Play video games",
+            "Play videogames",
+            "Play video-games"
+          ],
+          "student": "Play video games",
+          "status": "Correct"
+        }
+      ]
+    },
+    "fa7989db-5819-463c-8d3a-9b50fa8ab579": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 1,
+        "lessonName": "My free time",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 4 > My free time > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|8b8cbc5a-7bf9-499a-a59f-e4a1699cbef2",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Eat out ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Eat out",
+            "eat out"
+          ],
+          "student": "Eat out",
+          "status": "Correct"
+        }
+      ]
+    },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
         "unitName": "Unit 1",
@@ -30078,352 +31057,4 @@
       "answer": [
         {
           "id": 1,
-          "correct": " \nMy name's Josef and I live (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We have (+) two daughters, Katia and Elise, but we don't have|do not have (-) a son. Katia is 12 and Elise is 15. They study (+) languages at school and their English is very good. They like (+) rock music and Italian food, but they don't like|do not like (-) Chinese food.\n\nWe live (+) in a very nice flat in the centre of the city. I'm a teacher and I work (+) in a school near our flat. We don't have|do not have (-) a dog, but we have (+) three cats.\n",
-          "student": " \nMy name's Josef and I live (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We have (+) two daughters, Katia and Elise, but we don't have (-) a son. Katia is 12 and Elise is 15. They study (+) languages at school and their English is very good. They like (+) rock music and Italian food, but they don't like (-) Chinese food.\n\nWe live (+) in a very nice flat in the centre of the city. I'm a teacher and I work (+) in a school near our flat. We don't have (-) a dog, but we have (+) three cats.\n",
-          "status": [
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
-          "meta": {
-            "correctWords": [
-              "live",
-              "have",
-              "don't have|do not have",
-              "study",
-              "like",
-              "don't like|do not like",
-              "live",
-              "work",
-              "don't have|do not have",
-              "have"
-            ],
-            "studentWords": [
-              "live",
-              "have",
-              "don't have",
-              "study",
-              "like",
-              "don't like",
-              "live",
-              "work",
-              "don't have",
-              "have"
-            ],
-            "template": " \nMy name's Josef and I {live} (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We {have} (+) two daughters, Katia and Elise, but we {don't have|do not have} (-) a son. Katia is 12 and Elise is 15. They {study} (+) languages at school and their English is very good. They {like} (+) rock music and Italian food, but they {don't like|do not like} (-) Chinese food.\n\nWe {live} (+) in a very nice flat in the centre of the city. I'm a teacher and I {work} (+) in a school near our flat. We {don't have|do not have} (-) a dog, but we {have} (+) three cats.\n"
-          }
-        }
-      ]
-    },
-    "dae29c05-d6c1-48f2-a72a-760484c860b3": {
-      "location": {
-        "unitName": "Unit 4",
-        "lessonOrder": 0,
-        "lessonName": "Live, work and study",
-        "moduleType": "homework",
-        "exerciseName": "live; like; work; study; have",
-        "exerciseOrder": 3
-      },
-      "where": "Unit 4 > Live, work and study > Bài tập về nhà > Bài tập 3: live; like; work; study; have",
-      "refId": "homework:2f3affeb-f7fd-4b2b-afee-a6400b73a304|437cc745-dee5-4a0b-8a36-2c07458942c9",
-      "type": "MultipleOptionSentenceCompletion",
-      "correct": true,
-      "score": "9/9",
-      "instruction": "Choose the correct verbs.",
-      "answer": [
-        {
-          "id": 1,
-          "correct": "study",
-          "student": "study",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {work//*study*} Italian"
-          }
-        },
-        {
-          "id": 2,
-          "correct": "like",
-          "student": "like",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {*like*//live} Japanese food"
-          }
-        },
-        {
-          "id": 3,
-          "correct": "have",
-          "student": "have",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {*have*//study} a new computer"
-          }
-        },
-        {
-          "id": 4,
-          "correct": "live",
-          "student": "live",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {like//*live*} in an old house"
-          }
-        },
-        {
-          "id": 5,
-          "correct": "study",
-          "student": "study",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {work//*study*} Spanish"
-          }
-        },
-        {
-          "id": 6,
-          "correct": "live",
-          "student": "live",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {*live*//have} in the USA"
-          }
-        },
-        {
-          "id": 7,
-          "correct": "have",
-          "student": "have",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {live//*have*} a good camera"
-          }
-        },
-        {
-          "id": 8,
-          "correct": "work",
-          "student": "work",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {like//*work*} in a café"
-          }
-        },
-        {
-          "id": 9,
-          "correct": "like",
-          "student": "like",
-          "status": "Correct",
-          "meta": {
-            "sentenceTemplate": " {*like*//live} chocolate"
-          }
-        }
-      ]
-    },
-    "b20730ec-d778-4ced-8329-0b59f8adfc5b": {
-      "location": {
-        "unitName": "Unit 4",
-        "lessonOrder": 0,
-        "lessonName": "Live, work and study",
-        "moduleType": "homework",
-        "exerciseName": "like; have; live; work; study",
-        "exerciseOrder": 4
-      },
-      "where": "Unit 4 > Live, work and study > Bài tập về nhà > Bài tập 4: like; have; live; work; study",
-      "refId": "homework:b6232dd2-7ab5-4f98-ad40-8f3116e6be57|1e058158-ae95-4784-bde0-04384cdf19ac",
-      "type": "DragAndDropSentenceOrder",
-      "correct": true,
-      "score": "8/8",
-      "instruction": "Put the words into the correct order to make present simple sentences.",
-      "answer": [
-        {
-          "id": 1,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "I",
-              "don't",
-              "live",
-              "in",
-              "a",
-              "big",
-              "house."
-            ],
-            "studentWords": [
-              "I",
-              "don't",
-              "live",
-              "in",
-              "a",
-              "big",
-              "house."
-            ]
-          }
-        },
-        {
-          "id": 2,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "We",
-              "live",
-              "in",
-              "an",
-              "apartment",
-              "in",
-              "the",
-              "centre",
-              "of",
-              "the",
-              "city."
-            ],
-            "studentWords": [
-              "We",
-              "live",
-              "in",
-              "an",
-              "apartment",
-              "in",
-              "the",
-              "centre",
-              "of",
-              "the",
-              "city."
-            ]
-          }
-        },
-        {
-          "id": 3,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "They",
-              "don't",
-              "study",
-              "Spanish."
-            ],
-            "studentWords": [
-              "They",
-              "don't",
-              "study",
-              "Spanish."
-            ]
-          }
-        },
-        {
-          "id": 4,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "I",
-              "work",
-              "in",
-              "a",
-              "nice",
-              "office."
-            ],
-            "studentWords": [
-              "I",
-              "work",
-              "in",
-              "a",
-              "nice",
-              "office."
-            ]
-          }
-        },
-        {
-          "id": 5,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "We",
-              "don't",
-              "like",
-              "Chinese",
-              "food."
-            ],
-            "studentWords": [
-              "We",
-              "don't",
-              "like",
-              "Chinese",
-              "food."
-            ]
-          }
-        },
-        {
-          "id": 6,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "I",
-              "don't",
-              "have",
-              "a",
-              "sister."
-            ],
-            "studentWords": [
-              "I",
-              "don't",
-              "have",
-              "a",
-              "sister."
-            ]
-          }
-        },
-        {
-          "id": 7,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "They",
-              "work",
-              "for",
-              "a",
-              "Turkish",
-              "company."
-            ],
-            "studentWords": [
-              "They",
-              "work",
-              "for",
-              "a",
-              "Turkish",
-              "company."
-            ]
-          }
-        },
-        {
-          "id": 8,
-          "correct": null,
-          "student": null,
-          "meta": {
-            "correctWords": [
-              "We",
-              "study",
-              "English",
-              "at",
-              "school."
-            ],
-            "studentWords": [
-              "We",
-              "study",
-              "English",
-              "at",
-              "school."
-            ]
-          }
-        }
-      ]
-    }
-  }
-}
+          "correct": " \nMy name's Josef and I live (+) in Berlin, in Germany. I'm married and my wife's name is Claudia. We have (+) two daughters, Katia and Elise, but we don't have|do not have (-) a son. Katia is 12 and Elise is 15. They study (+) langu
