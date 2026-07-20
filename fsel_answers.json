@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-20T09:35:54.624Z",
-  "totalQuestions": 577,
+  "exportedAt": "2026-07-20T10:01:08.488Z",
+  "totalQuestions": 610,
   "totalUnknownQuestions": 0,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -23331,15 +23331,20 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "three",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "three",
+            "3",
+            "tree",
+            "free"
+          ],
+          "student": "three",
+          "status": "Correct"
         }
       ]
     },
@@ -23355,15 +23360,20 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "thirteen",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "thirteen",
+            "13",
+            "Thirteen",
+            "THIRTEEN"
+          ],
+          "student": "thirteen",
+          "status": "Correct"
         }
       ]
     },
@@ -23379,15 +23389,18 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "thirty",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "thirty",
+            "30"
+          ],
+          "student": "thirty",
+          "status": "Correct"
         }
       ]
     },
@@ -23403,15 +23416,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "month",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "month"
+          ],
+          "student": "month",
+          "status": "Correct"
         }
       ]
     },
@@ -23427,15 +23442,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "think",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "think"
+          ],
+          "student": "think",
+          "status": "Correct"
         }
       ]
     },
@@ -23451,15 +23468,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "thing",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "thing"
+          ],
+          "student": "thing",
+          "status": "Correct"
         }
       ]
     },
@@ -23475,15 +23494,18 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "thanks",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "thanks",
+            "thanks!"
+          ],
+          "student": "thanks",
+          "status": "Correct"
         }
       ]
     },
@@ -23499,15 +23521,18 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "birthday",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "birthday",
+            "birth day"
+          ],
+          "student": "birthday",
+          "status": "Correct"
         }
       ]
     },
@@ -23523,15 +23548,18 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "Thursday",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "Thursday",
+            "thursday"
+          ],
+          "student": "Thursday",
+          "status": "Correct"
         }
       ]
     },
@@ -23547,15 +23575,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "mother",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "mother"
+          ],
+          "student": "mother",
+          "status": "Correct"
         }
       ]
     },
@@ -23571,15 +23601,18 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "father",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "father",
+            "farther"
+          ],
+          "student": "father",
+          "status": "Correct"
         }
       ]
     },
@@ -23595,15 +23628,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "brother",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "brother"
+          ],
+          "student": "brother",
+          "status": "Correct"
         }
       ]
     },
@@ -23619,15 +23654,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "this",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "this"
+          ],
+          "student": "this",
+          "status": "Correct"
         }
       ]
     },
@@ -23643,15 +23680,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "that",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "that"
+          ],
+          "student": "that",
+          "status": "Correct"
         }
       ]
     },
@@ -23667,15 +23706,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "these",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "these"
+          ],
+          "student": "these",
+          "status": "Correct"
         }
       ]
     },
@@ -23691,15 +23732,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "those",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "those"
+          ],
+          "student": "those",
+          "status": "Correct"
         }
       ]
     },
@@ -23715,15 +23758,20 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "the",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "the",
+            "thee",
+            "teh",
+            "thuh"
+          ],
+          "student": "the",
+          "status": "Correct"
         }
       ]
     },
@@ -23739,15 +23787,19 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "then",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "then",
+            "['then']",
+            "[then]"
+          ],
+          "student": "then",
+          "status": "Correct"
         }
       ]
     },
@@ -23763,15 +23815,17 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "they",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "they"
+          ],
+          "student": "they",
+          "status": "Correct"
         }
       ]
     },
@@ -23787,15 +23841,18 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 4: Nói",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|c4d91df5-8ebf-4b7d-ad97-38ed46b38126",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "with",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "with",
+            "width"
+          ],
+          "student": "with",
+          "status": "Correct"
         }
       ]
     },
@@ -24428,10 +24485,51 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 11: Từ vựng",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|46addf36-210d-4ec5-aef0-0caffdd5cf71",
       "type": "MatchingType2",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "4/4",
       "instruction": "Match these times to the correct clocks. ",
-      "answer": []
+      "answer": [
+        {
+          "id": 1,
+          "correct": "twelve ",
+          "student": "twelve ",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/3_1362_1725866554431.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "six fifteen",
+          "student": "six fifteen",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/4_8433_1725866558731.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "six thirty ",
+          "student": "six thirty ",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/5_228_1725866562091.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "six forty-five ",
+          "student": "six forty-five ",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/6_712_1725866566750.png",
+            "optionLabel": "C"
+          }
+        }
+      ]
     },
     "9c2c086f-0eb5-4140-9427-28382b8c67c9": {
       "location": {
@@ -24445,10 +24543,911 @@
       "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 12: Từ vựng",
       "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|388cd91e-9c33-4b84-80e8-b17994fc64ea",
       "type": "DragAndDropPicture",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "8/8",
       "instruction": "Match the times to correct clocks. ",
-      "answer": []
+      "answer": [
+        {
+          "id": 1,
+          "correct": "ten past six",
+          "student": "ten past six",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/14_9778_1726133475341.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "twenty-five past six",
+          "student": "twenty-five past six",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/15_8350_1726133478801.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "five past six",
+          "student": "five past six",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/16_4475_1726133481901.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "five to seven",
+          "student": "five to seven",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/17_1670_1726133485122.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "ten to seven",
+          "student": "ten to seven",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/18_5253_1726133488787.png",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "twenty to seven",
+          "student": "twenty to seven",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/19_6306_1726133491943.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "twenty-five to seven",
+          "student": "twenty-five to seven",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/20_7667_1726133494961.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "twenty past six",
+          "student": "twenty past six",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/21_5894_1726133498083.png",
+            "optionLabel": "H"
+          }
+        }
+      ]
+    },
+    "8e537c09-7d84-4498-9758-3ac10dce8e7a": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:00",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Six o'clock",
+            "06:00",
+            "six oclock",
+            "six o clock",
+            "6:00"
+          ],
+          "student": "06:00",
+          "status": "Correct"
+        }
+      ]
+    },
+    "57e79d39-df3e-42f3-80ba-aa0a01960533": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:05",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Five past six",
+            "06:05",
+            "6:05",
+            "06.05",
+            "6.05"
+          ],
+          "student": "06:05",
+          "status": "Correct"
+        }
+      ]
+    },
+    "d79d405b-b540-4327-a4a4-4f7b42ca034a": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:10",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Ten past six",
+            "06:10",
+            "ten past six",
+            "Ten past six.",
+            "6:10",
+            "06.10",
+            "6.10",
+            "oh six ten"
+          ],
+          "student": "06:10",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b0b47038-01e1-4d64-8c8f-5441cb0b50b2": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:15",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Quarter past six",
+            "06:15",
+            "quarter past six",
+            "quarter pass six",
+            "Quarter past 6",
+            "quarter past 6",
+            "6:15",
+            "06.15",
+            "6.15",
+            "0615",
+            "615"
+          ],
+          "student": "06:15",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c733e560-6149-434d-9351-e30910b32005": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:20",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Twenty past six",
+            "06:20",
+            "6:20",
+            "06.20",
+            "0620"
+          ],
+          "student": "06:20",
+          "status": "Correct"
+        }
+      ]
+    },
+    "343cf9d8-919d-4285-971b-8e72252970e6": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:25",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Twenty five past six",
+            "06:25",
+            "Twenty-five past six",
+            "twenty-five past six",
+            "twenty five past six",
+            "6:25",
+            "06.25",
+            "6.25",
+            "0625"
+          ],
+          "student": "06:25",
+          "status": "Correct"
+        }
+      ]
+    },
+    "342459fc-b54a-4c54-8038-3a570111c45b": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:30",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Half past six",
+            "06:30",
+            "half past six",
+            "HALF PAST SIX",
+            "half-past six",
+            "6:30",
+            "6.30",
+            "06.30"
+          ],
+          "student": "06:30",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b09cd931-1313-40a8-ae9d-fe2098430825": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:35",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Twenty five to seven",
+            "06:35",
+            "Twenty-five to seven",
+            "6:35"
+          ],
+          "student": "06:35",
+          "status": "Correct"
+        }
+      ]
+    },
+    "50e82a49-c235-4557-9a09-a1aa44240fe5": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:40",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Twenty to seven",
+            "06:40",
+            "twenty two seven",
+            "6:40",
+            "06.40",
+            "6.40",
+            "0640"
+          ],
+          "student": "06:40",
+          "status": "Correct"
+        }
+      ]
+    },
+    "06063572-417f-4b74-91e4-e07d3f4ee37a": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:45",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Quarter to seven",
+            "06:45",
+            "Quarter-to-seven",
+            "6:45",
+            "06.45",
+            "6.45"
+          ],
+          "student": "06:45",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f1f6e9f7-d109-476d-89c8-c0cc4cda1a10": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:50",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Ten to seven",
+            "06:50",
+            "ten-to-seven",
+            "6:50",
+            "6 50",
+            "06 50",
+            "0650"
+          ],
+          "student": "06:50",
+          "status": "Correct"
+        }
+      ]
+    },
+    "364f9db6-49f4-4231-a825-090f12fa15b8": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 13
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 13: Nói",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|a78b063c-c3a6-4c4a-a766-2207c790fb0b",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "06:55",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Five to seven",
+            "06:55",
+            "5 to 7",
+            "five to 7",
+            "5 to seven",
+            "5 two 7",
+            "five two 7",
+            "5 two seven",
+            "5 too 7",
+            "five too 7",
+            "5 too seven",
+            "five too seven",
+            "6:55",
+            "06 55",
+            "6 55",
+            "six fifty five",
+            "six fifty-five",
+            "oh six fifty five",
+            "oh six fifty-five",
+            "zero six fifty five",
+            "zero six fifty-five",
+            "six colon fifty five",
+            "oh six colon fifty five",
+            "zero six colon fifty five"
+          ],
+          "student": "06:55",
+          "status": "Correct"
+        }
+      ]
+    },
+    "bdeae8dc-5730-49df-a5e6-0341e5972e5d": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 14
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 14: Từ vựng",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|4595632b-5ffa-444f-a92f-0871808939af",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Fill in the gap with words in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Excuse me, what time is it, please?\n\nB: It's twenty to three.",
+          "student": " \nA: Excuse me, what time is it, please?\n\nB: It's twenty to three.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "what",
+              "it",
+              "to"
+            ],
+            "studentWords": [
+              "what",
+              "it",
+              "to"
+            ],
+            "template": " \nA: Excuse me, {what} time is {it}, please?\n\nB: It's twenty {to} three."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: What time is your English class?\n\nB: It's at half past eight.",
+          "student": " \nA: What time is your English class?\n\nB: It's at half past eight.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "time",
+              "half"
+            ],
+            "studentWords": [
+              "time",
+              "half"
+            ],
+            "template": " \nA: What {time} is your English class?\n\nB: It's at {half} past eight."
+          }
+        }
+      ]
+    },
+    "9fc752c5-8007-4b79-8c4a-85fbe272566c": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "In Europe the weekend is ________.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Monday and Tuesday"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Saturday and Sunday"
+          }
+        }
+      ]
+    },
+    "dac89c38-0375-4aea-8deb-f01c194ce253": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "But in Egypt and Libya the weekend is ________.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Friday and Saturday"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Sunday and Monday"
+          }
+        }
+      ]
+    },
+    "5d2c7b77-2887-46ab-a0e2-bf7d4733b64e": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "In the USA, children between two and five years old watch TV for ________ hours a week. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "23"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "32"
+          }
+        }
+      ]
+    },
+    "3c8d806c-8570-4603-970c-e20e2551a6ca": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "When it's midday in the UK, it's ________ in Brazil and ________ in China.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "morning - afternoon"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "afternoon - morning"
+          }
+        }
+      ]
+    },
+    "e99da0dc-c008-40b2-8ba3-f03986532463": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "In English-speaking countries ________ is an unlucky day.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Tuesday 13th"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Friday 13th"
+          }
+        }
+      ]
+    },
+    "5fa7bca3-8a24-4653-b6e3-c380e375fec2": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "But in a lot of Spanish-speaking countries ________ is unlucky.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Tuesday 13th"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Friday 13th"
+          }
+        }
+      ]
+    },
+    "cab022a0-2e15-4421-9cff-f602c4f34d54": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "The flight from Paris to New York is about ________.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "7 hours"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "11½ hours"
+          }
+        }
+      ]
+    },
+    "0262ca2a-cc64-4449-9b9b-972ae7fb3ff4": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "And the flight from Bangkok to London is about  ________.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "11½ hours"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "7 hours"
+          }
+        }
+      ]
+    },
+    "9bd35734-a01d-48c1-ad4c-8a66dec08acc": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Elections in Germany, Russia, Poland and Mexico are on ________. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Fridays"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Sundays"
+          }
+        }
+      ]
+    },
+    "9849247d-53c5-407d-9c31-e9cad2dd62a1": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 15
+      },
+      "where": "Unit 4 > What time is it? > Video tương tác > Bài tập 15: Nghe",
+      "refId": "video:0589cf73-9dfe-43dd-a0f5-b341ff0644c1|68420f92-5be8-4060-90a6-01d8f635adfc",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Elections in the USA are on ________ and in the UK they're on ________.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Tuesdays - Thursdays"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Thursdays - Tuesdays"
+          }
+        }
+      ]
     },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
@@ -34397,6 +35396,886 @@
           "correct": "SHOP ASSISTANT: Thank you. Have a nice day!",
           "student": null,
           "status": "Correct"
+        }
+      ]
+    },
+    "068fb398-9e31-4319-ab03-04a1e1dd6d74": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Days of the week",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 1: Days of the week",
+      "refId": "homework:9dba7fe6-9685-4ac2-87d6-9d90aca8a2b4|106b2098-c88d-4506-b2ab-a1ffc0a5a432",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Write the days of the week.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Monday\n\n2. Tuesday (write 6 letters)\n\n3. Wednesday (write 8 letters)\n\n4. Thursday (write 7 letters)\n\n5. Friday (write 5 letters)\n\n6. Saturday (write 7 letters)\n\n7. Sunday (write 5 letters)",
+          "student": " Monday\n\n2. Tuesday (write 6 letters)\n\n3. Wednesday (write 8 letters)\n\n4. Thursday (write 7 letters)\n\n5. Friday (write 5 letters)\n\n6. Saturday (write 7 letters)\n\n7. Sunday (write 5 letters)",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "uesday",
+              "ednesday",
+              "hursday",
+              "riday",
+              "aturday",
+              "unday"
+            ],
+            "studentWords": [
+              "uesday",
+              "ednesday",
+              "hursday",
+              "riday",
+              "aturday",
+              "unday"
+            ],
+            "template": " Monday\n\n2. T{uesday} (write 6 letters)\n\n3. W{ednesday} (write 8 letters)\n\n4. T{hursday} (write 7 letters)\n\n5. F{riday} (write 5 letters)\n\n6. S{aturday} (write 7 letters)\n\n7. S{unday} (write 5 letters)"
+          }
+        }
+      ]
+    },
+    "7582f99c-9eee-46e0-bc73-6f03bc0637e6": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Time words",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 2: Time words",
+      "refId": "homework:812a754b-d81a-4e06-866a-9c726c65dace|ab5cc4c0-454d-48e7-aa33-0074302b604f",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Fill in the gaps with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " three hundred seconds = five minutes",
+          "student": " three hundred seconds = five minutes",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "minutes"
+            ],
+            "studentWords": [
+              "minutes"
+            ],
+            "template": " three hundred seconds = five {minutes}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " thirty minutes= half an hour",
+          "student": " thirty minutes= half an hour",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hour"
+            ],
+            "studentWords": [
+              "hour"
+            ],
+            "template": " thirty minutes= half an {hour}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " forty-eight hours= two days",
+          "student": " forty-eight hours= two days",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "days"
+            ],
+            "studentWords": [
+              "days"
+            ],
+            "template": " forty-eight hours= two {days}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " twenty-one days= three weeks",
+          "student": " twenty-one days= three weeks",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "weeks"
+            ],
+            "studentWords": [
+              "weeks"
+            ],
+            "template": " twenty-one days= three {weeks}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " fifty-two weeks = one year",
+          "student": " fifty-two weeks = one year",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "year"
+            ],
+            "studentWords": [
+              "year"
+            ],
+            "template": " fifty-two weeks = one {year}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " one year = twelve months",
+          "student": " one year = twelve months",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "months"
+            ],
+            "studentWords": [
+              "months"
+            ],
+            "template": " one year = twelve {months}"
+          }
+        }
+      ]
+    },
+    "4f1814ec-ba7c-4926-a4b1-28111e93d76c": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Telling the time",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 3: Telling the time",
+      "refId": "homework:c6ce936c-7dd9-4b10-8dcc-4829abef0531|03854521-06ae-402d-9423-263ff4d9513d",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "2/6",
+      "instruction": "Read the example then write the times in two ways. Write ONE way in each gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " five fifteen|quarter past five|a quarter past five|fifteen past five; five fifteen|quarter past five|a quarter past five|fifteen past five",
+          "student": " eight o'clock; eight",
+          "status": [
+            "Fail",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "five fifteen|quarter past five|a quarter past five|fifteen past five",
+              "five fifteen|quarter past five|a quarter past five|fifteen past five"
+            ],
+            "studentWords": [
+              "eight o'clock",
+              "eight"
+            ],
+            "template": " {five fifteen|quarter past five|a quarter past five|fifteen past five}; {five fifteen|quarter past five|a quarter past five|fifteen past five}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " half past ten|ten thirty; half past ten|ten thirty",
+          "student": " half past ten; ten thirty",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "half past ten|ten thirty",
+              "half past ten|ten thirty"
+            ],
+            "studentWords": [
+              "half past ten",
+              "ten thirty"
+            ],
+            "template": " {half past ten|ten thirty}; {half past ten|ten thirty}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " quarter to three|a quarter to three|fifteen to three|two forty-five|two forty five; quarter to three|a quarter to three|fifteen to three|two forty-five|two forty five",
+          "student": " five o'clock; five",
+          "status": [
+            "Fail",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "quarter to three|a quarter to three|fifteen to three|two forty-five|two forty five",
+              "quarter to three|a quarter to three|fifteen to three|two forty-five|two forty five"
+            ],
+            "studentWords": [
+              "five o'clock",
+              "five"
+            ],
+            "template": " {quarter to three|a quarter to three|fifteen to three|two forty-five|two forty five}; {quarter to three|a quarter to three|fifteen to three|two forty-five|two forty five}"
+          }
+        }
+      ]
+    },
+    "d8c15cbd-d189-4bdd-b792-1a1ac3e33005": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Telling the time",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 4: Telling the time",
+      "refId": "homework:b943f33f-bc9d-40c0-98a7-5006c7535f41|cc29e6c3-2999-463c-beae-33b7a9b7e8d1",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "1/8",
+      "instruction": "Write these times with PAST or TO.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " ten past nine",
+          "student": " ten past nine",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ten past nine"
+            ],
+            "studentWords": [
+              "ten past nine"
+            ],
+            "template": " {ten past nine}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " five to six",
+          "student": " half past eleven",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "five to six"
+            ],
+            "studentWords": [
+              "half past eleven"
+            ],
+            "template": " {five to six}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " twenty to four",
+          "student": " twenty past ten",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty to four"
+            ],
+            "studentWords": [
+              "twenty past ten"
+            ],
+            "template": " {twenty to four}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " twenty-five past two|twenty five past two",
+          "student": " quarter past two",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty-five past two|twenty five past two"
+            ],
+            "studentWords": [
+              "quarter past two"
+            ],
+            "template": " {twenty-five past two|twenty five past two}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " ten to seven",
+          "student": " twenty-five to seven",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "ten to seven"
+            ],
+            "studentWords": [
+              "twenty-five to seven"
+            ],
+            "template": " {ten to seven}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " five past eleven",
+          "student": " five to one",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "five past eleven"
+            ],
+            "studentWords": [
+              "five to one"
+            ],
+            "template": " {five past eleven}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " twenty-five to twelve|twenty five to twelve",
+          "student": " ten to eleven",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty-five to twelve|twenty five to twelve"
+            ],
+            "studentWords": [
+              "ten to eleven"
+            ],
+            "template": " {twenty-five to twelve|twenty five to twelve}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " twenty past one",
+          "student": " quarter to four",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "twenty past one"
+            ],
+            "studentWords": [
+              "quarter to four"
+            ],
+            "template": " {twenty past one}"
+          }
+        }
+      ]
+    },
+    "d0b3fffc-5731-4d86-a0b4-97bcb9db8842": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Talking about the time",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 5: Talking about the time",
+      "refId": "homework:c61693a4-0324-4ddb-8c65-e40a25de4c97|e890dcfd-f636-41b8-9fa1-b53282cf5ef8",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Fill in the gaps with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Excuse me, what time is it, please?\n\nB: It's half past ten.",
+          "student": " \nA: Excuse me, what time is it, please?\n\nB: It's half past ten.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is",
+              "It's",
+              "past"
+            ],
+            "studentWords": [
+              "is",
+              "It's",
+              "past"
+            ],
+            "template": " \nA: Excuse me, what time {is} it, please?\n\nB: {It's} half {past} ten."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: What time is your French class?\n\nB: It's at quarter to six.",
+          "student": " \nA: What time is your French class?\n\nB: It's at quarter to six.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "time",
+              "at",
+              "quarter"
+            ],
+            "studentWords": [
+              "time",
+              "at",
+              "quarter"
+            ],
+            "template": " \nA: What {time} is your French class?\n\nB: It's {at} {quarter} to six."
+          }
+        }
+      ]
+    },
+    "e78691c6-a3a9-4df4-b513-a38b1a15f859": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation (syllables and word stress)",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 6: Pronunciation (syllables and word stress)",
+      "refId": "homework:01ae250f-673f-48de-9b68-8dac3c6d0e6a|0fec7d9d-5291-4c91-91bb-94f8ededde07",
+      "type": "Checklist",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Tick the 3-syllable words with stress on the FIRST syllable. Example: 'newspaper",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "beautiful"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "computer"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "tomato"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Saturday"
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "languages"
+          }
+        },
+        {
+          "id": 6,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "umbrella"
+          }
+        }
+      ]
+    },
+    "8c416fd9-126e-4885-ac38-46d62233b415": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation (syllables and word stress)",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 6: Pronunciation (syllables and word stress)",
+      "refId": "homework:01ae250f-673f-48de-9b68-8dac3c6d0e6a|0fec7d9d-5291-4c91-91bb-94f8ededde07",
+      "type": "Checklist",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Tick the 3-syllable words with stress on the SECOND syllable. Example: ex'pensive",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "beautiful"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "computer"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "tomato"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Saturday"
+          }
+        },
+        {
+          "id": 5,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "languages"
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "umbrella"
+          }
+        }
+      ]
+    },
+    "bb430fd3-8e43-4601-9c87-84327989ac74": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation (syllables and word stress)",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 6: Pronunciation (syllables and word stress)",
+      "refId": "homework:01ae250f-673f-48de-9b68-8dac3c6d0e6a|0fec7d9d-5291-4c91-91bb-94f8ededde07",
+      "type": "Checklist",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Tick the 2-syllable words with stress on the FIRST syllable. Example: 'football",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "concert"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "fifty"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "fifteen"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Chinese"
+          }
+        },
+        {
+          "id": 5,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "address"
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "office"
+          }
+        }
+      ]
+    },
+    "36e27aac-5945-4cb9-879b-4759ba5173e2": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation (syllables and word stress)",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 6: Pronunciation (syllables and word stress)",
+      "refId": "homework:01ae250f-673f-48de-9b68-8dac3c6d0e6a|0fec7d9d-5291-4c91-91bb-94f8ededde07",
+      "type": "Checklist",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Tick the 2-syllable words with stress on the SECOND syllable. Example: six'teen",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "concert"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "fifty"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "fifteen"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Chinese"
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "address"
+          }
+        },
+        {
+          "id": 6,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "office"
+          }
+        }
+      ]
+    },
+    "892e54e1-7fb0-423b-b266-4234b3567377": {
+      "location": {
+        "unitName": "Unit 4",
+        "lessonOrder": 3,
+        "lessonName": "What time is it?",
+        "moduleType": "homework",
+        "exerciseName": "Spelling: double letters",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 4 > What time is it? > Bài tập về nhà > Bài tập 7: Spelling: double letters",
+      "refId": "homework:cee1c0eb-f7e6-48e6-ae67-19d48638b4be|0534e723-0e9f-45c1-8e15-a9abf085088a",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": false,
+      "score": "11/12",
+      "instruction": "Choose the words with the correct spelling.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "small",
+          "student": "small",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {smal//*small*}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "tissues",
+          "student": "tissues",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {tisues//*tissues*}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "cinema",
+          "student": "cinema",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*cinema*//cinnema}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "shopping",
+          "student": "shopping",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {shoping//*shopping*}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "magazine",
+          "student": "magazine",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*magazine*//maggazine}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "coffee",
+          "student": "coffee",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {cofee//*coffee*}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "tennis",
+          "student": "tennis",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {tenis//*tennis*}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "ugly",
+          "student": "ugly",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*ugly*//uggly}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "surname",
+          "student": "surname",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*surname*//surrname}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "batteries",
+          "student": "batteries",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {bateries//*batteries*}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": "manager",
+          "student": "mannager",
+          "status": "Fail",
+          "meta": {
+            "sentenceTemplate": " {*manager*//mannager}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": "dollar",
+          "student": "dollar",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {dolar//*dollar*}"
+          }
         }
       ]
     }
