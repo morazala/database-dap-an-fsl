@@ -21,7 +21,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # 1. Tìm Commit SHA của repo tại Run đó để xem lúc đó code chạy thế nào
+          # 1. Tìm Commit SHA của repo tại Run đó
           REPO_SHA=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --json number,headSha --jq ".[] | select(.number == ${{ github.event.inputs.run_number }}).headSha")
           
           if [ -z "$REPO_SHA" ]; then
@@ -31,18 +31,19 @@ jobs:
           
           echo "Tìm thấy Repo SHA tại thời điểm đó: $REPO_SHA"
           
-          # 2. Clone Gist về một thư mục tạm để xem lịch sử của Gist
+          # 2. Clone Gist về thư mục tạm
           git clone https://gist.github.com/bb8129ecb8bcc5efbde0f9a15fda315f.git gist_repo
           
           cd gist_repo
-          # Tìm commit của Gist được tạo trước hoặc đúng thời điểm chạy workflow đó
-          # Để đơn giản và chính xác nhất, ta sẽ lấy log dựa theo thời gian của Repo Commit
+          # Lấy thời gian tạo của repo commit
           COMMIT_DATE=$(git log -1 --format=%ai $REPO_SHA 2>/dev/null || echo "")
           
           if [ -z "$COMMIT_DATE" ]; then
-            # Nếu không lấy được date từ repo commit (do chạy scheduled), lấy thời gian của chính Run đó
-            COMMIT_DATE=$(gh run view ${{ github.event.inputs.run_number }} --json編createdAt --jq ".createdAt")
+            # ĐÃ SỬA TẠI ĐÂY: Loại bỏ ký tự lạ, dùng chuẩn --json createdAt
+            COMMIT_DATE=$(gh run view ${{ github.event.inputs.run_number }} --json createdAt --jq ".createdAt")
           fi
+          
+          echo "Thời điểm chạy Run: $COMMIT_DATE"
           
           # Tìm Gist Commit SHA gần nhất trước thời điểm Run đó kết thúc
           GIST_SHA=$(git log --before="$COMMIT_DATE" -1 --format=%H)
@@ -64,11 +65,8 @@ jobs:
 
       - name: Update Gist via API
         env:
-          # Bạn cần một Personal Access Token (PAT) có quyền 'gist' nếu GITHUB_TOKEN mặc định bị chặn quyền ghi Gist
-          # Nếu chạy lỗi quyền, hãy tạo Secret tên GIST_TOKEN nhé. Hiện tại tôi tạm dùng github.token
           GH_TOKEN: ${{ secrets.GIST_TOKEN || github.token }}
         run: |
-          # Dùng GitHub API để đè dữ liệu cũ lên Gist hiện tại
           cat << 'EOF' > payload.json
           {
             "description": "Rollback dữ liệu về phiên bản cũ",
@@ -80,7 +78,7 @@ jobs:
           }
           EOF
           
-          # Nhúng nội dung JSON cũ vào payload bằng jq để tránh lỗi cú pháp chữ
+          # Nhúng nội dung JSON cũ vào payload bằng jq
           jq --arg content "$GIST_CONTENT" '.files["fsel_answers.json"].content = $content' payload.json > final_payload.json
           
           # Gửi request cập nhật Gist
