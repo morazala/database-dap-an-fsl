@@ -14,12 +14,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Get Gist Commit SHA from Workflow Run
-        id: get_gist_data
+      - name: Rollback Gist and Update via API
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GIST_TOKEN || github.token }}
         run: |
-          # SỬA TẠI ĐÂY: Dùng gh run list để tìm đúng số hiển thị (number) và bốc ra thời gian tạo (createdAt)
+          # 1. Tìm thông tin thời gian chạy của Run
           COMMIT_DATE=$(gh run list --workflow="Đồng bộ Gist -> file JSON tĩnh" --repo ${{ github.repository }} --json number,createdAt --jq ".[] | select(.number == ${{ github.event.inputs.run_number }}).createdAt")
           
           if [ -z "$COMMIT_DATE" ]; then
@@ -28,10 +27,10 @@ jobs:
           fi
           echo "Thời điểm chạy Run #${{ github.event.inputs.run_number }} là: $COMMIT_DATE"
           
-          # 2. Bây giờ mới Clone Gist về thư mục tạm
+          # 2. Clone Gist về thư mục tạm
           git clone https://gist.github.com/bb8129ecb8bcc5efbde0f9a15fda315f.git gist_repo
           
-          # 3. Vào thư mục Gist và tìm commit cũ dựa trên thời gian đã lấy ở bước 1
+          # 3. Vào thư mục Gist và tìm commit cũ dựa trên thời gian
           cd gist_repo
           GIST_SHA=$(git log --before="$COMMIT_DATE" -1 --format=%H)
           
@@ -41,33 +40,18 @@ jobs:
           fi
           echo "Tìm thấy Gist Commit SHA tương ứng: $GIST_SHA"
           
-          # Checkout file JSON tại thời điểm đó
+          # Checkout lấy lại file JSON tại đúng thời điểm đó
           git checkout $GIST_SHA -- fsel_answers.json
           
-          # Đọc nội dung file JSON đẩy vào biến môi trường
-          echo "GIST_CONTENT<<EOF" >> $GITHUB_ENV
-          cat fsel_answers.json >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-
-      - name: Update Gist via API
-        env:
-          GH_TOKEN: ${{ secrets.GIST_TOKEN || github.token }}
-        run: |
-          cat << 'EOF' > payload.json
-          {
-            "description": "Rollback dữ liệu về phiên bản cũ",
-            "files": {
-              "fsel_answers.json": {
-                "content": ""
-              }
-            }
-          }
-          EOF
+          # 4. Đọc trực tiếp file tạo payload (Không dùng biến môi trường nữa)
+          # Lệnh jq --rawfile sẽ nạp thẳng nội dung file vào cấu hình JSON một cách an toàn nhất
+          jq -n --rawfile content fsel_answers.json \
+            '{description: "Rollback dữ liệu về phiên bản cũ", files: {"fsel_answers.json": {content: $content}}}' > ../final_payload.json
           
-          # Nhúng nội dung JSON cũ vào payload bằng jq
-          jq --arg content "$GIST_CONTENT" '.files["fsel_answers.json"].content = $content' payload.json > final_payload.json
+          # Quay trở lại thư mục gốc để gọi API
+          cd ..
           
-          # Gửi request cập nhật Gist
+          # 5. Gửi request cập nhật thẳng lên Gist hiện tại
           curl -L \
             -X PATCH \
             -H "Accept: application/vnd.github+json" \
