@@ -23,27 +23,52 @@ jobs:
           GIST_ID: bb8129ecb8bcc5efbde0f9a15fda315f
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
         run: |
+          set -euo pipefail
+
           curl -sL \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${GIST_TOKEN}" \
             "https://api.github.com/gists/${GIST_ID}" \
             -o gist_response.json
 
-          # Lấy đúng nội dung file "fsel_answers.json" bên trong Gist
-          node -e "
-            const fs = require('fs');
-            const gist = JSON.parse(fs.readFileSync('gist_response.json', 'utf8'));
-            const file = gist.files && gist.files['fsel_answers.json'];
-            if(!file){ console.error('Không tìm thấy file fsel_answers.json trong Gist'); process.exit(1); }
-            fs.writeFileSync('fsel_answers.json', file.content);
-          "
+          # GitHub Gist API tự động CẮT NGẮN (truncate) trường "content" của 1
+          # file nếu file đó lớn hơn ~1MB, và trả kèm "truncated": true cho file
+          # đó. fsel_answers.json của repo này đã vượt ngưỡng đó từ lâu, nên
+          # trước đây script lấy thẳng ".content" luôn bị cụt giữa chừng dù
+          # request vẫn "thành công" (không có lỗi HTTP nào cả).
+          # => Phải kiểm tra cờ "truncated": nếu true thì gọi thêm 1 request
+          # riêng tới "raw_url" của đúng file đó (không bị giới hạn dung lượng
+          # như content trả kèm trong response gist) để lấy nội dung đầy đủ.
+          truncated=$(jq -r '.files["fsel_answers.json"].truncated // false' gist_response.json)
+          raw_url=$(jq -r '.files["fsel_answers.json"].raw_url // empty' gist_response.json)
+
+          if [ -z "$raw_url" ]; then
+            echo "❌ Không tìm thấy file fsel_answers.json trong Gist."
+            exit 1
+          fi
+
+          if [ "$truncated" = "true" ]; then
+            echo "ℹ️ Nội dung file bị GitHub cắt ngắn trong response Gist API (file > ~1MB) — đang tải đầy đủ từ raw_url..."
+            curl -sL -H "Authorization: Bearer ${GIST_TOKEN}" "$raw_url" -o fsel_answers.json
+          else
+            jq -r '.files["fsel_answers.json"].content' gist_response.json > fsel_answers.json
+          fi
+
+          # Kiểm tra JSON hợp lệ trước khi commit — tránh trường hợp raw_url
+          # cũng lỗi/rỗng mà vẫn lỡ ghi đè file tốt bằng dữ liệu hỏng.
+          if ! jq empty fsel_answers.json 2>/dev/null; then
+            echo "❌ Nội dung tải về không phải JSON hợp lệ (có thể vẫn bị cắt xén hoặc raw_url lỗi). Dừng lại, không commit."
+            exit 1
+          fi
+
+          echo "✅ Đã tải fsel_answers.json hợp lệ ($(wc -c < fsel_answers.json) bytes)."
           rm -f gist_response.json
 
       - name: Commit + push nếu có thay đổi
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           git add fsel_answers.json
           if ! git diff --staged --quiet; then
             git commit -m "Tự động đồng bộ đáp án từ Gist"
