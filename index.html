@@ -678,12 +678,35 @@ function partHtml(p, counters, questionType){
   // mỗi "part" ứng với 1 câu/1 dòng gốc (có thể chứa nhiều chỗ trống trong cùng câu
   // đó, ví dụ câu 1 có 2 chỗ trống "his" và "He").
   if(p.meta && Array.isArray(p.meta.correctWords)){
-    const words = p.meta.correctWords.map(w => {
+    const studentWordsRaw = Array.isArray(p.meta.studentWords) ? p.meta.studentWords : [];
+    const statusArr = Array.isArray(p.status) ? p.status : [];
+    const usedAlternatives = new Set();
+    const words = p.meta.correctWords.map((w, i) => {
+      // BUG ĐÃ SỬA: một số câu ghép 2 chiều dùng CHUNG 1 tập đáp án cho
+      // nhiều chỗ trống (vd correctWords = ["rock music|football",
+      // "rock music|football"] — giống hệt nhau ở mọi chỗ trống). Nếu luôn
+      // lấy "phương án đầu tiên" trước dấu '|' cho mỗi chỗ trống thì MỌI
+      // chỗ trống trong câu sẽ hiện ra GIỐNG HỆT NHAU (vd cả 2 đều hiện
+      // "rock music"), dù đáp án đúng thực tế của từng chỗ là khác nhau.
+      // → Ưu tiên hiện lại chính từ học sinh đã điền cho đúng vị trí đó
+      // (nếu vị trí đó được chấm Đúng), vì đó chắc chắn là 1 đáp án hợp lệ
+      // dành riêng cho chỗ trống này.
+      const studentAnswer = studentWordsRaw[i];
+      if(statusArr[i] === 'Correct' && studentAnswer){
+        usedAlternatives.add(String(studentAnswer).trim().toLowerCase());
+        return String(studentAnswer);
+      }
       let wordText = String(w);
       // Một số câu hỏi liệt kê nhiều đáp án chấp nhận được cho cùng 1 chỗ trống,
-      // ngăn cách bằng '|', '/' hoặc '\' — chỉ lấy đáp án đầu tiên để hiển thị gọn.
+      // ngăn cách bằng '|', '/' hoặc '\'. Không có dữ liệu student để tham chiếu
+      // (hoặc học sinh điền sai ở chỗ này) nên chọn 1 phương án CHƯA dùng ở chỗ
+      // trống khác trong cùng câu nếu có thể, để tránh hiện trùng lặp; nếu
+      // không tìm được phương án nào chưa dùng thì đành lấy phương án đầu tiên.
       if(/[|/\\]/.test(wordText)){
-        wordText = wordText.split(/[|/\\]/)[0].trim();
+        const alts = wordText.split(/[|/\\]/).map(s => s.trim()).filter(Boolean);
+        const unused = alts.find(a => !usedAlternatives.has(a.toLowerCase()));
+        wordText = unused || alts[0] || wordText;
+        usedAlternatives.add(wordText.trim().toLowerCase());
       }
       return wordText; // giữ nguyên (chưa escape) để còn nhận diện được link ảnh
     }).filter(Boolean);
