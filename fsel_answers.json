@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-20T03:23:25.030Z",
+  "exportedAt": "2026-07-20T04:02:22.212Z",
   "totalQuestions": 481,
   "totalUnknownQuestions": 0,
   "answers": {
@@ -7202,10 +7202,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Từ vựng",
-        "exerciseOrder": 1
+        "exerciseOrder": 2
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 1: Từ vựng",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|fbc89f65-88d4-4bad-a07b-f821d091cd0b",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Từ vựng",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|fbc89f65-88d4-4bad-a07b-f821d091cd0b",
       "type": "DragAndDropPicture",
       "correct": true,
       "score": "9/9",
@@ -7228,7 +7228,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/18_1831_1723617328716.png",
-            "optionLabel": "G"
+            "optionLabel": "H"
           }
         },
         {
@@ -7238,7 +7238,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/19_5326_1723617332891.png",
-            "optionLabel": "F"
+            "optionLabel": "C"
           }
         },
         {
@@ -7248,7 +7248,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/20_6538_1723617336644.png",
-            "optionLabel": "I"
+            "optionLabel": "B"
           }
         },
         {
@@ -7258,7 +7258,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/21_1118_1723617341116.png",
-            "optionLabel": "H"
+            "optionLabel": "E"
           }
         },
         {
@@ -7268,7 +7268,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/22_6689_1723617345262.png",
-            "optionLabel": "E"
+            "optionLabel": "A"
           }
         },
         {
@@ -7278,7 +7278,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/23_8252_1723617349789.png",
-            "optionLabel": "C"
+            "optionLabel": "I"
           }
         },
         {
@@ -7288,7 +7288,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/24_377_1723617354108.png",
-            "optionLabel": "B"
+            "optionLabel": "F"
           }
         },
         {
@@ -7298,7 +7298,7 @@
           "status": "Correct",
           "meta": {
             "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/25_385_1723617359756.png",
-            "optionLabel": "A"
+            "optionLabel": "G"
           }
         }
       ]
@@ -8496,10 +8496,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8523,10 +8523,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8551,10 +8551,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8577,10 +8577,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8611,10 +8611,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8637,10 +8637,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8665,10 +8665,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8693,10 +8693,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8719,10 +8719,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8748,10 +8748,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8776,10 +8776,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8802,10 +8802,10 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 2: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|0e8c0cbb-1576-46ba-a53a-a9275d2b4d71",
       "type": "ShortAnswerWordBase",
       "correct": true,
       "score": "1/1",
@@ -8828,56 +8828,15 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nghe",
-        "exerciseOrder": 3
+        "exerciseOrder": 6
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 3: Nghe",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|8cb0553f-44c3-4c53-a266-f67f46d249f2",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 6: Nghe",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|8cb0553f-44c3-4c53-a266-f67f46d249f2",
       "type": "MatchingType2",
-      "correct": true,
-      "score": "4/4",
+      "correct": null,
+      "score": null,
       "instruction": "Listen to the recording. Then match the names to the photos on the tablet.",
-      "answer": [
-        {
-          "id": 1,
-          "correct": "Emma",
-          "student": "Emma",
-          "status": "Correct",
-          "meta": {
-            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/26_8544_1723621526187.png",
-            "optionLabel": "D"
-          }
-        },
-        {
-          "id": 2,
-          "correct": "Gary",
-          "student": "Gary",
-          "status": "Correct",
-          "meta": {
-            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/27_307_1723621531370.png",
-            "optionLabel": "B"
-          }
-        },
-        {
-          "id": 3,
-          "correct": "Marco",
-          "student": "Marco",
-          "status": "Correct",
-          "meta": {
-            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/28_7792_1723621537760.png",
-            "optionLabel": "A"
-          }
-        },
-        {
-          "id": 4,
-          "correct": "Sofia",
-          "student": "Sofia",
-          "status": "Correct",
-          "meta": {
-            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/29_387_1723621542913.png",
-            "optionLabel": "C"
-          }
-        }
-      ]
+      "answer": []
     },
     "5bad1dcf-b214-4ac3-be3b-f915ad08c65d": {
       "location": {
@@ -8886,72 +8845,54 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nghe",
-        "exerciseOrder": 4
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 4: Nghe",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|4d0aa0fa-1f02-4529-b61f-9c142535182d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|4d0aa0fa-1f02-4529-b61f-9c142535182d",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "6/6",
+      "correct": null,
+      "score": null,
       "instruction": " Listen to the conversation again. Then write each person's country and job.",
       "answer": [
         {
           "id": 1,
-          "correct": " MARCO\n\nCountry: Mexico\n\nJob: a musician|musician",
-          "student": " MARCO\n\nCountry: Mexico\n\nJob: a musician",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "correct": " MARCO\n\nCountry: a musician|musician\n\nJob: Mexico",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "Mexico",
-              "a musician|musician"
+              "a musician|musician",
+              "Mexico"
             ],
-            "studentWords": [
-              "Mexico",
-              "a musician"
-            ],
+            "studentWords": null,
             "template": " MARCO\n\nCountry: {Mexico}\n\nJob: {a musician|musician}"
           }
         },
         {
           "id": 2,
           "correct": " EMMA\n\nCountry: France\n\nJob: a teacher|teacher\n",
-          "student": " EMMA\n\nCountry: France\n\nJob:  a teacher\n",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "France",
               "a teacher|teacher"
             ],
-            "studentWords": [
-              "France",
-              " a teacher"
-            ],
+            "studentWords": null,
             "template": " EMMA\n\nCountry: {France}\n\nJob: {a teacher|teacher}\n"
           }
         },
         {
           "id": 3,
           "correct": " SOFIA\n\nCountry: Italy\n\nJob: an actress|actress",
-          "student": " SOFIA\n\nCountry: Italy\n\nJob: an actress",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "Italy",
               "an actress|actress"
             ],
-            "studentWords": [
-              "Italy",
-              "an actress"
-            ],
+            "studentWords": null,
             "template": " SOFIA\n\nCountry: {Italy}\n\nJob: {an actress|actress}"
           }
         }
@@ -8964,25 +8905,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nghe",
-        "exerciseOrder": 5
+        "exerciseOrder": 10
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 5: Nghe",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|12506504-1449-4c91-b65c-5c85b74746db",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 10: Nghe",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|12506504-1449-4c91-b65c-5c85b74746db",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "How many questions does Matt ask? Write the number.",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "6",
-            "six",
-            "6 questions",
-            "six questions"
-          ],
-          "student": "6",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -8993,112 +8929,90 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 6
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 6: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|488dad80-f2eb-481b-9ff8-38ac32c2129f",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 12: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|488dad80-f2eb-481b-9ff8-38ac32c2129f",
       "type": "DragAndDropSentenceOrder",
-      "correct": true,
-      "score": "5/5",
+      "correct": null,
+      "score": null,
       "instruction": "Put the words in the right order.",
       "answer": [
         {
           "id": 1,
           "correct": null,
           "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "Is",
               "he",
               "Spanish",
-              "?"
+              "?",
+              "Is"
             ],
-            "studentWords": [
-              "Is",
-              "he",
-              "Spanish",
-              "?"
-            ]
+            "studentWords": null
           }
         },
         {
           "id": 2,
           "correct": null,
           "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "Where's",
-              "she",
               "from",
+              "she",
               "?"
             ],
-            "studentWords": [
-              "Where's",
-              "she",
-              "from",
-              "?"
-            ]
+            "studentWords": null
           }
         },
         {
           "id": 3,
           "correct": null,
           "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "Is",
-              "she",
-              "a",
               "musician",
-              "?"
+              "Is",
+              "a",
+              "?",
+              "she"
             ],
-            "studentWords": [
-              "Is",
-              "she",
-              "a",
-              "musician",
-              "?"
-            ]
+            "studentWords": null
           }
         },
         {
           "id": 4,
           "correct": null,
           "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "Is",
-              "she",
               "married",
-              "?"
+              "?",
+              "Is",
+              "she"
             ],
-            "studentWords": [
-              "Is",
-              "she",
-              "married",
-              "?"
-            ]
+            "studentWords": null
           }
         },
         {
           "id": 5,
           "correct": null,
           "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "What's",
               "her",
+              "?",
               "phone",
-              "number",
-              "?"
+              "What's",
+              "number"
             ],
-            "studentWords": [
-              "What's",
-              "her",
-              "phone",
-              "number",
-              "?"
-            ]
+            "studentWords": null
           }
         }
       ]
@@ -9110,114 +9024,90 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 7
+        "exerciseOrder": 14
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 7: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|8ff67bec-0e24-47b6-b8a8-55e03d95a860",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 14: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|8ff67bec-0e24-47b6-b8a8-55e03d95a860",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "6/6",
+      "correct": null,
+      "score": null,
       "instruction": "Find the subject in each sentence. Then fill in the gaps with AM, ARE, or 'S.",
       "answer": [
         {
           "id": 1,
           "correct": " Where are you from?",
-          "student": " Where are you from?",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "are"
             ],
-            "studentWords": [
-              "are"
-            ],
+            "studentWords": null,
             "template": " Where {are} you from?"
           }
         },
         {
           "id": 2,
           "correct": " Where 's|is he/she/it from?",
-          "student": " Where 's he/she/it from?",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is"
             ],
-            "studentWords": [
-              "'s"
-            ],
+            "studentWords": null,
             "template": " Where {'s|is} he/she/it from?"
           }
         },
         {
           "id": 3,
           "correct": " What 's|is your name?",
-          "student": " What 's your name?",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is"
             ],
-            "studentWords": [
-              "'s"
-            ],
+            "studentWords": null,
             "template": " What {'s|is} your name?"
           }
         },
         {
           "id": 4,
           "correct": " What 's|is his/her name?",
-          "student": " What 's his/her name?",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is"
             ],
-            "studentWords": [
-              "'s"
-            ],
+            "studentWords": null,
             "template": " What {'s|is} his/her name?"
           }
         },
         {
           "id": 5,
           "correct": " What 's|is your job?",
-          "student": " What 's your job?",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is"
             ],
-            "studentWords": [
-              "'s"
-            ],
+            "studentWords": null,
             "template": " What {'s|is} your job?"
           }
         },
         {
           "id": 6,
           "correct": " What 's|is his/her job? ",
-          "student": " What 's his/her job? ",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is"
             ],
-            "studentWords": [
-              "'s"
-            ],
+            "studentWords": null,
             "template": " What {'s|is} his/her job? "
           }
         }
@@ -9230,26 +9120,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Where am I?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "Where am I?",
-            "Where am I",
-            "where am i",
-            "where am I?",
-            "Where am i?"
-          ],
-          "student": "Where am I?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9260,27 +9144,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Where are you from?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "Where are you from?",
-            "where are you from?",
-            "Where're you from?",
-            "where're you from?",
-            "Wear are you from?",
-            "wear are you from?"
-          ],
-          "student": "Where are you from?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9291,24 +9168,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Where's he from?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "Where's he from?",
-            "Where is he from?",
-            "Wheres he from?"
-          ],
-          "student": "Where's he from?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9319,24 +9192,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Where's she from?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "Where's she from?",
-            "Where is she from?",
-            "Wheres she from?"
-          ],
-          "student": "Where's she from?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9347,24 +9216,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Where's it from?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "Where's it from?",
-            "Where is it from?",
-            "Wheres it from?"
-          ],
-          "student": "Where's it from?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9375,24 +9240,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "What's your name?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "What's your name?",
-            "Whats your name",
-            "What is your name"
-          ],
-          "student": "What's your name?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9403,25 +9264,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "What's his name?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "What's his name?",
-            "What is his name?",
-            "Whats his name?",
-            "Whats his name"
-          ],
-          "student": "What's his name?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9432,25 +9288,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "What's her name?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "What's her name?",
-            "What is her name?",
-            "Whats her name?",
-            "What s her name?"
-          ],
-          "student": "What's her name?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9461,25 +9312,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "What's your job?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "What's your job?",
-            "What is your job?",
-            "Whats your job?",
-            "What’s your job?"
-          ],
-          "student": "What's your job?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9490,26 +9336,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "What's his job?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "What's his job?",
-            "What is his job?",
-            "Whats his job?",
-            "What’s his job?",
-            "What's his job"
-          ],
-          "student": "What's his job?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9520,25 +9360,20 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 8
+        "exerciseOrder": 16
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 8: Nói",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 16: Nói",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|5f631f75-ae76-4eab-8bf8-13dfc1bd4c9d",
       "type": "ShortAnswerWordBase",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "What's her job?",
       "answer": [
         {
           "id": null,
-          "correct": [
-            "What's her job?",
-            "What is her job?",
-            "Whats her job?",
-            "What s her job?"
-          ],
-          "student": "What's her job?",
-          "status": "Correct"
+          "correct": [],
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9549,32 +9384,26 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 9
+        "exerciseOrder": 18
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 9: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|d555c62a-2883-4dd5-93e6-c661169891a1",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 18: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|d555c62a-2883-4dd5-93e6-c661169891a1",
       "type": "Multichoice",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Is Gary a musician?",
       "answer": [
         {
           "id": 1,
-          "correct": false,
-          "student": false,
-          "status": "Process",
-          "meta": {
-            "optionText": "Yes, he is."
-          }
+          "correct": "Yes, he is.",
+          "student": null,
+          "status": null
         },
         {
           "id": 2,
-          "correct": true,
-          "student": true,
-          "status": "Correct",
-          "meta": {
-            "optionText": "No, he isn't."
-          }
+          "correct": "No, he isn't.",
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9585,32 +9414,26 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 9
+        "exerciseOrder": 18
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 9: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|d555c62a-2883-4dd5-93e6-c661169891a1",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 18: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|d555c62a-2883-4dd5-93e6-c661169891a1",
       "type": "Multichoice",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Is Marco from Mexico?",
       "answer": [
         {
           "id": 1,
-          "correct": true,
-          "student": true,
-          "status": "Correct",
-          "meta": {
-            "optionText": "Yes, he is."
-          }
+          "correct": "Yes, he is.",
+          "student": null,
+          "status": null
         },
         {
           "id": 2,
-          "correct": false,
-          "student": false,
-          "status": "Process",
-          "meta": {
-            "optionText": "No, he isn't."
-          }
+          "correct": "No, he isn't.",
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9621,32 +9444,26 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 9
+        "exerciseOrder": 18
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 9: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|d555c62a-2883-4dd5-93e6-c661169891a1",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 18: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|d555c62a-2883-4dd5-93e6-c661169891a1",
       "type": "Multichoice",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Is Emma an actress?",
       "answer": [
         {
           "id": 1,
-          "correct": false,
-          "student": false,
-          "status": "Process",
-          "meta": {
-            "optionText": "Yes, she is."
-          }
+          "correct": "Yes, she is.",
+          "student": null,
+          "status": null
         },
         {
           "id": 2,
-          "correct": true,
-          "student": true,
-          "status": "Correct",
-          "meta": {
-            "optionText": "No, she isn't."
-          }
+          "correct": "No, she isn't.",
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9657,32 +9474,26 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 9
+        "exerciseOrder": 18
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 9: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|d555c62a-2883-4dd5-93e6-c661169891a1",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 18: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|d555c62a-2883-4dd5-93e6-c661169891a1",
       "type": "Multichoice",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Is Sofia Italian?",
       "answer": [
         {
           "id": 1,
-          "correct": true,
-          "student": true,
-          "status": "Correct",
-          "meta": {
-            "optionText": "Yes, she is."
-          }
+          "correct": "Yes, she is.",
+          "student": null,
+          "status": null
         },
         {
           "id": 2,
-          "correct": false,
-          "student": false,
-          "status": "Process",
-          "meta": {
-            "optionText": "No, she isn't."
-          }
+          "correct": "No, she isn't.",
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9693,32 +9504,26 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 9
+        "exerciseOrder": 18
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 9: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|d555c62a-2883-4dd5-93e6-c661169891a1",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 18: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|d555c62a-2883-4dd5-93e6-c661169891a1",
       "type": "Multichoice",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Is Emma from Germany?",
       "answer": [
         {
           "id": 1,
-          "correct": false,
-          "student": false,
-          "status": "Process",
-          "meta": {
-            "optionText": "Yes, she is."
-          }
+          "correct": "Yes, she is.",
+          "student": null,
+          "status": null
         },
         {
           "id": 2,
-          "correct": true,
-          "student": true,
-          "status": "Correct",
-          "meta": {
-            "optionText": "No, she isn't."
-          }
+          "correct": "No, she isn't.",
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9729,32 +9534,26 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 9
+        "exerciseOrder": 18
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 9: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|d555c62a-2883-4dd5-93e6-c661169891a1",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 18: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|d555c62a-2883-4dd5-93e6-c661169891a1",
       "type": "Multichoice",
-      "correct": true,
-      "score": "1/1",
+      "correct": null,
+      "score": null,
       "instruction": "Are you Vietnamese?",
       "answer": [
         {
           "id": 1,
-          "correct": true,
-          "student": true,
-          "status": "Correct",
-          "meta": {
-            "optionText": "Yes, I am."
-          }
+          "correct": "Yes, I am.",
+          "student": null,
+          "status": null
         },
         {
           "id": 2,
-          "correct": false,
-          "student": false,
-          "status": "Process",
-          "meta": {
-            "optionText": "No, I'm not."
-          }
+          "correct": "No, I'm not.",
+          "student": null,
+          "status": null
         }
       ]
     },
@@ -9765,95 +9564,69 @@
         "lessonName": "What's your job?",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 10
+        "exerciseOrder": 20
       },
-      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 10: Ngữ pháp",
-      "refId": "video:12e09735-5401-47f6-8b22-349b1a50300f|dcaca6e0-4f2b-4169-833a-d94d51a35cff",
+      "where": "Unit 2 > What's your job? > Video tương tác > Bài tập 20: Ngữ pháp",
+      "refId": "video:b1e78f3e-97fa-42ff-810e-8516104fded4|dcaca6e0-4f2b-4169-833a-d94d51a35cff",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "9/9",
+      "correct": null,
+      "score": null,
       "instruction": "Fill in the gaps with  AM, ARE, AREN'T, IS or ISN'T.",
       "answer": [
         {
           "id": 1,
-          "correct": " Are you from Russia?\n\nYes, I am. / No, I’m not.",
-          "student": " are you from Russia?\n\nYes, I am. / No, I’m not.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "correct": " am you from Russia?\n\nYes, I Are. / No, I’m not.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "Are",
-              "am"
+              "am",
+              "Are"
             ],
-            "studentWords": [
-              "are",
-              "am"
-            ],
+            "studentWords": null,
             "template": " {Are} you from Russia?\n\nYes, I {am}. / No, I’m not."
           }
         },
         {
           "id": 2,
           "correct": " Is he a doctor?\n\nYes, he is. / No, he isn't.",
-          "student": " is he a doctor?\n\nYes, he is. / No, he isn't.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "Is",
               "isn't"
             ],
-            "studentWords": [
-              "is",
-              "isn't"
-            ],
+            "studentWords": null,
             "template": " {Is} he a doctor?\n\nYes, he is. / No, he {isn't}."
           }
         },
         {
           "id": 3,
           "correct": " Is she Italian?\n\nYes, she is / No she isn’t.\n",
-          "student": " is she Italian?\n\nYes, she is / No she isn’t.\n",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "Is",
               "is"
             ],
-            "studentWords": [
-              "is",
-              "is"
-            ],
+            "studentWords": null,
             "template": " {Is} she Italian?\n\nYes, she {is} / No she isn’t.\n"
           }
         },
         {
           "id": 4,
-          "correct": " Is it Japanese? \n\nYes, it is. / No, it isn't.\n",
-          "student": " is it Japanese? \n\nYes, it is. / No, it isn't.\n",
-          "status": [
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Is it Japanese? \n\nYes, it isn't. / No, it is.\n",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "Is",
-              "is",
-              "isn't"
+              "isn't",
+              "is"
             ],
-            "studentWords": [
-              "is",
-              "is",
-              "isn't"
-            ],
+            "studentWords": null,
             "template": " {Is} it Japanese? \n\nYes, it {is}. / No, it {isn't}.\n"
           }
         }
@@ -9866,76 +9639,15 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Từ vựng",
-        "exerciseOrder": 1
+        "exerciseOrder": 2
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 1: Từ vựng",
-      "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|8c42cc2e-2c32-47b3-9e86-3ab176f17389",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 2: Từ vựng",
+      "refId": "video:a3353c6f-b628-4f99-bf65-14c99e668d56|8c42cc2e-2c32-47b3-9e86-3ab176f17389",
       "type": "MatchingType1",
-      "correct": true,
-      "score": "6/6",
+      "correct": false,
+      "score": "0/6",
       "instruction": "Match the symbols with the words.",
-      "answer": [
-        {
-          "id": 1,
-          "correct": "at",
-          "student": "at",
-          "status": "Correct",
-          "meta": {
-            "left": "@",
-            "optionLabel": "F"
-          }
-        },
-        {
-          "id": 2,
-          "correct": "dot",
-          "student": "dot",
-          "status": "Correct",
-          "meta": {
-            "left": ".",
-            "optionLabel": "E"
-          }
-        },
-        {
-          "id": 3,
-          "correct": "dot com",
-          "student": "dot com",
-          "status": "Correct",
-          "meta": {
-            "left": ".com",
-            "optionLabel": "C"
-          }
-        },
-        {
-          "id": 4,
-          "correct": "dot co dot U-K",
-          "student": "dot co dot U-K",
-          "status": "Correct",
-          "meta": {
-            "left": ".co.uk",
-            "optionLabel": "B"
-          }
-        },
-        {
-          "id": 5,
-          "correct": "dot net",
-          "student": "dot net",
-          "status": "Correct",
-          "meta": {
-            "left": ".net",
-            "optionLabel": "A"
-          }
-        },
-        {
-          "id": 6,
-          "correct": "dot org",
-          "student": "dot org",
-          "status": "Correct",
-          "meta": {
-            "left": ".org",
-            "optionLabel": "D"
-          }
-        }
-      ]
+      "answer": []
     },
     "553060f2-0b60-4466-9626-d5c5c84e55be": {
       "location": {
@@ -9944,9 +9656,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 3
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 2: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 3: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|869c786a-56e3-400c-a984-a4d5de2d163c",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -9975,9 +9687,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 3
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 2: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 3: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|869c786a-56e3-400c-a984-a4d5de2d163c",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10006,9 +9718,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 2
+        "exerciseOrder": 3
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 2: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 3: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|869c786a-56e3-400c-a984-a4d5de2d163c",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10037,9 +9749,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 3
+        "exerciseOrder": 4
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 3: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 4: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|40cb419a-3ce5-4dd9-a066-6e37bd71b859",
       "type": "ShortAnswerWordCount",
       "correct": true,
@@ -10068,9 +9780,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nghe",
-        "exerciseOrder": 4
+        "exerciseOrder": 5
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 4: Nghe",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 5: Nghe",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|72b0fa0d-c0bb-43b1-b3cf-ab547fbdce71",
       "type": "DragAndDropListSentenceOrder",
       "correct": false,
@@ -10122,9 +9834,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nghe",
-        "exerciseOrder": 5
+        "exerciseOrder": 6
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 5: Nghe",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 6: Nghe",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|33f5039a-4a52-4e38-8618-ad4ed820f28a",
       "type": "GapFillScoreByGap",
       "correct": true,
@@ -10172,9 +9884,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Từ vựng",
-        "exerciseOrder": 6
+        "exerciseOrder": 7
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 6: Từ vựng",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|eed0d7d2-6206-4923-a5c9-332549abd4bb",
       "type": "GapFillScoreByGap",
       "correct": true,
@@ -10317,9 +10029,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10350,9 +10062,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10382,9 +10094,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10411,9 +10123,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10441,9 +10153,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10470,9 +10182,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 8
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|866d7459-4295-4a4c-963c-204980a16e54",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10505,9 +10217,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Từ vựng",
-        "exerciseOrder": 8
+        "exerciseOrder": 9
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 8: Từ vựng",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 9: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|8f76de17-96d2-4e28-b756-d5264e463149",
       "type": "GapFillScoreByGap",
       "correct": true,
@@ -10608,9 +10320,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Từ vựng",
-        "exerciseOrder": 9
+        "exerciseOrder": 10
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 9: Từ vựng",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 10: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|9d9d4ed0-c8e5-4d43-bf94-7bfd44204c6d",
       "type": "MatchingType1",
       "correct": true,
@@ -10656,9 +10368,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Từ vựng",
-        "exerciseOrder": 10
+        "exerciseOrder": 11
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 10: Từ vựng",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Từ vựng",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|0b68b200-90ca-4532-9019-7f169f18a4ae",
       "type": "GapFillWordBankScoreByGap",
       "correct": true,
@@ -10751,9 +10463,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10788,9 +10500,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10816,9 +10528,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10847,9 +10559,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10874,9 +10586,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10907,9 +10619,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10936,9 +10648,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -10968,9 +10680,9 @@
         "lessonName": "Personal information",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 11
+        "exerciseOrder": 12
       },
-      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 11: Nói",
+      "where": "Unit 2 > Personal information > Video tương tác > Bài tập 12: Nói",
       "refId": "video:fea443c9-1348-4f30-a9b3-c7d7a68cfbfd|95df5172-cc75-4012-a08b-47a337100a3a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -22392,7 +22104,7 @@
         "exerciseOrder": 1
       },
       "where": "Unit 2 > She's British > Bài tập về nhà > Bài tập 1: be (singular): positive",
-      "refId": "homework:2a3fc413-3aab-4ce6-be00-2fc315efed50|d74bcd80-3501-4c03-816f-9af0cbf46f59",
+      "refId": "homework:2a3fc413-3aab-4ce6-be00-2fc315efed50|4f24656f-6bfb-4b16-949d-6c8f73c796ee",
       "type": "GapFillScoreByGap",
       "correct": true,
       "score": "11/11",
@@ -22447,7 +22159,7 @@
         {
           "id": 3,
           "correct": " You're in the Starter class.",
-          "student": " You're' in the Starter class.",
+          "student": " You're in the Starter class.",
           "status": [
             "Correct"
           ],
@@ -22456,7 +22168,7 @@
               "'re"
             ],
             "studentWords": [
-              "'re'"
+              "'re"
             ],
             "template": " You{'re} in the Starter class."
           }
@@ -22513,128 +22225,100 @@
         "exerciseOrder": 2
       },
       "where": "Unit 2 > She's British > Bài tập về nhà > Bài tập 2: be (singular): negative",
-      "refId": "homework:d06b9f79-dfa5-4e8b-98ab-a49d872a8abe|8fd78158-a32e-4d24-b811-a051066b9a78",
+      "refId": "homework:d06b9f79-dfa5-4e8b-98ab-a49d872a8abe|5321507d-427f-41bf-b05a-3a93d26c11e6",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "7/7",
+      "correct": null,
+      "score": null,
       "instruction": "Make these sentences negative.",
       "answer": [
         {
           "id": 1,
           "correct": " Example:\nI'm a teacher. -> I'm not a teacher.\n\nHe's a student.\n-> He's not a student|He isn't a student|He is not a student.",
-          "student": " Example:\nI'm a teacher. -> I'm not a teacher.\n\nHe's a student.\n->  He's not a student.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "He's not a student|He isn't a student|He is not a student"
             ],
-            "studentWords": [
-              " He's not a student"
-            ],
+            "studentWords": null,
             "template": " Example:\nI'm a teacher. -> I'm not a teacher.\n\nHe's a student.\n-> {He's not a student|He isn't a student|He is not a student}."
           }
         },
         {
           "id": 2,
           "correct": " You're from Russia.\n-> You're not from Russia|You aren't from Russia|You are not from Russia.",
-          "student": " You're from Russia.\n-> You're not from Russia.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "You're not from Russia|You aren't from Russia|You are not from Russia"
             ],
-            "studentWords": [
-              "You're not from Russia"
-            ],
+            "studentWords": null,
             "template": " You're from Russia.\n-> {You're not from Russia|You aren't from Russia|You are not from Russia}."
           }
         },
         {
           "id": 3,
           "correct": " It's German.\n-> It's not German|It isn't German|it is not German.",
-          "student": " It's German.\n->  It's not German.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "It's not German|It isn't German|it is not German"
             ],
-            "studentWords": [
-              " It's not German"
-            ],
+            "studentWords": null,
             "template": " It's German.\n-> {It's not German|It isn't German|it is not German}."
           }
         },
         {
           "id": 4,
           "correct": " She's Chinese.\n-> She's not Chinese|She isn't Chinese|she is not Chinese.",
-          "student": " She's Chinese.\n->  She's not Chinese.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "She's not Chinese|She isn't Chinese|she is not Chinese"
             ],
-            "studentWords": [
-              " She's not Chinese"
-            ],
+            "studentWords": null,
             "template": " She's Chinese.\n-> {She's not Chinese|She isn't Chinese|she is not Chinese}."
           }
         },
         {
           "id": 5,
           "correct": " I'm British.\n-> I'm not British|I am not British.",
-          "student": " I'm British.\n-> I'm not British.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "I'm not British|I am not British"
             ],
-            "studentWords": [
-              "I'm not British"
-            ],
+            "studentWords": null,
             "template": " I'm British.\n-> {I'm not British|I am not British}."
           }
         },
         {
           "id": 6,
           "correct": " My teacher's American.\n-> my teacher's not American|my teacher isn't american|myteacher is not american.",
-          "student": " My teacher's American.\n-> my teacher's not American.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "my teacher's not American|my teacher isn't american|myteacher is not american"
             ],
-            "studentWords": [
-              "my teacher's not American"
-            ],
+            "studentWords": null,
             "template": " My teacher's American.\n-> {my teacher's not American|my teacher isn't american|myteacher is not american}."
           }
         },
         {
           "id": 7,
           "correct": " You're a singer.\n-> you're not a singer|you aren't a singer|you are not a singer.",
-          "student": " You're a singer.\n->  you're not a singer.",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "you're not a singer|you aren't a singer|you are not a singer"
             ],
-            "studentWords": [
-              " you're not a singer"
-            ],
+            "studentWords": null,
             "template": " You're a singer.\n-> {you're not a singer|you aren't a singer|you are not a singer}."
           }
         }
@@ -22650,109 +22334,79 @@
         "exerciseOrder": 3
       },
       "where": "Unit 2 > She's British > Bài tập về nhà > Bài tập 3: be (singular): negative 2",
-      "refId": "homework:0ff058d2-c3e9-4b23-a594-9f70e94561a0|2df370e9-469d-46fa-ad34-32c445c4ce23",
+      "refId": "homework:0ff058d2-c3e9-4b23-a594-9f70e94561a0|f77827dc-7328-45d4-981b-ae8b8f39db7b",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "10/10",
+      "correct": null,
+      "score": null,
       "instruction": "Fill in the gaps with the positive or negative forms of \"be\"",
       "answer": [
         {
           "id": 1,
-          "correct": " \n✔ - positive\n✘ - negative\nExample:\nKylie ____ (✘) British. She _____ (✔) Australian.\n-> Kylie isn't British. She's Australian.\n\nNew Delhi's|is (✔) the capital of India. It's not|isn't (✘) the capital of Bangladesh.\n",
-          "student": " \n✔ - positive\n✘ - negative\nExample:\nKylie ____ (✘) British. She _____ (✔) Australian.\n-> Kylie isn't British. She's Australian.\n\nNew Delhi's (✔) the capital of India. It's not (✘) the capital of Bangladesh.\n",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "correct": " \n✔ - positive\n✘ - negative\nExample:\nKylie ____ (✘) British. She _____ (✔) Australian.\n-> Kylie isn't British. She's Australian.\n\nNew Delhi's not|isn't (✔) the capital of India. It's|is (✘) the capital of Bangladesh.\n",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "'s|is",
-              "'s not|isn't"
+              "'s not|isn't",
+              "'s|is"
             ],
-            "studentWords": [
-              "'s",
-              "'s not"
-            ],
+            "studentWords": null,
             "template": " \n✔ - positive\n✘ - negative\nExample:\nKylie ____ (✘) British. She _____ (✔) Australian.\n-> Kylie isn't British. She's Australian.\n\nNew Delhi{'s|is} (✔) the capital of India. It{'s not|isn't} (✘) the capital of Bangladesh.\n"
           }
         },
         {
           "id": 2,
           "correct": " Cameronisn't|'s not|is not (✘) from Spain. She's|is (✔) from America.",
-          "student": " Cameronisn't (✘) from Spain. She's (✔) from America.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "isn't|'s not|is not",
               "'s|is"
             ],
-            "studentWords": [
-              "isn't",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " Cameron{isn't|'s not|is not} (✘) from Spain. She{'s|is} (✔) from America."
           }
         },
         {
           "id": 3,
           "correct": " Renault's|is (✔) a French company. Their office's|is (✔) in Paris.",
-          "student": " Renault's (✔) a French company. Their office's (✔) in Paris.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is",
               "'s|is"
             ],
-            "studentWords": [
-              "'s",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " Renault{'s|is} (✔) a French company. Their office{'s|is} (✔) in Paris."
           }
         },
         {
           "id": 4,
           "correct": " Big Ben's not|isn't|is not (✘) in Washington. It's|is (✔) in London.",
-          "student": " Big Ben's not (✘) in Washington. It's (✔) in London.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s not|isn't|is not",
               "'s|is"
             ],
-            "studentWords": [
-              "'s not",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " Big Ben{'s not|isn't|is not} (✘) in Washington. It{'s|is} (✔) in London."
           }
         },
         {
           "id": 5,
-          "correct": " Starbucks's|isn't|is not (✘) a British company. It's|is (✔) American.",
-          "student": " Starbucksisn't (✘) a British company. It's (✔) American.",
-          "status": [
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Starbucks's|is (✘) a British company. It's|isn't|is not (✔) American.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "'s|isn't|is not",
-              "'s|is"
+              "'s|is",
+              "'s|isn't|is not"
             ],
-            "studentWords": [
-              "isn't",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " Starbucks{'s|isn't|is not} (✘) a British company. It{'s|is} (✔) American."
           }
         }
@@ -22768,264 +22422,204 @@
         "exerciseOrder": 4
       },
       "where": "Unit 2 > She's British > Bài tập về nhà > Bài tập 4: Nationalities",
-      "refId": "homework:f7ca5246-f90d-4b84-bfdd-653cb615e85a|d1e36db3-1073-4d47-aeb0-89341a86dffe",
+      "refId": "homework:f7ca5246-f90d-4b84-bfdd-653cb615e85a|eb16a946-fca9-4921-92ad-fd88e25f39fa",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "15/15",
+      "correct": null,
+      "score": null,
       "instruction": "Find 15 nationalities (→↓).",
       "answer": [
         {
           "id": 1,
           "correct": " (→) Italian",
-          "student": " (→) Italian",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "talian"
             ],
-            "studentWords": [
-              "talian"
-            ],
+            "studentWords": null,
             "template": " (→) I{talian}"
           }
         },
         {
           "id": 2,
           "correct": " (→) Mexican",
-          "student": " (→) Mexican",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "exican"
             ],
-            "studentWords": [
-              "exican"
-            ],
+            "studentWords": null,
             "template": " (→) M{exican}"
           }
         },
         {
           "id": 3,
           "correct": " (→) British",
-          "student": " (→) B ritish",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "ritish"
             ],
-            "studentWords": [
-              " ritish"
-            ],
+            "studentWords": null,
             "template": " (→) B{ritish}"
           }
         },
         {
           "id": 4,
           "correct": " (→) Egyptian",
-          "student": " (→) Egyptian",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "gyptian"
             ],
-            "studentWords": [
-              "gyptian"
-            ],
+            "studentWords": null,
             "template": " (→) E{gyptian}"
           }
         },
         {
           "id": 5,
           "correct": " (→) American",
-          "student": " (→) American",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "merican"
             ],
-            "studentWords": [
-              "merican"
-            ],
+            "studentWords": null,
             "template": " (→) A{merican}"
           }
         },
         {
           "id": 6,
           "correct": " (→) Colombian",
-          "student": " (→) Colombian",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "olombian"
             ],
-            "studentWords": [
-              "olombian"
-            ],
+            "studentWords": null,
             "template": " (→) C{olombian}"
           }
         },
         {
           "id": 7,
           "correct": " (→) Japanese",
-          "student": " (→) Japanese",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "apanese"
             ],
-            "studentWords": [
-              "apanese"
-            ],
+            "studentWords": null,
             "template": " (→) J{apanese}"
           }
         },
         {
           "id": 8,
           "correct": " (↓) German",
-          "student": " (↓) German",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "erman"
             ],
-            "studentWords": [
-              "erman"
-            ],
+            "studentWords": null,
             "template": " (↓) G{erman}"
           }
         },
         {
           "id": 9,
           "correct": " (↓) Chinese",
-          "student": " (↓) Chinese",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "hinese"
             ],
-            "studentWords": [
-              "hinese"
-            ],
+            "studentWords": null,
             "template": " (↓) C{hinese}"
           }
         },
         {
           "id": 10,
           "correct": " (↓) Turkish",
-          "student": " (↓) Turkish",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "urkish"
             ],
-            "studentWords": [
-              "urkish"
-            ],
+            "studentWords": null,
             "template": " (↓) T{urkish}"
           }
         },
         {
           "id": 11,
           "correct": " (↓) French",
-          "student": " (↓) French",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "rench"
             ],
-            "studentWords": [
-              "rench"
-            ],
+            "studentWords": null,
             "template": " (↓) F{rench}"
           }
         },
         {
           "id": 12,
           "correct": " (↓) Australian",
-          "student": " (↓) Australian",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "ustralian"
             ],
-            "studentWords": [
-              "ustralian"
-            ],
+            "studentWords": null,
             "template": " (↓) A{ustralian}"
           }
         },
         {
           "id": 13,
           "correct": " (↓) Brazilian",
-          "student": " (↓) Brazilian",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "razilian"
             ],
-            "studentWords": [
-              "razilian"
-            ],
+            "studentWords": null,
             "template": " (↓) B{razilian}"
           }
         },
         {
           "id": 14,
           "correct": " (↓) Russian",
-          "student": " (↓) Russian",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "ussian"
             ],
-            "studentWords": [
-              "ussian"
-            ],
+            "studentWords": null,
             "template": " (↓) R{ussian}"
           }
         },
         {
           "id": 15,
           "correct": " (↓) Spanish",
-          "student": " (↓) Spanish",
-          "status": [
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "panish"
             ],
-            "studentWords": [
-              "panish"
-            ],
+            "studentWords": null,
             "template": " (↓) S{panish}"
           }
         }
@@ -23041,22 +22635,22 @@
         "exerciseOrder": 1
       },
       "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 1: Jobs",
-      "refId": "homework:28b0429c-9eaa-44db-8b43-e909275bbbf8|a9923f7e-d28e-408a-a991-27572fe47b50",
+      "refId": "homework:28b0429c-9eaa-44db-8b43-e909275bbbf8|15dff1f4-5bee-47c4-aa1e-1f719e490cb4",
       "type": "GapFillScoreByGap",
-      "correct": false,
-      "score": "12/13",
+      "correct": true,
+      "score": "13/13",
       "instruction": "Write the jobs in the pictures. Write the full words.",
       "answer": [
         {
           "id": 1,
           "correct": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an actress\n\nJob 3: an actor \n\nJob 4: a taxi driver \n\nJob 5: a sales assistant \n\nJob 6: a musician \n\nJob 7: a police officer \n\nJob 8: a waitress \n\nJob 9: a waiter \n\nJob 10: a doctor \n\nJob 11: a teacher \n",
-          "student": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an actress\n\nJob 3: an actor \n\nJob 4: a taxi driver \n\nJob 5: a sale assistant \n\nJob 6: a musician \n\nJob 7: a police officer \n\nJob 8: a waitress \n\nJob 9: a waiter \n\nJob 10: a doctor \n\nJob 11: a teacher \n",
+          "student": " Example: Job 1: a manager --> Write 'manager'\n\nJob 2: an actress\n\nJob 3: an actor \n\nJob 4: a taxi driver \n\nJob 5: a sales assistant \n\nJob 6: a musician \n\nJob 7: a police officer \n\nJob 8: a waitress \n\nJob 9: a waiter \n\nJob 10: a doctor \n\nJob 11: a teacher \n",
           "status": [
             "Correct",
             "Correct",
             "Correct",
             "Correct",
-            "Fail",
+            "Correct",
             "Correct",
             "Correct",
             "Correct",
@@ -23087,7 +22681,7 @@
               "actor",
               "taxi",
               "driver",
-              "sale",
+              "sales",
               "assistant",
               "musician",
               "police",
@@ -23112,85 +22706,49 @@
         "exerciseOrder": 2
       },
       "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 2: be (singular): Wh-questions",
-      "refId": "homework:810a904a-d333-4102-a4b5-946f87aace4b|f1db8a12-890c-4906-ad2a-ce318b993ae4",
+      "refId": "homework:810a904a-d333-4102-a4b5-946f87aace4b|c9c69519-39f6-416a-87d9-5c59d3317b5c",
       "type": "GapFillScoreByGap",
-      "correct": true,
-      "score": "16/16",
+      "correct": null,
+      "score": null,
       "instruction": "Fill in the gaps in these conversations. Write ONE word in each gap.",
       "answer": [
         {
           "id": 1,
-          "correct": " Conversation A\n\nA: Hello, what's|is your name?\nB: My name 's|is Oliver.\nA: Where 're|are you from?\nB: I 'm|am from the UK.\nA: What 's|is your job?\nB: I 'm|am an actor.",
-          "student": " Conversation A\n\nA: Hello, whatis your name?\nB: My name is Oliver.\nA: Where are you from?\nB: I 'm from the UK.\nA: What is your job?\nB: I 'm an actor.",
-          "status": [
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Conversation A\n\nA: Hello, what's|is your name?\nB: My name 's|is Oliver.\nA: Where 's|is you from?\nB: I 'm|am from the UK.\nA: What 're|are your job?\nB: I 'm|am an actor.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is",
               "'s|is",
-              "'re|are",
-              "'m|am",
               "'s|is",
+              "'m|am",
+              "'re|are",
               "'m|am"
             ],
-            "studentWords": [
-              "is",
-              "is",
-              "are",
-              "'m",
-              "is",
-              "'m"
-            ],
+            "studentWords": null,
             "template": " Conversation A\n\nA: Hello, what{'s|is} your name?\nB: My name {'s|is} Oliver.\nA: Where {'re|are} you from?\nB: I {'m|am} from the UK.\nA: What {'s|is} your job?\nB: I {'m|am} an actor."
           }
         },
         {
           "id": 2,
-          "correct": " Conversation B\n\nA: Hi, what's|is your name?\nB: My name 's|is Holly.\nA: Where are you from?\nB: I 'm|am from the USA.\nA: What's|is your job?\nB: I 'm|am an actress.\n\n",
-          "student": " Conversation B\n\nA: Hi, whatis your name?\nB: My name is Holly.\nA: where are you from?\nB: I 'm from the USA.\nA: Whatis your job?\nB: I 'm an actress.\n\n",
-          "status": [
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Conversation B\n\nA: Hi, whatan your name?\nB: My name the Holly.\nA: 'm|am are you 's|is?\nB: I Where from from USA.\nA: What's|is your 'm|am?\nB: I 's|is job actress.\n\n",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "'s|is",
+              "an",
+              "the",
+              "'m|am",
               "'s|is",
               "Where",
               "from",
-              "'m|am",
-              "the",
               "'s|is",
-              "job",
               "'m|am",
-              "an"
+              "'s|is",
+              "job"
             ],
-            "studentWords": [
-              "is",
-              "is",
-              "where",
-              "from",
-              "'m",
-              "the",
-              "is",
-              "job",
-              "'m",
-              "an"
-            ],
+            "studentWords": null,
             "template": " Conversation B\n\nA: Hi, what{'s|is} your name?\nB: My name {'s|is} Holly.\nA: {Where} are you {from}?\nB: I {'m|am} from {the} USA.\nA: What{'s|is} your {job}?\nB: I {'m|am} {an} actress.\n\n"
           }
         }
@@ -23206,24 +22764,17 @@
         "exerciseOrder": 3
       },
       "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 3: be (singular): Wh-questions",
-      "refId": "homework:ff680129-c5a6-488b-8975-2a08de4902c9|274da7ab-3d7c-4809-8669-e04238b88309",
+      "refId": "homework:ff680129-c5a6-488b-8975-2a08de4902c9|135c94c3-4773-4ee2-a1e5-7646e4fd42c3",
       "type": "GapFillScoreByGap",
-      "correct": false,
-      "score": "30/37",
+      "correct": null,
+      "score": null,
       "instruction": "Look at photos 1 - 4. Fill in the gaps in the conversations. Write ONE word in each gap.",
       "answer": [
         {
           "id": 1,
           "correct": " Conversation 1:\n\nA: What 's|is his name?\n\nB: His name 's|is Bruce.\n\nA: Where 's|is he from?\n\nB: He 's|is from Australia.\n\nA: What 's|is his job?\n\nB: He 's|is a waiter.",
-          "student": " Conversation 1:\n\nA: What 's his name?\n\nB: His name 's Bruce.\n\nA: Where 's he from?\n\nB: He 's from Australia.\n\nA: What 's his job?\n\nB: He 's a waiter.",
-          "status": [
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
               "'s|is",
@@ -23233,149 +22784,74 @@
               "'s|is",
               "'s|is"
             ],
-            "studentWords": [
-              "'s",
-              "'s",
-              "'s",
-              "'s",
-              "'s",
-              "'s"
-            ],
+            "studentWords": null,
             "template": " Conversation 1:\n\nA: What {'s|is} his name?\n\nB: His name {'s|is} Bruce.\n\nA: Where {'s|is} he from?\n\nB: He {'s|is} from Australia.\n\nA: What {'s|is} his job?\n\nB: He {'s|is} a waiter."
           }
         },
         {
           "id": 2,
-          "correct": " Conversation 2:\n\nA: What's|What is her name?\n\nB: Her name's|name is Aylin.\n\nA: Where's|Where is she from?\n\nB: She's|She is from Turkey.\n\nA: What's|What is her job?\n\nB: She's|She is a doctor.",
-          "student": " Conversation 2:\n\nA: what's her name?\n\nB: Her name's Aylin.\n\nA: where's she from?\n\nB: she's from Turkey.\n\nA: what's her job?\n\nB: she's a doctor.",
-          "status": [
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Conversation 2:\n\nA: name's|name is her name?\n\nB: Her She's|She is Aylin.\n\nA: What's|What is she from?\n\nB: What's|What is from Turkey.\n\nA: She's|She is her job?\n\nB: Where's|Where is a doctor.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "What's|What is",
               "name's|name is",
-              "Where's|Where is",
               "She's|She is",
               "What's|What is",
-              "She's|She is"
+              "What's|What is",
+              "She's|She is",
+              "Where's|Where is"
             ],
-            "studentWords": [
-              "what's",
-              "name's",
-              "where's",
-              "she's",
-              "what's",
-              "she's"
-            ],
+            "studentWords": null,
             "template": " Conversation 2:\n\nA: {What's|What is} her name?\n\nB: Her {name's|name is} Aylin.\n\nA: {Where's|Where is} she from?\n\nB: {She's|She is} from Turkey.\n\nA: {What's|What is} her job?\n\nB: {She's|She is} a doctor."
           }
         },
         {
           "id": 3,
-          "correct": " Conversation 3:\n\nA: What's|What is her name?\n\nB: Her name is Jamila.\n\nA: Where's|Where is she from?\n\nB: She's|She is from Egypt.\n\nA: What's|What is her job?\n\nB: She's|She is a manager.",
-          "student": " Conversation 3:\n\nA: what is her name?\n\nB: her name is Jamila.\n\nA: where is she from?\n\nB: she's from Egypt.\n\nA: what's her job?\n\nB: she's a manager.",
-          "status": [
-            "Fail",
-            "Fail",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Conversation 3:\n\nA: She's|She is She's|She is name?\n\nB: a Where's|Where is is Jamila.\n\nA: Her What's|What is from?\n\nB: she name Egypt.\n\nA: from her job?\n\nB: What's|What is her manager.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "What's|What is",
-              "her",
-              "Her",
-              "name",
+              "She's|She is",
+              "She's|She is",
+              "a",
               "Where's|Where is",
-              "she",
-              "She's|She is",
-              "from",
+              "Her",
               "What's|What is",
-              "her",
-              "She's|She is",
-              "a"
-            ],
-            "studentWords": [
-              "what",
-              "is her",
-              "her",
-              "name",
-              "where is",
               "she",
-              "she's",
+              "name",
               "from",
-              "what's",
               "her",
-              "she's",
-              "a"
+              "What's|What is",
+              "her"
             ],
+            "studentWords": null,
             "template": " Conversation 3:\n\nA: {What's|What is} {her} name?\n\nB: {Her} {name} is Jamila.\n\nA: {Where's|Where is} {she} from?\n\nB: {She's|She is} {from} Egypt.\n\nA: {What's|What is} {her} job?\n\nB: {She's|She is} {a} manager."
           }
         },
         {
           "id": 4,
-          "correct": " Conversation 4:\n\nA: What's|What is his name?\n\nB: His name 's|is Sebastian.\n\nA: Where's|Where is he from?\n\nB: He's|He is from Mexico.\n\nA: What's|What is his job?\n\nB: He's|He is a teacher.",
-          "student": " Conversation 4:\n\nA: what is his name?\n\nB: his name is Sebastian.\n\nA: where is he from?\n\nB: he's from Mexico.\n\nA: what's his job?\n\nB: he's a teacher.",
-          "status": [
-            "Fail",
-            "Fail",
-            "Fail",
-            "Correct",
-            "Correct",
-            "Fail",
-            "Fail",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct",
-            "Correct"
-          ],
+          "correct": " Conversation 4:\n\nA: he his Where's|Where is?\n\nB: 's|is name He's|He is Sebastian.\n\nA: from his from?\n\nB: He's|He is a Mexico.\n\nA: What's|What is His job?\n\nB: name What's|What is teacher.",
+          "student": null,
+          "status": null,
           "meta": {
             "correctWords": [
-              "What's|What is",
-              "his",
-              "name",
-              "His",
-              "'s|is",
-              "Where's|Where is",
               "he",
+              "his",
+              "Where's|Where is",
+              "'s|is",
               "He's|He is",
               "from",
+              "his",
+              "He's|He is",
+              "a",
               "What's|What is",
-              "his",
-              "He's|He is",
-              "a"
+              "His",
+              "name",
+              "What's|What is"
             ],
-            "studentWords": [
-              "what",
-              "is",
-              "his name",
-              "his",
-              "is",
-              "where",
-              "is he",
-              "he's",
-              "from",
-              "what's",
-              "his",
-              "he's",
-              "a"
-            ],
+            "studentWords": null,
             "template": " Conversation 4:\n\nA: {What's|What is} {his} {name}?\n\nB: {His} name {'s|is} Sebastian.\n\nA: {Where's|Where is} {he} from?\n\nB: {He's|He is} {from} Mexico.\n\nA: {What's|What is} {his} job?\n\nB: {He's|He is} {a} teacher."
           }
         }
@@ -23391,7 +22867,7 @@
         "exerciseOrder": 4
       },
       "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 4: be (singular): Yes-No questions",
-      "refId": "homework:b0b96377-8c54-444a-ba3d-0a810b99bf99|41a27d6e-a6a2-40b7-b133-0baac4cff81e",
+      "refId": "homework:b0b96377-8c54-444a-ba3d-0a810b99bf99|afe80efa-a490-4acf-8dac-49a142046c3a",
       "type": "DragAndDropSentenceOrder",
       "correct": true,
       "score": "7/7",
@@ -23556,7 +23032,7 @@
         "exerciseOrder": 4
       },
       "where": "Unit 2 > What's your job? > Bài tập về nhà > Bài tập 4: be (singular): Yes-No questions",
-      "refId": "homework:b0b96377-8c54-444a-ba3d-0a810b99bf99|41a27d6e-a6a2-40b7-b133-0baac4cff81e",
+      "refId": "homework:b0b96377-8c54-444a-ba3d-0a810b99bf99|afe80efa-a490-4acf-8dac-49a142046c3a",
       "type": "GapFillScoreByGap",
       "correct": true,
       "score": "7/7",
@@ -23582,7 +23058,7 @@
         {
           "id": 2,
           "correct": " No, she isn't.",
-          "student": " no, she isn't.",
+          "student": " No, she isn't.",
           "status": [
             "Correct"
           ],
@@ -23591,7 +23067,7 @@
               "No"
             ],
             "studentWords": [
-              "no"
+              "No"
             ],
             "template": " {No}, she isn't."
           }
@@ -23599,7 +23075,7 @@
         {
           "id": 3,
           "correct": " Yes, she is.",
-          "student": " yes, she is.",
+          "student": " Yes, she is.",
           "status": [
             "Correct"
           ],
@@ -23608,7 +23084,7 @@
               "Yes"
             ],
             "studentWords": [
-              "yes"
+              "Yes"
             ],
             "template": " {Yes}, she is."
           }
@@ -23650,7 +23126,7 @@
         {
           "id": 6,
           "correct": " Yes, he is.",
-          "student": " yes, he is.",
+          "student": " Yes, he is.",
           "status": [
             "Correct"
           ],
@@ -23659,7 +23135,7 @@
               "Yes"
             ],
             "studentWords": [
-              "yes"
+              "Yes"
             ],
             "template": " {Yes}, he is."
           }
