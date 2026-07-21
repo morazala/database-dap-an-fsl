@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-21T06:17:51.537Z",
-  "totalQuestions": 784,
+  "exportedAt": "2026-07-21T06:32:29.806Z",
+  "totalQuestions": 790,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -33455,29 +33455,167 @@
       "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 6: Từ vựng",
       "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|90c3950e-5e61-4fb6-b525-40911e6e21a3",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "9/9",
       "instruction": "Choose the correct words to complete the text.",
       "answer": [
         {
           "id": 1,
-          "correct": " \nMy best friend's name is Steve. He's 34 also (and/but) he lives in Glasgow, in Scotland. He's married also (and/but) he has two children. He's a teacher and he because (and/also) writes children's books. He's always tired because (because/but) he works six days a week. In his free time he watches DVDs and (and/but) he loves going to the cinema. He likes Italian and Mexican food, also (and/but) he doesn't like Japanese food. He and (also/because) loves ice cream. I see Steve every weekend and (because/also) we play football together. I but (also/and) see him after work in the week.\n",
-          "student": null,
-          "status": null,
+          "correct": " \nMy best friend's name is Steve. He's 34 and (and/but) he lives in Glasgow, in Scotland. He's married and (and/but) he has two children. He's a teacher and he also (and/also) writes children's books. He's always tired because (because/but) he works six days a week. In his free time he watches DVDs and (and/but) he loves going to the cinema. He likes Italian and Mexican food, but (and/but) he doesn't like Japanese food. He also (also/because) loves ice cream. I see Steve every weekend because (because/also) we play football together. I also (also/and) see him after work in the week.\n",
+          "student": " \nMy best friend's name is Steve. He's 34 and (and/but) he lives in Glasgow, in Scotland. He's married and (and/but) he has two children. He's a teacher and he also (and/also) writes children's books. He's always tired because (because/but) he works six days a week. In his free time he watches DVDs and (and/but) he loves going to the cinema. He likes Italian and Mexican food, but (and/but) he doesn't like Japanese food. He also (also/because) loves ice cream. I see Steve every weekend because (because/also) we play football together. I also (also/and) see him after work in the week.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "also",
+              "and",
+              "and",
               "also",
               "because",
-              "because",
               "and",
+              "but",
               "also",
-              "and",
-              "and",
-              "but"
+              "because",
+              "also"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "and",
+              "and",
+              "also",
+              "because",
+              "and",
+              "but",
+              "also",
+              "because",
+              "also"
+            ],
             "template": " \nMy best friend's name is Steve. He's 34 {and} (and/but) he lives in Glasgow, in Scotland. He's married {and} (and/but) he has two children. He's a teacher and he {also} (and/also) writes children's books. He's always tired {because} (because/but) he works six days a week. In his free time he watches DVDs {and} (and/but) he loves going to the cinema. He likes Italian and Mexican food, {but} (and/but) he doesn't like Japanese food. He {also} (also/because) loves ice cream. I see Steve every weekend {because} (because/also) we play football together. I {also} (also/and) see him after work in the week.\n"
+          }
+        }
+      ]
+    },
+    "9925ec4d-205e-4fc2-a1cf-0fbe7451ce7a": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "video",
+        "exerciseName": "Viết",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 7: Viết",
+      "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|d94a9933-dbf1-4abb-a2b4-f97ae4d8d571",
+      "type": "MatchingType1",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Match the details to the correct topics.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "My best friend's name is Steve.",
+          "student": "My best friend's name is Steve.",
+          "status": "Correct",
+          "meta": {
+            "left": "name",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "He's 34.",
+          "student": "He's 34.",
+          "status": "Correct",
+          "meta": {
+            "left": "age",
+            "optionLabel": "J"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "He lives in Glasgow, Scotland.",
+          "student": "He lives in Glasgow, Scotland.",
+          "status": "Correct",
+          "meta": {
+            "left": "lives in",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "He's married.",
+          "student": "He's married.",
+          "status": "Correct",
+          "meta": {
+            "left": "married / single",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "He has two children.",
+          "student": "He has two children.",
+          "status": "Correct",
+          "meta": {
+            "left": "children",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "He's a teacher and he also writes children's books.",
+          "student": "He's a teacher and he also writes children's books.",
+          "status": "Correct",
+          "meta": {
+            "left": "job",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "In his free time he watches DVDs.",
+          "student": "In his free time he watches DVDs.",
+          "status": "Correct",
+          "meta": {
+            "left": "free time",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "He loves going to the cinema. He likes Italian and Mexican food.",
+          "student": "He loves going to the cinema. He likes Italian and Mexican food.",
+          "status": "Correct",
+          "meta": {
+            "left": "likes",
+            "optionLabel": "I"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "He doesn't like Japanese food.",
+          "student": "He doesn't like Japanese food.",
+          "status": "Correct",
+          "meta": {
+            "left": "doesn't like",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "I see Steve every weekend because we play football together.",
+          "student": "I see Steve every weekend because we play football together.",
+          "status": "Correct",
+          "meta": {
+            "left": "when I see him/her",
+            "optionLabel": "H"
           }
         }
       ]
@@ -49285,6 +49423,547 @@
           "status": "Correct",
           "meta": {
             "sentenceTemplate": " The class {*starts*//startes} at ten o'clock."
+          }
+        }
+      ]
+    },
+    "0a7d5b69-cc36-480a-a84b-fbba4eb1d36f": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "homework",
+        "exerciseName": "In a restaurant",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 5 > Unit 5 Test > Bài tập về nhà > Bài tập 1: In a restaurant",
+      "refId": "homework:83025a32-7f02-4dae-8682-bc02a0cf9f2e|85b47090-afe1-4361-85b5-471b0b44e438",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "14/14",
+      "instruction": "Fill in the gaps to complete a conversation in a restaurant.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nWAITER: Are you ready to order?\n\nAMY: Yes. Can I have the chicken lasagne?\n\nBOB: And can I have the burger and chips, please?\n\nWAITER: Certainly. What would you like to drink? \n\nAMY: A lemonade for me, please.\n\nBOB: And can we have a bottle of mineral water?\n\nWAITER: Still or sparkling?\n\nBOB: Sparkling, please.\n\nWAITER: OK. Thanks very much.\n\n-------------\n\nWAITER: Would you like a dessert?\n\nAMY: Not for me, thanks.\n\nBOB: Vanilla ice cream for me please. And two coffees, please.\n\nWAITER: Certainly.\n\n-------------\n\nBOB: Excuse me. Can we have the bill, please?\n\nWAITER: Of course.\n\nBOB: Thanks a lot.\n",
+          "student": " \nWAITER: Are you ready to order?\n\nAMY: Yes. Can I have the chicken lasagne?\n\nBOB: And can I have the burger and chips, please?\n\nWAITER: Certainly. What would you like to drink? \n\nAMY: A lemonade for me, please.\n\nBOB: And can we have a bottle of mineral water?\n\nWAITER: still or sparkling?\n\nBOB: Sparkling, please.\n\nWAITER: OK. Thanks very much.\n\n-------------\n\nWAITER: Would you like a dessert?\n\nAMY: Not for me, thanks.\n\nBOB: Vanilla ice cream for me please. And two coffees, please.\n\nWAITER: Certainly.\n\n-------------\n\nBOB: excuse me. Can we have the bill, please?\n\nWAITER: Of course.\n\nBOB: Thanks a lot.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "order",
+              "Can",
+              "please",
+              "would",
+              "for",
+              "of",
+              "Still",
+              "dessert",
+              "me",
+              "for",
+              "Excuse",
+              "have",
+              "course",
+              "a"
+            ],
+            "studentWords": [
+              "order",
+              "Can",
+              "please",
+              "would",
+              "for",
+              "of",
+              "still",
+              "dessert",
+              "me",
+              "for",
+              "excuse",
+              "have",
+              "course",
+              "a"
+            ],
+            "template": " \nWAITER: Are you ready to {order}?\n\nAMY: Yes. {Can} I have the chicken lasagne?\n\nBOB: And can I have the burger and chips, {please}?\n\nWAITER: Certainly. What {would} you like to drink? \n\nAMY: A lemonade {for} me, please.\n\nBOB: And can we have a bottle {of} mineral water?\n\nWAITER: {Still} or sparkling?\n\nBOB: Sparkling, please.\n\nWAITER: OK. Thanks very much.\n\n-------------\n\nWAITER: Would you like a {dessert}?\n\nAMY: Not for {me}, thanks.\n\nBOB: Vanilla ice cream {for} me please. And two coffees, please.\n\nWAITER: Certainly.\n\n-------------\n\nBOB: {Excuse} me. Can we {have} the bill, please?\n\nWAITER: Of {course}.\n\nBOB: Thanks {a} lot.\n"
+          }
+        }
+      ]
+    },
+    "60ae58fd-e6b6-4920-8bce-041d68f77045": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "homework",
+        "exerciseName": "Daily routine",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 5 > Unit 5 Test > Bài tập về nhà > Bài tập 2: Daily routine",
+      "refId": "homework:4fb41641-c2bc-49d8-9be8-9931dc2ba413|c0cecfb5-9e6b-4879-9011-31fed52577a0",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "16/16",
+      "instruction": "Read Jane's Daily Routine. Complete the sentences using the correct form of the verbs in the brackets.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nJane is a high school student. Jane usually wakes up (wake up) at 6:30 AM. She always starts (start) her day by brushing her teeth and washing her face. After that, she sometimes eats (eat) breakfast, but if she's late, she doesn't have|does not have (not have) time for it.\n\nShe usually leaves (leave) for school at 7:15 AM and arrives (arrive) just before 8:00 AM. Jane never skips (skip) her morning classes because they are very important. During lunch break, she often eats (eat) with her friends in the cafeteria.\n\nIn the afternoon, Jane usually goes (go) to the library to study. She doesn't like|does not like (not like) to study at home because it's noisy. After school, Jane often goes (go) to a park for a walk or to play sports.\n\nAt home, she always does (do) her homework before dinner. Jane doesn't watch|does not watch (not watch) TV much during weekdays, but she sometimes spends (spend) an hour watching her favorite show if she finishes (finish) her work early.\n\nShe usually goes (go) to bed around 10:30 PM, making sure to get enough sleep for the next day.\n",
+          "student": " \nJane is a high school student. Jane usually wakes up (wake up) at 6:30 AM. She always starts (start) her day by brushing her teeth and washing her face. After that, she sometimes eats (eat) breakfast, but if she's late, she doesnt have (not have) time for it.\n\nShe usually leaves (leave) for school at 7:15 AM and arrives (arrive) just before 8:00 AM. Jane never skips (skip) her morning classes because they are very important. During lunch break, she often eats (eat) with her friends in the cafeteria.\n\nIn the afternoon, Jane usually goes (go) to the library to study. She doesn't like (not like) to study at home because it's noisy. After school, Jane often goes (go) to a park for a walk or to play sports.\n\nAt home, she always does (do) her homework before dinner. Jane doesn't watch (not watch) TV much during weekdays, but she sometimes spends (spend) an hour watching her favorite show if she finishes (finish) her work early.\n\nShe usually goes (go) to bed around 10:30 PM, making sure to get enough sleep for the next day.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "wakes up",
+              "starts",
+              "eats",
+              "doesn't have|does not have",
+              "leaves",
+              "arrives",
+              "skips",
+              "eats",
+              "goes",
+              "doesn't like|does not like",
+              "goes",
+              "does",
+              "doesn't watch|does not watch",
+              "spends",
+              "finishes",
+              "goes"
+            ],
+            "studentWords": [
+              "wakes up",
+              "starts",
+              "eats",
+              "doesnt have",
+              "leaves",
+              "arrives",
+              "skips",
+              "eats",
+              "goes",
+              "doesn't like",
+              "goes",
+              "does",
+              "doesn't watch",
+              "spends",
+              "finishes",
+              "goes"
+            ],
+            "template": " \nJane is a high school student. Jane usually {wakes up} (wake up) at 6:30 AM. She always {starts} (start) her day by brushing her teeth and washing her face. After that, she sometimes {eats} (eat) breakfast, but if she's late, she {doesn't have|does not have} (not have) time for it.\n\nShe usually {leaves} (leave) for school at 7:15 AM and {arrives} (arrive) just before 8:00 AM. Jane never {skips} (skip) her morning classes because they are very important. During lunch break, she often {eats} (eat) with her friends in the cafeteria.\n\nIn the afternoon, Jane usually {goes} (go) to the library to study. She {doesn't like|does not like} (not like) to study at home because it's noisy. After school, Jane often {goes} (go) to a park for a walk or to play sports.\n\nAt home, she always {does} (do) her homework before dinner. Jane {doesn't watch|does not watch} (not watch) TV much during weekdays, but she sometimes {spends} (spend) an hour watching her favorite show if she {finishes} (finish) her work early.\n\nShe usually {goes} (go) to bed around 10:30 PM, making sure to get enough sleep for the next day.\n"
+          }
+        }
+      ]
+    },
+    "32e290e9-7a4a-4f4e-93ae-9915d4ac0db9": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "homework",
+        "exerciseName": "Frequency adverbs and phrases with “every”",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 5 > Unit 5 Test > Bài tập về nhà > Bài tập 3: Frequency adverbs and phrases with “every”",
+      "refId": "homework:64538bb2-2104-4a64-8c75-2c0bb9717cfd|df39cb3e-82e9-4512-a922-ab67c36971cf",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Complete the sentence with the words and phrases from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Tom likes strawberries very much. He eats them every day.",
+          "student": " Tom likes strawberries very much. He eats them every day.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "every"
+            ],
+            "studentWords": [
+              "every"
+            ],
+            "template": " Tom likes strawberries very much. He eats them {every} day."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Tina always gets up at 6.00. She gets up at the same time every day.",
+          "student": " Tina always gets up at 6.00. She gets up at the same time every day.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "always"
+            ],
+            "studentWords": [
+              "always"
+            ],
+            "template": " Tina {always} gets up at 6.00. She gets up at the same time every day."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " They never eat German food because they don't like it.",
+          "student": " They never eat German food because they don't like it.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "never"
+            ],
+            "studentWords": [
+              "never"
+            ],
+            "template": " They {never} eat German food because they don't like it."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Jane doesn't usually watch TV. She sometimes watch a movie with her family when she doesn't have any homework.",
+          "student": " Jane doesn't usually watch TV. She sometimes watch a movie with her family when she doesn't have any homework.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sometimes"
+            ],
+            "studentWords": [
+              "sometimes"
+            ],
+            "template": " Jane doesn't usually watch TV. She {sometimes} watch a movie with her family when she doesn't have any homework."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Vietnamese people celebrate Tet Holiday every year.",
+          "student": " Vietnamese people celebrate Tet Holiday every year.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "every year"
+            ],
+            "studentWords": [
+              "every year"
+            ],
+            "template": " Vietnamese people celebrate Tet Holiday {every year}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " My mom cooks chicken three times a week so we often eat chicken for dinner.",
+          "student": " My mom cooks chicken three times a week so we often eat chicken for dinner.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "often"
+            ],
+            "studentWords": [
+              "often"
+            ],
+            "template": " My mom cooks chicken three times a week so we {often} eat chicken for dinner."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Our old clock rings at 6.00, 7.00, 8.00, and so on. It rings every hour.",
+          "student": " Our old clock rings at 6.00, 7.00, 8.00, and so on. It rings every hour.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hour"
+            ],
+            "studentWords": [
+              "hour"
+            ],
+            "template": " Our old clock rings at 6.00, 7.00, 8.00, and so on. It rings every {hour}."
+          }
+        }
+      ]
+    },
+    "04b70ce9-652d-4bdd-82ba-bcba93d68e6e": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "homework",
+        "exerciseName": "Time phrases with ON, IN, or AT",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 5 > Unit 5 Test > Bài tập về nhà > Bài tập 4: Time phrases with ON, IN, or AT",
+      "refId": "homework:6492010c-996b-49e9-96a2-dc8beae862a1|7f735f92-a33c-4b86-82e3-2285721e13d5",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Fill in the gaps with ON, IN, or AT.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " at quarter to seven",
+          "student": " at quarter to seven",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "at"
+            ],
+            "studentWords": [
+              "at"
+            ],
+            "template": " {at} quarter to seven"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " in the evening",
+          "student": " in the evening",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "in"
+            ],
+            "studentWords": [
+              "in"
+            ],
+            "template": " {in} the evening"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " on Sunday",
+          "student": " on Sunday",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "on"
+            ],
+            "studentWords": [
+              "on"
+            ],
+            "template": " {on} Sunday"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " in the week",
+          "student": " in the week",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "in"
+            ],
+            "studentWords": [
+              "in"
+            ],
+            "template": " {in} the week"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " on|at the weekend",
+          "student": " at the weekend",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "on|at"
+            ],
+            "studentWords": [
+              "at"
+            ],
+            "template": " {on|at} the weekend"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " in the morning",
+          "student": " in the morning",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "in"
+            ],
+            "studentWords": [
+              "in"
+            ],
+            "template": " {in} the morning"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " at noon",
+          "student": " at noon",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "at"
+            ],
+            "studentWords": [
+              "at"
+            ],
+            "template": " {at} noon"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " on Monday monring",
+          "student": " on Monday monring",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "on"
+            ],
+            "studentWords": [
+              "on"
+            ],
+            "template": " {on} Monday monring"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " at night",
+          "student": " at night",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "at"
+            ],
+            "studentWords": [
+              "at"
+            ],
+            "template": " {at} night"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " in the afternoon",
+          "student": " in the afternoon",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "in"
+            ],
+            "studentWords": [
+              "in"
+            ],
+            "template": " {in} the afternoon"
+          }
+        }
+      ]
+    },
+    "98d8c281-11c3-4976-975a-0f12331629bf": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "homework",
+        "exerciseName": "AND, BUT, ALSO, and BECAUSE",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 5 > Unit 5 Test > Bài tập về nhà > Bài tập 5: AND, BUT, ALSO, and BECAUSE",
+      "refId": "homework:9caf7710-c84d-4c8d-b240-4e68ddb58bb5|9a79cbe6-5a94-44d3-bce7-2f2b542d2233",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Choose the correct option to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Jane’s best friend is Judy, and (and/but) she is 24 years old. Judy lives in a small apartment in the city center, and (also/and) she loves the busy environment because (but/because) it’s close to her job. She works as a graphic designer for a local company, and (and/but) she enjoys her creative role.\n\nJudy has a small family. She is married, but (and/but) she doesn't have any children. She and her husband are planning to start a family soon because (but/because) they both love kids. Judy is very close to her parents and visits them every weekend.\n\nHer favorite food is sushi. She also (and/also) enjoys other Japanese food. Judy loves cooking at home, and (but/and) she often cooks meals for her family.\n\nIn her free time, Judy enjoys reading and going to the gym. She’s also (and/also) a drummer in a jazz band. She and Jane spend a lot of time together because (and/because) they both love exploring new places and trying different activities.",
+          "student": " Jane’s best friend is Judy, and (and/but) she is 24 years old. Judy lives in a small apartment in the city center, and (also/and) she loves the busy environment because (but/because) it’s close to her job. She works as a graphic designer for a local company, and (and/but) she enjoys her creative role.\n\nJudy has a small family. She is married, but (and/but) she doesn't have any children. She and her husband are planning to start a family soon because (but/because) they both love kids. Judy is very close to her parents and visits them every weekend.\n\nHer favorite food is sushi. She also (and/also) enjoys other Japanese food. Judy loves cooking at home, and (but/and) she often cooks meals for her family.\n\nIn her free time, Judy enjoys reading and going to the gym. She’s also (and/also) a drummer in a jazz band. She and Jane spend a lot of time together because (and/because) they both love exploring new places and trying different activities.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and",
+              "and",
+              "because",
+              "and",
+              "but",
+              "because",
+              "also",
+              "and",
+              "also",
+              "because"
+            ],
+            "studentWords": [
+              "and",
+              "and",
+              "because",
+              "and",
+              "but",
+              "because",
+              "also",
+              "and",
+              "also",
+              "because"
+            ],
+            "template": " Jane’s best friend is Judy, {and} (and/but) she is 24 years old. Judy lives in a small apartment in the city center, {and} (also/and) she loves the busy environment {because} (but/because) it’s close to her job. She works as a graphic designer for a local company, {and} (and/but) she enjoys her creative role.\n\nJudy has a small family. She is married, {but} (and/but) she doesn't have any children. She and her husband are planning to start a family soon {because} (but/because) they both love kids. Judy is very close to her parents and visits them every weekend.\n\nHer favorite food is sushi. She {also} (and/also) enjoys other Japanese food. Judy loves cooking at home, {and} (but/and) she often cooks meals for her family.\n\nIn her free time, Judy enjoys reading and going to the gym. She’s {also} (and/also) a drummer in a jazz band. She and Jane spend a lot of time together {because} (and/because) they both love exploring new places and trying different activities."
           }
         }
       ]
