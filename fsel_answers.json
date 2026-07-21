@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-21T06:32:29.806Z",
+  "exportedAt": "2026-07-21T10:27:38.709Z",
   "totalQuestions": 790,
   "totalUnknownQuestions": 1,
   "answers": {
@@ -21882,103 +21882,141 @@
       "where": "Unit 4 > My free time > Video tương tác > Bài tập 6: Ngữ pháp",
       "refId": "video:a50cdbd4-5032-43f5-b842-73de52288592|de468a9e-9787-49ce-8d06-95e9afb0a300",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "12/12",
       "instruction": "Practice: Fill in the gaps with “do” or a verb.",
       "answer": [
         {
           "id": 1,
           "correct": " Do they live in a small flat?",
-          "student": null,
-          "status": null,
+          "student": " do they live in a small flat?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Do",
               "live"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do",
+              "live"
+            ],
             "template": " {Do} they {live} in a small flat?"
           }
         },
         {
           "id": 2,
           "correct": " Do they like the weather in London?",
-          "student": null,
-          "status": null,
+          "student": " do they like the weather in London?",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Do"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do"
+            ],
             "template": " {Do} they like the weather in London?"
           }
         },
         {
           "id": 3,
           "correct": " What do they do in their free time?",
-          "student": null,
-          "status": null,
+          "student": " What do they do in their free time?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "do",
               "do"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do",
+              "do"
+            ],
             "template": " What {do} they {do} in their free time?"
           }
         },
         {
           "id": 4,
-          "correct": " go they Do out with friends a lot?",
-          "student": null,
-          "status": null,
+          "correct": " Do they go out with friends a lot?",
+          "student": " do they go out with friends a lot?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "go",
-              "Do"
+              "Do",
+              "go"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do",
+              "go"
+            ],
             "template": " {Do} they {go} out with friends a lot?"
           }
         },
         {
           "id": 5,
           "correct": " Do they go to the cinema?",
-          "student": null,
-          "status": null,
+          "student": " do they go to the cinema?",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Do"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do"
+            ],
             "template": " {Do} they go to the cinema?"
           }
         },
         {
           "id": 6,
-          "correct": " like they Do Indian food?",
-          "student": null,
-          "status": null,
+          "correct": " Do they like Indian food?",
+          "student": " do they like Indian food?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
-              "like",
-              "Do"
+              "Do",
+              "like"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do",
+              "like"
+            ],
             "template": " {Do} they {like} Indian food?"
           }
         },
         {
           "id": 7,
           "correct": " Do they eat a lot of fruit?",
-          "student": null,
-          "status": null,
+          "student": " do they eat a lot of fruit?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "Do",
               "eat"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "do",
+              "eat"
+            ],
             "template": " {Do} they {eat} a lot of fruit?"
           }
         }
