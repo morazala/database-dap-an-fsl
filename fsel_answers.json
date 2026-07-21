@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-21T03:46:23.291Z",
-  "totalQuestions": 779,
+  "exportedAt": "2026-07-21T06:17:51.537Z",
+  "totalQuestions": 784,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -32138,60 +32138,60 @@
       "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 1: Từ vựng",
       "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|9054b38b-c84d-4375-ae0c-7bae9971c00d",
       "type": "MultipleOptionSentenceCompletion",
-      "correct": null,
-      "score": null,
+      "correct": false,
+      "score": "5/6",
       "instruction": "Listen to a conversation in a shop. Choose the correct answers.",
       "answer": [
         {
           "id": 1,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "has some",
+          "student": "has some",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " The shop {*has some*//doesn't have any} postcards."
           }
         },
         {
           "id": 2,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "60p",
+          "student": "60p",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " The postcards are {50p//*60p*} each."
           }
         },
         {
           "id": 3,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "£5.95",
+          "student": "£5.95",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " The map is {*£5.95*//£5.99}."
           }
         },
         {
           "id": 4,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "eight",
+          "student": "eight",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " The customer buys {six//*eight*} postcards."
           }
         },
         {
           "id": 5,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "small",
+          "student": "big",
+          "status": "Fail",
           "meta": {
             "sentenceTemplate": " The customer buys a {big//*small*} box of chocolates."
           }
         },
         {
           "id": 6,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "£15.74",
+          "student": "£15.74",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " The customer spends {£15.24//*£15.74*}."
           }
@@ -32210,60 +32210,60 @@
       "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 1: Từ vựng",
       "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|9054b38b-c84d-4375-ae0c-7bae9971c00d",
       "type": "MultipleOptionSentenceCompletion",
-      "correct": null,
-      "score": null,
+      "correct": false,
+      "score": "4/6",
       "instruction": "Listen to Toby, Eric, and Vicky. Are these sentences True or False?",
       "answer": [
         {
           "id": 1,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " Eric is Vicky's brother. {True//*False*}"
           }
         },
         {
           "id": 2,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "True",
+          "student": "False",
+          "status": "Fail",
           "meta": {
             "sentenceTemplate": " Eric doesn't work with Toby. {*True*//False}"
           }
         },
         {
           "id": 3,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " Eric's a manager for a computer company. {*True*//False}"
           }
         },
         {
           "id": 4,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "False",
+          "student": "True",
+          "status": "Fail",
           "meta": {
             "sentenceTemplate": " He gets home at 8.30 in the week. {True//*False*}"
           }
         },
         {
           "id": 5,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " He sometimes works on Sunday. {True//*False*}"
           }
         },
         {
           "id": 6,
-          "correct": null,
-          "student": null,
-          "status": null,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " He usually goes to the cinema on Sunday evening. {*True*//False}"
           }
@@ -32288,28 +32288,28 @@
       "answer": [
         {
           "id": 1,
-          "correct": " \nAndy is a taxi driver in London. He doesn't have|does not have (get up) at 6.00 and he watch (have) breakfast at 6.30 with his wife, Kathy. She gets (work) in a café near their flat. Andy and Kathy has (leave) home at about 7.00. Andy leave (start) work at 7.30. He always gets up (have) a coffee and a sandwich at about 11.00, but he finishes (not have) lunch. He has (finish) work at 4.30 and usually work (get) home at about 5.00 or 5.30. Andy and Kathy have (have) dinner at about 6.30. Then they starts (watch) TV and goes (go) to bed at 10.00. Andy and Kathy don't work|do not work (work) every Saturday but they doesn't like|does not like (not work) on Sundays. Andy usually go (watch) football on TV every Sunday afternoon, but Kathy watches (not like) football. She usually works (go) out with friends. \n",
+          "correct": " \nAndy is a taxi driver in London. He gets up (get up) at 6.00 and he has (have) breakfast at 6.30 with his wife, Kathy. She works (work) in a café near their flat. Andy and Kathy leave (leave) home at about 7.00. Andy starts (start) work at 7.30. He always has (have) a coffee and a sandwich at about 11.00, but he doesn't have|does not have (not have) lunch. He finishes (finish) work at 4.30 and usually gets (get) home at about 5.00 or 5.30. Andy and Kathy have (have) dinner at about 6.30. Then they watch (watch) TV and go (go) to bed at 10.00. Andy and Kathy work (work) every Saturday but they don't work|do not work (not work) on Sundays. Andy usually watches (watch) football on TV every Sunday afternoon, but Kathy doesn't like|does not like (not like) football. She usually goes (go) out with friends. \n",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
-              "doesn't have|does not have",
-              "watch",
-              "gets",
-              "has",
-              "leave",
               "gets up",
-              "finishes",
               "has",
-              "work",
-              "have",
+              "works",
+              "leave",
               "starts",
-              "goes",
-              "don't work|do not work",
-              "doesn't like|does not like",
+              "has",
+              "doesn't have|does not have",
+              "finishes",
+              "gets",
+              "have",
+              "watch",
               "go",
+              "work",
+              "don't work|do not work",
               "watches",
-              "works"
+              "doesn't like|does not like",
+              "goes"
             ],
             "studentWords": null,
             "template": " \nAndy is a taxi driver in London. He {gets up} (get up) at 6.00 and he {has} (have) breakfast at 6.30 with his wife, Kathy. She {works} (work) in a café near their flat. Andy and Kathy {leave} (leave) home at about 7.00. Andy {starts} (start) work at 7.30. He always {has} (have) a coffee and a sandwich at about 11.00, but he {doesn't have|does not have} (not have) lunch. He {finishes} (finish) work at 4.30 and usually {gets} (get) home at about 5.00 or 5.30. Andy and Kathy {have} (have) dinner at about 6.30. Then they {watch} (watch) TV and {go} (go) to bed at 10.00. Andy and Kathy {work} (work) every Saturday but they {don't work|do not work} (not work) on Sundays. Andy usually {watches} (watch) football on TV every Sunday afternoon, but Kathy {doesn't like|does not like} (not like) football. She usually {goes} (go) out with friends. \n"
@@ -32335,26 +32335,26 @@
       "answer": [
         {
           "id": 1,
-          "correct": " \nA: What time have Andy get up?\nB: At 6.00. \n\nA: When have Andy and Kathy do breakfast?\nB: At 6.30. \n\nA: Where do Kathy do?\nB: In a café near their flat.\n\nA: What time don't|do not Andy does work?\nB: At 7.30.\n\nA: work he have lunch?\nB: No, he Does.\n\nA: When Do Andy and Kathy does dinner?\nB: At about 6.30.\n\nA: doesn't|does not they work on Saturdays?\nB: Yes, they Do.\n\nA: start they work on Sundays?\nB: No, they does.\n\nA: Does Kathy like football?\nB: No, she doesn't|does not.\n",
+          "correct": " \nA: What time does Andy get up?\nB: At 6.00. \n\nA: When do Andy and Kathy have breakfast?\nB: At 6.30. \n\nA: Where does Kathy work?\nB: In a café near their flat.\n\nA: What time does Andy start work?\nB: At 7.30.\n\nA: Does he have lunch?\nB: No, he doesn't|does not.\n\nA: When do Andy and Kathy have dinner?\nB: At about 6.30.\n\nA: Do they work on Saturdays?\nB: Yes, they do.\n\nA: Do they work on Sundays?\nB: No, they don't|do not.\n\nA: Does Kathy like football?\nB: No, she doesn't|does not.\n",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
+              "does",
+              "do",
               "have",
-              "have",
-              "do",
-              "do",
-              "do",
-              "don't|do not",
               "does",
               "work",
-              "Does",
-              "Do",
               "does",
-              "doesn't|does not",
-              "Do",
               "start",
-              "does",
+              "Does",
+              "doesn't|does not",
+              "do",
+              "have",
+              "Do",
+              "do",
+              "Do",
+              "don't|do not",
               "Does",
               "doesn't|does not"
             ],
@@ -32530,23 +32530,23 @@
       "answer": [
         {
           "id": 1,
-          "correct": " \n\nWAITER Are you ready to Not for me?\n\nKERRY Yes. a dessert the vegetable lasagne?\n\nDAN And can I have the for me, please?\n\nWAITER Certainly. What mushroom pizza to drink? \n\nKERRY An orange juice Can I have, please.\n\nDAN And can we have order mineral water?\n\nWAITER Still or a bottle of?\n\nDAN Still, please.\n\nWAITER OK. Thanks very much.\n\n-------------\n\nWAITER Would you like for me?\n\nKERRY sparkling, thanks.\n\nDAN Fruit salad have the bill please. And two coffees, please.\n\nWAITER Certainly.\n\n-------------\n\nDAN Excuse me. Can we Of course, please?\n\nWAITER would you like.\n\nDAN Thanks a lot.\n",
+          "correct": " \n\nWAITER Are you ready to order?\n\nKERRY Yes. Can I have the vegetable lasagne?\n\nDAN And can I have the mushroom pizza, please?\n\nWAITER Certainly. What would you like to drink? \n\nKERRY An orange juice for me, please.\n\nDAN And can we have a bottle of mineral water?\n\nWAITER Still or sparkling?\n\nDAN Still, please.\n\nWAITER OK. Thanks very much.\n\n-------------\n\nWAITER Would you like a dessert?\n\nKERRY Not for me, thanks.\n\nDAN Fruit salad for me please. And two coffees, please.\n\nWAITER Certainly.\n\n-------------\n\nDAN Excuse me. Can we have the bill, please?\n\nWAITER Of course.\n\nDAN Thanks a lot.\n",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
-              "Not for me",
-              "a dessert",
-              "for me",
-              "mushroom pizza",
-              "Can I have",
               "order",
-              "a bottle of",
+              "Can I have",
+              "mushroom pizza",
+              "would you like",
               "for me",
+              "a bottle of",
               "sparkling",
+              "a dessert",
+              "Not for me",
+              "for me",
               "have the bill",
-              "Of course",
-              "would you like"
+              "Of course"
             ],
             "studentWords": null,
             "template": " \n\nWAITER Are you ready to {order}?\n\nKERRY Yes. {Can I have} the vegetable lasagne?\n\nDAN And can I have the {mushroom pizza}, please?\n\nWAITER Certainly. What {would you like} to drink? \n\nKERRY An orange juice {for me}, please.\n\nDAN And can we have {a bottle of} mineral water?\n\nWAITER Still or {sparkling}?\n\nDAN Still, please.\n\nWAITER OK. Thanks very much.\n\n-------------\n\nWAITER Would you like {a dessert}?\n\nKERRY {Not for me}, thanks.\n\nDAN Fruit salad {for me} please. And two coffees, please.\n\nWAITER Certainly.\n\n-------------\n\nDAN Excuse me. Can we {have the bill}, please?\n\nWAITER {Of course}.\n\nDAN Thanks a lot.\n"
@@ -32650,13 +32650,13 @@
         },
         {
           "id": 7,
-          "correct": " iream cce",
+          "correct": " ice cream",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
-              "ream",
-              "ce"
+              "ce",
+              "ream"
             ],
             "studentWords": null,
             "template": " i{ce} c{ream}"
@@ -32664,13 +32664,13 @@
         },
         {
           "id": 8,
-          "correct": " aie ppple",
+          "correct": " apple pie",
           "student": null,
           "status": null,
           "meta": {
             "correctWords": [
-              "ie",
-              "pple"
+              "pple",
+              "ie"
             ],
             "studentWords": null,
             "template": " a{pple} p{ie}"
@@ -32701,13 +32701,13 @@
           "status": null,
           "meta": {
             "correctWords": [
-              ".",
-              "always",
-              "bed",
-              "goes",
               "She",
+              "always",
+              "goes",
               "to",
-              "early"
+              "bed",
+              "early",
+              "."
             ],
             "studentWords": null
           }
@@ -32721,10 +32721,10 @@
             "correctWords": [
               "We",
               "play",
-              "week",
-              ".",
+              "tennis",
               "every",
-              "tennis"
+              "week",
+              "."
             ],
             "studentWords": null
           }
@@ -32736,12 +32736,12 @@
           "status": null,
           "meta": {
             "correctWords": [
-              "class",
-              ".",
-              "late",
-              "sometimes",
               "I'm",
-              "for"
+              "sometimes",
+              "late",
+              "for",
+              "class",
+              "."
             ],
             "studentWords": null
           }
@@ -32753,12 +32753,12 @@
           "status": null,
           "meta": {
             "correctWords": [
-              "go",
               "We",
               "never",
+              "go",
+              "to",
               "concerts",
-              ".",
-              "to"
+              "."
             ],
             "studentWords": null
           }
@@ -32770,12 +32770,12 @@
           "status": null,
           "meta": {
             "correctWords": [
+              "He's",
               "usually",
               "tired",
-              "He's",
               "on",
-              ".",
-              "Mondays"
+              "Mondays",
+              "."
             ],
             "studentWords": null
           }
@@ -32787,11 +32787,11 @@
           "status": null,
           "meta": {
             "correctWords": [
-              "out",
-              "week",
               "They",
               "eat",
+              "out",
               "every",
+              "week",
               "."
             ],
             "studentWords": null
@@ -32805,10 +32805,10 @@
           "meta": {
             "correctWords": [
               "We",
+              "don't usually",
+              "get",
               "up",
               "early",
-              "get",
-              "don't usually",
               "."
             ],
             "studentWords": null
@@ -32834,7 +32834,7 @@
       "answer": [
         {
           "id": 1,
-          "correct": null,
+          "correct": "your",
           "student": null,
           "status": null,
           "meta": {
@@ -32843,7 +32843,7 @@
         },
         {
           "id": 2,
-          "correct": null,
+          "correct": "Spain",
           "student": null,
           "status": null,
           "meta": {
@@ -32852,7 +32852,7 @@
         },
         {
           "id": 3,
-          "correct": null,
+          "correct": "Where",
           "student": null,
           "status": null,
           "meta": {
@@ -32861,7 +32861,7 @@
         },
         {
           "id": 4,
-          "correct": null,
+          "correct": "this",
           "student": null,
           "status": null,
           "meta": {
@@ -32870,7 +32870,7 @@
         },
         {
           "id": 5,
-          "correct": null,
+          "correct": "for",
           "student": null,
           "status": null,
           "meta": {
@@ -32879,7 +32879,7 @@
         },
         {
           "id": 6,
-          "correct": null,
+          "correct": "their",
           "student": null,
           "status": null,
           "meta": {
@@ -32888,7 +32888,7 @@
         },
         {
           "id": 7,
-          "correct": null,
+          "correct": "with",
           "student": null,
           "status": null,
           "meta": {
@@ -32897,7 +32897,7 @@
         },
         {
           "id": 8,
-          "correct": null,
+          "correct": "past",
           "student": null,
           "status": null,
           "meta": {
@@ -33037,6 +33037,447 @@
             ],
             "studentWords": null,
             "template": " My father{'s} name is Bill."
+          }
+        }
+      ]
+    },
+    "b732306d-3a20-45c9-a27d-234bfc8a9b42": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 2: Đọc",
+      "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|70bd6b98-2dd8-49f6-abc6-93d92b76a100",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": false,
+      "score": "0/10",
+      "instruction": "Read the text and choose the correct words to complete each sentence.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": "Ireland",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Katie lives in {*Ireland*//the UK}.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": "isn't",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She {is//*isn't*} married."
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": "music",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She's a {*music*//sports} journalist."
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": "a singer",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She's {a musician//*a singer*} in a rock band."
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": "to the cinema",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She goes {shopping//*to the cinema*} in her free time."
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": "doesn't eat",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She {eats//*doesn't eat*} chicken."
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": "never",
+          "status": "Process",
+          "meta": {
+            "sentenceTemplate": " She {*sometimes*//never} has Italian food."
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": "likes",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She {*likes*//doesn't like} coffee."
+          }
+        },
+        {
+          "id": 9,
+          "correct": null,
+          "student": "doesn't live",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Juliet {lives//*doesn't live*} in Dublin."
+          }
+        },
+        {
+          "id": 10,
+          "correct": null,
+          "student": "always",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Juliet {*always*//never} sees Katie on her birthday."
+          }
+        }
+      ]
+    },
+    "ff9564eb-989f-41d5-84bc-c8fc1218edbf": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|e4ff3317-04c4-42b2-8ad2-9e3e3263e384",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Read the text again. Then fill in the missing words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Katie’s always busy because she has two jobs.\n",
+          "student": " Katie’s always busy because she has two jobs.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "because"
+            ],
+            "studentWords": [
+              "because"
+            ],
+            "template": " Katie’s always busy {because} she has two jobs.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " She’s a music journalist for a newspaper in Dublin. She’s also a singer in a rock band.",
+          "student": " She’s a music journalist for a newspaper in Dublin. She’s also a singer in a rock band.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "also"
+            ],
+            "studentWords": [
+              "also"
+            ],
+            "template": " She’s a music journalist for a newspaper in Dublin. She’s {also} a singer in a rock band."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " She loves Chinese and Italian food.",
+          "student": " She loves Chinese and Italian food.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " She loves Chinese {and} Italian food."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " I don’t see Katie very much because I live in London, but we’re always together on our birthdays because they’re on the same day!",
+          "student": " I don’t see Katie very much because I live in London, but we’re always together on our birthdays because they’re on the same day!",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " I don’t see Katie very much because I live in London, {but} we’re always together on our birthdays because they’re on the same day!"
+          }
+        }
+      ]
+    },
+    "bdc2cd9c-b7c0-402e-a2bc-1cd5f3699383": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 4: Từ vựng",
+      "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|08f96208-228d-45bc-8b88-85fb78744ebb",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Fill in the gaps with BECAUSE, ALSO, AND, or BUT.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " I speak Russian because my mother’s from Moscow.\n",
+          "student": " I speak Russian because my mother’s from Moscow.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "because"
+            ],
+            "studentWords": [
+              "because"
+            ],
+            "template": " I speak Russian {because} my mother’s from Moscow.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I get up at 7:00 and I have breakfast at 7:30.",
+          "student": " I get up at 7:00 and I have breakfast at 7:30.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "and"
+            ],
+            "studentWords": [
+              "and"
+            ],
+            "template": " I get up at 7:00 {and} I have breakfast at 7:30."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " He never eats fish because he doesn’t like it.",
+          "student": " He never eats fish because he doesn’t like it.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "because"
+            ],
+            "studentWords": [
+              "because"
+            ],
+            "template": " He never eats fish {because} he doesn’t like it."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " She loves music, but she never goes to concerts.",
+          "student": " She loves music, but she never goes to concerts.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " She loves music, {but} she never goes to concerts."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " I like Francesca because she’s very friendly.",
+          "student": " I like Francesca because she’s very friendly.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "because"
+            ],
+            "studentWords": [
+              "because"
+            ],
+            "template": " I like Francesca {because} she’s very friendly."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " They speak Italian, but they don’t speak Spanish.",
+          "student": " They speak Italian, but they don’t speak Spanish.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "but"
+            ],
+            "studentWords": [
+              "but"
+            ],
+            "template": " They speak Italian, {but} they don’t speak Spanish."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " I always drink black coffee because I don’t like milk.",
+          "student": " I always drink black coffee because I don’t like milk.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "because"
+            ],
+            "studentWords": [
+              "because"
+            ],
+            "template": " I always drink black coffee {because} I don’t like milk."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " In my free time I watch TV. I also play video games.",
+          "student": " In my free time I watch TV. I also play video games.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "also"
+            ],
+            "studentWords": [
+              "also"
+            ],
+            "template": " In my free time I watch TV. I {also} play video games."
+          }
+        }
+      ]
+    },
+    "9603d1a1-2965-46d4-bfa0-bee0fe1701b6": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 5: Ngữ pháp",
+      "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|85f3ac74-8c4e-4f4e-be7c-b8d3a5f4dccb",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Choose the correct location of ALSO in each sentence (A or B).",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "A",
+          "student": "A",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " He plays football. He (A) plays (B) tennis. {*A*//B}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "A",
+          "student": "A",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " She has three cats. She (A) has (B) a dog. {*A*//B}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "B",
+          "student": "B",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Kevin’s an actor. He (A) is (B) a musician. {A//*B*}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "A",
+          "student": "A",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Gina loves lasagne. She (A) likes (B) pizza. {*A*//B}"
+          }
+        }
+      ]
+    },
+    "7817c563-d52e-4996-8725-9f377cfa4bcc": {
+      "location": {
+        "unitName": "Unit 5",
+        "lessonOrder": 4,
+        "lessonName": "Unit 5 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 6: Từ vựng",
+      "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|90c3950e-5e61-4fb6-b525-40911e6e21a3",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Choose the correct words to complete the text.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nMy best friend's name is Steve. He's 34 also (and/but) he lives in Glasgow, in Scotland. He's married also (and/but) he has two children. He's a teacher and he because (and/also) writes children's books. He's always tired because (because/but) he works six days a week. In his free time he watches DVDs and (and/but) he loves going to the cinema. He likes Italian and Mexican food, also (and/but) he doesn't like Japanese food. He and (also/because) loves ice cream. I see Steve every weekend and (because/also) we play football together. I but (also/and) see him after work in the week.\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "also",
+              "also",
+              "because",
+              "because",
+              "and",
+              "also",
+              "and",
+              "and",
+              "but"
+            ],
+            "studentWords": null,
+            "template": " \nMy best friend's name is Steve. He's 34 {and} (and/but) he lives in Glasgow, in Scotland. He's married {and} (and/but) he has two children. He's a teacher and he {also} (and/also) writes children's books. He's always tired {because} (because/but) he works six days a week. In his free time he watches DVDs {and} (and/but) he loves going to the cinema. He likes Italian and Mexican food, {but} (and/but) he doesn't like Japanese food. He {also} (also/because) loves ice cream. I see Steve every weekend {because} (because/also) we play football together. I {also} (also/and) see him after work in the week.\n"
           }
         }
       ]
