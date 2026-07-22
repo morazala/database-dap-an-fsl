@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-21T10:36:15.113Z",
+  "exportedAt": "2026-07-22T02:34:24.206Z",
   "totalQuestions": 790,
   "totalUnknownQuestions": 1,
   "answers": {
@@ -28163,35 +28163,69 @@
       "where": "Unit 5 > A typical day > Video tương tác > Bài tập 11: Ngữ pháp",
       "refId": "video:2609047f-549d-4789-84fd-70688edbd1e5|1a7efa18-f40d-4ace-a2ee-7ae41477a519",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "16/16",
       "instruction": "Read about Tom and fill in the gaps.",
       "answer": [
         {
           "id": 1,
-          "correct": " \nTom's a waiter and he gets up (work) in a restaurant in the center of Manchester. He don't work|do not work (not work) in the morning, so he goes (get up) at midday. He finishes (not have) breakfast, but he doesn't eat|does not eat (have) a big lunch before he doesn't have|does not have (go) to work. He works (leave) home at 4:30 and he gets (start) work at 5:00. He has (finish) work at midnight but he starts (not eat) in the restaurant. He doesn't work|does not work (have) dinner when he have (get) home and then he has (watch) TV.\n\nTom and Carol watches (not work) on Mondays, so they leaves (have) lunch together and talk (talk) about the week.\n",
-          "student": null,
-          "status": null,
+          "correct": " \nTom's a waiter and he works (work) in a restaurant in the center of Manchester. He doesn't work|does not work (not work) in the morning, so he gets up (get up) at midday. He doesn't have|does not have (not have) breakfast, but he has (have) a big lunch before he goes (go) to work. He leaves (leave) home at 4:30 and he starts (start) work at 5:00. He finishes (finish) work at midnight but he doesn't eat|does not eat (not eat) in the restaurant. He has (have) dinner when he gets (get) home and then he watches (watch) TV.\n\nTom and Carol don't work|do not work (not work) on Mondays, so they have (have) lunch together and talk (talk) about the week.\n",
+          "student": " \nTom's a waiter and he works (work) in a restaurant in the center of Manchester. He doesn't work (not work) in the morning, so he gets up (get up) at midday. He doesn't have (not have) breakfast, but he has (have) a big lunch before he goes (go) to work. He leaves (leave) home at 4:30 and he starts (start) work at 5:00. He finishes (finish) work at midnight but he doesn't eat (not eat) in the restaurant. He has (have) dinner when he gets (get) home and then he watches (watch) TV.\n\nTom and Carol don't work (not work) on Mondays, so they have (have) lunch together and talk (talk) about the week.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
+              "works",
+              "doesn't work|does not work",
               "gets up",
-              "don't work|do not work",
+              "doesn't have|does not have",
+              "has",
               "goes",
+              "leaves",
+              "starts",
               "finishes",
               "doesn't eat|does not eat",
-              "doesn't have|does not have",
-              "works",
+              "has",
               "gets",
-              "has",
-              "starts",
-              "doesn't work|does not work",
-              "have",
-              "has",
               "watches",
-              "leaves",
+              "don't work|do not work",
+              "have",
               "talk"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "works",
+              "doesn't work",
+              "gets up",
+              "doesn't have",
+              "has",
+              "goes",
+              "leaves",
+              "starts",
+              "finishes",
+              "doesn't eat",
+              "has",
+              "gets",
+              "watches",
+              "don't work",
+              "have",
+              "talk"
+            ],
             "template": " \nTom's a waiter and he {works} (work) in a restaurant in the center of Manchester. He {doesn't work|does not work} (not work) in the morning, so he {gets up} (get up) at midday. He {doesn't have|does not have} (not have) breakfast, but he {has} (have) a big lunch before he {goes} (go) to work. He {leaves} (leave) home at 4:30 and he {starts} (start) work at 5:00. He {finishes} (finish) work at midnight but he {doesn't eat|does not eat} (not eat) in the restaurant. He {has} (have) dinner when he {gets} (get) home and then he {watches} (watch) TV.\n\nTom and Carol {don't work|do not work} (not work) on Mondays, so they {have} (have) lunch together and {talk} (talk) about the week.\n"
           }
         }
@@ -31291,22 +31325,30 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 3: Từ vựng",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|d4013189-fbb3-4c9f-8439-cd2f38c4a251",
       "type": "GapFillWordBankScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "3/3",
       "instruction": "Put the frequency adverbs in the correct order.",
       "answer": [
         {
           "id": 1,
-          "correct": " \nalways\n\nusually\n\nnot usually\n\nsometimes\n\nnever\n",
-          "student": null,
-          "status": null,
+          "correct": " \nalways\n\nusually\n\nsometimes\n\nnot usually\n\nnever\n",
+          "student": " \nalways\n\nusually\n\nsometimes\n\nnot usually\n\nnever\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "usually",
-              "not usually",
-              "sometimes"
+              "sometimes",
+              "not usually"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "usually",
+              "sometimes",
+              "not usually"
+            ],
             "template": " \nalways\n\n{usually}\n\n{sometimes}\n\n{not usually}\n\nnever\n"
           }
         }
@@ -31492,15 +31534,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "always",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "always"
+          ],
+          "student": "always",
+          "status": "Correct"
         }
       ]
     },
@@ -31516,15 +31560,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "usually",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "usually"
+          ],
+          "student": "usually",
+          "status": "Correct"
         }
       ]
     },
@@ -31540,15 +31586,19 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "sometimes",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "sometimes",
+            "some times",
+            "Sometimes"
+          ],
+          "student": "sometimes",
+          "status": "Correct"
         }
       ]
     },
@@ -31564,15 +31614,19 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "not usually",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "not usually",
+            "Not usually",
+            "knot usually"
+          ],
+          "student": "not usually",
+          "status": "Correct"
         }
       ]
     },
@@ -31588,15 +31642,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "never",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "never"
+          ],
+          "student": "never",
+          "status": "Correct"
         }
       ]
     },
@@ -31612,15 +31668,18 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every day",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every day",
+            "everyday"
+          ],
+          "student": "every day",
+          "status": "Correct"
         }
       ]
     },
@@ -31636,15 +31695,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every week",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every week"
+          ],
+          "student": "every week",
+          "status": "Correct"
         }
       ]
     },
@@ -31660,15 +31721,19 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every month",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every month",
+            "Every month",
+            "every month."
+          ],
+          "student": "every month",
+          "status": "Correct"
         }
       ]
     },
@@ -31684,15 +31749,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every year",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every year"
+          ],
+          "student": "every year",
+          "status": "Correct"
         }
       ]
     },
@@ -31708,15 +31775,22 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every morning",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every morning",
+            "Every morning",
+            "every mourning",
+            "Every mourning",
+            "every mornin'",
+            "Every mornin'"
+          ],
+          "student": "every morning",
+          "status": "Correct"
         }
       ]
     },
@@ -31732,15 +31806,20 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every afternoon",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every afternoon",
+            "Every afternoon",
+            "every after noon",
+            "Every after noon"
+          ],
+          "student": "every afternoon",
+          "status": "Correct"
         }
       ]
     },
@@ -31756,15 +31835,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every evening",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every evening"
+          ],
+          "student": "every evening",
+          "status": "Correct"
         }
       ]
     },
@@ -31780,15 +31861,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every night",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every night"
+          ],
+          "student": "every night",
+          "status": "Correct"
         }
       ]
     },
@@ -31804,15 +31887,19 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every Sunday",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every Sunday",
+            "Every Sunday",
+            "every sunday"
+          ],
+          "student": "every Sunday",
+          "status": "Correct"
         }
       ]
     },
@@ -31828,15 +31915,17 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every Friday evening",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every Friday evening"
+          ],
+          "student": "every Friday evening",
+          "status": "Correct"
         }
       ]
     },
@@ -31852,15 +31941,18 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every six weeks",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every six weeks",
+            "every 6 weeks"
+          ],
+          "student": "every six weeks",
+          "status": "Correct"
         }
       ]
     },
@@ -31876,15 +31968,19 @@
       "where": "Unit 5 > A day off > Video tương tác > Bài tập 5: Nói",
       "refId": "video:a824221d-7632-440c-bd50-a2a7ca47f445|21ecb45f-c2b5-4bfa-81df-6d3d77006ace",
       "type": "ShortAnswerWordBase",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "1/1",
       "instruction": "every four years",
       "answer": [
         {
           "id": null,
-          "correct": [],
-          "student": null,
-          "status": null
+          "correct": [
+            "every four years",
+            "every 4 years",
+            "every for years"
+          ],
+          "student": "every four years",
+          "status": "Correct"
         }
       ]
     },
@@ -33091,13 +33187,13 @@
       "where": "Unit 5 > Unit 5 Test > Video tương tác > Bài tập 2: Đọc",
       "refId": "video:d8748d3e-1b9a-4581-b1a1-ab374b5b14cc|70bd6b98-2dd8-49f6-abc6-93d92b76a100",
       "type": "MultipleOptionSentenceCompletion",
-      "correct": false,
-      "score": "0/10",
+      "correct": true,
+      "score": "10/10",
       "instruction": "Read the text and choose the correct words to complete each sentence.",
       "answer": [
         {
           "id": 1,
-          "correct": null,
+          "correct": "Ireland",
           "student": "Ireland",
           "status": "Correct",
           "meta": {
@@ -33106,7 +33202,7 @@
         },
         {
           "id": 2,
-          "correct": null,
+          "correct": "isn't",
           "student": "isn't",
           "status": "Correct",
           "meta": {
@@ -33115,7 +33211,7 @@
         },
         {
           "id": 3,
-          "correct": null,
+          "correct": "music",
           "student": "music",
           "status": "Correct",
           "meta": {
@@ -33124,7 +33220,7 @@
         },
         {
           "id": 4,
-          "correct": null,
+          "correct": "a singer",
           "student": "a singer",
           "status": "Correct",
           "meta": {
@@ -33133,7 +33229,7 @@
         },
         {
           "id": 5,
-          "correct": null,
+          "correct": "to the cinema",
           "student": "to the cinema",
           "status": "Correct",
           "meta": {
@@ -33142,7 +33238,7 @@
         },
         {
           "id": 6,
-          "correct": null,
+          "correct": "doesn't eat",
           "student": "doesn't eat",
           "status": "Correct",
           "meta": {
@@ -33151,16 +33247,16 @@
         },
         {
           "id": 7,
-          "correct": null,
-          "student": "never",
-          "status": "Process",
+          "correct": "sometimes",
+          "student": "sometimes",
+          "status": "Correct",
           "meta": {
             "sentenceTemplate": " She {*sometimes*//never} has Italian food."
           }
         },
         {
           "id": 8,
-          "correct": null,
+          "correct": "likes",
           "student": "likes",
           "status": "Correct",
           "meta": {
@@ -33169,7 +33265,7 @@
         },
         {
           "id": 9,
-          "correct": null,
+          "correct": "doesn't live",
           "student": "doesn't live",
           "status": "Correct",
           "meta": {
@@ -33178,7 +33274,7 @@
         },
         {
           "id": 10,
-          "correct": null,
+          "correct": "always",
           "student": "always",
           "status": "Correct",
           "meta": {
