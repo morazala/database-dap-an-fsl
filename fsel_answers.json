@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-22T12:10:25.789Z",
-  "totalQuestions": 897,
+  "exportedAt": "2026-07-22T13:33:01.609Z",
+  "totalQuestions": 907,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -33892,10 +33892,101 @@
       "where": "Unit 6 > My home town > Video tương tác > Bài tập 3: Từ vựng",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|a9b8d75c-baef-4752-9dec-5c6b850fe3d1",
       "type": "DragAndDropPicture",
-      "correct": null,
-      "score": "0/9",
+      "correct": true,
+      "score": "9/9",
       "instruction": "Match each word to the correct picture.",
-      "answer": []
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a park",
+          "student": "a park",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/1_3197_1726999594176.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "a station",
+          "student": "a station",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/2_3525_1726999597149.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "a theatre",
+          "student": "a theatre",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/3_7210_1726999600219.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "a building",
+          "student": "a building",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/4_1583_1726999603618.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "a river",
+          "student": "a river",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/5_5913_1726999609706.png",
+            "optionLabel": "H"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "an airport",
+          "student": "an airport",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/6_2979_1726999612721.png",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "a bus station",
+          "student": "a bus station",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/7_5454_1726999616658.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "a museum",
+          "student": "a museum",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/8_2166_1726999620202.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "a shopping centre",
+          "student": "a shopping centre",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/9_247_1726999623475.png",
+            "optionLabel": "I"
+          }
+        }
+      ]
     },
     "cc4ecf22-888d-4a80-9de2-0e523e017547": {
       "location": {
@@ -33904,9 +33995,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -33933,9 +34024,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -33966,9 +34057,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -33995,9 +34086,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -34023,9 +34114,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -34055,9 +34146,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -34089,9 +34180,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Nói",
-        "exerciseOrder": 7
+        "exerciseOrder": 9
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Nói",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 9: Nói",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|850200e6-fc77-4bb2-8c4b-d7cdc78ca54a",
       "type": "ShortAnswerWordBase",
       "correct": true,
@@ -34124,9 +34215,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 4
+        "exerciseOrder": 6
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Ngữ pháp",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 6: Ngữ pháp",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|aa8a8e35-59aa-4fb7-a034-693652b0ca10",
       "type": "GapFillScoreByGap",
       "correct": true,
@@ -34185,9 +34276,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 5
+        "exerciseOrder": 7
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 5: Ngữ pháp",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 7: Ngữ pháp",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|8fe9208c-4bf8-419b-a09c-f8f9401a2050",
       "type": "MatchingType2",
       "correct": true,
@@ -34233,9 +34324,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Ngữ pháp",
-        "exerciseOrder": 6
+        "exerciseOrder": 8
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 6: Ngữ pháp",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 8: Ngữ pháp",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|bbbe6876-9088-47ad-9a24-806cdcdab33a",
       "type": "GapFillScoreByGap",
       "correct": true,
@@ -34370,9 +34461,9 @@
         "lessonName": "My home town",
         "moduleType": "video",
         "exerciseName": "Viết",
-        "exerciseOrder": 8
+        "exerciseOrder": 10
       },
-      "where": "Unit 6 > My home town > Video tương tác > Bài tập 8: Viết",
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 10: Viết",
       "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|caac8350-7a02-4d2b-bbba-6baceb52ac38",
       "type": "MultipleOptionSentenceCompletion",
       "correct": true,
@@ -37892,6 +37983,332 @@
             ],
             "studentWords": null,
             "template": " {pink} tie"
+          }
+        }
+      ]
+    },
+    "11e6edca-17f2-4782-a46e-46494676dd3c": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a building",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a building",
+            "building"
+          ],
+          "student": "a building",
+          "status": "Correct"
+        }
+      ]
+    },
+    "539157e9-5d08-4a32-bae2-4983ce2066c6": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a museum",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a museum",
+            "museum"
+          ],
+          "student": "a museum",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f82cac59-71d7-4edb-a474-5112bcf3f21a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a theatre",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a theatre",
+            "theatre",
+            "a theater",
+            "theater"
+          ],
+          "student": "a theatre",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9dd92552-297a-43a0-a03c-0ed95f717ff8": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a shopping centre",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a shopping centre",
+            "shopping centre",
+            "shopping center",
+            "a shopping center"
+          ],
+          "student": "a shopping centre",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9d29abcd-9d06-4f28-b63e-87986b1ccde0": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a park",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a park",
+            "park"
+          ],
+          "student": "a park",
+          "status": "Correct"
+        }
+      ]
+    },
+    "8ddc2bba-b731-430e-9276-c4a56d05ca4e": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a river",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a river",
+            "river",
+            "River",
+            "A River"
+          ],
+          "student": "a river",
+          "status": "Correct"
+        }
+      ]
+    },
+    "149d57ed-0032-4b49-b9a1-1be730ab1928": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a station",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a station",
+            "station"
+          ],
+          "student": "a station",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f6746cb2-ed32-4ffd-979c-76149dfe29c2": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a bus station",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a bus station",
+            "bus station"
+          ],
+          "student": "a bus station",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5d51dbbc-2f01-48d6-937d-10dcc0b5ca21": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|d809699e-c44a-4caf-baac-bb0353d31597",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "an airport",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "an airport",
+            "airport",
+            "air port",
+            "an air port"
+          ],
+          "student": "an airport",
+          "status": "Correct"
+        }
+      ]
+    },
+    "74171dba-af26-470d-bd83-f874e1f8ab9d": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|bd7ed77f-363e-4fdc-ac11-b04ffbb25e44",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Use the words from the box to complete these sentences. Read the text again if you need.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " There are a lot of old buildings in the centre and there are some very nice parks.",
+          "student": " There are a lot of old buildings in the centre and there are some very nice parks.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "There are"
+            ],
+            "template": " {There are} a lot of old buildings in the centre and there are some very nice parks."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " In the centre of Bath there are five theatres and some very good museums, including the Roman Baths and the Jane Austen Centre, about the famous English writer.",
+          "student": " In the centre of Bath there are five theatres and some very good museums, including the Roman Baths and the Jane Austen Centre, about the famous English writer.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "some"
+            ],
+            "studentWords": [
+              "some"
+            ],
+            "template": " In the centre of Bath there are five theatres and {some} very good museums, including the Roman Baths and the Jane Austen Centre, about the famous English writer."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " There are also a lot of good restaurants and hotels, and there's a big new shopping centre called South Gate.\nThere are trains to London every half an hour, and there’s an airport in Bristol, only 15 miles away.",
+          "student": " There are also a lot of good restaurants and hotels, and there's a big new shopping centre called South Gate.\nThere are trains to London every half an hour, and there’s an airport in Bristol, only 15 miles away.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a lot of",
+              "a",
+              "there’s"
+            ],
+            "studentWords": [
+              "a lot of",
+              "a",
+              "there’s"
+            ],
+            "template": " There are also {a lot of} good restaurants and hotels, and there's {a} big new shopping centre called South Gate.\nThere are trains to London every half an hour, and {there’s} an airport in Bristol, only 15 miles away."
           }
         }
       ]
