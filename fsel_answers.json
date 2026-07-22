@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-22T11:25:34.831Z",
-  "totalQuestions": 876,
+  "exportedAt": "2026-07-22T12:10:25.789Z",
+  "totalQuestions": 897,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -36705,10 +36705,1196 @@
       "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 1: Nghe",
       "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|a6bbadd8-c04f-4b72-97dd-183988388d3b",
       "type": "MatchingType2",
+      "correct": false,
+      "score": "0/4",
+      "instruction": "Listen to four people talking about their clothes. Match the photos to number 1-4 to put them in the correct order.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "3",
+          "student": "1",
+          "status": "Fail",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/1_1622_1727026574369.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "4",
+          "student": "2",
+          "status": "Fail",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/2_5089_1727026578190.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "2",
+          "student": "3",
+          "status": "Fail",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/3_7137_1727026582928.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "1",
+          "student": "4",
+          "status": "Fail",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/4_7380_1727026586593.png",
+            "optionLabel": "A"
+          }
+        }
+      ]
+    },
+    "9b7a6c92-ed06-4c5a-9688-01c97023b7db": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|7f1397a4-fe2b-4643-9a88-f1815bb260b9",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What does Lisa never wear?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "dresses"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "coats"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "shoes"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "trainers"
+          }
+        }
+      ]
+    },
+    "4691c9e2-1160-4374-8eee-ea57fb5d8b43": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|7f1397a4-fe2b-4643-9a88-f1815bb260b9",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What does Brad never wear?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "brown clothes"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "yellow clothes"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "blue clothes"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "black clothes"
+          }
+        }
+      ]
+    },
+    "c0208d86-fc7b-4669-974b-2b075523d83d": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|7f1397a4-fe2b-4643-9a88-f1815bb260b9",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What does Wayne never wear?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "suits"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "ties"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "blue shirts"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "jeans"
+          }
+        }
+      ]
+    },
+    "182032be-1ed1-4b7c-b535-2168a026ec6d": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|7f1397a4-fe2b-4643-9a88-f1815bb260b9",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What does Monica never wear?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "skirts"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "dresses"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "jumpers"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "boots"
+          }
+        }
+      ]
+    },
+    "58ae0362-4ac4-4d9b-bdeb-675cf8d824dc": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 3: Từ vựng",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|e8987190-8c8a-48ec-882c-5302d4da4255",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": false,
+      "score": "11/14",
+      "instruction": "Match the correct word for each number. Use the words in the box. Use the FSEL dictionary to help you.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a shirt",
+          "student": " a shirt",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a shirt"
+            ],
+            "studentWords": [
+              "a shirt"
+            ],
+            "template": " {a shirt}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a tie",
+          "student": " a tie",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a tie"
+            ],
+            "studentWords": [
+              "a tie"
+            ],
+            "template": " {a tie}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a suit",
+          "student": " a jacket",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "a suit"
+            ],
+            "studentWords": [
+              "a jacket"
+            ],
+            "template": " {a suit}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " trousers",
+          "student": " trousers",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "trousers"
+            ],
+            "studentWords": [
+              "trousers"
+            ],
+            "template": " {trousers}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a jumper",
+          "student": " a jumper",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a jumper"
+            ],
+            "studentWords": [
+              "a jumper"
+            ],
+            "template": " {a jumper}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a skirt",
+          "student": " a skirt",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a skirt"
+            ],
+            "studentWords": [
+              "a skirt"
+            ],
+            "template": " {a skirt}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " boots",
+          "student": " boots",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "boots"
+            ],
+            "studentWords": [
+              "boots"
+            ],
+            "template": " {boots}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a jacket",
+          "student": " a coat",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "a jacket"
+            ],
+            "studentWords": [
+              "a coat"
+            ],
+            "template": " {a jacket}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " a T-shirt",
+          "student": " a T-shirt",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a T-shirt"
+            ],
+            "studentWords": [
+              "a T-shirt"
+            ],
+            "template": " {a T-shirt}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " jeans",
+          "student": " jeans",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "jeans"
+            ],
+            "studentWords": [
+              "jeans"
+            ],
+            "template": " {jeans}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " trainers",
+          "student": " trainers",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "trainers"
+            ],
+            "studentWords": [
+              "trainers"
+            ],
+            "template": " {trainers}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": " a dress",
+          "student": " a dress",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a dress"
+            ],
+            "studentWords": [
+              "a dress"
+            ],
+            "template": " {a dress}"
+          }
+        },
+        {
+          "id": 13,
+          "correct": " a coat",
+          "student": " a suit",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "a coat"
+            ],
+            "studentWords": [
+              "a suit"
+            ],
+            "template": " {a coat}"
+          }
+        },
+        {
+          "id": 14,
+          "correct": " shoes",
+          "student": " shoes",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "shoes"
+            ],
+            "studentWords": [
+              "shoes"
+            ],
+            "template": " {shoes}"
+          }
+        }
+      ]
+    },
+    "77bb1eb4-51e6-409a-a9fa-d3d382657719": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a suit",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a suit"
+          ],
+          "student": "a suit",
+          "status": "Correct"
+        }
+      ]
+    },
+    "d090e51d-d1aa-4f29-8aa9-084330818c18": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a tie",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a tie",
+            "A tie",
+            "a Thai",
+            "A Thai",
+            "a thigh",
+            "A thigh"
+          ],
+          "student": "a tie",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e6e0a978-4228-4781-9707-bc21b09a52a5": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a shirt",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a shirt"
+          ],
+          "student": "a shirt",
+          "status": "Correct"
+        }
+      ]
+    },
+    "96636f03-7cc5-4404-bcf2-ab43911d53f5": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a T-shirt",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a T-shirt",
+            "a T shirt",
+            "a Tshirt",
+            "a tshirt",
+            "a t shirt",
+            "a t-shirt"
+          ],
+          "student": "a T-shirt",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3490239d-ef15-4cff-9d08-717d72335600": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a jumper",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a jumper"
+          ],
+          "student": "a jumper",
+          "status": "Correct"
+        }
+      ]
+    },
+    "63a3b957-fe33-4801-9608-54c857fd697a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a jacket",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a jacket",
+            "it's a jacket",
+            "its a jacket",
+            "it is a jacket"
+          ],
+          "student": "a jacket",
+          "status": "Correct"
+        }
+      ]
+    },
+    "5c75209d-322f-4841-b07a-02868aa13e65": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a coat",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a coat"
+          ],
+          "student": "a coat",
+          "status": "Correct"
+        }
+      ]
+    },
+    "52472988-4529-46e6-9233-77541ab42a35": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a skirt",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a skirt"
+          ],
+          "student": "a skirt",
+          "status": "Correct"
+        }
+      ]
+    },
+    "15492cc2-5d14-4820-81ce-1163c7f71b25": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a dress",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a dress",
+            "address"
+          ],
+          "student": "a dress",
+          "status": "Correct"
+        }
+      ]
+    },
+    "95056d6a-01b3-4745-9bf9-502047d3d0f8": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "trousers",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "trousers"
+          ],
+          "student": "trousers",
+          "status": "Correct"
+        }
+      ]
+    },
+    "cd53c026-a7f1-4562-a50a-7bd5079483dd": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "jeans",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "jeans",
+            "genes",
+            "jeens"
+          ],
+          "student": "jeans",
+          "status": "Correct"
+        }
+      ]
+    },
+    "05894bc4-2f69-403e-8384-fecdbda513e9": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "shoes",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "shoes"
+          ],
+          "student": "shoes",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c0f1ecd9-f4a6-4424-b3f6-2b3500143ef4": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "trainers",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "trainers"
+          ],
+          "student": "trainers",
+          "status": "Correct"
+        }
+      ]
+    },
+    "d3db64dd-dddc-4855-a2fe-9b5572b14717": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|86b01dc8-ec32-4098-a496-6709b8831160",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "boots",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "boots"
+          ],
+          "student": "boots",
+          "status": "Correct"
+        }
+      ]
+    },
+    "6f289849-5394-449b-a760-deac7c36b74d": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|12cb94c7-61c9-4aaf-aa6e-ce6570efa445",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "0/9",
+      "instruction": "Write the clothes for each number that you see in the pictures.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " jumper|a jumper",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "jumper|a jumper"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {jumper|a jumper}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " skirt|a skirt",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "skirt|a skirt"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {skirt|a skirt}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " boots",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "boots"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {boots}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " shirt|a shirt",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "shirt|a shirt"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {shirt|a shirt}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " tie|a tie",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "tie|a tie"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {tie|a tie}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " trousers|pants",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "trousers|pants"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {trousers|pants}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " trainers",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "trainers"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {trainers}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " dress|a dress",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "dress|a dress"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {dress|a dress}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " shoes",
+          "student": " a",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "shoes"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " {shoes}"
+          }
+        }
+      ]
+    },
+    "0dc4efec-25ea-43c3-b28d-d099c0455b7a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 6: Từ vựng",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|3f93ecf0-419c-45ba-a45c-dbfed089c151",
+      "type": "GapFillScoreByGap",
       "correct": null,
       "score": null,
-      "instruction": "Listen to four people talking about their clothes. Match the photos to number 1-4 to put them in the correct order.",
-      "answer": []
+      "instruction": "Write the color of each clothing item in each picture.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " red trousers",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "red"
+            ],
+            "studentWords": null,
+            "template": " {red} trousers"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " brown jacket",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "brown"
+            ],
+            "studentWords": null,
+            "template": " {brown} jacket"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " blue jeans",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "blue"
+            ],
+            "studentWords": null,
+            "template": " {blue} jeans"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " white jumper",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "white"
+            ],
+            "studentWords": null,
+            "template": " {white} jumper"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " grey T-shirt",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "grey"
+            ],
+            "studentWords": null,
+            "template": " {grey} T-shirt"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " green trainers",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "green"
+            ],
+            "studentWords": null,
+            "template": " {green} trainers"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " yellow boots",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "yellow"
+            ],
+            "studentWords": null,
+            "template": " {yellow} boots"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " pink tie",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "pink"
+            ],
+            "studentWords": null,
+            "template": " {pink} tie"
+          }
+        }
+      ]
     },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
