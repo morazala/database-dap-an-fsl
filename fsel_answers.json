@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-22T02:34:24.206Z",
-  "totalQuestions": 790,
+  "exportedAt": "2026-07-22T04:17:41.472Z",
+  "totalQuestions": 791,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -33751,6 +33751,36 @@
             "left": "when I see him/her",
             "optionLabel": "H"
           }
+        }
+      ]
+    },
+    "eddbe233-3bfa-4010-8db4-f8cc08779cd3": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > My home town > Video tương tác > Bài tập 1: Đọc",
+      "refId": "video:665637a3-3744-432a-bfa1-0f40b057fbaa|b9c7f6cf-a67f-43f1-92ee-aa2b0734883d",
+      "type": "Multichoice",
+      "correct": null,
+      "score": null,
+      "instruction": "Does Susan like living in Bath?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Yes, she does.",
+          "student": null,
+          "status": null
+        },
+        {
+          "id": 2,
+          "correct": "No, she doesn't.",
+          "student": null,
+          "status": null
         }
       ]
     },
