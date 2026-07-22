@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-22T07:02:00.371Z",
-  "totalQuestions": 805,
+  "exportedAt": "2026-07-22T09:26:40.980Z",
+  "totalQuestions": 876,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -34471,6 +34471,2245 @@
         }
       ]
     },
+    "efd09a5c-42f0-4262-a6a1-750f96d32cdf": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|2649a31c-8233-406b-8ae6-12f654dca385",
+      "type": "Checklist",
+      "correct": false,
+      "score": "6/8",
+      "instruction": "Tick all the places you can see in the picture. Use the FSEL dictionary to help you.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "an airport"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "a restaurant"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "a police station"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "a theatre"
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "a park"
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "a museum"
+          }
+        },
+        {
+          "id": 7,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "a café"
+          }
+        },
+        {
+          "id": 8,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "a hospital"
+          }
+        },
+        {
+          "id": 9,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "a train station"
+          }
+        },
+        {
+          "id": 10,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "a gallery"
+          }
+        },
+        {
+          "id": 11,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "a bus station"
+          }
+        }
+      ]
+    },
+    "bef01b2a-c6b5-4848-912e-6028c4820d8c": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|c3b3bed9-e1f0-48bd-ad62-575cf9f37f23",
+      "type": "DragAndDropListSentenceOrder",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Listen to Susan and her friend Isabel's conversation. Put the things they talk about in the correct order.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Susan's flat",
+          "student": null,
+          "status": "Correct"
+        },
+        {
+          "id": 2,
+          "correct": "shops",
+          "student": null,
+          "status": "Correct"
+        },
+        {
+          "id": 3,
+          "correct": "banks",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 4,
+          "correct": "trains and buses",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 5,
+          "correct": "restaurants",
+          "student": null,
+          "status": "Fail"
+        }
+      ]
+    },
+    "82a7243f-dad3-4818-95aa-28eb9114601e": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 3: Nghe",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|56d94dac-c201-4b2d-8cc6-93e242e1f2d8",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Listen again. Choose the correct option in each sentence.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "likes",
+          "student": "likes",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Susan {*likes*//doesn't like} living in her flat."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {*some*//a lot of} shops in Susan's road."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "post office",
+          "student": "post office",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's a cashpoint at the {supermarket//*post office*}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "two miles",
+          "student": "two miles",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " It's {a mile//*two miles*} to the centre of Bath."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "ten",
+          "student": "ten",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are buses to the centre of Bath every {*ten*//twenty} minutes."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "bus stop",
+          "student": "bus stop",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's a {station//*bus stop*} near the post office."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "in the centre",
+          "student": "in the centre",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are some very nice restaurants {near Susan's house//*in the centre*}."
+          }
+        }
+      ]
+    },
+    "0c3fd85f-8951-4ad1-91cc-6fbf4c2e5443": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 4: Đọc",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8fa144ea-8586-43fa-bee6-b87c0f86648a",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Listen and read the conversation. Fill in the missing words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nI: Is there a bank?\nS: No, there isn’t. But there's a cashpoint at the post office.  \n",
+          "student": " \nI: is there a bank?\nS: no, there isn’t. But there's a cashpoint at the post office.  \n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is",
+              "No"
+            ],
+            "studentWords": [
+              "is",
+              "no"
+            ],
+            "template": " \nI: {Is} there a bank?\nS: {No}, there isn’t. But there's a cashpoint at the post office.  \n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nI: Can I get to the centre by train?\nS: No, there isn't|is not a station near here. \n",
+          "student": " \nI: Can I get to the centre by train?\nS: No, there isn't a station near here. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "isn't|is not"
+            ],
+            "studentWords": [
+              "isn't"
+            ],
+            "template": " \nI: Can I get to the centre by train?\nS: No, there {isn't|is not} a station near here. \n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nI: That's good to know. And what about places to eat?\nS: Well, there aren't|are not any good restaurants near here.\n",
+          "student": " \nI: That's good to know. And what about places to eat?\nS: Well, there aren't any good restaurants near here.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "aren't|are not"
+            ],
+            "studentWords": [
+              "aren't"
+            ],
+            "template": " \nI: That's good to know. And what about places to eat?\nS: Well, there {aren't|are not} any good restaurants near here.\n"
+          }
+        }
+      ]
+    },
+    "7e15d943-02d9-4546-ab90-99b487cd3957": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 5: Ngữ pháp",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|d1454ea4-b9cb-4bc8-9f9e-4b540a23e1d4",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "2/2",
+      "instruction": "Fill the gaps with AREN'T or ISN'T.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Negative\n\n1. There isn't a station near here.\n\n2. There aren't any good restaurants near here.",
+          "student": " Negative\n\n1. There isn't a station near here.\n\n2. There aren't any good restaurants near here.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "isn't",
+              "aren't"
+            ],
+            "studentWords": [
+              "isn't",
+              "aren't"
+            ],
+            "template": " Negative\n\n1. There {isn't} a station near here.\n\n2. There {aren't} any good restaurants near here."
+          }
+        }
+      ]
+    },
+    "b78335a5-26f7-496a-b6be-8873fe2a893f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 5: Ngữ pháp",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|d1454ea4-b9cb-4bc8-9f9e-4b540a23e1d4",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Fill in the gaps with IS, ARE, ISN'T or AREN'T to complete Table A.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Gap 1: Is",
+          "student": " Gap 1: is",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is"
+            ],
+            "studentWords": [
+              "is"
+            ],
+            "template": " Gap 1: {Is}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Gap 2: is",
+          "student": " Gap 2: is",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is"
+            ],
+            "studentWords": [
+              "is"
+            ],
+            "template": " Gap 2: {is}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Gap 3: isn't",
+          "student": " Gap 3: isn't",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "isn't"
+            ],
+            "studentWords": [
+              "isn't"
+            ],
+            "template": " Gap 3: {isn't}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Gap 4: Are",
+          "student": " Gap 4: are",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Are"
+            ],
+            "studentWords": [
+              "are"
+            ],
+            "template": " Gap 4: {Are}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Gap 5: are",
+          "student": " Gap 5: are",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "are"
+            ],
+            "studentWords": [
+              "are"
+            ],
+            "template": " Gap 5: {are}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Gap 6: Aren't",
+          "student": " Gap 6: aren't",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Aren't"
+            ],
+            "studentWords": [
+              "aren't"
+            ],
+            "template": " Gap 6: {Aren't}"
+          }
+        }
+      ]
+    },
+    "53563c2a-ddd7-4961-ae25-9469ef88e37a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Viết",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 6: Viết",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|4b4764c3-89e9-4199-8420-c2f789acc741",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Use THERE IS, THERE ARE, THERE ISN'T, THERE AREN'T to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \n There's|There is (✔︎) a market.\n",
+          "student": " \n There is (✔︎) a market.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "There is"
+            ],
+            "template": " \n {There's|There is} (✔︎) a market.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " There isn't|There is not (✘) a shopping centre.",
+          "student": " There isn't (✘) a shopping centre.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There isn't|There is not"
+            ],
+            "studentWords": [
+              "There isn't"
+            ],
+            "template": " {There isn't|There is not} (✘) a shopping centre."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " There's|There is (✔︎) a park.",
+          "student": " There is (✔︎) a park.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "There is"
+            ],
+            "template": " {There's|There is} (✔︎) a park."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " There isn't|There is not (✘) a square.",
+          "student": " There isn't (✘) a square.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There isn't|There is not"
+            ],
+            "studentWords": [
+              "There isn't"
+            ],
+            "template": " {There isn't|There is not} (✘) a square."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " There aren't|There are not (✘) any nice cafés.",
+          "student": " There aren't (✘) any nice cafés.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There aren't|There are not"
+            ],
+            "studentWords": [
+              "There aren't"
+            ],
+            "template": " {There aren't|There are not} (✘) any nice cafés."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " There are (✔︎) a lot of old houses.",
+          "student": " There are (✔︎) a lot of old houses.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "There are"
+            ],
+            "template": " {There are} (✔︎) a lot of old houses."
+          }
+        }
+      ]
+    },
+    "4d2173a0-a713-4d1e-8477-11ede5ba7aed": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "There’s an expensive market.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "There’s an expensive market",
+            "There's an expensive market",
+            "There is an expensive market",
+            "Theres an expensive market"
+          ],
+          "student": "There’s an expensive market.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "7c78e8ff-fcbb-4bfb-a653-ce4b3ad1dbf2": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "There are some old buildings.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "There are some old buildings",
+            "there're some old buildings",
+            "There're some old buildings",
+            "There are some old buildings."
+          ],
+          "student": "There are some old buildings.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c4fe0546-f470-4c36-ba59-7fd061881875": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "There isn’t an airport.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "There isn’t an airport",
+            "There isn't an airport",
+            "There isnt an airport",
+            "There is not an airport",
+            "There's not an airport",
+            "Their isn't an airport"
+          ],
+          "student": "There isn’t an airport.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "973d7c0b-46ca-4dfb-8749-79021eefe24f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "There aren’t any museums.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "There aren’t any museums",
+            "There aren't any museums",
+            "There arent any museums",
+            "There are not any museums",
+            "There ain't any museums"
+          ],
+          "student": "There aren’t any museums.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a8038323-6925-414b-ae48-3b0ce035e4e1": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Is there a post office?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Is there a post office?",
+            "is there a post office?",
+            "Is there a post office",
+            "Is their a post office?"
+          ],
+          "student": "Is there a post office?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3c3a7506-4f06-45ea-90d0-1e21b529d2a3": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Yes, there is.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Yes, there is",
+            "Yes there is",
+            "Yes there's",
+            "yes there's",
+            "Yes theres",
+            "yes theres",
+            "Yes there’s",
+            "yes there’s"
+          ],
+          "student": "Yes, there is.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "52cb76b9-4130-4bf3-8607-48403f7226cf": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "No, there isn’t.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "No, there isn’t",
+            "No there isn’t",
+            "No there isnt",
+            "No, there isnt",
+            "No there is not",
+            "No, there is not"
+          ],
+          "student": "No, there isn’t.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3b910049-1556-496a-8a33-beb971457901": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are there any nice old cafés?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Are there any nice old cafes?",
+            "Are there any nice old cafes",
+            "Are there any nice old cafés?",
+            "Are there any nice old cafe's?",
+            "Are there any nice, old cafes?",
+            "Are there any nice ole cafes?"
+          ],
+          "student": "Are there any nice old cafés?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "bf26f840-d0a9-4a1b-b72c-7c734250effa": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Yes, there are.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Yes, there are",
+            "Yes there are",
+            "Yes there're"
+          ],
+          "student": "Yes, there are.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "4d7e59e5-ee42-41a6-b192-7329b03612ac": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8a58a4ed-1249-42c5-8567-7151053259c5",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "No, there aren’t.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "No, there aren’t",
+            "No there aren’t",
+            "No there aren't",
+            "No there arent",
+            "No, there aren't",
+            "No, there arent"
+          ],
+          "student": "No, there aren’t.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "496da39e-672e-41c5-a345-7065fdf6750e": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 8: Từ vựng",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|8b5987e7-4619-4ef1-82a3-9ac080cbe2bb",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Match the words with the pictures. Use the FSEL dictionary to help you.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a bank",
+          "student": "a bank",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r1_9743_1727021535131.png",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "a chemist's",
+          "student": "a chemist's",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r2_6150_1727021538588.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "a road",
+          "student": "a road",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r3_5762_1727021541650.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "a cashpoint/ an ATM",
+          "student": "a cashpoint/ an ATM",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r4_198_1727021545013.png",
+            "optionLabel": "I"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "a bus stop",
+          "student": "a bus stop",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r5_5795_1727021549174.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "a supermarket",
+          "student": "a supermarket",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r6_1339_1727021553503.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "a square",
+          "student": "a square",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r7_2054_1727021557644.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "a market",
+          "student": "a market",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r8_3797_1727021561476.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "a post office",
+          "student": "a post office",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/r9_294_1727021566075.png",
+            "optionLabel": "H"
+          }
+        }
+      ]
+    },
+    "e2b03a5d-9efc-4fc8-a2e8-f13ec653b405": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a bank",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a bank"
+          ],
+          "student": "a bank",
+          "status": "Correct"
+        }
+      ]
+    },
+    "4ad1339a-d11d-4ab8-a66a-5f5aa612f035": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a market",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a market"
+          ],
+          "student": "a market",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c43b8de1-70b3-4862-bcc8-96df16766fe8": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a chemist’s",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a chemist’s",
+            "a chemist",
+            "a chemist's",
+            "a chemists"
+          ],
+          "student": "a chemist’s",
+          "status": "Correct"
+        }
+      ]
+    },
+    "76d201bb-8fa3-4edf-9ecd-575101e2b249": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a post office",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a post office"
+          ],
+          "student": "a post office",
+          "status": "Correct"
+        }
+      ]
+    },
+    "7c535d00-4445-4c4e-83c3-636c9368cead": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a supermarket",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a supermarket",
+            "a super market",
+            "a super-market"
+          ],
+          "student": "a supermarket",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2b5db026-3116-4f70-b2ee-1107076bacbd": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a bus stop",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a bus stop",
+            "a bus-stop",
+            "a busstop"
+          ],
+          "student": "a bus stop",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e2afc889-adda-463d-9f6c-519812875afa": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a square",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a square"
+          ],
+          "student": "a square",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3529eb58-3bb7-4e69-9f43-581f2ec0237a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a cashpoint",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a cashpoint",
+            "a cash point",
+            "a cash-point"
+          ],
+          "student": "a cashpoint",
+          "status": "Correct"
+        }
+      ]
+    },
+    "6b3f6526-0893-4434-868f-ba56af4cb0b1": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > Are there any shops? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:e0bb6d80-5573-4d7b-b145-60988e685b5d|94b6dba6-4389-4f48-8d4d-8eeca1428e27",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "an ATM",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "an ATM",
+            "an A T M",
+            "and ATM",
+            "and A T M"
+          ],
+          "student": "an ATM",
+          "status": "Correct"
+        }
+      ]
+    },
+    "971061e4-c3b9-4691-b882-df2fe1cc0dbf": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 1: Nghe",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|19a07adb-2794-4561-ab92-ab21f9f0f561",
+      "type": "MatchingType2",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Listen and match to put the pictures in the correct order.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "3",
+          "student": "3",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/walkingtour_8118_1727277988961.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "1",
+          "student": "1",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/artgallery_5767_1727278001486.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "2",
+          "student": "2",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/museum_194_1727278006274.png",
+            "optionLabel": "B"
+          }
+        }
+      ]
+    },
+    "057ea3a7-2ec7-436d-bd30-9f6fa53e23a2": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|d41919cd-3fe4-40be-a771-9678e4ffcdd2",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Listen and choose the correct word to complete each sentence.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Martin wants a map (map / guide book) of Cambridge.",
+          "student": " Martin wants a map (map / guide book) of Cambridge.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "map"
+            ],
+            "studentWords": [
+              "map"
+            ],
+            "template": " Martin wants a {map} (map / guide book) of Cambridge."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Kettle’s Yard art gallery is open from 11:30|11.30 (10:30 / 11:30) am to 5 (5 / 6) pm.",
+          "student": " Kettle’s Yard art gallery is open from 11:30 (10:30 / 11:30) am to 5 (5 / 6) pm.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "11:30|11.30",
+              "5"
+            ],
+            "studentWords": [
+              "11:30",
+              "5"
+            ],
+            "template": " Kettle’s Yard art gallery is open from {11:30|11.30} (10:30 / 11:30) am to {5} (5 / 6) pm."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " The gallery is closed (open / closed) on Mondays.",
+          "student": " The gallery is closed (open / closed) on Mondays.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "closed"
+            ],
+            "studentWords": [
+              "closed"
+            ],
+            "template": " The gallery is {closed} (open / closed) on Mondays."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " The Fitzwilliam Museum is about five|5 (five / ten) minutes away.",
+          "student": " The Fitzwilliam Museum is about five (five / ten) minutes away.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "five|5"
+            ],
+            "studentWords": [
+              "five"
+            ],
+            "template": " The Fitzwilliam Museum is about {five|5} (five / ten) minutes away."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " The walking tours start at 11 (10 / 11) am and 1 (1 / 2) pm.",
+          "student": " The walking tours start at 11 (10 / 11) am and 1 (1 / 2) pm.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "11",
+              "1"
+            ],
+            "studentWords": [
+              "11",
+              "1"
+            ],
+            "template": " The walking tours start at {11} (10 / 11) am and {1} (1 / 2) pm."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " They are £ 17.50 (7.50 / 17.50) per person.",
+          "student": " They are £ 17.50 (7.50 / 17.50) per person.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "17.50"
+            ],
+            "studentWords": [
+              "17.50"
+            ],
+            "template": " They are £ {17.50} (7.50 / 17.50) per person."
+          }
+        }
+      ]
+    },
+    "c79c0159-b107-4b6e-b24d-58c8e281d1d1": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 3: Từ vựng",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|804d90af-0fb9-4193-a5ba-0a7274363611",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the conversations using the words in the box. Watch the video again if you need.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nASSISTANT: Hello. Can I  help  you?\n\nTOURIST: Yes, please. Do you have a [map of Cambridge city centre]?\n\nA: Yes, of course. Here you are. \n",
+          "student": " \nASSISTANT: Hello. Can I  help  you?\n\nTOURIST: Yes, please. Do you have a [map of Cambridge city centre]?\n\nA: Yes, of course. Here you are. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "have"
+            ],
+            "studentWords": [
+              "have"
+            ],
+            "template": " \nASSISTANT: Hello. Can I  help  you?\n\nTOURIST: Yes, please. Do you {have} a [map of Cambridge city centre]?\n\nA: Yes, of course. Here you are. \n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nT: When is [Kettle's Yard art gallery] open?\n\nA: It's open from [11.30 a.m] to [5 p.m]. \n\nT: Is it open every day?\n\nA: No, it's closed on Mondays.\n",
+          "student": " \nT: When is [Kettle's Yard art gallery] open?\n\nA: It's open from [11.30 a.m] to [5 p.m]. \n\nT: Is it open every day?\n\nA: No, it's closed on Mondays.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "open",
+              "closed"
+            ],
+            "studentWords": [
+              "open",
+              "closed"
+            ],
+            "template": " \nT: When is [Kettle's Yard art gallery] open?\n\nA: It's {open} from [11.30 a.m] to [5 p.m]. \n\nT: Is it open every day?\n\nA: No, it's {closed} on Mondays.\n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nT: Where's the [Fitzwilliam Museum]?\n\nA: It's in [Trumpington Street].\n\nT: Can you show me on this map?\n\nA: Yes, of course. Here it is. It's about [five] minutes away.\n",
+          "student": " \nT: Where's the [Fitzwilliam Museum]?\n\nA: It's in [Trumpington Street].\n\nT: Can you show me on this map?\n\nA: Yes, of course. Here it is. It's about [five] minutes away.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "map"
+            ],
+            "studentWords": [
+              "map"
+            ],
+            "template": " \nT: Where's the [Fitzwilliam Museum]?\n\nA: It's in [Trumpington Street].\n\nT: Can you show me on this {map}?\n\nA: Yes, of course. Here it is. It's about [five] minutes away.\n"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nT: Can we book a walking tour here?\n\nA: Yes, they start at [11 a.m and 1 p.m] every day.\n\nT: How much are they?\n\nA: They’re [£17.50] per person.\n",
+          "student": " \nT: Can we book a walking tour here?\n\nA: Yes, they start at [11 a.m and 1 p.m] every day.\n\nT: How much are they?\n\nA: They’re [£17.50] per person.\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "book",
+              "start"
+            ],
+            "studentWords": [
+              "book",
+              "start"
+            ],
+            "template": " \nT: Can we {book} a walking tour here?\n\nA: Yes, they {start} at [11 a.m and 1 p.m] every day.\n\nT: How much are they?\n\nA: They’re [£17.50] per person.\n"
+          }
+        }
+      ]
+    },
+    "37e288eb-27ff-4c19-9638-f2dab0af7a9a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 4: Từ vựng",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|b71a0424-0c81-401e-8dfc-464a8a56fbe0",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "0/18",
+      "instruction": "Choose the correct words or phrases to complete the conversations. Write the correct word in the gap.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Conversation A\n\nASSISTANT: Hello. on (I can / Can I) help you?\n\nTOURIST: Yes, please. in (When / Where) is the Sedgwick Museum open?\n\nA: It's open today Here it is (from / to) 10 a.m. Is it (from / to) 4 p.m.\n\nT: When (Is it / Is) open every day?\n\nA: No, it's closed to (in / on) Sundays.\n\nT: OK, thanks. And Can I (where's / there’s) the ADC Theatre?\n\nA: It's from (in / at) Park Street.\n\nT: Can you show me on this map (card / map)?\n\nA: Yes, of course. where's (Here is it / Here it is). It's about ten minutes away.\n",
+          "student": " Conversation A\n\nASSISTANT: Hello. Can I (I can / Can I) help you?\n\nTOURIST: Yes, please. When (When / Where) is the Sedgwick Museum open?\n\nA: It's open today from (from / to) 10 a.m. to (from / to) 4 p.m.\n\nT: Is it (Is it / Is) open every day?\n\nA: No, it's closed on (in / on) Sundays.\n\nT: OK, thanks. And where's (where's / there’s) the ADC Theatre?\n\nA: It's in (in / at) Park Street.\n\nT: Can you show me on this map (card / map)?\n\nA: Yes, of course. Here it is (Here is it / Here it is). It's about ten minutes away.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "on",
+              "in",
+              "Here it is",
+              "Is it",
+              "When",
+              "to",
+              "Can I",
+              "from",
+              "map",
+              "where's"
+            ],
+            "studentWords": [
+              "Can I",
+              "When",
+              "from",
+              "to",
+              "Is it",
+              "on",
+              "where's",
+              "in",
+              "map",
+              "Here it is"
+            ],
+            "template": " Conversation A\n\nASSISTANT: Hello. {Can I} (I can / Can I) help you?\n\nTOURIST: Yes, please. {When} (When / Where) is the Sedgwick Museum open?\n\nA: It's open today {from} (from / to) 10 a.m. {to} (from / to) 4 p.m.\n\nT: {Is it} (Is it / Is) open every day?\n\nA: No, it's closed {on} (in / on) Sundays.\n\nT: OK, thanks. And {where's} (where's / there’s) the ADC Theatre?\n\nA: It's {in} (in / at) Park Street.\n\nT: Can you show me on this {map} (card / map)?\n\nA: Yes, of course. {Here it is} (Here is it / Here it is). It's about ten minutes away.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Conversation B\n\nT: Good are (afternoon / night). Do you have a map book (in / of) the UK?\n\nA: Yes, here you are (here you are / here are you).\n\nT: Thank you. And can I day (make / book) a bus tour here?\n\nA: Yes, they start afternoon (at / on) 10 a.m. and 2 p.m. every of (day / days).\n\nT: How much person (is / are) they?\n\nA: They're £17.50 per at (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n",
+          "student": " Conversation B\n\nT: Good afternoon (afternoon / night). Do you have a map of (in / of) the UK?\n\nA: Yes, here you are (here you are / here are you).\n\nT: Thank you. And can I book (make / book) a bus tour here?\n\nA: Yes, they start at (at / on) 10 a.m. and 2 p.m. every day (day / days).\n\nT: How much are (is / are) they?\n\nA: They're £17.50 per persob (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Process"
+          ],
+          "meta": {
+            "correctWords": [
+              "are",
+              "book",
+              "here you are",
+              "day",
+              "afternoon",
+              "of",
+              "person",
+              "at"
+            ],
+            "studentWords": [
+              "afternoon",
+              "of",
+              "here you are",
+              "book",
+              "at",
+              "day",
+              "are",
+              "persob"
+            ],
+            "template": " Conversation B\n\nT: Good {afternoon} (afternoon / night). Do you have a map {of} (in / of) the UK?\n\nA: Yes, {here you are} (here you are / here are you).\n\nT: Thank you. And can I {book} (make / book) a bus tour here?\n\nA: Yes, they start {at} (at / on) 10 a.m. and 2 p.m. every {day} (day / days).\n\nT: How much {are} (is / are) they?\n\nA: They're £17.50 per {person} (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n"
+          }
+        }
+      ]
+    },
+    "9dd4a48e-b38a-4f2d-ac57-fe71c3976a79": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 5: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|44200486-d23a-40a7-bdeb-ed76dd29b8d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Can I help you?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Can I help you?",
+            "Can I help you"
+          ],
+          "student": "Can I help you?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "bf19ffc1-4147-49e4-ab0c-9b351ed168a9": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 5: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|44200486-d23a-40a7-bdeb-ed76dd29b8d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Yes, of course. ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Yes, of course",
+            "Yes of course",
+            "yes of course",
+            "yes ofcourse",
+            "yes of coarse",
+            "yes off course"
+          ],
+          "student": "Yes, of course.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "fe016bd8-7ba1-4750-b4e6-e4a3dc68562d": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 5: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|44200486-d23a-40a7-bdeb-ed76dd29b8d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "When is the museum open? ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "When is the museum open?",
+            "When's the museum open?",
+            "When is the museum open",
+            "When s the museum open"
+          ],
+          "student": "When is the museum open?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e2fe7a5f-1099-454e-9e9c-58b7db1ae309": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 5: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|44200486-d23a-40a7-bdeb-ed76dd29b8d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Where’s the theatre?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Where’s the theatre?",
+            "Where's the theater?",
+            "Where's the theatre?",
+            "Where is the theatre?",
+            "Where is the theater?",
+            "Wheres the theatre?",
+            "Wheres the theater?"
+          ],
+          "student": "Where’s the theatre?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b6ce464a-83cd-4c98-a4d1-3a97f3ffef6a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 5: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|44200486-d23a-40a7-bdeb-ed76dd29b8d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "How much is the walking tour?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "How much is the walking tour?",
+            "How much is the walking tour",
+            "How much's the walking tour?",
+            "How much's the walking tour"
+          ],
+          "student": "How much is the walking tour?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "ed181608-436c-4fc5-aef5-e31d2a5c7a07": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 5: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|44200486-d23a-40a7-bdeb-ed76dd29b8d4",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Do you have a map?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Do you have a map?",
+            "D'you have a map?",
+            "Do you have a map"
+          ],
+          "student": "Do you have a map?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "0762862a-c9fb-4c55-964d-e63d464c9ecc": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 6: Từ vựng",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8a65ad6a-713b-49ae-a897-e0edbe69f8c8",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "11/11",
+      "instruction": "Read the definitions then match the word to the correct picture.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "wallet",
+          "student": "wallet",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/1_4582_1727434560529.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "purse",
+          "student": "purse",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/2_9255_1727434564477.png",
+            "optionLabel": "K"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "keys",
+          "student": "keys",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/3_6320_1727434569788.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "money",
+          "student": "money",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/4_8222_1727434573325.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "credit card",
+          "student": "credit card",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/5_487_1727434585368.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "passport",
+          "student": "passport",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/6_7100_1727434590913.png",
+            "optionLabel": "I"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "ID card",
+          "student": "ID card",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/7_7105_1727434594296.png",
+            "optionLabel": "H"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "guide book",
+          "student": "guide book",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/8_8572_1727434597573.png",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "map",
+          "student": "map",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/9_3168_1727434601723.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "camera",
+          "student": "camera",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/10_1555_1727434604752.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 11,
+          "correct": "laptop",
+          "student": "laptop",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/11_962_1727434607689.png",
+            "optionLabel": "J"
+          }
+        }
+      ]
+    },
+    "c5ccd092-3f59-4c38-bf10-8b452d80b4bd": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a wallet",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a wallet"
+          ],
+          "student": "a wallet",
+          "status": "Correct"
+        }
+      ]
+    },
+    "429c3332-f2dd-43e5-b5d1-34da41368e06": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a purse",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a purse",
+            "a purse."
+          ],
+          "student": "a purse",
+          "status": "Correct"
+        }
+      ]
+    },
+    "66cc73c1-236a-42c7-bc4c-8bb003a63d26": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "keys",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "keys",
+            "quays",
+            "ks",
+            "key's",
+            "KEYS"
+          ],
+          "student": "keys",
+          "status": "Correct"
+        }
+      ]
+    },
+    "46ce347b-71a6-4d61-ae2d-6226540f2335": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "money",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "money"
+          ],
+          "student": "money",
+          "status": "Correct"
+        }
+      ]
+    },
+    "93d53185-cd5d-4688-bb38-8ac267308dfc": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a credit card",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a credit card"
+          ],
+          "student": "a credit card",
+          "status": "Correct"
+        }
+      ]
+    },
+    "776f4b8c-d5a4-452b-8c6b-d854a2996272": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a passport",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a passport"
+          ],
+          "student": "a passport",
+          "status": "Correct"
+        }
+      ]
+    },
+    "4896db65-f18f-4bc9-8b85-2963f772acb1": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "an ID card",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "an ID card",
+            "an id card",
+            "an I D card",
+            "an I.D. card",
+            "an I.D card",
+            "an I'd card",
+            "an ID-card"
+          ],
+          "student": "an ID card",
+          "status": "Correct"
+        }
+      ]
+    },
+    "d1943332-bf99-40b8-8bdf-1690491cd236": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a guide book",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a guide book",
+            "a guidebook",
+            "a guide-book"
+          ],
+          "student": "a guide book",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e8b6edd6-0dd0-4c5f-9b26-b892512f93dc": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a map",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a map"
+          ],
+          "student": "a map",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e6f2ab07-4a47-40e6-81d0-6ddf4313216c": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a camera",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a camera"
+          ],
+          "student": "a camera",
+          "status": "Correct"
+        }
+      ]
+    },
+    "6d495e01-c4b7-4be9-8c6a-6cb160315d1c": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 7: Nói",
+      "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|8f4e7acd-4f53-4d7b-b2af-c4f87768f10c",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "a laptop",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "a laptop",
+            "a laptop."
+          ],
+          "student": "a laptop",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b0b35b95-cf9b-4dca-81c5-c228fd4f03c0": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 1: Nghe",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|a6bbadd8-c04f-4b72-97dd-183988388d3b",
+      "type": "MatchingType2",
+      "correct": null,
+      "score": null,
+      "instruction": "Listen to four people talking about their clothes. Match the photos to number 1-4 to put them in the correct order.",
+      "answer": []
+    },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
         "unitName": "Unit 1",
@@ -50831,125 +53070,2338 @@
       "where": "Unit 6 > My home town > Bài tập về nhà > Bài tập 1: Places in a town or a city",
       "refId": "homework:b9a3affc-2042-4784-83e0-10b48d9b401e|dceddf44-3166-4e7d-8ffd-e6d75ddd907f",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "9/9",
       "instruction": "Write the full words.",
       "answer": [
         {
           "id": 1,
           "correct": " a building",
-          "student": null,
-          "status": null,
+          "student": " a building",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "building"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "building"
+            ],
             "template": " a {building}"
           }
         },
         {
           "id": 2,
           "correct": " a shopping centre",
-          "student": null,
-          "status": null,
+          "student": " a shopping centre",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "shopping centre"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "shopping centre"
+            ],
             "template": " a {shopping centre}"
           }
         },
         {
           "id": 3,
           "correct": " a museum",
-          "student": null,
-          "status": null,
+          "student": " a museum",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "museum"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "museum"
+            ],
             "template": " a {museum}"
           }
         },
         {
           "id": 4,
           "correct": " a river",
-          "student": null,
-          "status": null,
+          "student": " a river",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "river"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "river"
+            ],
             "template": " a {river}"
           }
         },
         {
           "id": 5,
           "correct": " a bus station",
-          "student": null,
-          "status": null,
+          "student": " a bus station",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "bus station"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "bus station"
+            ],
             "template": " a {bus station}"
           }
         },
         {
           "id": 6,
           "correct": " a park",
-          "student": null,
-          "status": null,
+          "student": " a park",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "park"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "park"
+            ],
             "template": " a {park}"
           }
         },
         {
           "id": 7,
           "correct": " a theatre",
-          "student": null,
-          "status": null,
+          "student": " a theatre",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "theatre"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "theatre"
+            ],
             "template": " a {theatre}"
           }
         },
         {
           "id": 8,
           "correct": " an airport",
-          "student": null,
-          "status": null,
+          "student": " an airport",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "airport"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "airport"
+            ],
             "template": " an {airport}"
           }
         },
         {
           "id": 9,
           "correct": " a station",
-          "student": null,
-          "status": null,
+          "student": " a station",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "station"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "station"
+            ],
             "template": " a {station}"
+          }
+        }
+      ]
+    },
+    "bd602230-14dd-46c7-bd5b-724eb6601b48": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "homework",
+        "exerciseName": "Places in a town or city",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > My home town > Bài tập về nhà > Bài tập 2: Places in a town or city",
+      "refId": "homework:aaceec65-d2e7-4c56-9362-51102dd1a246|12e0d451-18df-4ed3-9ff4-d103966b7f9d",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": false,
+      "score": "3/9",
+      "instruction": "Look at the map of Rushley, a town in the UK. Write the words from the previous exercise to places 1-9 on the map.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a building",
+          "student": " a shopping centre",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "building"
+            ],
+            "studentWords": [
+              "shopping centre"
+            ],
+            "template": " a {building}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " an airport",
+          "student": " an airport",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "airport"
+            ],
+            "studentWords": [
+              "airport"
+            ],
+            "template": " an {airport}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a theatre",
+          "student": " a building",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "theatre"
+            ],
+            "studentWords": [
+              "building"
+            ],
+            "template": " a {theatre}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a river",
+          "student": " a river",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "river"
+            ],
+            "studentWords": [
+              "river"
+            ],
+            "template": " a {river}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a museum",
+          "student": " a museum",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "museum"
+            ],
+            "studentWords": [
+              "museum"
+            ],
+            "template": " a {museum}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a bus station",
+          "student": " a station",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "bus station"
+            ],
+            "studentWords": [
+              "station"
+            ],
+            "template": " a {bus station}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " a station",
+          "student": " a theatre",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "station"
+            ],
+            "studentWords": [
+              "theatre"
+            ],
+            "template": " a {station}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a shopping centre",
+          "student": " a park",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "shopping centre"
+            ],
+            "studentWords": [
+              "park"
+            ],
+            "template": " a {shopping centre}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " a park",
+          "student": " a bus station",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "park"
+            ],
+            "studentWords": [
+              "bus station"
+            ],
+            "template": " a {park}"
+          }
+        }
+      ]
+    },
+    "49c89371-ae2f-42b8-960c-3517a2879e35": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "homework",
+        "exerciseName": "a, some, a lot of ; there is/ there are: positive",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > My home town > Bài tập về nhà > Bài tập 3: a, some, a lot of ; there is/ there are: positive",
+      "refId": "homework:e1d7a2be-263d-4fb0-8d48-9b8f963883d7|fb19373f-946e-45b3-a404-ba30db22ee2a",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "14/14",
+      "instruction": "Read these sentences about Rushley. Fill in the gaps with THERE'S or THERE ARE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " There's|There is a café near the bus station.",
+          "student": " THERE'S a café near the bus station.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} a café near the bus station."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " There are two very nice parks.",
+          "student": " THERE ARE two very nice parks.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} two very nice parks."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " There's|There is a cinema in Rushley.",
+          "student": " THERE'S a cinema in Rushley.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} a cinema in Rushley."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " There are two four-star hotels.",
+          "student": " THERE ARE two four-star hotels.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} two four-star hotels."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " There's|There is a big shopping centre.",
+          "student": " THERE'S a big shopping centre.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} a big shopping centre."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " There are some beautiful buildings.",
+          "student": " THERE ARE some beautiful buildings.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} some beautiful buildings."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " There are a lot of good shops.",
+          "student": " THERE ARE a lot of good shops.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} a lot of good shops."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " There's|There is an Italian restaurant called Silvio's.",
+          "student": " THERE'S an Italian restaurant called Silvio's.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} an Italian restaurant called Silvio's."
+          }
+        },
+        {
+          "id": 9,
+          "correct": " There's|There is an airport near Rushley.",
+          "student": " THERE'S an airport near Rushley.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} an airport near Rushley."
+          }
+        },
+        {
+          "id": 10,
+          "correct": " There's|There is a café in the airport.",
+          "student": " THERE'S a café in the airport.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} a café in the airport."
+          }
+        },
+        {
+          "id": 11,
+          "correct": " There are some famous pictures in the museum.",
+          "student": " THERE ARE some famous pictures in the museum.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} some famous pictures in the museum."
+          }
+        },
+        {
+          "id": 12,
+          "correct": " There's|There is a very good theatre.",
+          "student": " THERE'S a very good theatre.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "THERE'S"
+            ],
+            "template": " {There's|There is} a very good theatre."
+          }
+        },
+        {
+          "id": 13,
+          "correct": " There are a lot of friendly people in Rushley.",
+          "student": " THERE ARE a lot of friendly people in Rushley.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} a lot of friendly people in Rushley."
+          }
+        },
+        {
+          "id": 14,
+          "correct": " There are some nice houses near the town.",
+          "student": " THERE ARE some nice houses near the town.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "THERE ARE"
+            ],
+            "template": " {There are} some nice houses near the town."
+          }
+        }
+      ]
+    },
+    "a37145c3-ed1a-4bbd-9aff-49a80ddf8229": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "homework",
+        "exerciseName": "a, some, a lot of; there is/ there are: positive",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > My home town > Bài tập về nhà > Bài tập 4: a, some, a lot of; there is/ there are: positive",
+      "refId": "homework:b9c393c7-1034-413e-97f0-822a1497ae53|3b03b032-b5d5-40a4-8801-c67caf76b762",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Choose the correct words to complete the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*a*//some} station."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*a*//a lot of} park."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "a lot of",
+          "student": "a lot of",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {a//*a lot of*} shops."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "an",
+          "student": "an",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {a//*an*} old theatre."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "two",
+          "student": "two",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {a//*two*} cinemas."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {a//*some*} good restaurants."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*a*//some} river."
+          }
+        },
+        {
+          "id": 8,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {*some*//a} famous buildings."
+          }
+        },
+        {
+          "id": 9,
+          "correct": "an",
+          "student": "an",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {a lot of//*an*} airport."
+          }
+        },
+        {
+          "id": 10,
+          "correct": "a lot of",
+          "student": "a lot of",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {an//*a lot of*} nice cafés."
+          }
+        },
+        {
+          "id": 11,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*a*//a lot of} big shopping centre."
+          }
+        },
+        {
+          "id": 12,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {a//*some*} expensive hotels."
+          }
+        }
+      ]
+    },
+    "571bb9b1-24d8-473a-8bc9-5a6aa8eb1270": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 0,
+        "lessonName": "My home town",
+        "moduleType": "homework",
+        "exerciseName": "Review: there, they're, their",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > My home town > Bài tập về nhà > Bài tập 5: Review: there, they're, their",
+      "refId": "homework:0ee9a0b9-c812-4e0b-b70c-d4ef43532057|be6375ae-ce56-479c-960c-4f781101ea0e",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Fill in the gaps with THERE, THEY'RE or THEIR.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " There's a great restaurant near my flat.",
+          "student": " There's a great restaurant near my flat.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There"
+            ],
+            "studentWords": [
+              "There"
+            ],
+            "template": " {There}'s a great restaurant near my flat."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " They're from Tripoli, in Libya.",
+          "student": " They're from Tripoli, in Libya.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "They're"
+            ],
+            "studentWords": [
+              "They're"
+            ],
+            "template": " {They're} from Tripoli, in Libya."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " What are their names?",
+          "student": " What are their names?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "their"
+            ],
+            "studentWords": [
+              "their"
+            ],
+            "template": " What are {their} names?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " There are about 50 people in the company.",
+          "student": " There are about 50 people in the company.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There"
+            ],
+            "studentWords": [
+              "There"
+            ],
+            "template": " {There} are about 50 people in the company."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Can you tell me their phone number?",
+          "student": " Can you tell me their phone number?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "their"
+            ],
+            "studentWords": [
+              "their"
+            ],
+            "template": " Can you tell me {their} phone number?"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " I like these pictures. They're very beautiful.",
+          "student": " I like these pictures. They're very beautiful.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "They're"
+            ],
+            "studentWords": [
+              "They're"
+            ],
+            "template": " I like these pictures. {They're} very beautiful."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " There are twelve people in our class.",
+          "student": " There are twelve people in our class.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There"
+            ],
+            "studentWords": [
+              "There"
+            ],
+            "template": " {There} are twelve people in our class."
+          }
+        }
+      ]
+    },
+    "7a808f42-eec9-4ac8-8146-91a7fcdf72c3": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "homework",
+        "exerciseName": "Places in a town or city",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Are there any shops? > Bài tập về nhà > Bài tập 1: Places in a town or city",
+      "refId": "homework:0716cafc-b484-4e35-913f-ea57fbd9694e|70475065-2371-4673-bf23-c92822c10d86",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "11/11",
+      "instruction": "Write the words for places in a town or city. The letters are given.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a chemist’s",
+          "student": " a chemist's",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hemist’s"
+            ],
+            "studentWords": [
+              "hemist's"
+            ],
+            "template": " a c{hemist’s}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a market",
+          "student": " a market",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "arket"
+            ],
+            "studentWords": [
+              "arket"
+            ],
+            "template": " a m{arket}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a post office",
+          "student": " a post office",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ost",
+              "ffice"
+            ],
+            "studentWords": [
+              "ost",
+              "ffice"
+            ],
+            "template": " a p{ost} o{ffice}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a road",
+          "student": " a road",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "oad"
+            ],
+            "studentWords": [
+              "oad"
+            ],
+            "template": " a r{oad}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a bus stop",
+          "student": " a bus stop",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "us",
+              "top"
+            ],
+            "studentWords": [
+              "us",
+              "top"
+            ],
+            "template": " a b{us} s{top}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a bank",
+          "student": " a bank",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ank"
+            ],
+            "studentWords": [
+              "ank"
+            ],
+            "template": " a b{ank}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " a square",
+          "student": " a square",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "quare"
+            ],
+            "studentWords": [
+              "quare"
+            ],
+            "template": " a s{quare}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a cashpoint",
+          "student": " a cashpoint",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ashpoint"
+            ],
+            "studentWords": [
+              "ashpoint"
+            ],
+            "template": " a c{ashpoint}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " a supermarket",
+          "student": " a supermarket",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "upermarket"
+            ],
+            "studentWords": [
+              "upermarket"
+            ],
+            "template": " a s{upermarket}"
+          }
+        }
+      ]
+    },
+    "8918a9f2-cbdc-428f-b7a1-b5354d0567fa": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "homework",
+        "exerciseName": "there is / there are: positive and negative",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Are there any shops? > Bài tập về nhà > Bài tập 2: there is / there are: positive and negative",
+      "refId": "homework:06aa9f0d-728c-4fd3-a87e-1081e9792e92|c7dd2885-13f9-462f-808a-eb59f9a615ba",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Read about where Henry lives. Fill in the gaps with THERE'S, THERE ISN'T, THERE ARE or THERE AREN'T.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nI live in Greenwich, in London. There are (+) a lot of things to do here. There are (+) a lot of nice old buildings, some very good museums and there's|there is (+) a very beautiful park.\n\nThere isn't|There is not (-) a big shopping centre in the centre of Greenwich, but there are (+) a lot of nice shops. There are (+) also two theatres and a cinema. There's|There is (+) a famous market in Greenwich 5 days a week, but there isn't|there is not (-) a market on Monday or Tuesday.\n\nI live about ten minutes from Greenwich station. There's|There is (+) a supermarket near the station, but there aren't|there are not (-) any shops in my road. And there aren't|there are not (-) any restaurants near my flat, but there are (+) a lot of very good restaurants in the centre. I think Greenwich is a great place to live.\n",
+          "student": " \nI live in Greenwich, in London. there are  (+) a lot of things to do here. there are (+) a lot of nice old buildings, some very good museums and there's (+) a very beautiful park.\n\nthere isn't (-) a big shopping centre in the centre of Greenwich, but there are (+) a lot of nice shops. there are (+) also two theatres and a cinema. there's (+) a famous market in Greenwich 5 days a week, but there isn't (-) a market on Monday or Tuesday.\n\nI live about ten minutes from Greenwich station. there's (+) a supermarket near the station, but there aren't (-) any shops in my road. And there aren't (-) any restaurants near my flat, but there are (+) a lot of very good restaurants in the centre. I think Greenwich is a great place to live.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are",
+              "There are",
+              "there's|there is",
+              "There isn't|There is not",
+              "there are",
+              "There are",
+              "There's|There is",
+              "there isn't|there is not",
+              "There's|There is",
+              "there aren't|there are not",
+              "there aren't|there are not",
+              "there are"
+            ],
+            "studentWords": [
+              "there are ",
+              "there are",
+              "there's",
+              "there isn't",
+              "there are",
+              "there are",
+              "there's",
+              "there isn't",
+              "there's",
+              "there aren't",
+              "there aren't",
+              "there are"
+            ],
+            "template": " \nI live in Greenwich, in London. {There are} (+) a lot of things to do here. {There are} (+) a lot of nice old buildings, some very good museums and {there's|there is} (+) a very beautiful park.\n\n{There isn't|There is not} (-) a big shopping centre in the centre of Greenwich, but {there are} (+) a lot of nice shops. {There are} (+) also two theatres and a cinema. {There's|There is} (+) a famous market in Greenwich 5 days a week, but {there isn't|there is not} (-) a market on Monday or Tuesday.\n\nI live about ten minutes from Greenwich station. {There's|There is} (+) a supermarket near the station, but {there aren't|there are not} (-) any shops in my road. And {there aren't|there are not} (-) any restaurants near my flat, but {there are} (+) a lot of very good restaurants in the centre. I think Greenwich is a great place to live.\n"
+          }
+        }
+      ]
+    },
+    "ad885690-5eca-45e3-8513-54781e6e1523": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "homework",
+        "exerciseName": "there is / there are: yes/ no questions and short answers",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Are there any shops? > Bài tập về nhà > Bài tập 3: there is / there are: yes/ no questions and short answers",
+      "refId": "homework:f9da1800-d83e-4160-9276-26391bfd5b2e|545e115d-0ed6-40b6-908b-647cd0e489e3",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Make questions about Greenwich with these words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "there",
+              "a",
+              "park",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "there",
+              "a",
+              "park",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Are",
+              "there",
+              "any",
+              "good",
+              "museums",
+              "?"
+            ],
+            "studentWords": [
+              "Are",
+              "there",
+              "any",
+              "good",
+              "museums",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "there",
+              "a",
+              "big",
+              "shopping centre",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "there",
+              "a",
+              "big",
+              "shopping centre",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "there",
+              "a",
+              "market",
+              "on",
+              "Tuesdays",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "there",
+              "a",
+              "market",
+              "on",
+              "Tuesdays",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Are",
+              "there",
+              "any",
+              "shops",
+              "in",
+              "Henry's",
+              "road",
+              "?"
+            ],
+            "studentWords": [
+              "Are",
+              "there",
+              "any",
+              "shops",
+              "in",
+              "Henry's",
+              "road",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "there",
+              "a",
+              "supermarket",
+              "near",
+              "the station",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "there",
+              "a",
+              "supermarket",
+              "near",
+              "the station",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Are",
+              "there",
+              "any",
+              "restaurants",
+              "near",
+              "Henry's",
+              "flat",
+              "?"
+            ],
+            "studentWords": [
+              "Are",
+              "there",
+              "any",
+              "restaurants",
+              "near",
+              "Henry's",
+              "flat",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Are",
+              "there",
+              "any",
+              "good",
+              "restaurants",
+              "in",
+              "the centre",
+              "?"
+            ],
+            "studentWords": [
+              "Are",
+              "there",
+              "any",
+              "good",
+              "restaurants",
+              "in",
+              "the centre",
+              "?"
+            ]
+          }
+        }
+      ]
+    },
+    "1530a178-32bf-49a5-9b4a-80b216b580d5": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "homework",
+        "exerciseName": "a, some, a lot of; any",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > Are there any shops? > Bài tập về nhà > Bài tập 4: a, some, a lot of; any",
+      "refId": "homework:b786acf7-c7b2-4a5a-903a-c5cccd3b1483|c1095dbb-2da1-4898-aa1b-5f40577fc4f6",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Choose the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*a*//some} post office."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "any",
+          "student": "any",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Are there {a//*any*} shops?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There isn't {*a*//any} theatre."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {any//*some*} nice cafés."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "any",
+          "student": "any",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There aren't {*any*//an} old buildings."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "an",
+          "student": "an",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*an*//any} airport."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "any",
+          "student": "any",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Are there {an//*any*} museums?"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {*some*//any} restaurants."
+          }
+        }
+      ]
+    },
+    "80d4e9ee-928f-460f-9283-addc8bcb3d76": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 1,
+        "lessonName": "Are there any shops?",
+        "moduleType": "homework",
+        "exerciseName": "there is / there are; a / some / a lot of; any",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Are there any shops? > Bài tập về nhà > Bài tập 5: there is / there are; a / some / a lot of; any",
+      "refId": "homework:936b1eb2-2007-41d9-9097-734efaccb1fc|393aed83-60e2-499d-a86f-200cc42cd675",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Fill in the gaps with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " There's a post office near the square.",
+          "student": " There's a post office near the square.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's"
+            ],
+            "studentWords": [
+              "There's"
+            ],
+            "template": " {There's} a post office near the square."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Are there any restaurants open in the evening?",
+          "student": " Are there any restaurants open in the evening?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "any"
+            ],
+            "studentWords": [
+              "any"
+            ],
+            "template": " Are there {any} restaurants open in the evening?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " There aren’t any supermarkets near the station.",
+          "student": " There aren’t any supermarkets near the station.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There aren’t"
+            ],
+            "studentWords": [
+              "There aren’t"
+            ],
+            "template": " {There aren’t} any supermarkets near the station."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Is there a park near the airport? - No, there isn't.",
+          "student": " Is there a park near the airport? - No, there isn't.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is there",
+              "isn't"
+            ],
+            "studentWords": [
+              "Is there",
+              "isn't"
+            ],
+            "template": " {Is there} a park near the airport? - No, there {isn't}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " There are a lot of shops on the main road near the train station.",
+          "student": " There are a lot of shops on the main road near the train station.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a lot of"
+            ],
+            "studentWords": [
+              "a lot of"
+            ],
+            "template": " There are {a lot of} shops on the main road near the train station."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " There is a cashpoint next to the restaurant, but there isn’t a bank.",
+          "student": " There is a cashpoint next to the restaurant, but there isn’t a bank.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "there isn’t"
+            ],
+            "studentWords": [
+              "there isn’t"
+            ],
+            "template": " There is a cashpoint next to the restaurant, but {there isn’t} a bank."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Are there any bus stops close to your house? - Yes, there are.",
+          "student": " Are there any bus stops close to your house? - Yes, there are.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Are there",
+              "are"
+            ],
+            "studentWords": [
+              "Are there",
+              "are"
+            ],
+            "template": " {Are there} any bus stops close to your house? - Yes, there {are}."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " There are some beautiful trees in the town square.",
+          "student": " There are some beautiful trees in the town square.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "There are"
+            ],
+            "template": " {There are} some beautiful trees in the town square."
+          }
+        },
+        {
+          "id": 9,
+          "correct": " There isn’t a chemist's in this part of the city.",
+          "student": " There isn’t a chemist's in this part of the city.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " There isn’t {a} chemist's in this part of the city."
+          }
+        },
+        {
+          "id": 10,
+          "correct": " Are there any very nice museums in the city center? - Yes, there are.",
+          "student": " Are there any very nice museums in the city center? - Yes, there are.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "there"
+            ],
+            "studentWords": [
+              "there"
+            ],
+            "template": " Are {there} any very nice museums in the city center? - Yes, there are."
+          }
+        }
+      ]
+    },
+    "aa0575e5-9680-464d-a8e1-e87b55b9d25e": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "Things in your bag",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 1: Things in your bag",
+      "refId": "homework:46f4e297-81d2-4af0-a8e7-6462d1690551|201ee5c3-703d-4101-b4f8-a98cc5384d4f",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "11/11",
+      "instruction": "Do the crossword.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " ID card",
+          "student": " id card",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ID card"
+            ],
+            "studentWords": [
+              "id card"
+            ],
+            "template": " {ID card}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " credit card",
+          "student": " credit card",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "credit card"
+            ],
+            "studentWords": [
+              "credit card"
+            ],
+            "template": " {credit card}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " purse",
+          "student": " purse",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "purse"
+            ],
+            "studentWords": [
+              "purse"
+            ],
+            "template": " {purse}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " guide book",
+          "student": " guide book",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "guide book"
+            ],
+            "studentWords": [
+              "guide book"
+            ],
+            "template": " {guide book}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " camera",
+          "student": " camera",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "camera"
+            ],
+            "studentWords": [
+              "camera"
+            ],
+            "template": " {camera}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " money",
+          "student": " money",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "money"
+            ],
+            "studentWords": [
+              "money"
+            ],
+            "template": " {money}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " keys",
+          "student": " keys",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "keys"
+            ],
+            "studentWords": [
+              "keys"
+            ],
+            "template": " {keys}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " laptop",
+          "student": " laptop",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "laptop"
+            ],
+            "studentWords": [
+              "laptop"
+            ],
+            "template": " {laptop}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " wallet",
+          "student": " wallet",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "wallet"
+            ],
+            "studentWords": [
+              "wallet"
+            ],
+            "template": " {wallet}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " passport",
+          "student": " passport",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "passport"
+            ],
+            "studentWords": [
+              "passport"
+            ],
+            "template": " {passport}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " map",
+          "student": " map",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "map"
+            ],
+            "studentWords": [
+              "map"
+            ],
+            "template": " {map}"
+          }
+        }
+      ]
+    },
+    "5cbea446-f9eb-42d3-babe-815eb6a10b84": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 2: At the tourist information centre",
+      "refId": "homework:2b74a915-741d-4183-953d-94229461e6b0|4cf8b179-ba24-45b7-81e9-9952125f1a89",
+      "type": "DragAndDropListSentenceOrder",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Romina (R) is at the tourist information centre in Greenwich. Put her conversation with the assistant (A) in order.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "A  Hello, can I help you?",
+          "student": null,
+          "status": "Correct"
+        },
+        {
+          "id": 2,
+          "correct": "R  Yes, please. Do you have a map of Greenwich?",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 3,
+          "correct": "A  Yes, of course. Here you are.",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 4,
+          "correct": "R  OK, thanks. Also, where's the Greenwich Theatre?",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 5,
+          "correct": "A  It's in Crooms Hill.",
+          "student": null,
+          "status": "Fail"
+        }
+      ]
+    },
+    "94bfebeb-ad95-46bf-a2eb-7d76f682bc68": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 2: At the tourist information centre",
+      "refId": "homework:2b74a915-741d-4183-953d-94229461e6b0|4cf8b179-ba24-45b7-81e9-9952125f1a89",
+      "type": "DragAndDropListSentenceOrder",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "R  Can you show me the theater on this map?",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 2,
+          "correct": "A  Yes, of course. Here it is. It's about five minutes away.",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 3,
+          "correct": "R  And when is the Maritime Museum open?",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 4,
+          "correct": "A  It's open from 10 a.m. to 5 p.m.",
+          "student": null,
+          "status": "Correct"
+        },
+        {
+          "id": 5,
+          "correct": "R  Is it open every day?",
+          "student": null,
+          "status": "Correct"
+        },
+        {
+          "id": 6,
+          "correct": "A  Yes, it is.",
+          "student": null,
+          "status": "Fail"
+        }
+      ]
+    },
+    "839a3993-1b43-4d94-a4fa-fd7d56d9c1b0": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 2: At the tourist information centre",
+      "refId": "homework:2b74a915-741d-4183-953d-94229461e6b0|4cf8b179-ba24-45b7-81e9-9952125f1a89",
+      "type": "DragAndDropListSentenceOrder",
+      "correct": false,
+      "score": "0/1",
+      "instruction": null,
+      "answer": [
+        {
+          "id": 1,
+          "correct": "R  Thank you. And can I book a walking tour here?",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 2,
+          "correct": "A  Yes, you can. They're at 12.15 and 2.15. ",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 3,
+          "correct": "R  OK. How much are they?",
+          "student": null,
+          "status": "Fail"
+        },
+        {
+          "id": 4,
+          "correct": "A  They're £7.00 per person. ",
+          "student": null,
+          "status": "Correct"
+        },
+        {
+          "id": 5,
+          "correct": "R  Thanks a lot. Goodbye.",
+          "student": null,
+          "status": "Correct"
+        }
+      ]
+    },
+    "627d9839-7221-486a-a835-a7ee3012f23b": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 3: At the tourist information centre",
+      "refId": "homework:4f501d29-143b-4aaa-8af0-570deb9be285|ad284293-afff-4eb6-8bf3-03260a64a738",
+      "type": "Multichoice",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Does the tourist information centre have maps of Greenwich?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, it does."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "No, it doesn't."
+          }
+        }
+      ]
+    },
+    "5a2a3a68-dc53-406a-aed4-1c99734d7acd": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 3: At the tourist information centre",
+      "refId": "homework:4f501d29-143b-4aaa-8af0-570deb9be285|ad284293-afff-4eb6-8bf3-03260a64a738",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "How much are the walking tours of Greenwich?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "£17.00 per person"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "£7.00 per person"
+          }
+        }
+      ]
+    },
+    "24852067-9821-4e4d-9305-fa2c05dfc89c": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 3: At the tourist information centre",
+      "refId": "homework:4f501d29-143b-4aaa-8af0-570deb9be285|ad284293-afff-4eb6-8bf3-03260a64a738",
+      "type": "Multichoice",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "What time is the Maritime Museum open?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "from 10 a.m. to 5 p.m."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "from 11 a.m. to 5 p.m."
+          }
+        }
+      ]
+    },
+    "8a63c5ab-9966-4e9b-9b9f-3e8bd645bf2f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 3: At the tourist information centre",
+      "refId": "homework:4f501d29-143b-4aaa-8af0-570deb9be285|ad284293-afff-4eb6-8bf3-03260a64a738",
+      "type": "Multichoice",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Is it open on Sundays?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, it is."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "No, it isn't."
+          }
+        }
+      ]
+    },
+    "d33514cd-4134-4bb5-be2d-cab36251c564": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 3: At the tourist information centre",
+      "refId": "homework:4f501d29-143b-4aaa-8af0-570deb9be285|ad284293-afff-4eb6-8bf3-03260a64a738",
+      "type": "Multichoice",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Where is Greenwich Theatre?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "It's in Green Hill."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "It's in Crooms Hill."
+          }
+        }
+      ]
+    },
+    "de721c0e-f32c-47d6-913d-4e4f8f70d3f5": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 3: At the tourist information centre",
+      "refId": "homework:4f501d29-143b-4aaa-8af0-570deb9be285|ad284293-afff-4eb6-8bf3-03260a64a738",
+      "type": "Multichoice",
+      "correct": false,
+      "score": "0/1",
+      "instruction": "Is the Greenwich Theatre near the tourist information centre?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes, it is."
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "No, it isn't."
+          }
+        }
+      ]
+    },
+    "dc3fdb9a-2555-4801-bdcf-359630310f22": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 4: At the tourist information centre",
+      "refId": "homework:e2c911e1-18cd-4540-810e-07001290587b|037edee8-e9ae-4ada-b4e9-1baa367f3e1d",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": false,
+      "score": "0/11",
+      "instruction": "Complete the conversation with the words and phrases in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nASSISTANT: Good morning! How can I help you today?\n\nTOURIST: Hello! Do you have a map of Bath?\n\nASSISTANT: Of course. Here you are.\n\nTOURIST: Can you show me where the Jane Austen Museum is?\n\nASSISTANT: Sure! It's on Gay Street, just a short walk from here. Here it is on the map. \n\nTOURIST: Thank you. And where's the Royal Art Gallery?\n\nASSISTANT: The Royal Art Gallery is part of the Victoria Art Gallery, just by the Pulteney Bridge. \n\nTOURIST: Can you show me on this map?\n\nASSISTANT: Certainly. Here it is. They have some of the best collections.\n\nTOURIST: Great! I’d love to visit both places. Are they open today?\n\nASSISTANT: Yes, they are. but the museum is closed on Mondays and the gallery is closed every Wednesday.\n\nTOURIST: Also, do you have information on the city bus tours?\n\nASSISTANT: Yes, there are several bus tours around the city. Most of them start from the Abbey and take you around the main sights, including the Roman Baths and the Royal Crescent. \n\nTOURIST: What time do they start?\n\nASSISTANT: They start at 7 a.m. and 1 p.m.\n\nTOURIST: Perfect! And how much are they?\n\nASSISTANT: They're £8.00 per person.\n\nTOURIST: Wonderful! Thanks a lot.\n\nASSISTANT: My pleasure! Have a great time exploring Bath!\n",
+          "student": " \nASSISTANT: Good morning! How how much today?\n\nTOURIST: Hello! Do you have What time of Bath?\n\nASSISTANT: Of course. per person.\n\nTOURIST: Can you show me where the Jane Austen Museum is?\n\nASSISTANT: Sure! It's on Gay Street, just a short walk from here. Here it is on the map. \n\nTOURIST: Thank you. And can I help you the Royal Art Gallery?\n\nASSISTANT: The Royal Art Gallery is part of the Victoria Art Gallery, just by the Pulteney Bridge. \n\nTOURIST: closed on this map?\n\nASSISTANT: Certainly. Can you show me. They have some of the best collections.\n\nTOURIST: Great! I’d love to visit both places. Are they open today?\n\nASSISTANT: Yes, they are. but the museum is a lot on Mondays and the gallery is closed every Wednesday.\n\nTOURIST: Also, do you have information on the city bus tours?\n\nASSISTANT: Yes, there are several bus tours around the city. Most of them start from the Abbey and take you around the main sights, including the Roman Baths and the Royal Crescent. \n\nTOURIST: where's do they start?\n\nASSISTANT: They start at 7 a.m. and 1 p.m.\n\nTOURIST: Perfect! And Here it is are they?\n\nASSISTANT: They're £8.00 a map.\n\nTOURIST: Wonderful! Thanks Here you are.\n\nASSISTANT: My pleasure! Have a great time exploring Bath!\n",
+          "status": [
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "can I help you",
+              "a map",
+              "Here you are",
+              "where's",
+              "Can you show me",
+              "Here it is",
+              "closed",
+              "What time",
+              "how much",
+              "per person",
+              "a lot"
+            ],
+            "studentWords": [
+              "how much",
+              "What time",
+              "per person",
+              "can I help you",
+              "closed",
+              "Can you show me",
+              "a lot",
+              "where's",
+              "Here it is",
+              "a map",
+              "Here you are"
+            ],
+            "template": " \nASSISTANT: Good morning! How {can I help you} today?\n\nTOURIST: Hello! Do you have {a map} of Bath?\n\nASSISTANT: Of course. {Here you are}.\n\nTOURIST: Can you show me where the Jane Austen Museum is?\n\nASSISTANT: Sure! It's on Gay Street, just a short walk from here. Here it is on the map. \n\nTOURIST: Thank you. And {where's} the Royal Art Gallery?\n\nASSISTANT: The Royal Art Gallery is part of the Victoria Art Gallery, just by the Pulteney Bridge. \n\nTOURIST: {Can you show me} on this map?\n\nASSISTANT: Certainly. {Here it is}. They have some of the best collections.\n\nTOURIST: Great! I’d love to visit both places. Are they open today?\n\nASSISTANT: Yes, they are. but the museum is {closed} on Mondays and the gallery is closed every Wednesday.\n\nTOURIST: Also, do you have information on the city bus tours?\n\nASSISTANT: Yes, there are several bus tours around the city. Most of them start from the Abbey and take you around the main sights, including the Roman Baths and the Royal Crescent. \n\nTOURIST: {What time} do they start?\n\nASSISTANT: They start at 7 a.m. and 1 p.m.\n\nTOURIST: Perfect! And {how much} are they?\n\nASSISTANT: They're £8.00 {per person}.\n\nTOURIST: Wonderful! Thanks {a lot}.\n\nASSISTANT: My pleasure! Have a great time exploring Bath!\n"
+          }
+        }
+      ]
+    },
+    "fa0a1dbd-f4ae-43b2-bb96-06a8248e7425": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 2,
+        "lessonName": "Tourist information",
+        "moduleType": "homework",
+        "exerciseName": "At the tourist information centre",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Tourist information > Bài tập về nhà > Bài tập 5: At the tourist information centre",
+      "refId": "homework:2a177229-b53f-4a82-bda7-0af476da3b04|596f1d84-6221-4813-98fc-521c04254bfd",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "0/6",
+      "instruction": "Read the conversation again. Complete the answers to these questions.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Where's the Jane Austen Museum?\n\n-> It's on Gay Street.\n",
+          "student": " Where's the Jane Austen Museum?\n\n-> It's a.\n",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "on Gay Street"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " Where's the Jane Austen Museum?\n\n-> It's {on Gay Street}.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Is it near the tourist information centre?\n\n-> Yes|Yes, it is.\n",
+          "student": " Is it near the tourist information centre?\n\n-> d.\n",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, it is"
+            ],
+            "studentWords": [
+              "d"
+            ],
+            "template": " Is it near the tourist information centre?\n\n-> {Yes|Yes, it is}.\n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Is the Royal Gallery open on Wednesday?\n\n-> No|No, it isn't|No, it's not|No, it is not.\n",
+          "student": " Is the Royal Gallery open on Wednesday?\n\n-> f.\n",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "No|No, it isn't|No, it's not|No, it is not"
+            ],
+            "studentWords": [
+              "f"
+            ],
+            "template": " Is the Royal Gallery open on Wednesday?\n\n-> {No|No, it isn't|No, it's not|No, it is not}.\n"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " When do the bus tours start?\n\n-> They start at 7|seven a.m. and 1|one p.m.\n",
+          "student": " When do the bus tours start?\n\n-> They start at f a.m. and f p.m.\n",
+          "status": [
+            "Fail",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "7|seven",
+              "1|one"
+            ],
+            "studentWords": [
+              "f",
+              "f"
+            ],
+            "template": " When do the bus tours start?\n\n-> They start at {7|seven} a.m. and {1|one} p.m.\n"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " How much do they cost?\n\n-> They're £8.00|8 per person.\n",
+          "student": " How much do they cost?\n\n-> They're £f per person.\n",
+          "status": [
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "8.00|8"
+            ],
+            "studentWords": [
+              "f"
+            ],
+            "template": " How much do they cost?\n\n-> They're £{8.00|8} per person.\n"
           }
         }
       ]
