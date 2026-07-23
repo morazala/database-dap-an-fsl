@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-23T03:24:06.894Z",
+  "exportedAt": "2026-07-23T13:02:10.446Z",
   "totalQuestions": 943,
   "totalUnknownQuestions": 1,
   "answers": {
@@ -36092,13 +36092,13 @@
       "where": "Unit 6 > Tourist information > Video tương tác > Bài tập 4: Từ vựng",
       "refId": "video:22bf11a2-034d-49ea-bce8-4cf96dd0325f|b71a0424-0c81-401e-8dfc-464a8a56fbe0",
       "type": "GapFillScoreByGap",
-      "correct": false,
-      "score": "0/18",
+      "correct": true,
+      "score": "18/18",
       "instruction": "Choose the correct words or phrases to complete the conversations. Write the correct word in the gap.",
       "answer": [
         {
           "id": 1,
-          "correct": " Conversation A\n\nASSISTANT: Hello. on (I can / Can I) help you?\n\nTOURIST: Yes, please. in (When / Where) is the Sedgwick Museum open?\n\nA: It's open today Here it is (from / to) 10 a.m. Is it (from / to) 4 p.m.\n\nT: When (Is it / Is) open every day?\n\nA: No, it's closed to (in / on) Sundays.\n\nT: OK, thanks. And Can I (where's / there’s) the ADC Theatre?\n\nA: It's from (in / at) Park Street.\n\nT: Can you show me on this map (card / map)?\n\nA: Yes, of course. where's (Here is it / Here it is). It's about ten minutes away.\n",
+          "correct": " Conversation A\n\nASSISTANT: Hello. Can I (I can / Can I) help you?\n\nTOURIST: Yes, please. When (When / Where) is the Sedgwick Museum open?\n\nA: It's open today from (from / to) 10 a.m. to (from / to) 4 p.m.\n\nT: Is it (Is it / Is) open every day?\n\nA: No, it's closed on (in / on) Sundays.\n\nT: OK, thanks. And where's (where's / there’s) the ADC Theatre?\n\nA: It's in (in / at) Park Street.\n\nT: Can you show me on this map (card / map)?\n\nA: Yes, of course. Here it is (Here is it / Here it is). It's about ten minutes away.\n",
           "student": " Conversation A\n\nASSISTANT: Hello. Can I (I can / Can I) help you?\n\nTOURIST: Yes, please. When (When / Where) is the Sedgwick Museum open?\n\nA: It's open today from (from / to) 10 a.m. to (from / to) 4 p.m.\n\nT: Is it (Is it / Is) open every day?\n\nA: No, it's closed on (in / on) Sundays.\n\nT: OK, thanks. And where's (where's / there’s) the ADC Theatre?\n\nA: It's in (in / at) Park Street.\n\nT: Can you show me on this map (card / map)?\n\nA: Yes, of course. Here it is (Here is it / Here it is). It's about ten minutes away.\n",
           "status": [
             "Correct",
@@ -36114,16 +36114,16 @@
           ],
           "meta": {
             "correctWords": [
-              "on",
-              "in",
-              "Here it is",
-              "Is it",
-              "When",
-              "to",
               "Can I",
+              "When",
               "from",
+              "to",
+              "Is it",
+              "on",
+              "where's",
+              "in",
               "map",
-              "where's"
+              "Here it is"
             ],
             "studentWords": [
               "Can I",
@@ -36142,8 +36142,8 @@
         },
         {
           "id": 2,
-          "correct": " Conversation B\n\nT: Good are (afternoon / night). Do you have a map book (in / of) the UK?\n\nA: Yes, here you are (here you are / here are you).\n\nT: Thank you. And can I day (make / book) a bus tour here?\n\nA: Yes, they start afternoon (at / on) 10 a.m. and 2 p.m. every of (day / days).\n\nT: How much person (is / are) they?\n\nA: They're £17.50 per at (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n",
-          "student": " Conversation B\n\nT: Good afternoon (afternoon / night). Do you have a map of (in / of) the UK?\n\nA: Yes, here you are (here you are / here are you).\n\nT: Thank you. And can I book (make / book) a bus tour here?\n\nA: Yes, they start at (at / on) 10 a.m. and 2 p.m. every day (day / days).\n\nT: How much are (is / are) they?\n\nA: They're £17.50 per persob (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n",
+          "correct": " Conversation B\n\nT: Good afternoon (afternoon / night). Do you have a map of (in / of) the UK?\n\nA: Yes, here you are (here you are / here are you).\n\nT: Thank you. And can I book (make / book) a bus tour here?\n\nA: Yes, they start at (at / on) 10 a.m. and 2 p.m. every day (day / days).\n\nT: How much are (is / are) they?\n\nA: They're £17.50 per person (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n",
+          "student": " Conversation B\n\nT: Good afternoon (afternoon / night). Do you have a map of (in / of) the UK?\n\nA: Yes, here you are (here you are / here are you).\n\nT: Thank you. And can I book (make / book) a bus tour here?\n\nA: Yes, they start at (at / on) 10 a.m. and 2 p.m. every day (day / days).\n\nT: How much are (is / are) they?\n\nA: They're £17.50 per person (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n",
           "status": [
             "Correct",
             "Correct",
@@ -36152,18 +36152,18 @@
             "Correct",
             "Correct",
             "Correct",
-            "Process"
+            "Correct"
           ],
           "meta": {
             "correctWords": [
-              "are",
-              "book",
-              "here you are",
-              "day",
               "afternoon",
               "of",
-              "person",
-              "at"
+              "here you are",
+              "book",
+              "at",
+              "day",
+              "are",
+              "person"
             ],
             "studentWords": [
               "afternoon",
@@ -36173,7 +36173,7 @@
               "at",
               "day",
               "are",
-              "persob"
+              "person"
             ],
             "template": " Conversation B\n\nT: Good {afternoon} (afternoon / night). Do you have a map {of} (in / of) the UK?\n\nA: Yes, {here you are} (here you are / here are you).\n\nT: Thank you. And can I {book} (make / book) a bus tour here?\n\nA: Yes, they start {at} (at / on) 10 a.m. and 2 p.m. every {day} (day / days).\n\nT: How much {are} (is / are) they?\n\nA: They're £17.50 per {person} (person / people).\n\nT: OK. Thanks a lot. Goodbye.\n"
           }
