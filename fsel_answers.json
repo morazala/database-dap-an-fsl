@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-22T13:33:01.609Z",
-  "totalQuestions": 907,
+  "exportedAt": "2026-07-23T03:24:06.894Z",
+  "totalQuestions": 943,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -37877,111 +37877,143 @@
       "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 6: Từ vựng",
       "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|3f93ecf0-419c-45ba-a45c-dbfed089c151",
       "type": "GapFillScoreByGap",
-      "correct": null,
-      "score": null,
+      "correct": true,
+      "score": "8/8",
       "instruction": "Write the color of each clothing item in each picture.",
       "answer": [
         {
           "id": 1,
           "correct": " red trousers",
-          "student": null,
-          "status": null,
+          "student": " red trousers",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "red"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "red"
+            ],
             "template": " {red} trousers"
           }
         },
         {
           "id": 2,
           "correct": " brown jacket",
-          "student": null,
-          "status": null,
+          "student": " brown jacket",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "brown"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "brown"
+            ],
             "template": " {brown} jacket"
           }
         },
         {
           "id": 3,
           "correct": " blue jeans",
-          "student": null,
-          "status": null,
+          "student": " blue jeans",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "blue"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "blue"
+            ],
             "template": " {blue} jeans"
           }
         },
         {
           "id": 4,
           "correct": " white jumper",
-          "student": null,
-          "status": null,
+          "student": " white jumper",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "white"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "white"
+            ],
             "template": " {white} jumper"
           }
         },
         {
           "id": 5,
           "correct": " grey T-shirt",
-          "student": null,
-          "status": null,
+          "student": " grey T-shirt",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "grey"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "grey"
+            ],
             "template": " {grey} T-shirt"
           }
         },
         {
           "id": 6,
           "correct": " green trainers",
-          "student": null,
-          "status": null,
+          "student": " green trainers",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "green"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "green"
+            ],
             "template": " {green} trainers"
           }
         },
         {
           "id": 7,
           "correct": " yellow boots",
-          "student": null,
-          "status": null,
+          "student": " yellow boots",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "yellow"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "yellow"
+            ],
             "template": " {yellow} boots"
           }
         },
         {
           "id": 8,
           "correct": " pink tie",
-          "student": null,
-          "status": null,
+          "student": " pink tie",
+          "status": [
+            "Correct"
+          ],
           "meta": {
             "correctWords": [
               "pink"
             ],
-            "studentWords": null,
+            "studentWords": [
+              "pink"
+            ],
             "template": " {pink} tie"
           }
         }
@@ -38309,6 +38341,1715 @@
               "there’s"
             ],
             "template": " There are also {a lot of} good restaurants and hotels, and there's {a} big new shopping centre called South Gate.\nThere are trains to London every half an hour, and {there’s} an airport in Bristol, only 15 miles away."
+          }
+        }
+      ]
+    },
+    "f57bfc95-795e-449e-9117-d5ec8c266dfa": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Viết",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 7: Viết",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|c0f25c11-39ab-4599-a6c9-ac46319cef4d",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Fill in the gaps with the words from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " LISA\nMy favourite colour is pink and this is my favourite|favorite dress. I love this coat too, and these shoes. \n",
+          "student": " LISA\nMy favourite colour is pink and this is my favourite dress. I love this coat too, and these shoes. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "favourite|favorite"
+            ],
+            "studentWords": [
+              "favourite"
+            ],
+            "template": " LISA\nMy favourite colour is pink and this is my {favourite|favorite} dress. I love this coat too, and these shoes. \n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " BRAD\nMy clothes are usually blue or black, and I never wear brown. Oh, and this is my favourite jacket, this black one. \n",
+          "student": " BRAD\nMy clothes are usually blue or black, and I never wear brown. Oh, and this is my favourite jacket, this black one. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "my"
+            ],
+            "studentWords": [
+              "my"
+            ],
+            "template": " BRAD\nMy clothes are usually blue or black, and I never wear brown. Oh, and this is {my} favourite jacket, this black one. \n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " WAYNE\nI always wear a suit and tie for work, and, er, this is|this's my favourite shirt, this blue one. \n",
+          "student": " WAYNE\nI always wear a suit and tie for work, and, er, this is my favourite shirt, this blue one. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "this is|this's"
+            ],
+            "studentWords": [
+              "this is"
+            ],
+            "template": " WAYNE\nI always wear a suit and tie for work, and, er, {this is|this's} my favourite shirt, this blue one. \n"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " MONICA\nI usually wear a skirt for work, like today, and I love wearing jumpers when it's cold. And these are my favourite boots. I wear them all the time.\n",
+          "student": " MONICA\nI usually wear a skirt for work, like today, and I love wearing jumpers when it's cold. And these are my favourite boots. I wear them all the time.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "these are"
+            ],
+            "studentWords": [
+              "these are"
+            ],
+            "template": " MONICA\nI usually wear a skirt for work, like today, and I love wearing jumpers when it's cold. And {these are} my favourite boots. I wear them all the time.\n"
+          }
+        }
+      ]
+    },
+    "cef1890a-f8df-411d-beb2-e3e04514ec60": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 8: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|2962469c-710f-471c-a47c-6be87c5478cc",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "This is my favourite jacket.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "This is my favourite jacket",
+            "This is my favorite jacket"
+          ],
+          "student": "This is my favourite jacket.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "338ea105-e12c-4c27-af87-c92605cb9b55": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 8: Nói",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|2962469c-710f-471c-a47c-6be87c5478cc",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "These are my favourite boots.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "These are my favourite boots",
+            "These are my favorite boots",
+            "These are my favorite boots.",
+            "these are my favourite boots",
+            "these are my favorite boots"
+          ],
+          "student": "These are my favourite boots.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f94d9e60-f111-4f5a-ba7b-d1a6003bbbc6": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 9: Từ vựng",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|b84e1fa9-24a9-4f35-931f-f0ddfd591ea9",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Fill in the gaps with WHO or WHAT.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " What's your favourite colour?",
+          "student": " what's your favourite colour?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What"
+            ],
+            "studentWords": [
+              "what"
+            ],
+            "template": " {What}'s your favourite colour?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Who's your favourite actor?",
+          "student": " who's your favourite actor?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Who"
+            ],
+            "studentWords": [
+              "who"
+            ],
+            "template": " {Who}'s your favourite actor?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Who's your favourite singer?",
+          "student": " who's your favourite singer?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Who"
+            ],
+            "studentWords": [
+              "who"
+            ],
+            "template": " {Who}'s your favourite singer?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " What's your favourite film?",
+          "student": " what's your favourite film?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What"
+            ],
+            "studentWords": [
+              "what"
+            ],
+            "template": " {What}'s your favourite film?"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Who's your favourite family member?",
+          "student": " who's your favourite family member?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Who"
+            ],
+            "studentWords": [
+              "who"
+            ],
+            "template": " {Who}'s your favourite family member?"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " What's your favourite food?",
+          "student": " what's your favourite food?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What"
+            ],
+            "studentWords": [
+              "what"
+            ],
+            "template": " {What}'s your favourite food?"
+          }
+        }
+      ]
+    },
+    "1ea7914b-2e94-4ffe-bad6-4386628bb972": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 10
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 10: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|5e9ff863-37de-4d32-9f28-5eb55e2e5562",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Fill in the gaps with the words in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " TYRONE\n\nMy favourite restaurant is Happy Days, in Los Angeles, California. They have fantastic main courses and salads, and their cheeseburgers are famous all over the city. And for dessert, I always have their apple pie and vanilla ice cream. It’s delicious!\n",
+          "student": " TYRONE\n\nMy favourite restaurant is Happy Days, in Los Angeles, California. They have fantastic main courses and salads, and their cheeseburgers are famous all over the city. And for dessert, I always have their apple pie and vanilla ice cream. It’s delicious!\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "restaurant"
+            ],
+            "studentWords": [
+              "restaurant"
+            ],
+            "template": " TYRONE\n\nMy favourite {restaurant} is Happy Days, in Los Angeles, California. They have fantastic main courses and salads, and their cheeseburgers are famous all over the city. And for dessert, I always have their apple pie and vanilla ice cream. It’s delicious!\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " SUNEE\n\nMy favourite clothes shop is called Francesca’s. It’s in Covent Garden market in the centre of London. They sell beautiful dresses, trousers, jackets, jumpers and skirts, and they aren’t very expensive. I go shopping there every weekend with my friends.\n",
+          "student": " SUNEE\n\nMy favourite clothes shop is called Francesca’s. It’s in Covent Garden market in the centre of London. They sell beautiful dresses, trousers, jackets, jumpers and skirts, and they aren’t very expensive. I go shopping there every weekend with my friends.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "clothes shop"
+            ],
+            "studentWords": [
+              "clothes shop"
+            ],
+            "template": " SUNEE\n\nMy favourite {clothes shop} is called Francesca’s. It’s in Covent Garden market in the centre of London. They sell beautiful dresses, trousers, jackets, jumpers and skirts, and they aren’t very expensive. I go shopping there every weekend with my friends.\n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " KEIRA\n\nMy favourite cafe is called The Kangaroo in Melbourne, Australia. I go there for breakfast every morning on my way to work. It has great coffee, delicious hot croissants and very good sandwiches. The waiters are very friendly and they always play great music.\n",
+          "student": " KEIRA\n\nMy favourite cafe is called The Kangaroo in Melbourne, Australia. I go there for breakfast every morning on my way to work. It has great coffee, delicious hot croissants and very good sandwiches. The waiters are very friendly and they always play great music.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cafe"
+            ],
+            "studentWords": [
+              "cafe"
+            ],
+            "template": " KEIRA\n\nMy favourite {cafe} is called The Kangaroo in Melbourne, Australia. I go there for breakfast every morning on my way to work. It has great coffee, delicious hot croissants and very good sandwiches. The waiters are very friendly and they always play great music.\n"
+          }
+        }
+      ]
+    },
+    "5d603beb-7294-4903-b09a-9eab24eec8b5": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 11: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|f2117581-52d1-488f-8976-2fcab1aea354",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are the cheeseburgers at Happy Days famous?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Yes"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "No"
+          }
+        }
+      ]
+    },
+    "193e52a7-b8b4-43c5-b102-8922d5ff1a95": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 11: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|f2117581-52d1-488f-8976-2fcab1aea354",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What does Tyrone always have for dessert?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Apple pie and vanilla ice cream"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Chocolate cake and fruit"
+          }
+        }
+      ]
+    },
+    "a3913f62-03ca-46b6-b9a8-97ea26eaeaee": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 11: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|f2117581-52d1-488f-8976-2fcab1aea354",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are the clothes at Francesca's very expensive?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Yes"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "No"
+          }
+        }
+      ]
+    },
+    "5c4b188f-c881-4f52-b934-ac3a18a70453": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 11: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|f2117581-52d1-488f-8976-2fcab1aea354",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "When does Sunee go shopping there? ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Every day"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Once a month"
+          }
+        },
+        {
+          "id": 3,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Every weekend"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Every Tuesday"
+          }
+        }
+      ]
+    },
+    "9570f283-8596-4c8f-9520-187dd59866f8": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 11: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|f2117581-52d1-488f-8976-2fcab1aea354",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "When does Keira go to The Kangaroo? ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Every morning"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Every afternoon"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Every night"
+          }
+        }
+      ]
+    },
+    "2f50e9a4-0503-4d33-a6e6-0d82f6e8185f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 11
+      },
+      "where": "Unit 6 > It's my favorite > Video tương tác > Bài tập 11: Đọc",
+      "refId": "video:d7b263b9-c634-4887-9fa4-c7fc873ef141|f2117581-52d1-488f-8976-2fcab1aea354",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Are the waiters very friendly?",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Yes"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "No"
+          }
+        }
+      ]
+    },
+    "fbd41a70-5f98-471a-a810-9b0650cb6e2f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Fill in the gaps with THERE'S, THERE ISN'T, THERE ARE, or THERE AREN'T.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nI live in Wolverhampton, a city in England. There are (+) a lot of nice buildings and there's|there is (+) a beautiful old theatre called The Grand. There isn't|There is not|There's not (-) a river in the centre, but there's|there is (+) a nice park called West Park. There's|There is (+) a station in Wolverhampton, but there isn't|there is not|there's not (-) an airport. \n\nI live in Albert Road, near West Park. There aren't|There are not (-) any shops in my road, but there's|there is (+) a supermarket five minutes away. And there aren't|there are not (-) any restaurants near my house, but there are (+) a lot of very good restaurants in the centre.\n",
+          "student": " \nI live in Wolverhampton, a city in England. there are (+) a lot of nice buildings and there's (+) a beautiful old theatre called The Grand. there isn't (-) a river in the centre, but there's (+) a nice park called West Park. there's (+) a station in Wolverhampton, but there isn't (-) an airport. \n\nI live in Albert Road, near West Park. there aren't (-) any shops in my road, but there is (+) a supermarket five minutes away. And there aren't (-) any restaurants near my house, but there are (+) a lot of very good restaurants in the centre.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are",
+              "there's|there is",
+              "There isn't|There is not|There's not",
+              "there's|there is",
+              "There's|There is",
+              "there isn't|there is not|there's not",
+              "There aren't|There are not",
+              "there's|there is",
+              "there aren't|there are not",
+              "there are"
+            ],
+            "studentWords": [
+              "there are",
+              "there's",
+              "there isn't",
+              "there's",
+              "there's",
+              "there isn't",
+              "there aren't",
+              "there is",
+              "there aren't",
+              "there are"
+            ],
+            "template": " \nI live in Wolverhampton, a city in England. {There are} (+) a lot of nice buildings and {there's|there is} (+) a beautiful old theatre called The Grand. {There isn't|There is not|There's not} (-) a river in the centre, but {there's|there is} (+) a nice park called West Park. {There's|There is} (+) a station in Wolverhampton, but {there isn't|there is not|there's not} (-) an airport. \n\nI live in Albert Road, near West Park. {There aren't|There are not} (-) any shops in my road, but {there's|there is} (+) a supermarket five minutes away. And {there aren't|there are not} (-) any restaurants near my house, but {there are} (+) a lot of very good restaurants in the centre.\n"
+          }
+        }
+      ]
+    },
+    "63926fc6-dd20-4a8e-994e-a201f67eaf71": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Fill in the gaps with the correct form of THERE IS / THERE ARE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Is there a theatre in Wolverhampton?\n\nB: Yes, there is.\n\nA: Is there an airport?\n\nB: No, there isn't|there is not.\n\nA: Are there any shops in Albert Road?\n\nB: No, there aren't|there are not.\n\nA: Are there any good restaurants in the centre?\n\nB: Yes, there are.\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "Is there",
+              "there is",
+              "Is there",
+              "there isn't|there is not",
+              "Are there",
+              "there aren't|there are not",
+              "Are there",
+              "there are"
+            ],
+            "studentWords": null,
+            "template": " \nA: {Is there} a theatre in Wolverhampton?\n\nB: Yes, {there is}.\n\nA: {Is there} an airport?\n\nB: No, {there isn't|there is not}.\n\nA: {Are there} any shops in Albert Road?\n\nB: No, {there aren't|there are not}.\n\nA: {Are there} any good restaurants in the centre?\n\nB: Yes, {there are}.\n"
+          }
+        }
+      ]
+    },
+    "af4bc566-426c-48d7-a6e4-5df2f24216c8": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Write the words for places in a town or city. The first letters are given.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a bus stop",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "us",
+              "top"
+            ],
+            "studentWords": null,
+            "template": " a b{us} s{top}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a supermarket",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "upermarket"
+            ],
+            "studentWords": null,
+            "template": " a s{upermarket}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a market",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "arket"
+            ],
+            "studentWords": null,
+            "template": " a m{arket}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a bank",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "ank"
+            ],
+            "studentWords": null,
+            "template": " a b{ank}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a chemist's",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "hemist's"
+            ],
+            "studentWords": null,
+            "template": " a c{hemist's}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a square",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "quare"
+            ],
+            "studentWords": null,
+            "template": " a s{quare}"
+          }
+        }
+      ]
+    },
+    "a75627ab-6dfd-472d-825f-4f35703d77d1": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Ngữ pháp",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": null,
+      "score": null,
+      "instruction": "Choose the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " There's {*a*//any} bus station."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "some",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " There are {*some*//any} hotels."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "any",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " There aren't {an//*any*} museums."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "a",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " There isn't {*a*//some} cashpoint."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "a lot of",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " There are {any//*a lot of*} shops."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "three",
+          "student": null,
+          "status": null,
+          "meta": {
+            "sentenceTemplate": " There are {a//*three*} cinemas."
+          }
+        }
+      ]
+    },
+    "ccaf52f7-cba5-4ff8-a485-eae1f68b73ee": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Write the words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a purse",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "purse"
+            ],
+            "studentWords": null,
+            "template": " a {purse}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a wallet",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "wallet"
+            ],
+            "studentWords": null,
+            "template": " a {wallet}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " money",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "money"
+            ],
+            "studentWords": null,
+            "template": " {money}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a camera",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "camera"
+            ],
+            "studentWords": null,
+            "template": " a {camera}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a credit card",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "credit card"
+            ],
+            "studentWords": null,
+            "template": " a {credit card}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " keys",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "keys"
+            ],
+            "studentWords": null,
+            "template": " {keys}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " a passport",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "passport"
+            ],
+            "studentWords": null,
+            "template": " a {passport}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " an ID card",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "ID card"
+            ],
+            "studentWords": null,
+            "template": " an {ID card}"
+          }
+        }
+      ]
+    },
+    "0feec7dd-0dab-4872-aab5-22a23fd564e4": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Read the conversation. Choose the correct words or phrases.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nASSISTANT: Hello. Can I help (help / helps) you?\n\nTOURIST: Yes, please. Do you have (Do you have / You have} a map of the city centre?\n\nASSISTANT: Yes, of course. Here you are.\n\nTOURIST: Thanks. Where's (Where's / There's) the Royal Theatre? \n\nASSISTANT: It's in Green Street.\n\nTOURIST: Can you show (help / show) me on this map? \n\nASSISTANT: Yes, of course. Here (Here / Where) it is.\n\nTOURIST: When (When / Where) is the City Museum open?\n\nASSISTANT: It's open from (from / to) 9.30 a.m. to (from / to) 5.30 p.m. \n\nTOURIST: Is it open every day (day / days)?\n\nASSISTANT: A No, it's closed on (in / on) Mondays.\n\nTOURIST: And can I book (book / books) a walking tour here? \n\nASSISTANT: Yes, you can.\n",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "help",
+              "Do you have",
+              "Where's",
+              "show",
+              "Here",
+              "When",
+              "from",
+              "to",
+              "day",
+              "on",
+              "book"
+            ],
+            "studentWords": null,
+            "template": " \nASSISTANT: Hello. Can I {help} (help / helps) you?\n\nTOURIST: Yes, please. {Do you have} (Do you have / You have} a map of the city centre?\n\nASSISTANT: Yes, of course. Here you are.\n\nTOURIST: Thanks. {Where's} (Where's / There's) the Royal Theatre? \n\nASSISTANT: It's in Green Street.\n\nTOURIST: Can you {show} (help / show) me on this map? \n\nASSISTANT: Yes, of course. {Here} (Here / Where) it is.\n\nTOURIST: {When} (When / Where) is the City Museum open?\n\nASSISTANT: It's open {from} (from / to) 9.30 a.m. {to} (from / to) 5.30 p.m. \n\nTOURIST: Is it open every {day} (day / days)?\n\nASSISTANT: A No, it's closed {on} (in / on) Mondays.\n\nTOURIST: And can I {book} (book / books) a walking tour here? \n\nASSISTANT: Yes, you can.\n"
+          }
+        }
+      ]
+    },
+    "33700981-f8c4-449c-8d27-3ca2f51b16ff": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 1: Từ vựng",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|4fd7f149-72bd-4ea4-8f46-3b45539dc547",
+      "type": "GapFillScoreByGap",
+      "correct": null,
+      "score": null,
+      "instruction": "Write the words. The first letters are given.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " jeans",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "eans"
+            ],
+            "studentWords": null,
+            "template": " j{eans}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a coat",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "oat"
+            ],
+            "studentWords": null,
+            "template": " a c{oat}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a skirt",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "kirt"
+            ],
+            "studentWords": null,
+            "template": " a s{kirt}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " shoes",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "hoes"
+            ],
+            "studentWords": null,
+            "template": " s{hoes}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a jacket",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "acket"
+            ],
+            "studentWords": null,
+            "template": " a j{acket}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a dress",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "ress"
+            ],
+            "studentWords": null,
+            "template": " a d{ress}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " a jumper",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "umper"
+            ],
+            "studentWords": null,
+            "template": " a j{umper}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a shirt",
+          "student": null,
+          "status": null,
+          "meta": {
+            "correctWords": [
+              "hirt"
+            ],
+            "studentWords": null,
+            "template": " a s{hirt}"
+          }
+        }
+      ]
+    },
+    "97ee117e-7d2c-4337-a15e-b7d5f8f948b3": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 2: Đọc",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|b264aa8d-f631-4deb-8564-ec3d9d2b1236",
+      "type": "MatchingType2",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Read the texts quickly. Then match each picture with the correct tourist attraction.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Covent Garden",
+          "student": "Covent Garden",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/13_5093_1727290866004.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "The London Eye",
+          "student": "The London Eye",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/9_3751_1727290883033.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "The British Museum",
+          "student": "The British Museum",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/12_5515_1727290888054.png",
+            "optionLabel": "B"
+          }
+        }
+      ]
+    },
+    "2af74419-f139-482c-a998-254831925e61": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|ab5b2c49-09fd-447c-871c-09d58bdd13ce",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Read the texts again and answer the questions.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Is there a shop at the London Eye?\n\n-> Yes|Yes, there is.\n",
+          "student": " Is there a shop at the London Eye?\n\n-> Yes, there is.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, there is"
+            ],
+            "studentWords": [
+              "Yes, there is"
+            ],
+            "template": " Is there a shop at the London Eye?\n\n-> {Yes|Yes, there is}.\n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " How much is the London Eye for two adults and a three-year-old child?\n\n-> £37.80\n",
+          "student": " How much is the London Eye for two adults and a three-year-old child?\n\n-> £37.80\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "37.80"
+            ],
+            "studentWords": [
+              "37.80"
+            ],
+            "template": " How much is the London Eye for two adults and a three-year-old child?\n\n-> £{37.80}\n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " What tube station do you go to for the London Eye?\n\n-> Waterloo\n",
+          "student": " What tube station do you go to for the London Eye?\n\n-> Waterloo\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Waterloo"
+            ],
+            "studentWords": [
+              "Waterloo"
+            ],
+            "template": " What tube station do you go to for the London Eye?\n\n-> {Waterloo}\n"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Are there any cafés at the British Museum?\n\n-> Yes|Yes, there are.\n",
+          "student": " Are there any cafés at the British Museum?\n\n-> Yes, there are.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, there are"
+            ],
+            "studentWords": [
+              "Yes, there are"
+            ],
+            "template": " Are there any cafés at the British Museum?\n\n-> {Yes|Yes, there are}.\n"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Is the British Museum open on Mondays?\n\n-> Yes|Yes, it is.\n",
+          "student": " Is the British Museum open on Mondays?\n\n-> Yes, it is.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, it is"
+            ],
+            "studentWords": [
+              "Yes, it is"
+            ],
+            "template": " Is the British Museum open on Mondays?\n\n-> {Yes|Yes, it is}.\n"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Is the British Museum open in the evening?\n\n-> No|No, it isn’t.\n",
+          "student": " Is the British Museum open in the evening?\n\n-> No, it isn't.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "No|No, it isn’t"
+            ],
+            "studentWords": [
+              "No, it isn't"
+            ],
+            "template": " Is the British Museum open in the evening?\n\n-> {No|No, it isn’t}.\n"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Is Covent Garden in the centre of London?\n\n-> Yes|Yes, it is.\n",
+          "student": " Is Covent Garden in the centre of London?\n\n-> Yes, it is.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, it is"
+            ],
+            "studentWords": [
+              "Yes, it is"
+            ],
+            "template": " Is Covent Garden in the centre of London?\n\n-> {Yes|Yes, it is}.\n"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Are there any places to eat in Covent Garden?\n\n-> Yes|Yes, there are.\n",
+          "student": " Are there any places to eat in Covent Garden?\n\n-> Yes, there are.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, there are"
+            ],
+            "studentWords": [
+              "Yes, there are"
+            ],
+            "template": " Are there any places to eat in Covent Garden?\n\n-> {Yes|Yes, there are}.\n"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " Are there any theatres near Covent Garden?\n\n-> Yes|Yes, there are.\n",
+          "student": " Are there any theatres near Covent Garden?\n\n-> Yes, there are.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Yes|Yes, there are"
+            ],
+            "studentWords": [
+              "Yes, there are"
+            ],
+            "template": " Are there any theatres near Covent Garden?\n\n-> {Yes|Yes, there are}.\n"
+          }
+        }
+      ]
+    },
+    "03977e36-ba3c-4b62-9dab-0fda0538c58a": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 4: Ngữ pháp",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|773c0175-d2c7-4654-a079-a353be2d0d7d",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Fill in the gaps with THERE'S or THERE ARE.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " The London Eye\n\nThe London Eye is a great place to visit. You can see a lot of London’s famous buildings from the top because it’s 135m high! There's|There is also a shop and two good cafés. In the summer the London Eye is open from 10.00 a.m. to 9.30 p.m. every day. Adults (16+) £18.90, Children (4-15) £11.10, Children (0-4) free. \n",
+          "student": " The London Eye\n\nThe London Eye is a great place to visit. You can see a lot of London’s famous buildings from the top because it’s 135m high! there's also a shop and two good cafés. In the summer the London Eye is open from 10.00 a.m. to 9.30 p.m. every day. Adults (16+) £18.90, Children (4-15) £11.10, Children (0-4) free. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There's|There is"
+            ],
+            "studentWords": [
+              "there's"
+            ],
+            "template": " The London Eye\n\nThe London Eye is a great place to visit. You can see a lot of London’s famous buildings from the top because it’s 135m high! {There's|There is} also a shop and two good cafés. In the summer the London Eye is open from 10.00 a.m. to 9.30 p.m. every day. Adults (16+) £18.90, Children (4-15) £11.10, Children (0-4) free. \n"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " The British Museum\n\nThe British Museum is the best museum in London. There are a lot of interesting things to see and the building is also very beautiful. There are some nice cafés, a very good restaurant and a bookshop. The museum is open from 10.00 a.m. to 5.30 p.m. every day – and it’s free!\n",
+          "student": " The British Museum\n\nThe British Museum is the best museum in London. there are a lot of interesting things to see and the building is also very beautiful. there are some nice cafés, a very good restaurant and a bookshop. The museum is open from 10.00 a.m. to 5.30 p.m. every day – and it’s free!\n",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are",
+              "There are"
+            ],
+            "studentWords": [
+              "there are",
+              "there are"
+            ],
+            "template": " The British Museum\n\nThe British Museum is the best museum in London. {There are} a lot of interesting things to see and the building is also very beautiful. {There are} some nice cafés, a very good restaurant and a bookshop. The museum is open from 10.00 a.m. to 5.30 p.m. every day – and it’s free!\n"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Covent Garden\n\nCovent Garden is a big market in the centre of the city. It’s a great place to go shopping and it’s very popular with tourists. You can also see some of the best street entertainers in London. There are a lot of nice places to eat in Covent Garden and it’s also near London’s theatres and cinemas.\n",
+          "student": " Covent Garden\n\nCovent Garden is a big market in the centre of the city. It’s a great place to go shopping and it’s very popular with tourists. You can also see some of the best street entertainers in London. there are a lot of nice places to eat in Covent Garden and it’s also near London’s theatres and cinemas.\n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "There are"
+            ],
+            "studentWords": [
+              "there are"
+            ],
+            "template": " Covent Garden\n\nCovent Garden is a big market in the centre of the city. It’s a great place to go shopping and it’s very popular with tourists. You can also see some of the best street entertainers in London. {There are} a lot of nice places to eat in Covent Garden and it’s also near London’s theatres and cinemas.\n"
+          }
+        }
+      ]
+    },
+    "4e6ceda0-e0dc-4990-bbf2-348799a8a827": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 5: Đọc",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|6aeb803d-8772-4a6b-a6ea-3f50fd1e2769",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Put the words in the right order to make phrases from the article. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "...is",
+              "a",
+              "great",
+              "place",
+              "to (visit)"
+            ],
+            "studentWords": [
+              "...is",
+              "a",
+              "great",
+              "place",
+              "to (visit)"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "You",
+              "can",
+              "(also)..."
+            ],
+            "studentWords": [
+              "You",
+              "can",
+              "(also)..."
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "...is",
+              "open",
+              "from (10.00 a.m.)",
+              "to (9.30 p.m.)",
+              "every day."
+            ],
+            "studentWords": [
+              "...is",
+              "open",
+              "from (10.00 a.m.)",
+              "to (9.30 p.m.)",
+              "every day."
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "...is",
+              "the",
+              "best (museum)",
+              "in",
+              "(London)."
+            ],
+            "studentWords": [
+              "...is",
+              "the",
+              "best (museum)",
+              "in",
+              "(London)."
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "...is",
+              "very",
+              "popular",
+              "with (tourists)"
+            ],
+            "studentWords": [
+              "...is",
+              "very",
+              "popular",
+              "with (tourists)"
+            ]
+          }
+        }
+      ]
+    },
+    "2fabea85-378d-4763-a4f5-d23c949e156f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 6: Đọc",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|3d478b69-dd75-4fb9-99a1-6e10a786c893",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the text using the words in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Hyde Park\n\nHyde Park is very popular with tourists. You can play football or tennis there, and it’s a great place to have a picnic. There's also a very nice restaurant in the park and there are sometimes concerts at the weekend. The park is open from 5 a.m. to midnight every day.\n",
+          "student": " Hyde Park\n\nHyde Park is very popular with tourists. You can play football or tennis there, and it’s a great place to have a picnic. There's also a very nice restaurant in the park and there are sometimes concerts at the weekend. The park is open from 5 a.m. to midnight every day.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "very popular with",
+              "You can",
+              "a great place to",
+              "There's also",
+              "there are",
+              "every day"
+            ],
+            "studentWords": [
+              "very popular with",
+              "You can",
+              "a great place to",
+              "There's also",
+              "there are",
+              "every day"
+            ],
+            "template": " Hyde Park\n\nHyde Park is {very popular with} tourists. {You can} play football or tennis there, and it’s {a great place to} have a picnic. {There's also} a very nice restaurant in the park and {there are} sometimes concerts at the weekend. The park is open from 5 a.m. to midnight {every day}.\n"
+          }
+        }
+      ]
+    },
+    "7840218b-71c8-49dc-80ff-2157c24d6a03": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 6: Đọc",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|3d478b69-dd75-4fb9-99a1-6e10a786c893",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the text using the words in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Camden Market\n\nCamden Market is the best market in London and it’s very popular with young people. It’s a great place to buy clothes and you can also buy food and things for the home. There are also some nice cafés. The market is open from 10 a.m. to 6 p.m. every day, but the weekend is the best time to visit.\n",
+          "student": " Camden Market\n\nCamden Market is the best market in London and it’s very popular with young people. It’s a great place to buy clothes and you can also buy food and things for the home. There are also some nice cafés. The market is open from 10 a.m. to 6 p.m. every day, but the weekend is the best time to visit.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "is the best",
+              "very popular with",
+              "a great place to",
+              "you can also",
+              "There are",
+              "is open from"
+            ],
+            "studentWords": [
+              "is the best",
+              "very popular with",
+              "a great place to",
+              "you can also",
+              "There are",
+              "is open from"
+            ],
+            "template": " Camden Market\n\nCamden Market {is the best} market in London and it’s {very popular with} young people. It’s {a great place to} buy clothes and {you can also} buy food and things for the home. {There are} also some nice cafés. The market {is open from} 10 a.m. to 6 p.m. every day, but the weekend is the best time to visit.\n"
+          }
+        }
+      ]
+    },
+    "fa8863cd-dbdb-471c-a0d5-c8cdcdb8a5bb": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 6 > Unit 6 Test > Video tương tác > Bài tập 7: Đọc",
+      "refId": "video:c973d03a-6d73-49a0-bc68-49b0ba5d13ce|c97edc76-a00e-49d5-b419-5fef8d6746dc",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Read the texts and mark the sentence true or false.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Young people like Camden Market. {*True*//False}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " You can buy clothes and food there. {*True*//False}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The market is closed on Sundays. {True//*False*}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "False",
+          "student": "False",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " You can't play tennis in Hyde Park. {True//*False*}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " You can have lunch in the park. {*True*//False}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "True",
+          "student": "True",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Hyde Park opens early in the morning. {*True*//False}"
           }
         }
       ]
@@ -57005,6 +58746,1616 @@
               "f"
             ],
             "template": " How much do they cost?\n\n-> They're £{8.00|8} per person.\n"
+          }
+        }
+      ]
+    },
+    "1047af6c-3f27-4549-9700-d94af5306420": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "homework",
+        "exerciseName": "Clothes",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > It's my favorite > Bài tập về nhà > Bài tập 1: Clothes",
+      "refId": "homework:2420a6be-8b55-420b-b49c-23a8e81f0157|d857979f-cb47-4184-a5f0-06d801cf2462",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "14/14",
+      "instruction": "Write the words. The first letters are given.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a tie",
+          "student": " a tie",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ie"
+            ],
+            "studentWords": [
+              "ie"
+            ],
+            "template": " a t{ie}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " boots",
+          "student": " boots",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "oots"
+            ],
+            "studentWords": [
+              "oots"
+            ],
+            "template": " b{oots}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a jumper",
+          "student": " a jumper",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "umper"
+            ],
+            "studentWords": [
+              "umper"
+            ],
+            "template": " a j{umper}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a coat",
+          "student": " a coat",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "oat"
+            ],
+            "studentWords": [
+              "oat"
+            ],
+            "template": " a c{oat}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " trainers",
+          "student": " trainers",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "rainers"
+            ],
+            "studentWords": [
+              "rainers"
+            ],
+            "template": " t{rainers}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a shirt",
+          "student": " a shirt",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hirt"
+            ],
+            "studentWords": [
+              "hirt"
+            ],
+            "template": " a s{hirt}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " jeans",
+          "student": " jeans",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "eans"
+            ],
+            "studentWords": [
+              "eans"
+            ],
+            "template": " j{eans}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a T-shirt",
+          "student": " a T-shirt",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "shirt"
+            ],
+            "studentWords": [
+              "shirt"
+            ],
+            "template": " a T-{shirt}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " shoes",
+          "student": " shoes",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hoes"
+            ],
+            "studentWords": [
+              "hoes"
+            ],
+            "template": " s{hoes}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " trousers",
+          "student": " trousers",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "rousers"
+            ],
+            "studentWords": [
+              "rousers"
+            ],
+            "template": " t{rousers}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " a skirt",
+          "student": " a skirt",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "kirt"
+            ],
+            "studentWords": [
+              "kirt"
+            ],
+            "template": " a s{kirt}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": " a jacket",
+          "student": " a jacket",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "acket"
+            ],
+            "studentWords": [
+              "acket"
+            ],
+            "template": " a j{acket}"
+          }
+        },
+        {
+          "id": 13,
+          "correct": " a dress",
+          "student": " a dress",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ress"
+            ],
+            "studentWords": [
+              "ress"
+            ],
+            "template": " a d{ress}"
+          }
+        },
+        {
+          "id": 14,
+          "correct": " a suit",
+          "student": " a suit",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "uit"
+            ],
+            "studentWords": [
+              "uit"
+            ],
+            "template": " a s{uit}"
+          }
+        }
+      ]
+    },
+    "63876d61-d143-4238-8150-db23d69bc83b": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "homework",
+        "exerciseName": "Colours",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > It's my favorite > Bài tập về nhà > Bài tập 2: Colours",
+      "refId": "homework:9433abfb-3b72-4e7a-be2c-1981de7cd734|3565de18-7340-4a93-a859-74fda5ddbb32",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Write the colours from the hints.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " der -> red",
+          "student": " der -> red",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ed"
+            ],
+            "studentWords": [
+              "ed"
+            ],
+            "template": " der -> r{ed}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " loeywl -> yellow",
+          "student": " loeywl -> yellow",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ellow"
+            ],
+            "studentWords": [
+              "ellow"
+            ],
+            "template": " loeywl -> y{ellow}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " ronwb -> brown",
+          "student": " ronwb -> brown",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "rown"
+            ],
+            "studentWords": [
+              "rown"
+            ],
+            "template": " ronwb -> b{rown}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " cabkl -> black",
+          "student": " cabkl -> black",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "lack"
+            ],
+            "studentWords": [
+              "lack"
+            ],
+            "template": " cabkl -> b{lack}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " enrge -> green",
+          "student": " enrge -> green",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "reen"
+            ],
+            "studentWords": [
+              "reen"
+            ],
+            "template": " enrge -> g{reen}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " elub -> blue",
+          "student": " elub -> blue",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "lue"
+            ],
+            "studentWords": [
+              "lue"
+            ],
+            "template": " elub -> b{lue}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " tihew -> white",
+          "student": " tihew -> white",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hite"
+            ],
+            "studentWords": [
+              "hite"
+            ],
+            "template": " tihew -> w{hite}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " ipkn -> pink",
+          "student": " ipkn -> pink",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ink"
+            ],
+            "studentWords": [
+              "ink"
+            ],
+            "template": " ipkn -> p{ink}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " eyrg -> grey",
+          "student": " eyrg -> grey",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "rey"
+            ],
+            "studentWords": [
+              "rey"
+            ],
+            "template": " eyrg -> g{rey}"
+          }
+        }
+      ]
+    },
+    "475f839c-650c-4a88-8e7d-14f2aabd6d35": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "homework",
+        "exerciseName": "Favourite",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > It's my favorite > Bài tập về nhà > Bài tập 3: Favourite",
+      "refId": "homework:fe87050f-aa6a-4d69-a247-93020e769a31|3cc7c086-7449-4461-af03-fd6861b8e94d",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Make sentences with these words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "What's",
+              "your",
+              "favourite",
+              "food",
+              "?"
+            ],
+            "studentWords": [
+              "What's",
+              "your",
+              "favourite",
+              "food",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "These",
+              "are",
+              "my",
+              "favourite",
+              "shoes",
+              "."
+            ],
+            "studentWords": [
+              "These",
+              "are",
+              "my",
+              "favourite",
+              "shoes",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Who's",
+              "your",
+              "favourite",
+              "singer",
+              "?"
+            ],
+            "studentWords": [
+              "Who's",
+              "your",
+              "favourite",
+              "singer",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "This",
+              "is",
+              "my",
+              "favourite",
+              "shirt",
+              "."
+            ],
+            "studentWords": [
+              "This",
+              "is",
+              "my",
+              "favourite",
+              "shirt",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "My",
+              "favourite",
+              "colour",
+              "is",
+              "blue",
+              "."
+            ],
+            "studentWords": [
+              "My",
+              "favourite",
+              "colour",
+              "is",
+              "blue",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Is",
+              "red",
+              "your",
+              "favourite",
+              "colour",
+              "?"
+            ],
+            "studentWords": [
+              "Is",
+              "red",
+              "your",
+              "favourite",
+              "colour",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "Who",
+              "is",
+              "your",
+              "favourite",
+              "family",
+              "member",
+              "?"
+            ],
+            "studentWords": [
+              "Who",
+              "is",
+              "your",
+              "favourite",
+              "family",
+              "member",
+              "?"
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "These",
+              "are",
+              "my",
+              "favourite",
+              "boots",
+              "."
+            ],
+            "studentWords": [
+              "These",
+              "are",
+              "my",
+              "favourite",
+              "boots",
+              "."
+            ]
+          }
+        }
+      ]
+    },
+    "e532a90a-92f2-497b-aa8c-c9a4cd537a7d": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "homework",
+        "exerciseName": "Pronunciation: /tʃ/ and /dʒ/",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > It's my favorite > Bài tập về nhà > Bài tập 4: Pronunciation: /tʃ/ and /dʒ/",
+      "refId": "homework:cab16b6f-a379-4a32-b04c-a8ef94fdabf7|c3df1d11-a503-4a14-95c9-6377ba08c42f",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Look at the letters in CAPITAL. Choose the correct sound.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "tʃ",
+          "student": "tʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " CHocolate {*tʃ*//dʒ}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "dʒ",
+          "student": "dʒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Jumper {tʃ//*dʒ*}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "dʒ",
+          "student": "dʒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " languaGE {tʃ//*dʒ*}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "tʃ",
+          "student": "tʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " CHildren {*tʃ*//dʒ}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "dʒ",
+          "student": "dʒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " manaGer {tʃ//*dʒ*}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "tʃ",
+          "student": "tʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " picTure {*tʃ*//dʒ}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "dʒ",
+          "student": "dʒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Jeans {tʃ//*dʒ*}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "tʃ",
+          "student": "tʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " FrenCH {*tʃ*//dʒ}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "dʒ",
+          "student": "dʒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " paGE {tʃ//*dʒ*}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "tʃ",
+          "student": "tʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " muCH {*tʃ*//dʒ}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": "tʃ",
+          "student": "tʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " CHips {*tʃ*//dʒ}"
+          }
+        },
+        {
+          "id": 12,
+          "correct": "dʒ",
+          "student": "dʒ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Jacket {tʃ//*dʒ*}"
+          }
+        }
+      ]
+    },
+    "88e2b08b-b71b-4688-bc11-4ea673fa6e7f": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 3,
+        "lessonName": "It's my favorite",
+        "moduleType": "homework",
+        "exerciseName": "Spelling: silent letters",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > It's my favorite > Bài tập về nhà > Bài tập 5: Spelling: silent letters",
+      "refId": "homework:d09a09e3-ae0c-4c48-b458-ab069448a00f|0d02f5fe-62c3-4464-8404-dd179e09efdd",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "We don't say every letter in some words. Write the silent letters.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " building",
+          "student": " building",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "u"
+            ],
+            "studentWords": [
+              "u"
+            ],
+            "template": " b{u}ilding"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " threatre",
+          "student": " threatre",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "r"
+            ],
+            "studentWords": [
+              "r"
+            ],
+            "template": " threat{r}e"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " write",
+          "student": " write",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "w"
+            ],
+            "studentWords": [
+              "w"
+            ],
+            "template": " {w}rite"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " answer",
+          "student": " answer",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "w"
+            ],
+            "studentWords": [
+              "w"
+            ],
+            "template": " ans{w}er"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " sandwich",
+          "student": " sandwich",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "d"
+            ],
+            "studentWords": [
+              "d"
+            ],
+            "template": " san{d}wich"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Wednesday",
+          "student": " Wednesday",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "d"
+            ],
+            "studentWords": [
+              "d"
+            ],
+            "template": " We{d}nesday"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " postcard",
+          "student": " postcard",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "t"
+            ],
+            "studentWords": [
+              "t"
+            ],
+            "template": " pos{t}card"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " breakfast",
+          "student": " breakfast",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " bre{a}kfast"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " vegetables",
+          "student": " vegetables",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "e"
+            ],
+            "studentWords": [
+              "e"
+            ],
+            "template": " veg{e}tables"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " fruit",
+          "student": " fruit",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "i"
+            ],
+            "studentWords": [
+              "i"
+            ],
+            "template": " fru{i}t"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " bread",
+          "student": " bread",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a"
+            ],
+            "studentWords": [
+              "a"
+            ],
+            "template": " bre{a}d"
+          }
+        },
+        {
+          "id": 12,
+          "correct": " chocolate",
+          "student": " chocolate",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "o"
+            ],
+            "studentWords": [
+              "o"
+            ],
+            "template": " choc{o}late"
+          }
+        }
+      ]
+    },
+    "a4d5723b-9113-4a08-a5b2-48706ac5ff05": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "homework",
+        "exerciseName": "Places in a town or city",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 6 > Unit 6 Test > Bài tập về nhà > Bài tập 1: Places in a town or city",
+      "refId": "homework:c91cf6a9-e997-4420-a803-ee2b86971aec|8fcb3980-e854-422c-8e66-cc95875c6945",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Write the words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a cashpoint",
+          "student": " a cashpoint",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cashpoint"
+            ],
+            "studentWords": [
+              "cashpoint"
+            ],
+            "template": " a {cashpoint}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a bank",
+          "student": " a bank",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "bank"
+            ],
+            "studentWords": [
+              "bank"
+            ],
+            "template": " a {bank}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " a chemist's",
+          "student": " a chemist's",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "chemist's"
+            ],
+            "studentWords": [
+              "chemist's"
+            ],
+            "template": " a {chemist's}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a market",
+          "student": " a market",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "market"
+            ],
+            "studentWords": [
+              "market"
+            ],
+            "template": " a {market}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " a post office",
+          "student": " a post office",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "post office"
+            ],
+            "studentWords": [
+              "post office"
+            ],
+            "template": " a {post office}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a bus stop",
+          "student": " a bus stop",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "bus stop"
+            ],
+            "studentWords": [
+              "bus stop"
+            ],
+            "template": " a {bus stop}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " an airport",
+          "student": " an airport",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "airport"
+            ],
+            "studentWords": [
+              "airport"
+            ],
+            "template": " an {airport}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a bus station|station",
+          "student": " a bus station",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "bus station|station"
+            ],
+            "studentWords": [
+              "bus station"
+            ],
+            "template": " a {bus station|station}"
+          }
+        }
+      ]
+    },
+    "42e8cae4-6b7b-4e38-a2cc-4f9fe9186e86": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "homework",
+        "exerciseName": "In a tourist information centre",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 6 > Unit 6 Test > Bài tập về nhà > Bài tập 2: In a tourist information centre",
+      "refId": "homework:ae7e297e-e37e-4f2b-99f2-13976d0ad317|cb9eeca3-9959-4425-8bf6-991347cd8052",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Write ONE word in each gap to complete the conversation between a tourist and an assistant in Dublin.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nAssistant: Good afternoon! How can I help you today?\n\nTourist: Hello. Do you have a map of Dublin?\n\nAssistant: Yes, here you are.\n\nTourist: Thanks. Where's the Museum of Modern Art?\n\nAssistant: It's not too far from the city centre, on Military Road. \n\nTourist: Great, thank you! And what time does the museum open?\n\nAssistant: The Museum of Modern Art opens from 10 AM to 5:30 PM. It’s closed on Mondays.\n\nTourist: Perfect, thank you. And what about the Guinness Storehouse? Can you show me on this map?\n\nAssistant: Certainly. Here it is. It is open from 10 AM to 7 PM. \n\nTourist: Is it open today?\n\nAssistant: No, today's Tuesday so it's closed. You can go tomorrow.\n\nTourist: That sounds good. How much is the ticket?\n\nAssistant: Tickets cost around €26 if you buy them online, but it might be a little more if you buy at the door. \n\nTourist: Are there any good shops and restaurants near the museum and the storehouse?\n\nAssistant: Of course. There are a lot of very nice restaurants and shops in those areas.\n\nTourist: Thanks so much for your help!\n\nAssistant: You’re very welcome! Have a great time exploring the city!\n",
+          "student": " \nAssistant: Good afternoon! How can I help you today?\n\nTourist: Hello. Do you have a map of Dublin?\n\nAssistant: Yes, here you are.\n\nTourist: Thanks. where's the Museum of Modern Art?\n\nAssistant: It's not too far from the city centre, on Military Road. \n\nTourist: Great, thank you! And what time does the museum open?\n\nAssistant: The Museum of Modern Art opens from 10 AM to 5:30 PM. It’s closed on Mondays.\n\nTourist: Perfect, thank you. And what about the Guinness Storehouse? Can you show me on this map?\n\nAssistant: Certainly. Here it is. It is open from 10 AM to 7 PM. \n\nTourist: is it open today?\n\nAssistant: No, today's Tuesday so it's closed. You can go tomorrow.\n\nTourist: That sounds good. How much is the ticket?\n\nAssistant: Tickets cost around €26 if you buy them online, but it might be a little more if you buy at the door. \n\nTourist: Are there any good shops and restaurants near the museum and the storehouse?\n\nAssistant: Of course. There are a lot of very nice restaurants and shops in those areas.\n\nTourist: Thanks so much for your help!\n\nAssistant: You’re very welcome! Have a great time exploring the city!\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can",
+              "map",
+              "here",
+              "Where's",
+              "time",
+              "from",
+              "to",
+              "it",
+              "Is",
+              "much",
+              "there",
+              "lot"
+            ],
+            "studentWords": [
+              "can",
+              "map",
+              "here",
+              "where's",
+              "time",
+              "from",
+              "to",
+              "it",
+              "is",
+              "much",
+              "there",
+              "lot"
+            ],
+            "template": " \nAssistant: Good afternoon! How {can} I help you today?\n\nTourist: Hello. Do you have a {map} of Dublin?\n\nAssistant: Yes, {here} you are.\n\nTourist: Thanks. {Where's} the Museum of Modern Art?\n\nAssistant: It's not too far from the city centre, on Military Road. \n\nTourist: Great, thank you! And what {time} does the museum open?\n\nAssistant: The Museum of Modern Art opens {from} 10 AM {to} 5:30 PM. It’s closed on Mondays.\n\nTourist: Perfect, thank you. And what about the Guinness Storehouse? Can you show me on this map?\n\nAssistant: Certainly. Here {it} is. It is open from 10 AM to 7 PM. \n\nTourist: {Is} it open today?\n\nAssistant: No, today's Tuesday so it's closed. You can go tomorrow.\n\nTourist: That sounds good. How {much} is the ticket?\n\nAssistant: Tickets cost around €26 if you buy them online, but it might be a little more if you buy at the door. \n\nTourist: Are {there} any good shops and restaurants near the museum and the storehouse?\n\nAssistant: Of course. There are a {lot} of very nice restaurants and shops in those areas.\n\nTourist: Thanks so much for your help!\n\nAssistant: You’re very welcome! Have a great time exploring the city!\n"
+          }
+        }
+      ]
+    },
+    "cffab5fa-15b7-4b48-8c7e-13a0b250bac3": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "homework",
+        "exerciseName": "Things in a bag",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 6 > Unit 6 Test > Bài tập về nhà > Bài tập 3: Things in a bag",
+      "refId": "homework:9731c7bd-ab80-4d78-957f-449c31d90b79|8a034265-e69c-4dc7-8b84-395ead9630a4",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "11/11",
+      "instruction": "Write the words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a map",
+          "student": " a map",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "map"
+            ],
+            "studentWords": [
+              "map"
+            ],
+            "template": " a {map}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " a passport",
+          "student": " a passport",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "passport"
+            ],
+            "studentWords": [
+              "passport"
+            ],
+            "template": " a {passport}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " an ID card",
+          "student": " an id card",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ID card"
+            ],
+            "studentWords": [
+              "id card"
+            ],
+            "template": " an {ID card}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " a guide book",
+          "student": " a guide book",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "guide book"
+            ],
+            "studentWords": [
+              "guide book"
+            ],
+            "template": " a {guide book}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " money",
+          "student": " money",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "money"
+            ],
+            "studentWords": [
+              "money"
+            ],
+            "template": " {money}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " a camera",
+          "student": " a camera",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "camera"
+            ],
+            "studentWords": [
+              "camera"
+            ],
+            "template": " a {camera}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " keys",
+          "student": " keys",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "keys"
+            ],
+            "studentWords": [
+              "keys"
+            ],
+            "template": " {keys}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " a credit card",
+          "student": " a credit card",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "credit card"
+            ],
+            "studentWords": [
+              "credit card"
+            ],
+            "template": " a {credit card}"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " a wallet",
+          "student": " a wallet",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "wallet"
+            ],
+            "studentWords": [
+              "wallet"
+            ],
+            "template": " a {wallet}"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " a purse",
+          "student": " a purse",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "purse"
+            ],
+            "studentWords": [
+              "purse"
+            ],
+            "template": " a {purse}"
+          }
+        },
+        {
+          "id": 11,
+          "correct": " a laptop",
+          "student": " a laptop",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "laptop"
+            ],
+            "studentWords": [
+              "laptop"
+            ],
+            "template": " a {laptop}"
+          }
+        }
+      ]
+    },
+    "46de284e-09bd-4e99-b60b-be973b94167c": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "homework",
+        "exerciseName": "a, some, any, a lot of; there is / there are",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 6 > Unit 6 Test > Bài tập về nhà > Bài tập 4: a, some, any, a lot of; there is / there are",
+      "refId": "homework:f570e2f9-29ab-4f9f-b0af-b5d1642a6f9d|28d1a92b-01c4-4098-a157-2bbb46a68cf5",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Choose the correct option.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {*a*//an} good restaurant near the park."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "a lot of",
+          "student": "a lot of",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {an//*a lot of*} cinemas in the city centre."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "There are",
+          "student": "There are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {There's//*There are*} not any airports in this city."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Is",
+          "student": "Is",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Is*//Are} there a chemist's in your road?"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "any",
+          "student": "any",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There aren't {*any*//a} bus stops close to my house."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "There's",
+          "student": "There's",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Where's//*There's*} a market next to the bus station. "
+          }
+        },
+        {
+          "id": 7,
+          "correct": "are",
+          "student": "are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There {is//*are*} some nice hotels on that road."
+          }
+        },
+        {
+          "id": 8,
+          "correct": "some",
+          "student": "some",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There are {*some*//an} cashpoints in the supermarket."
+          }
+        },
+        {
+          "id": 9,
+          "correct": "Are",
+          "student": "Are",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Is//*Are*} there any maps of London in your shop?"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "a",
+          "student": "a",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " There's {some//*a*} theatre nearby."
+          }
+        }
+      ]
+    },
+    "607d739a-f58e-4afe-baa4-7ed772eab3ae": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "homework",
+        "exerciseName": "Tourist attractions",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Unit 6 Test > Bài tập về nhà > Bài tập 5: Tourist attractions",
+      "refId": "homework:f9215777-d613-4cba-b292-aeeca01b76e5|6ade1fcb-86f9-410e-b855-a4ab048f7eed",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Complete the text with the words and phrases in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " The Irish Museum of Modern Art\n\nThe Irish Museum of Modern Art is a great place to learn about art of the modern time. It is open from 10 a.m. to 5:30 p.m. every day, and it’s very popular with both locals and tourists. You can also enjoy the peaceful garden inside the museum. There's also a beautiful café to relax after viewing the exhibitions. The best part is that many of the exhibitions are free, making it a must-visit for art lovers.\n",
+          "student": " The Irish Museum of Modern Art\n\nThe Irish Museum of Modern Art is a great place to learn about art of the modern time. It is open from 10 a.m. to 5:30 p.m. every day, and it’s very popular with both locals and tourists. You can also enjoy the peaceful garden inside the museum. There's also a beautiful café to relax after viewing the exhibitions. The best part is that many of the exhibitions are free, making it a must-visit for art lovers.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "a great place to",
+              "is open from",
+              "very popular with",
+              "You can also",
+              "There's"
+            ],
+            "studentWords": [
+              "a great place to",
+              "is open from",
+              "very popular with",
+              "You can also",
+              "There's"
+            ],
+            "template": " The Irish Museum of Modern Art\n\nThe Irish Museum of Modern Art is {a great place to} learn about art of the modern time. It {is open from} 10 a.m. to 5:30 p.m. every day, and it’s {very popular with} both locals and tourists. {You can also} enjoy the peaceful garden inside the museum. {There's} also a beautiful café to relax after viewing the exhibitions. The best part is that many of the exhibitions are free, making it a must-visit for art lovers.\n"
+          }
+        }
+      ]
+    },
+    "568d1885-57c5-4364-af61-5ba6bd761426": {
+      "location": {
+        "unitName": "Unit 6",
+        "lessonOrder": 4,
+        "lessonName": "Unit 6 Test",
+        "moduleType": "homework",
+        "exerciseName": "Tourist attractions",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 6 > Unit 6 Test > Bài tập về nhà > Bài tập 5: Tourist attractions",
+      "refId": "homework:f9215777-d613-4cba-b292-aeeca01b76e5|6ade1fcb-86f9-410e-b855-a4ab048f7eed",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Complete the text with the words and phrases in the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " The Green Door Market \n\nThe Green Door Market is the best market in Dublin. It's a great place to shop for fresh food and drinks. The market is very popular with food lovers and people who want to buy organic products. It's open from Thursday to Sunday. You can also explore shops selling everything from fresh vegetables and fruits to cheeses and bread. There are a lot of nice places to eat in the market and it's also near Dublin's theatres and cinemas.\n",
+          "student": " The Green Door Market \n\nThe Green Door Market is the best market in Dublin. It's a great place to shop for fresh food and drinks. The market is very popular with food lovers and people who want to buy organic products. It's open from Thursday to Sunday. You can also explore shops selling everything from fresh vegetables and fruits to cheeses and bread. There are a lot of nice places to eat in the market and it's also near Dublin's theatres and cinemas.\n",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "the best",
+              "to shop for",
+              "very popular with",
+              "from",
+              "to",
+              "can also explore",
+              "There are"
+            ],
+            "studentWords": [
+              "the best",
+              "to shop for",
+              "very popular with",
+              "from",
+              "to",
+              "can also explore",
+              "There are"
+            ],
+            "template": " The Green Door Market \n\nThe Green Door Market is {the best} market in Dublin. It's a great place {to shop for} fresh food and drinks. The market is {very popular with} food lovers and people who want to buy organic products. It's open {from} Thursday {to} Sunday. You {can also explore} shops selling everything from fresh vegetables and fruits to cheeses and bread. {There are} a lot of nice places to eat in the market and it's also near Dublin's theatres and cinemas.\n"
           }
         }
       ]
