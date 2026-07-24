@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-23T13:02:10.446Z",
-  "totalQuestions": 943,
+  "exportedAt": "2026-07-24T03:49:54.726Z",
+  "totalQuestions": 1028,
   "totalUnknownQuestions": 1,
   "answers": {
     "43bdca8f-fc45-4e67-9691-533e27f1803e": {
@@ -40054,6 +40054,3890 @@
         }
       ]
     },
+    "1b070879-3cc6-486c-8834-06afd269fa39": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 1: Đọc",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|ebe2aea2-0263-4c04-bec1-4a4ba0339869",
+      "type": "Checklist",
+      "correct": true,
+      "score": "2/2",
+      "instruction": "Read the text. Tick the things they both like.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Playing football "
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Having a twin brother "
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Going to concerts "
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Mexican food "
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Watching TV "
+          }
+        },
+        {
+          "id": 6,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Rock music  "
+          }
+        },
+        {
+          "id": 7,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Flying "
+          }
+        },
+        {
+          "id": 8,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Eating out "
+          }
+        }
+      ]
+    },
+    "2a1ad4f9-2baf-4f59-a638-4dd415a827af": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 2: Đọc",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|38daa9f9-551e-4898-9e01-e244ad3e8c74",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Complete the sentences with Adam or Hugo.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Adam likes classical music.",
+          "student": " Adam likes classical music.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Adam"
+            ],
+            "studentWords": [
+              "Adam"
+            ],
+            "template": " {Adam} likes classical music."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Adam likes horror films.",
+          "student": " Adam likes horror films.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Adam"
+            ],
+            "studentWords": [
+              "Adam"
+            ],
+            "template": " {Adam} likes horror films."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Hugo hates watching sport on TV.",
+          "student": " Hugo hates watching sport on TV.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Hugo"
+            ],
+            "studentWords": [
+              "Hugo"
+            ],
+            "template": " {Hugo} hates watching sport on TV."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Hugo hates soap operas.",
+          "student": " Hugo hates soap operas.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Hugo"
+            ],
+            "studentWords": [
+              "Hugo"
+            ],
+            "template": " {Hugo} hates soap operas."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Hugo likes Mexican food.",
+          "student": " Hugo likes Mexican food.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Hugo"
+            ],
+            "studentWords": [
+              "Hugo"
+            ],
+            "template": " {Hugo} likes Mexican food."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Hugo phones Adam every weekend.",
+          "student": " Hugo phones Adam every weekend.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Hugo",
+              "Adam"
+            ],
+            "studentWords": [
+              "Hugo",
+              "Adam"
+            ],
+            "template": " {Hugo} phones {Adam} every weekend."
+          }
+        }
+      ]
+    },
+    "4eacdb62-7a1e-4e5d-9e7c-ecf6f97ba3ed": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|c43cef59-efe9-471e-9efc-9e3e01504e03",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Read the texts again. Add the missing words to the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Our friends tell us we’re very different",
+          "student": " Our friends tell us we’re very different",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "us"
+            ],
+            "studentWords": [
+              "us"
+            ],
+            "template": " Our friends tell {us} we’re very different"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I don’t see him very often",
+          "student": " I don’t see him very often",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "him"
+            ],
+            "studentWords": [
+              "him"
+            ],
+            "template": " I don’t see {him} very often"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " He phones me every weekend.",
+          "student": " He phones me every weekend.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "me"
+            ],
+            "studentWords": [
+              "me"
+            ],
+            "template": " He phones {me} every weekend."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " I don’t agree with her.",
+          "student": " I don’t agree with her.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "her"
+            ],
+            "studentWords": [
+              "her"
+            ],
+            "template": " I don’t agree with {her}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " I love soap operas and he hates them.",
+          "student": " I love soap operas and he hates them.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "them"
+            ],
+            "studentWords": [
+              "them"
+            ],
+            "template": " I love soap operas and he hates {them}."
+          }
+        }
+      ]
+    },
+    "4991fb7c-b223-4862-a46d-4481f18ddf0f": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 4: Ngữ pháp",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|e6f23d4d-26a8-46a5-be4b-2ccac2bc4119",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the sentences with the correct object pronouns.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Do you like studying English?\nB: Yes, I love it.",
+          "student": " \nA: Do you like studying English?\nB: Yes, I love it.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "it"
+            ],
+            "studentWords": [
+              "it"
+            ],
+            "template": " \nA: Do you like studying English?\nB: Yes, I love {it}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: Do you like Lady Gaga?\nB: Yes, I like her a lot.",
+          "student": " \nA: Do you like Lady Gaga?\nB: Yes, I like her a lot.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "her"
+            ],
+            "studentWords": [
+              "her"
+            ],
+            "template": " \nA: Do you like Lady Gaga?\nB: Yes, I like {her} a lot."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: Do you like getting up early?\nB: No, I hate it.",
+          "student": " \nA: Do you like getting up early?\nB: No, I hate it.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "it"
+            ],
+            "studentWords": [
+              "it"
+            ],
+            "template": " \nA: Do you like getting up early?\nB: No, I hate {it}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " \nA: Do you like Johnny Depp?\nB: Yes, I love him!",
+          "student": " \nA: Do you like Johnny Depp?\nB: Yes, I love him!",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "him"
+            ],
+            "studentWords": [
+              "him"
+            ],
+            "template": " \nA: Do you like Johnny Depp?\nB: Yes, I love {him}!"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " \nA: Do you like soap operas?\nB: No, I hate them.",
+          "student": " \nA: Do you like soap operas?\nB: No, I hate them.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "them"
+            ],
+            "studentWords": [
+              "them"
+            ],
+            "template": " \nA: Do you like soap operas?\nB: No, I hate {them}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " \nA: Do you like dogs?\nB: Yes, but they don't like me.",
+          "student": " \nA: Do you like dogs?\nB: Yes, but they don't like me.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "me"
+            ],
+            "studentWords": [
+              "me"
+            ],
+            "template": " \nA: Do you like dogs?\nB: Yes, but they don't like {me}."
+          }
+        }
+      ]
+    },
+    "034e763f-5ffe-4521-8233-289ccae14dea": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|94f86ca1-9a6a-4fc5-9401-d093953c0f94",
+      "type": "MatchingType2",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Match the pictures to the sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "I love watching sports on TV.",
+          "student": "I love watching sports on TV.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38043_96_1726021910273.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "I like animals.",
+          "student": "I like animals.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38044_9157_1726021954747.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "I don’t like flying.",
+          "student": "I don’t like flying.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38045_2973_1726021966433.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "I hate shopping for clothes.",
+          "student": "I hate shopping for clothes.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Videos/Group38046_7994_1726021976306.png",
+            "optionLabel": "C"
+          }
+        }
+      ]
+    },
+    "0c71e8c3-e100-4fd6-8efc-4e3a2bf5828d": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 6: Từ vựng",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|6e2f23fe-721d-441f-9945-acfe1c130635",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Match the words and phrases to the pictures.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "animals",
+          "student": "animals",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/1_5007_1726022290582.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "classical music",
+          "student": "classical music",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/2_4950_1726022294565.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "visiting new places",
+          "student": "visiting new places",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/3_7718_1726022297472.png",
+            "optionLabel": "I"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "horror films ",
+          "student": "horror films ",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/4_76_1726022301863.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "watching sport on TV ",
+          "student": "watching sport on TV ",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/5_1610_1726022427184.png",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "shopping for clothes",
+          "student": "shopping for clothes",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/6_9627_1726022430612.png",
+            "optionLabel": "H"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "soap operas",
+          "student": "soap operas",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/7_5034_1726022433318.png",
+            "optionLabel": "G"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "dancing",
+          "student": "dancing",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/8_3926_1726022436233.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "flying",
+          "student": "flying",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/9_1984_1726022440068.png",
+            "optionLabel": "F"
+          }
+        }
+      ]
+    },
+    "eb2330e6-2234-46b0-bb7b-9794a97f237b": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 7: Ngữ pháp",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|311b5c50-1023-4272-8d81-d8ac0af30815",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Complete the sentences with the correct verb form.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " I love playing tennis. (play)",
+          "student": " I love playing tennis. (play)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "playing"
+            ],
+            "studentWords": [
+              "playing"
+            ],
+            "template": " I love {playing} tennis. (play)"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I like having a sister. (have)",
+          "student": " I like having a sister. (have)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "having"
+            ],
+            "studentWords": [
+              "having"
+            ],
+            "template": " I like {having} a sister. (have)"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " I hate going to concerts. (go)",
+          "student": " I hate going to concerts. (go)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "going"
+            ],
+            "studentWords": [
+              "going"
+            ],
+            "template": " I hate {going} to concerts. (go)"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " I don't like getting up early. (get up)",
+          "student": " I don't like getting up early. (get up)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "getting up"
+            ],
+            "studentWords": [
+              "getting up"
+            ],
+            "template": " I don't like {getting up} early. (get up)"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " I like sleeping in the afternoon. (sleep)",
+          "student": " I like sleeping  in the afternoon. (sleep)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sleeping"
+            ],
+            "studentWords": [
+              "sleeping "
+            ],
+            "template": " I like {sleeping} in the afternoon. (sleep)"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " I love living in this town or city. (live)",
+          "student": " I love living in this town or city. (live)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "living"
+            ],
+            "studentWords": [
+              "living"
+            ],
+            "template": " I love {living} in this town or city. (live)"
+          }
+        }
+      ]
+    },
+    "50d359dc-f72a-4f86-adc6-a8f87c6c1d96": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Animals",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "animals"
+          ],
+          "student": "Animals",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2b0f8be7-9b1a-437f-9279-833846fff63d": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Classical music",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "classical music"
+          ],
+          "student": "Classical music",
+          "status": "Correct"
+        }
+      ]
+    },
+    "d7cee4b0-9865-460f-b2c4-3bbc47453a18": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Dancing",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "dancing"
+          ],
+          "student": "Dancing",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c5aea4d3-6b6a-47cb-b880-ec2578f9d320": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Flying",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Flying",
+            "flyin'",
+            "flyin",
+            "flaying"
+          ],
+          "student": "Flying",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e2f70938-32f0-4506-a4a7-e2509301488e": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Horror films",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "horror films"
+          ],
+          "student": "Horror films",
+          "status": "Correct"
+        }
+      ]
+    },
+    "12093724-e85d-46f7-8812-7d021dfdf90f": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Shopping for clothes",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Shopping for clothes",
+            "shopping for cloths",
+            "shopping for close",
+            "shopping four clothes",
+            "shopping four cloths"
+          ],
+          "student": "Shopping for clothes",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a5cb6842-65e8-472a-9ef1-56016e7ee656": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Soap operas",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "soap operas",
+            "soap opera's"
+          ],
+          "student": "Soap operas",
+          "status": "Correct"
+        }
+      ]
+    },
+    "50112331-08ca-44fa-916a-f1130585ce78": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Visiting new places",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "visiting new places"
+          ],
+          "student": "Visiting new places",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2c227d2d-54bd-4897-af23-8a35059c586d": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > We're twins > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:8bccebcf-3452-477a-bd1c-035e5881dd8e|4193edce-39c9-4d96-a152-89b020da8b2e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Watching sport on TV",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Watching sport on TV",
+            "watching sport on tv",
+            "Watching sport on tv",
+            "watching Sport on TV",
+            "WATCHING SPORT ON TV",
+            "watching sport on T.V."
+          ],
+          "student": "Watching sport on TV",
+          "status": "Correct"
+        }
+      ]
+    },
+    "c6a9741a-c711-4be9-aae6-7e4d76dc1f21": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 1: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|7356a9ac-14d8-42ec-9c41-e775e18e3917",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Listen to the conversation. Does Natalia get the job? ​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Yes, she does.​"
+          }
+        },
+        {
+          "id": 2,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "No, she doesn’t.​"
+          }
+        }
+      ]
+    },
+    "51e07e67-ac69-4022-82a7-0dd3e48e5e6c": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|cc5759bf-9a2a-45d1-b432-81b0e343b532",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Listen to the conversation again.​ Decide each statement is TRUE (T) or FALSE (F).",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "FALSE",
+          "student": "FALSE",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {TRUE//*FALSE*} Mrs. Taylor has three children."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "FALSE",
+          "student": "FALSE",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {TRUE//*FALSE*} Natalia never cooks for her family."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "FALSE",
+          "student": "FALSE",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {TRUE//*FALSE*} Harry is 14 years old.​"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "TRUE",
+          "student": "TRUE",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*TRUE*//FALSE} The children both study French."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "TRUE",
+          "student": "TRUE",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*TRUE*//FALSE} The children love playing football."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "FALSE",
+          "student": "FALSE",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {TRUE//*FALSE*} Megan loves playing the piano."
+          }
+        }
+      ]
+    },
+    "640ea149-15e2-4fca-88c6-85df426c29c9": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|28dba746-a96b-43ff-a422-1fd3a2221116",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Read part of the interview. Add the missing words. ​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Great. OK. can you cook?",
+          "student": " Great. OK. can you cook?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can"
+            ],
+            "studentWords": [
+              "can"
+            ],
+            "template": " Great. OK. {can} you cook?"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I can speak French.",
+          "student": " I can speak French.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can"
+            ],
+            "studentWords": [
+              "can"
+            ],
+            "template": " I {can} speak French."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Can you play tennis? - No, I can't|cannot.​",
+          "student": " Can you play tennis? - No, I can't.​",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can't|cannot"
+            ],
+            "studentWords": [
+              "can't"
+            ],
+            "template": " Can you play tennis? - No, I {can't|cannot}.​"
+          }
+        }
+      ]
+    },
+    "ceda01a0-cf1e-4281-9895-9499ec0d08ca": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 4: Từ vựng",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|742664bd-a3d1-479b-a0be-1a0846929ad8",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Match the sentences to pictures.​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "She can play the piano.​",
+          "student": "She can play the piano.​",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/s_7510_1725546320650.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Sorry, we can't speak Chinese.​",
+          "student": "Sorry, we can't speak Chinese.​",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/d_4609_1725546325020.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Help! I can't swim!​",
+          "student": "Help! I can't swim!​",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/f_276_1725546329845.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "They can ski very well.​",
+          "student": "They can ski very well.​",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/g_7049_1725546333378.png",
+            "optionLabel": "D"
+          }
+        }
+      ]
+    },
+    "78f993a5-67e7-47a1-af58-ef798e7eb6d4": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 5: Ngữ pháp",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|0006d2c5-175b-45a9-902d-dc8bfa62e10a",
+      "type": "DragAndDropSentenceOrder",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Put the words in the correct order.​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "I",
+              "can",
+              "play",
+              "the",
+              "guitar",
+              "."
+            ],
+            "studentWords": [
+              "I",
+              "can",
+              "play",
+              "the",
+              "guitar",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "You",
+              "can't",
+              "cook",
+              "."
+            ],
+            "studentWords": [
+              "You",
+              "can't",
+              "cook",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "He",
+              "can't",
+              "play",
+              "basketball",
+              "."
+            ],
+            "studentWords": [
+              "He",
+              "can't",
+              "play",
+              "basketball",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "She",
+              "can",
+              "drive",
+              "."
+            ],
+            "studentWords": [
+              "She",
+              "can",
+              "drive",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "We",
+              "can't",
+              "speak",
+              "French",
+              "."
+            ],
+            "studentWords": [
+              "We",
+              "can't",
+              "speak",
+              "French",
+              "."
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "correct": null,
+          "student": null,
+          "meta": {
+            "correctWords": [
+              "They",
+              "can",
+              "sing",
+              "very",
+              "well",
+              "."
+            ],
+            "studentWords": [
+              "They",
+              "can",
+              "sing",
+              "very",
+              "well",
+              "."
+            ]
+          }
+        }
+      ]
+    },
+    "40cabf21-8da3-47be-9754-4978a20eca15": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 6: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|d9fb22f0-65b3-4575-92a1-7d3bb4a91d98",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Help! I can't swim",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Help! I can't swim",
+            "Help I can't swim",
+            "Help I cannot swim",
+            "Help! I cannot swim",
+            "Help I cant swim",
+            "Help! I cant swim",
+            "Help I can not swim",
+            "Help! I can not swim",
+            "Help I can t swim",
+            "Help! I can t swim"
+          ],
+          "student": "Help! I can't swim",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e1f4c845-7e6b-493d-af17-15b2c023f660": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 6: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|d9fb22f0-65b3-4575-92a1-7d3bb4a91d98",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "She can play the piano.​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "She can play the piano",
+            "She can play the piano."
+          ],
+          "student": "She can play the piano.​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "1fc6220a-50e2-4d94-95c2-7c11a2557bea": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 6: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|d9fb22f0-65b3-4575-92a1-7d3bb4a91d98",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Sorry, we can't speak Chinese.​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Sorry, we can't speak Chinese.​",
+            "Sorry we can't speak Chinese",
+            "Sorry, we can't speak Chinese.",
+            "Sorry, we can't speak Chinese",
+            "Sorry we cant speak Chinese.",
+            "sorry we can't speak Chinese.",
+            "sorry, we can't speak chinese.",
+            "Sorry we can\u0019t speak Chinese.",
+            "Sorry, we can\u0019t speak Chinese.",
+            "Sorry we cant speak Chinese",
+            "sorry we cant speak chinese"
+          ],
+          "student": "Sorry, we can't speak Chinese.​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "99a0e0e7-0eca-445f-9fa7-608543ee6dc9": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 6: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|d9fb22f0-65b3-4575-92a1-7d3bb4a91d98",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "They can ski very well.​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "They can ski very well",
+            "They can ski very well."
+          ],
+          "student": "They can ski very well.​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "9e1605c5-6568-4a16-8c04-4746c751ae34": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 7: Nghe",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|07d1470e-c463-421b-bc19-b5e4311a67db",
+      "type": "Checklist",
+      "correct": false,
+      "score": "2/7",
+      "instruction": "Listen to the interview again. Tick the things Natalia can do. ​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Cook ​"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Drive"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Speak German​"
+          }
+        },
+        {
+          "id": 4,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Speak French​"
+          }
+        },
+        {
+          "id": 5,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "Swim"
+          }
+        },
+        {
+          "id": 6,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Play tennis​"
+          }
+        },
+        {
+          "id": 7,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Play football​"
+          }
+        },
+        {
+          "id": 8,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "Play the piano​"
+          }
+        },
+        {
+          "id": 9,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Sing"
+          }
+        },
+        {
+          "id": 10,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Play the guitar"
+          }
+        }
+      ]
+    },
+    "7ef68481-d422-490d-805a-2b1809afeb66": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Ngữ pháp",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 8: Ngữ pháp",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|7064c11a-ea60-492f-bedb-666d07572b67",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Match the pictures to the words/phrases.​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " This person can ski.",
+          "student": " This person can ski.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ski"
+            ],
+            "studentWords": [
+              "ski"
+            ],
+            "template": " This person can {ski}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " This person can ride a bike.",
+          "student": " This person can ride a bike.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ride a bike"
+            ],
+            "studentWords": [
+              "ride a bike"
+            ],
+            "template": " This person can {ride a bike}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " This woman can drive a car.",
+          "student": " This woman can drive a car.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "drive"
+            ],
+            "studentWords": [
+              "drive"
+            ],
+            "template": " This woman can {drive} a car."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " This man can swim.",
+          "student": " This man can swim.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "swim"
+            ],
+            "studentWords": [
+              "swim"
+            ],
+            "template": " This man can {swim}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " They can speak German.",
+          "student": " They can speak German.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "speak German"
+            ],
+            "studentWords": [
+              "speak German"
+            ],
+            "template": " They can {speak German}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " This person can play the piano.",
+          "student": " This person can play the piano.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "play the piano"
+            ],
+            "studentWords": [
+              "play the piano"
+            ],
+            "template": " This person can {play the piano}."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " This man can sing.",
+          "student": " This man can sing.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sing"
+            ],
+            "studentWords": [
+              "sing"
+            ],
+            "template": " This man can {sing}."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " He can play the guitar.",
+          "student": " He can play the guitar.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "play the guitar"
+            ],
+            "studentWords": [
+              "play the guitar"
+            ],
+            "template": " He can {play the guitar}."
+          }
+        },
+        {
+          "id": 9,
+          "correct": " They can play basketball.",
+          "student": " They can play basketball.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "play basketball"
+            ],
+            "studentWords": [
+              "play basketball"
+            ],
+            "template": " They can {play basketball}."
+          }
+        },
+        {
+          "id": 10,
+          "correct": " This person can cook.",
+          "student": " This person can cook.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cook"
+            ],
+            "studentWords": [
+              "cook"
+            ],
+            "template": " This person can {cook}."
+          }
+        }
+      ]
+    },
+    "b7d9a26f-4b85-40d2-a725-83faf6248984": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Swim​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Swim​",
+            "Swim",
+            "swim"
+          ],
+          "student": "Swim​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a78a9804-e5b4-4b01-bb31-bea7e4811b2a": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Cook​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Cook​"
+          ],
+          "student": "Cook​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2ac74798-fead-492e-a2fd-9f3bd8d7ad84": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Drive",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Drive",
+            "drive"
+          ],
+          "student": "Drive",
+          "status": "Correct"
+        }
+      ]
+    },
+    "906bbd70-c46e-44c8-bcea-674808ea6057": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Ride a bike​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Ride a bike​",
+            "Ride a bike",
+            "ride a bike",
+            "RIDE A BIKE",
+            "right a bike"
+          ],
+          "student": "Ride a bike​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "01f4c303-07af-40fd-927b-dc5253c1d865": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Play basketball​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Play basketball​"
+          ],
+          "student": "Play basketball​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "339dc9a3-ea02-40f4-a817-90bfb6eb7d26": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Play the piano​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Play the piano​",
+            "play the piano"
+          ],
+          "student": "Play the piano​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a114999a-6683-46ad-be33-64a9739019cb": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Sing​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Sing​",
+            "Sing",
+            "sing"
+          ],
+          "student": "Sing​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "52171271-e539-4459-932f-467985bfcac4": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Play the guitar​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Play the guitar​",
+            "play the guitar",
+            "Play the guitar."
+          ],
+          "student": "Play the guitar​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "63e80c1d-74e6-4ff8-aa53-b42935863ee1": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Speak German​",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Speak German​",
+            "Speak German",
+            "Speak German."
+          ],
+          "student": "Speak German​",
+          "status": "Correct"
+        }
+      ]
+    },
+    "3f148f28-3a2b-4f7f-93c8-a9ecb917cbce": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 9
+      },
+      "where": "Unit 7 > Can you drive? > Video tương tác > Bài tập 9: Nói",
+      "refId": "video:773cd612-c3eb-4238-87af-456600fd6f8b|a7c62447-56a3-4a4a-9970-a59227b6c4a1",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Ski",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Ski"
+          ],
+          "student": "Ski",
+          "status": "Correct"
+        }
+      ]
+    },
+    "a44f317a-3535-48ff-8535-92c70e7d3845": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 1: Nghe",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|1451db00-a409-403e-8637-843db919a263",
+      "type": "Checklist",
+      "correct": false,
+      "score": "2/4",
+      "instruction": "Tick (✓) the places that Rachel and Jack ask about.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "museum"
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "cafe"
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": true,
+          "status": "Fail",
+          "meta": {
+            "optionText": "park"
+          }
+        },
+        {
+          "id": 4,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "hotel"
+          }
+        },
+        {
+          "id": 5,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "theatre"
+          }
+        },
+        {
+          "id": 6,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "post office"
+          }
+        },
+        {
+          "id": 7,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "cinema"
+          }
+        },
+        {
+          "id": 8,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "bank"
+          }
+        },
+        {
+          "id": 9,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "station"
+          }
+        },
+        {
+          "id": 10,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "airport"
+          }
+        }
+      ]
+    },
+    "4bb086ce-98df-42f7-a644-9e58c6204c45": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 2: Nghe",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|050a7aca-8696-4b5a-8fb7-dcfd7e772db2",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "12/13",
+      "instruction": "Listen again. Complete the conversations with the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nRACHEL: Excuse me. Where’s the museum?\nMAN: Go along this road and turn left. That’s Park Street. The museum (museum/station) is on (on/in) the right, next to (opposite/next to) the theatre.\nR: Thanks very much. Oh, and is there a cafe (chemist's/cafe) near here?\nM: Yes, there is. Go along this road and it's on (at/on) the left, next to (opposite/next to) the hotel.\nR: OK. Thanks a lot.\nM: No problem.",
+          "student": " \nRACHEL: Excuse me. Where’s the museum?\nMAN: Go along this road and turn left. That’s Park Street. The museum (museum/station) is on (on/in) the right, next (opposite/next to) the theatre.\nR: Thanks very much. Oh, and is there a cafe (chemist's/cafe) near here?\nM: Yes, there is. Go along this road and it's on (at/on) the left, next to (opposite/next to) the hotel.\nR: OK. Thanks a lot.\nM: No problem.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Fail",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "museum",
+              "on",
+              "next to",
+              "cafe",
+              "on",
+              "next to"
+            ],
+            "studentWords": [
+              "museum",
+              "on",
+              "next",
+              "cafe",
+              "on",
+              "next to"
+            ],
+            "template": " \nRACHEL: Excuse me. Where’s the museum?\nMAN: Go along this road and turn left. That’s Park Street. The {museum} (museum/station) is {on} (on/in) the right, {next to} (opposite/next to) the theatre.\nR: Thanks very much. Oh, and is there a {cafe} (chemist's/cafe) near here?\nM: Yes, there is. Go along this road and it's {on} (at/on) the left, {next to} (opposite/next to) the hotel.\nR: OK. Thanks a lot.\nM: No problem."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nJACK: Excuse me. Where’s the post office (theatre/post office)?\nWOMAN: It’s over there, near (near/opposite) the cinema.\nJ: Oh, yes. I can (can/can't) see it. Thanks.\nW: You’re welcome.\nJ: Also, is there a bank (supermarket/bank) near here?\nW: Yes, there’s one in (in/at) Station Road. Go along this road and turn right. The bank (supermarket/bank) is on the left (left/right), opposite the station.\nJ: OK, thanks a lot. Bye.",
+          "student": " \nJACK: Excuse me. Where’s the post office (theatre/post office)?\nWOMAN: It’s over there, near (near/opposite) the cinema.\nJ: Oh, yes. I can (can/can't) see it. Thanks.\nW: You’re welcome.\nJ: Also, is there a bank (supermarket/bank) near here?\nW: Yes, there’s one in (in/at) Station Road. Go along this road and turn right. The bank (supermarket/bank) is on the left (left/right), opposite the station.\nJ: OK, thanks a lot. Bye.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "post office",
+              "near",
+              "can",
+              "bank",
+              "in",
+              "bank",
+              "left"
+            ],
+            "studentWords": [
+              "post office",
+              "near",
+              "can",
+              "bank",
+              "in",
+              "bank",
+              "left"
+            ],
+            "template": " \nJACK: Excuse me. Where’s the {post office} (theatre/post office)?\nWOMAN: It’s over there, {near} (near/opposite) the cinema.\nJ: Oh, yes. I {can} (can/can't) see it. Thanks.\nW: You’re welcome.\nJ: Also, is there a {bank} (supermarket/bank) near here?\nW: Yes, there’s one {in} (in/at) Station Road. Go along this road and turn right. The {bank} (supermarket/bank) is on the {left} (left/right), opposite the station.\nJ: OK, thanks a lot. Bye."
+          }
+        }
+      ]
+    },
+    "9d06f61e-2149-476a-b236-0f3afc82ca83": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 3: Từ vựng",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|25abc842-9dd4-446c-b990-01b5ae840989",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Where’s the café? ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "It’s on the left.",
+          "student": "It’s on the left.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/Group38034_1499_1726025867822.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "It’s on the right.",
+          "student": "It’s on the right.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/Group38039_3384_1726025879922.png",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "It’s in King Street.",
+          "student": "It’s in King Street.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/Group38038_2973_1726025884915.png",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "It’s opposite the bank.",
+          "student": "It’s opposite the bank.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/Group38035_3714_1726025893817.png",
+            "optionLabel": "E"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "It’s next to the bank.",
+          "student": "It’s next to the bank.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/Group38036_4985_1726025902052.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "It’s near the bank.",
+          "student": "It’s near the bank.",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/Group38037_1744_1726025906295.png",
+            "optionLabel": "C"
+          }
+        }
+      ]
+    },
+    "244c9986-dd8b-4da3-aac3-b539be6d1fe3": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|2a4514b3-4f9d-4258-ab3c-ab611240314f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s in King Street.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s in King Street",
+            "It's in King Street",
+            "It is in King Street",
+            "Its in King Street",
+            "It's in King St",
+            "It is in King St",
+            "Its in King St",
+            "It’s in King St"
+          ],
+          "student": "It’s in King Street.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "0d432bc5-63bc-45a9-a47f-8618122ccac8": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|2a4514b3-4f9d-4258-ab3c-ab611240314f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s near the bank.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s near the bank."
+          ],
+          "student": "It’s near the bank.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e7c161b3-ce5e-423e-9bd5-624b6791346f": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|2a4514b3-4f9d-4258-ab3c-ab611240314f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s next to the bank.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s next to the bank",
+            "It's next to the bank",
+            "Its next to the bank",
+            "It is next to the bank"
+          ],
+          "student": "It’s next to the bank.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "e543535f-51d0-4b5e-83ee-3f2732e45878": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|2a4514b3-4f9d-4258-ab3c-ab611240314f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s opposite the bank.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s opposite the bank",
+            "It's opposite the bank",
+            "it's opposite the bank",
+            "It is opposite the bank",
+            "Its opposite the bank",
+            "its opposite the bank"
+          ],
+          "student": "It’s opposite the bank.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "ec6946aa-13f2-4e39-9e15-cc36804e04c5": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|2a4514b3-4f9d-4258-ab3c-ab611240314f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s on the left.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s on the left.",
+            "It is on the left.",
+            "its on the left"
+          ],
+          "student": "It’s on the left.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "23386edf-cc45-4b9a-bc2f-6d3877e18dde": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 4: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|2a4514b3-4f9d-4258-ab3c-ab611240314f",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s on the right.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s on the right",
+            "It's on the right",
+            "It's on the right.",
+            "It is on the right",
+            "Its on the right"
+          ],
+          "student": "It’s on the right.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "85aeab7d-9881-4ec2-ae82-33a2b6d5ad3b": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|8d8925d1-cc1d-4c0e-9d7e-5de9227aba29",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "Choose the correct words to complete sentences to ask for and give directions.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " ASKING FOR DIRECTIONS:\nExcuse me. Where’s the [museum]?\nExcuse me. Is there a [bank] near here?\n\nGIVING DIRECTIONS:\nGo along this road and turn left.\nGo along this road and turn right.\nThat’s [Park Street].\nThe [museum] is on the right, next to the [theatre].\nThe [bank] is on the left, opposite the [station].\nIt’s over there, near the cinema.",
+          "student": " ASKING FOR DIRECTIONS:\nExcuse me. Where’s the [museum]?\nExcuse me. Is there a [bank] near here?\n\nGIVING DIRECTIONS:\nGo along this road and turn left.\nGo along this road and turn right.\nThat’s [Park Street].\nThe [museum] is on the right, next to the [theatre].\nThe [bank] is on the left, opposite the [station].\nIt’s over there, near the cinema.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "me",
+              "here",
+              "road",
+              "turn",
+              "to",
+              "on",
+              "over"
+            ],
+            "studentWords": [
+              "me",
+              "here",
+              "road",
+              "turn",
+              "to",
+              "on",
+              "over"
+            ],
+            "template": " ASKING FOR DIRECTIONS:\nExcuse {me}. Where’s the [museum]?\nExcuse me. Is there a [bank] near {here}?\n\nGIVING DIRECTIONS:\nGo along this {road} and turn left.\nGo along this road and {turn} right.\nThat’s [Park Street].\nThe [museum] is on the right, next {to} the [theatre].\nThe [bank] is {on} the left, opposite the [station].\nIt’s {over} there, near the cinema."
+          }
+        }
+      ]
+    },
+    "a96c276b-ef72-4e2f-911c-9d44e0677319": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Excuse me. Where’s the museum? ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Excuse me. Where’s the museum?",
+            "Excuse me, where\u0019s the museum?",
+            "Excuse me, where's the museum?",
+            "Excuse me, wheres the museum?",
+            "Excuse me, where is the museum?"
+          ],
+          "student": "Excuse me. Where’s the museum?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "43a805ef-d16a-4751-943e-d89169da132a": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Excuse me. Is there a bank near here?",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Excuse me. Is there a bank near here?",
+            "Excuse me, is there a bank near here?",
+            "Excuse me; is there a bank near here?",
+            "Excuse me—is there a bank near here?",
+            "Excuse me is there a bank near here?",
+            "Excuse me, is their a bank near here?",
+            "Excuse me, is there a bank near hear?",
+            "Excuse me; is there a bank near hear?",
+            "Excuse me—is there a bank near hear?",
+            "Excuse me; is their a bank near hear?",
+            "Excuse me, is their a bank near hear?"
+          ],
+          "student": "Excuse me. Is there a bank near here?",
+          "status": "Correct"
+        }
+      ]
+    },
+    "efbd8bdf-a9b9-42b0-b20d-2b4d63546b06": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Go along this road and turn left. ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Go along this road and turn left",
+            "go along this road and turn left",
+            "Go along this road, and turn left",
+            "go along this road, and turn left",
+            "GO ALONG THIS ROAD AND TURN LEFT"
+          ],
+          "student": "Go along this road and turn left.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "05e1fdab-0d39-4c26-85a4-c9c522dd70ef": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "Go along this road and turn right. ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "Go along this road and turn right",
+            "Go along this rode and turn right",
+            "Go along this road and turn write",
+            "Go along this rode and turn write",
+            "Go along this road, and turn right"
+          ],
+          "student": "Go along this road and turn right.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "af4fd0bb-43ed-4b03-93fe-9285f62cbd00": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "That’s Park Street. ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "That’s Park Street",
+            "That's Park Street",
+            "that's Park Street",
+            "that's park street",
+            "Thats Park Street",
+            "thats Park Street",
+            "thats park street",
+            "That is Park Street",
+            "that is Park Street",
+            "that is park street"
+          ],
+          "student": "That’s Park Street.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2d3c695a-1a49-4cca-b408-9d1f963410b4": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "The museum is on the right, next to the theatre. ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "The museum is on the right, next to the theatre",
+            "The museum's on the right",
+            "next to the theater"
+          ],
+          "student": "The museum is on the right, next to the theatre.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "2e99bbb7-d26c-42cf-8688-04600e076f19": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "The bank is on the left, opposite the station. ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "The bank is on the left, opposite the station",
+            "The bank's on the left"
+          ],
+          "student": "The bank is on the left, opposite the station.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "6cfa6a96-4dc4-4e45-95cb-0a85bf9bea2e": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|74644af7-bcb3-49fd-90b7-28a2f625d5e0",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "It’s over there, near the cinema.",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "It’s over there, near the cinema",
+            "It is over there",
+            "It's over there",
+            "Its over there"
+          ],
+          "student": "It’s over there, near the cinema.",
+          "status": "Correct"
+        }
+      ]
+    },
+    "91e1c2db-7255-4084-825a-054fe31814fc": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 7 > Directions > Video tương tác > Bài tập 7: Từ vựng",
+      "refId": "video:3d0ef2e9-37cb-496f-aad9-b40fefc221bf|c2b858a0-87b2-4d1f-9df8-dbd387a819c3",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Choose the correct words to complete the gaps.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \n A: Excuse me (you/me). Is there a restaurant near here (here/there)? \nB: Yes, there is. Go along this road and turn right (left/right). That's Station Road. The restaurant is on (in/on) the right, near (near/in) the station. \nA: Thank you very much. ",
+          "student": " \n A: Excuse me (you/me). Is there a restaurant near here (here/there)? \nB: Yes, there is. Go along this road and turn right (left/right). That's Station Road. The restaurant is on (in/on) the right, near (near/in) the station. \nA: Thank you very much. ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "me",
+              "here",
+              "right",
+              "on",
+              "near"
+            ],
+            "studentWords": [
+              "me",
+              "here",
+              "right",
+              "on",
+              "near"
+            ],
+            "template": " \n A: Excuse {me} (you/me). Is there a restaurant near {here} (here/there)? \nB: Yes, there is. Go along this road and turn {right} (left/right). That's Station Road. The restaurant is {on} (in/on) the right, {near} (near/in) the station. \nA: Thank you very much. "
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nA: Excuse me. Where's (Where's/What's) the theatre? \nB: It's over (near/over) there, next to (opposite/next to) the museum. \nA: Oh yes, I can see it. Thanks a lot. \nB: You're welcome. ",
+          "student": " \nA: Excuse me. where's (Where's/What's) the theatre? \nB: It's over (near/over) there, next to (opposite/next to) the museum. \nA: Oh yes, I can see it. Thanks a lot. \nB: You're welcome. ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Where's",
+              "over",
+              "next to"
+            ],
+            "studentWords": [
+              "where's",
+              "over",
+              "next to"
+            ],
+            "template": " \nA: Excuse me. {Where's} (Where's/What's) the theatre? \nB: It's {over} (near/over) there, {next to} (opposite/next to) the museum. \nA: Oh yes, I can see it. Thanks a lot. \nB: You're welcome. "
+          }
+        },
+        {
+          "id": 3,
+          "correct": " \nA: Excuse me. Is there a supermarket near (next to/near) here? \nB: B: Yes, there is. Go along (to/along) this road. The supermarket is on the left (left/right), opposite the hotel (hotel/cafe).\nA: Thanks a lot. ",
+          "student": " \nA: Excuse me. Is there a supermarket near (next to/near) here? \nB: B: Yes, there is. Go along (to/along) this road. The supermarket is on the left (left/right), opposite the hotel (hotel/cafe).\nA: Thanks a lot. ",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "near",
+              "along",
+              "left",
+              "hotel"
+            ],
+            "studentWords": [
+              "near",
+              "along",
+              "left",
+              "hotel"
+            ],
+            "template": " \nA: Excuse me. Is there a supermarket {near} (next to/near) here? \nB: B: Yes, there is. Go {along} (to/along) this road. The supermarket is on the {left} (left/right), opposite the {hotel} (hotel/cafe).\nA: Thanks a lot. "
+          }
+        }
+      ]
+    },
+    "d9ed0e68-e89b-4a3f-ad8b-22406446dbb5": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 1: Đọc",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|5f7df698-b293-4570-a452-bab84025976b",
+      "type": "Multichoice",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "What are they all talking about?​",
+      "answer": [
+        {
+          "id": 1,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Why they hate the internet."
+          }
+        },
+        {
+          "id": 2,
+          "correct": true,
+          "student": true,
+          "status": "Correct",
+          "meta": {
+            "optionText": "The different ways they use the internet."
+          }
+        },
+        {
+          "id": 3,
+          "correct": false,
+          "student": false,
+          "status": "Process",
+          "meta": {
+            "optionText": "Tips for writing a popular blog."
+          }
+        }
+      ]
+    },
+    "4ffa5ef7-c55c-47ef-804f-620da57861aa": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 2: Đọc",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|83bb4e45-f992-4d9f-9428-8afb5100d0a5",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Read again and choose the correct name for each activity.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "Millie",
+          "student": "Millie",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//Brian//*Millie*} works in a restaurant."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "Sunita",
+          "student": "Sunita",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Sunita*//Brian//Millie} checks her Facebook page every day."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Brian",
+          "student": "Brian",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//*Brian*//Millie} isn't on Facebook or Twitter."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Millie",
+          "student": "Millie",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//Brian//*Millie*} watches TV programmes online."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "Brian",
+          "student": "Brian",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//*Brian*//Millie} uses the internet for directions."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "Sunita",
+          "student": "Sunita",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*Sunita*//Brian//Millie} chats to her brother online."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "Millie",
+          "student": "Millie",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//Brian//*Millie*} writes a blog."
+          }
+        },
+        {
+          "id": 8,
+          "correct": "Brian",
+          "student": "Brian",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//*Brian*//Millie} doesn't buy things online."
+          }
+        },
+        {
+          "id": 9,
+          "correct": "Millie",
+          "student": "Millie",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {Sunita//Brian//*Millie*} buy clothes online."
+          }
+        }
+      ]
+    },
+    "b817f98c-b592-4960-86d9-8c4b599cf0da": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Đọc",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 3: Đọc",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|78341dcf-01d6-4b7a-a913-c35a1fe36822",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "3/3",
+      "instruction": "Read the comments again. Find the missing words. Fill in the gaps.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " I download music onto my laptop and I.....",
+          "student": " I download music onto my laptop and I.....",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "download"
+            ],
+            "studentWords": [
+              "download"
+            ],
+            "template": " I {download} music onto my laptop and I....."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I send and receive emails, of course...",
+          "student": " I send and receive emails, of course...",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "receive"
+            ],
+            "studentWords": [
+              "receive"
+            ],
+            "template": " I send and {receive} emails, of course..."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " I write a blog about my life.",
+          "student": " I write a blog about my life.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "write"
+            ],
+            "studentWords": [
+              "write"
+            ],
+            "template": " I {write} a blog about my life."
+          }
+        }
+      ]
+    },
+    "10b7c067-90cb-40d3-80c4-d61c0b5cae2b": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 4: Từ vựng",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|8d326293-f8f7-4b79-8159-cd9eafa92810",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Fill in the blanks with correct words from the reading text.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " watch TV programmes",
+          "student": " watch TV programmes",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "watch"
+            ],
+            "studentWords": [
+              "watch"
+            ],
+            "template": " {watch} TV programmes"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " book hotels",
+          "student": " book hotels",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "book"
+            ],
+            "studentWords": [
+              "book"
+            ],
+            "template": " {book} hotels"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " write a blog",
+          "student": " write a blog",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "write"
+            ],
+            "studentWords": [
+              "write"
+            ],
+            "template": " {write} a blog"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " buy things online",
+          "student": " buy things online",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "buy"
+            ],
+            "studentWords": [
+              "buy"
+            ],
+            "template": " {buy} things online"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " chat online to my brother",
+          "student": " chat online to my brother",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "chat"
+            ],
+            "studentWords": [
+              "chat"
+            ],
+            "template": " {chat} online to my brother"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " send and receive emails",
+          "student": " send and receive emails",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "send"
+            ],
+            "studentWords": [
+              "send"
+            ],
+            "template": " {send} and receive emails"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " search for information",
+          "student": " search for information",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "search"
+            ],
+            "studentWords": [
+              "search"
+            ],
+            "template": " {search} for information"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " download music",
+          "student": " download music",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "download"
+            ],
+            "studentWords": [
+              "download"
+            ],
+            "template": " {download} music"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " be on Facebook",
+          "student": " be on Facebook",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "be"
+            ],
+            "studentWords": [
+              "be"
+            ],
+            "template": " {be} on Facebook"
+          }
+        }
+      ]
+    },
+    "caf8740c-e903-4441-a849-c96187eaa855": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Từ vựng",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 5: Từ vựng",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|6f3d6251-5bc9-4e5e-86de-65d77b61a6c3",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Fill in each gap with the correct word from the box.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " send emails - get / receive emails",
+          "student": " send emails - get / receive emails",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "send"
+            ],
+            "studentWords": [
+              "send"
+            ],
+            "template": " {send} emails - get / receive emails"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " buy things online - sell things online",
+          "student": " buy things online - sell things online",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "buy"
+            ],
+            "studentWords": [
+              "buy"
+            ],
+            "template": " {buy} things online - sell things online"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " read a blog - write a blog",
+          "student": " read a blog - write a blog",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "read"
+            ],
+            "studentWords": [
+              "read"
+            ],
+            "template": " {read} a blog - write a blog"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " watch TV programmes / videos",
+          "student": " watch TV programmes / videos",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "watch"
+            ],
+            "studentWords": [
+              "watch"
+            ],
+            "template": " {watch} TV programmes / videos"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " be on Facebook / on Twitter",
+          "student": " be on Facebook / on Twitter",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "be"
+            ],
+            "studentWords": [
+              "be"
+            ],
+            "template": " {be} on Facebook / on Twitter"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " download videos / music / apps",
+          "student": " download videos / music / apps",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "music"
+            ],
+            "studentWords": [
+              "music"
+            ],
+            "template": " download videos / {music} / apps"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " book hotels / holidays / flights",
+          "student": " book hotels / holidays / flights",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hotels"
+            ],
+            "studentWords": [
+              "hotels"
+            ],
+            "template": " book {hotels} / holidays / flights"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " listen to the radio / to music",
+          "student": " listen to the radio / to music",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "the radio"
+            ],
+            "studentWords": [
+              "the radio"
+            ],
+            "template": " listen to {the radio} / to music"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " chat to friends and family",
+          "student": " chat to friends and family",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "chat"
+            ],
+            "studentWords": [
+              "chat"
+            ],
+            "template": " {chat} to friends and family"
+          }
+        },
+        {
+          "id": 10,
+          "correct": " search for information",
+          "student": " search for information",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "information"
+            ],
+            "studentWords": [
+              "information"
+            ],
+            "template": " search for {information}"
+          }
+        }
+      ]
+    },
+    "0f82252e-e91d-439d-add5-ede0d23ef39b": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|b204e229-0677-45d5-97bf-105523c47e0e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "send emails - get emails - receive emails ",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "send emails, get emails, receive emails",
+            "send emails get emails receive emails",
+            "send e-mails",
+            "send e mails",
+            "get e-mails",
+            "get e mails",
+            "receive e-mails",
+            "receive e mails",
+            "send e-mails get e-mails receive e-mails",
+            "send e mails get e mails receive e mails"
+          ],
+          "student": "send emails - get emails - receive emails",
+          "status": "Correct"
+        }
+      ]
+    },
+    "10870c38-528e-4732-a853-0baf9ec31759": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|b204e229-0677-45d5-97bf-105523c47e0e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "buy things online - sell things online",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "buy things online, sell things online",
+            "buy things online sell things online",
+            "buy things on line",
+            "buy things on-line",
+            "by things online",
+            "by things on line",
+            "by things on-line",
+            "sell things on line",
+            "sell things on-line",
+            "cell things online",
+            "cell things on line",
+            "cell things on-line",
+            "buy things on line sell things online",
+            "buy things online sell things on line",
+            "buy things on-line sell things on-line",
+            "by things online sell things online",
+            "buy things on-line cell things online"
+          ],
+          "student": "buy things online - sell things online",
+          "status": "Correct"
+        }
+      ]
+    },
+    "325fdd7b-a6e6-4515-8f9b-765a98aafcd2": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|b204e229-0677-45d5-97bf-105523c47e0e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "watch TV programmes - watch videos",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "watch TV programmes,  watch videos",
+            "watch TV programmes watch videos",
+            "watch tv programmes",
+            "watch TV programs",
+            "watch tv programs",
+            "watch t v programmes",
+            "watch t v programs",
+            "watch tv programmes watch videos",
+            "watch TV programs watch videos",
+            "watch tv programs watch videos",
+            "watch t v programmes watch videos",
+            "watch t v programs watch videos"
+          ],
+          "student": "watch TV programmes - watch videos",
+          "status": "Correct"
+        }
+      ]
+    },
+    "16b423ec-f59b-4e0c-b6ef-96cc5851913c": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|b204e229-0677-45d5-97bf-105523c47e0e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "be on Facebook - be on Twitter",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "be on Facebook, be on Twitter",
+            "be on Facebook be on Twitter",
+            "bee on Facebook",
+            "be on Face book",
+            "bee on Face book",
+            "bee on Twitter",
+            "be on Twit ter",
+            "bee on Twit ter",
+            "bee on Facebook bee on Twitter",
+            "bee on Facebook be on Twit ter",
+            "bee on Facebook bee on Twit ter",
+            "be on Face book bee on Twitter",
+            "be on Face book be on Twit ter",
+            "be on Face book bee on Twit ter",
+            "bee on Face book bee on Twitter",
+            "bee on Face book be on Twit ter",
+            "bee on Face book bee on Twit ter"
+          ],
+          "student": "be on Facebook - be on Twitter",
+          "status": "Correct"
+        }
+      ]
+    },
+    "f6afe644-0a97-4fbe-9b8d-7e57417a39f5": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|b204e229-0677-45d5-97bf-105523c47e0e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "chat to friends and family",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "chat to friends and family",
+            "Chat to friends and family",
+            "chat to friends 'n family"
+          ],
+          "student": "chat to friends and family",
+          "status": "Correct"
+        }
+      ]
+    },
+    "b26fe99a-9c56-4e84-9968-be5ee7fb21ff": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nói",
+        "exerciseOrder": 6
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 6: Nói",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|b204e229-0677-45d5-97bf-105523c47e0e",
+      "type": "ShortAnswerWordBase",
+      "correct": true,
+      "score": "1/1",
+      "instruction": "search for information",
+      "answer": [
+        {
+          "id": null,
+          "correct": [
+            "search for information",
+            "search four information"
+          ],
+          "student": "search for information",
+          "status": "Correct"
+        }
+      ]
+    },
+    "679fe068-bdae-49a0-bfb4-f8db17395c23": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 7
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 7: Nghe",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|20d23b47-fc2b-4ba6-933f-14b1fba9cc3f",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Listen to Sam talk about the Internet. Choose Yes if Sam does an activity, choose No if he doesn't.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "No, he doesn't.",
+          "student": "No, he doesn't.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does Sam watch TV programmes? {Yes, he does.//*No, he doesn't.*}​"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "No, he doesn't.",
+          "student": "No, he doesn't.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does he listen to the radio​? {Yes, he does.//*No, he doesn't.*}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "Yes, he is.",
+          "student": "Yes, he is.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Is he on Facebook​? {*Yes, he is.*//No, he isn't.}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "Yes, he does.",
+          "student": "Yes, he does.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does he chat to friends and family​? {*Yes, he does.*//No, he doesn't.}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "Yes, he does.",
+          "student": "Yes, he does.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does he buy and sell things​? {*Yes, he does.*//No, he doesn't.}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "No, he doesn't.",
+          "student": "No, he doesn't.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does he book flights or holidays​? {Yes, he does.//*No, he doesn't.*}​"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "No, he doesn't.",
+          "student": "No, he doesn't.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does he read blogs​? {Yes, he does.//*No, he doesn't.*}​"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "Yes, he does.",
+          "student": "Yes, he does.",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " Does he download music? {*Yes, he does.*//No, he doesn't.}"
+          }
+        }
+      ]
+    },
+    "72d60a79-9d09-47b7-a405-3f9f9223bcaa": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "video",
+        "exerciseName": "Nghe",
+        "exerciseOrder": 8
+      },
+      "where": "Unit 7 > The internet > Video tương tác > Bài tập 8: Nghe",
+      "refId": "video:e683ba5c-65d7-4170-b706-7536e9d6a05a|c45cbc4b-5030-40fe-a435-a0fefaca8499",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "12/12",
+      "instruction": "Read the words aloud. Choose the correct sound.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "s",
+          "student": "s",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*s*//ʃ} suit "
+          }
+        },
+        {
+          "id": 2,
+          "correct": "ʃ",
+          "student": "ʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {s//*ʃ*} sure"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "s",
+          "student": "s",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*s*//ʃ} centre "
+          }
+        },
+        {
+          "id": 4,
+          "correct": "s",
+          "student": "s",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*s*//ʃ} city"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "ʃ",
+          "student": "ʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {s//*ʃ*} Egyptian"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "s",
+          "student": "s",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*s*//ʃ} skirt"
+          }
+        },
+        {
+          "id": 7,
+          "correct": "ʃ",
+          "student": "ʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {s//*ʃ*} Russian"
+          }
+        },
+        {
+          "id": 8,
+          "correct": "ʃ",
+          "student": "ʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {s//*ʃ*} shirt"
+          }
+        },
+        {
+          "id": 9,
+          "correct": "s",
+          "student": "s",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*s*//ʃ} lesson"
+          }
+        },
+        {
+          "id": 10,
+          "correct": "s",
+          "student": "s",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {*s*//ʃ} expensive"
+          }
+        },
+        {
+          "id": 11,
+          "correct": "ʃ",
+          "student": "ʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {s//*ʃ*} shop"
+          }
+        },
+        {
+          "id": 12,
+          "correct": "ʃ",
+          "student": "ʃ",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " {s//*ʃ*} sugar"
+          }
+        }
+      ]
+    },
     "aa8e4928-385e-473f-bd09-bfb77c051512": {
       "location": {
         "unitName": "Unit 1",
@@ -60359,6 +64243,1726 @@
           }
         }
       ]
+    },
+    "2228c396-9f6c-47cb-a211-83cb13b3fe0d": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "homework",
+        "exerciseName": "Things you like and don't like",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > We're twins > Bài tập về nhà > Bài tập 1: Things you like and don't like",
+      "refId": "homework:3837cc94-eb96-494c-ad57-233945762934|c5defc8c-6b48-4b9b-85da-e8c5859d090c",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "14/15",
+      "instruction": "Write the letters in these words. Fill in each gap with ONE word only.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " a_ _m_ _s -> animals",
+          "student": " a_ _m_ _s -> animals",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "animals"
+            ],
+            "studentWords": [
+              "animals"
+            ],
+            "template": " a_ _m_ _s -> {animals}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " v_ _ _t_  _g  new  pl_ _ _s -> visiting new places",
+          "student": " v_ _ _t_  _g  new  pl_ _ _s -> visiting new places",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "visiting",
+              "new",
+              "places"
+            ],
+            "studentWords": [
+              "visiting",
+              "new",
+              "places"
+            ],
+            "template": " v_ _ _t_  _g  new  pl_ _ _s -> {visiting} {new} {places}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " d_ _ c_ _g -> dancing",
+          "student": " d_ _ c_ _g -> dancing",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "dancing"
+            ],
+            "studentWords": [
+              "dancing"
+            ],
+            "template": " d_ _ c_ _g -> {dancing}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " h_rr_ _  f _ _ _s -> horror films",
+          "student": " h_rr_ _  f _ _ _s -> horror films",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "horror",
+              "films"
+            ],
+            "studentWords": [
+              "horror",
+              "films"
+            ],
+            "template": " h_rr_ _  f _ _ _s -> {horror} {films}"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " s_ _pp_ _g  for  c_ _th_ _ -> shopping for clothes",
+          "student": " s_ _pp_ _g  for  c_ _th_ _ -> shopping for clothes",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "shopping",
+              "clothes"
+            ],
+            "studentWords": [
+              "shopping",
+              "clothes"
+            ],
+            "template": " s_ _pp_ _g  for  c_ _th_ _ -> {shopping} for {clothes}"
+          }
+        },
+        {
+          "id": 6,
+          "correct": " f_y_ _g -> flying",
+          "student": " f_y_ _g -> flying",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "flying"
+            ],
+            "studentWords": [
+              "flying"
+            ],
+            "template": " f_y_ _g -> {flying}"
+          }
+        },
+        {
+          "id": 7,
+          "correct": " cl_ss_ _ _l  m_ _ _c -> classical music",
+          "student": " cl_ss_ _ _l  m_ _ _c -> classical music",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "classical",
+              "music"
+            ],
+            "studentWords": [
+              "classical",
+              "music"
+            ],
+            "template": " cl_ss_ _ _l  m_ _ _c -> {classical} {music}"
+          }
+        },
+        {
+          "id": 8,
+          "correct": " w_ _ch_ng  sp_ _ts on T_ _ -> watching sports on TVs",
+          "student": " w_ _ch_ng  sp_ _ts on T_ _ -> watching sports on tv",
+          "status": [
+            "Correct",
+            "Correct",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "watching",
+              "sports",
+              "TVs"
+            ],
+            "studentWords": [
+              "watching",
+              "sports",
+              "tv"
+            ],
+            "template": " w_ _ch_ng  sp_ _ts on T_ _ -> {watching} {sports} on {TVs}"
+          }
+        }
+      ]
+    },
+    "c0104321-e5a5-460d-918c-16930c3aa5cd": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "homework",
+        "exerciseName": "love, like, don't like, hate",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > We're twins > Bài tập về nhà > Bài tập 2: love, like, don't like, hate",
+      "refId": "homework:ca31db6f-23fa-4af2-b163-8328839a42de|a7cb45e4-ac82-4061-9505-578a5c0cad7f",
+      "type": "DragAndDropPicture",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Match these phrases to the pictures.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "I love",
+          "student": "I love",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/40a_4625_1725596723032.png",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "I like",
+          "student": "I like",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/40c_468_1725596729447.png",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "I don't like",
+          "student": "I don't like",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/40b_8981_1725596745522.png",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "I hate",
+          "student": "I hate",
+          "status": "Correct",
+          "meta": {
+            "left": "https://s3-sgn10.fptcloud.com/fsel/Questions/40d_5838_1725596750347.png",
+            "optionLabel": "A"
+          }
+        }
+      ]
+    },
+    "1cbb58ab-e69c-49ac-abf5-d829313583f8": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "homework",
+        "exerciseName": "love, like, don't like, hate",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > We're twins > Bài tập về nhà > Bài tập 3: love, like, don't like, hate",
+      "refId": "homework:cb9781b4-fb90-4929-bcbb-51683f41cf4c|4deeea02-105e-46ef-8bb9-51fff855231f",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "10/10",
+      "instruction": "Mel and Andy are twins. Look at the photos and the table. Then fill in the gaps.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Mel loves cats.\nShe likes classical music.\nShe doesn't like|does not like football. \nShe hates watching sports on TV.",
+          "student": " Mel loves cats.\nShe likes classical music.\nShe doesn't like football. \nShe hates watching sports on TV.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "likes",
+              "doesn't like|does not like",
+              "hates"
+            ],
+            "studentWords": [
+              "likes",
+              "doesn't like",
+              "hates"
+            ],
+            "template": " Mel loves cats.\nShe {likes} classical music.\nShe {doesn't like|does not like} football. \nShe {hates} watching sports on TV."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Andy loves dancing.\nHe likes rock music.\nHe doesn't like|does not like tennis.",
+          "student": " Andy loves dancing.\nHe likes rock music.\nHe doesn't like tennis.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "loves",
+              "likes",
+              "doesn't like|does not like"
+            ],
+            "studentWords": [
+              "loves",
+              "likes",
+              "doesn't like"
+            ],
+            "template": " Andy {loves} dancing.\nHe {likes} rock music.\nHe {doesn't like|does not like} tennis."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Andy and Mel love ice cream.\nThey like Chinese food.\nThey don't like|do not like coffee.\nThey hate flying.",
+          "student": " Andy and Mel love ice cream.\nThey like Chinese food.\nThey don't like coffee.\nThey hate flying.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "love",
+              "like",
+              "don't like|do not like",
+              "hate"
+            ],
+            "studentWords": [
+              "love",
+              "like",
+              "don't like",
+              "hate"
+            ],
+            "template": " Andy and Mel {love} ice cream.\nThey {like} Chinese food.\nThey {don't like|do not like} coffee.\nThey {hate} flying."
+          }
+        }
+      ]
+    },
+    "f498d110-9795-4436-ad07-38ca70d1d2bc": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "homework",
+        "exerciseName": "Object pronouns",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > We're twins > Bài tập về nhà > Bài tập 4: Object pronouns",
+      "refId": "homework:50942971-e61f-42d3-a1ff-0dc92293f9a0|810f85eb-cbe6-4e72-9eb0-9e9f5f785fdb",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "5/5",
+      "instruction": "Change the CAPITALIZED words to object pronouns. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nA: Do you know Kim's brother?\nB: Yes, but I don't like KIM'S BROTHER.\n-> Yes, but I don't like him.",
+          "student": " \nA: Do you know Kim's brother?\nB: Yes, but I don't like KIM'S BROTHER.\n-> Yes, but I don't like him.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "him"
+            ],
+            "studentWords": [
+              "him"
+            ],
+            "template": " \nA: Do you know Kim's brother?\nB: Yes, but I don't like KIM'S BROTHER.\n-> Yes, but I don't like {him}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I don't like dogs, but my husband loves DOGS.\n-> I don't like dogs, but my husband loves them.",
+          "student": " I don't like dogs, but my husband loves DOGS.\n-> I don't like dogs, but my husband loves them.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "them"
+            ],
+            "studentWords": [
+              "them"
+            ],
+            "template": " I don't like dogs, but my husband loves DOGS.\n-> I don't like dogs, but my husband loves {them}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " A: Does Adele love Chris?\nB: Yes, and Chris loves ADELE.\n-> Yes, and Chris loves her.",
+          "student": " A: Does Adele love Chris?\nB: Yes, and Chris loves ADELE.\n-> Yes, and Chris loves her.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "her"
+            ],
+            "studentWords": [
+              "her"
+            ],
+            "template": " A: Does Adele love Chris?\nB: Yes, and Chris loves ADELE.\n-> Yes, and Chris loves {her}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " I don't like flying, but my wife loves FLYING.\n-> I don't like flying, but my wife loves it.",
+          "student": " I don't like flying, but my wife loves FLYING.\n-> I don't like flying, but my wife loves it.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "it"
+            ],
+            "studentWords": [
+              "it"
+            ],
+            "template": " I don't like flying, but my wife loves FLYING.\n-> I don't like flying, but my wife loves {it}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Ed and I like Jo, but she doesn't like ED AND ME.\n-> Ed and I like Jo, but she doesn't like us.",
+          "student": " Ed and I like Jo, but she doesn't like ED AND ME.\n-> Ed and I like Jo, but she doesn't like us.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "us"
+            ],
+            "studentWords": [
+              "us"
+            ],
+            "template": " Ed and I like Jo, but she doesn't like ED AND ME.\n-> Ed and I like Jo, but she doesn't like {us}."
+          }
+        }
+      ]
+    },
+    "dec2a499-54ab-4dc3-83c4-0e824575c80b": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 0,
+        "lessonName": "We're twins",
+        "moduleType": "homework",
+        "exerciseName": "Present Simple",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > We're twins > Bài tập về nhà > Bài tập 5: Present Simple",
+      "refId": "homework:aa6f8920-a3b1-4570-a8bd-bfc1df1c20be|4e1700d0-b6c7-43c8-839a-9cb6921c8e83",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Correct the mistakes.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Fiona don't work in an office. \n-> Fiona doesn't work|does not work in an office.",
+          "student": " Fiona don't work in an office. \n-> Fiona doesn't work in an office.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "doesn't work|does not work"
+            ],
+            "studentWords": [
+              "doesn't work"
+            ],
+            "template": " Fiona don't work in an office. \n-> Fiona {doesn't work|does not work} in an office."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Where do your daughter live? \n-> Where does your daughter live?",
+          "student": " Where do your daughter live? \n-> Where does your daughter live?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "does"
+            ],
+            "studentWords": [
+              "does"
+            ],
+            "template": " Where do your daughter live? \n-> Where {does} your daughter live?"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Lin study English at a language school in London. \n-> Lin studies English at a language school in London.",
+          "student": " Lin study English at a language school in London. \n-> Lin studies English at a language school in London.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "studies English at a language school"
+            ],
+            "studentWords": [
+              "studies English at a language school"
+            ],
+            "template": " Lin study English at a language school in London. \n-> Lin {studies English at a language school} in London."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " What does your parents do in the evening? \n-> What do your parents do in the evening?",
+          "student": " What does your parents do in the evening? \n-> What do your parents do in the evening?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "do your parents do"
+            ],
+            "studentWords": [
+              "do your parents do"
+            ],
+            "template": " What does your parents do in the evening? \n-> What {do your parents do} in the evening?"
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Lydia and Pia doesn't like soap operas. \n-> Lydia and Pia don't like soap operas.",
+          "student": " Lydia and Pia doesn't like soap operas. \n-> Lydia and Pia don't like soap operas.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "don't like soap operas"
+            ],
+            "studentWords": [
+              "don't like soap operas"
+            ],
+            "template": " Lydia and Pia doesn't like soap operas. \n-> Lydia and Pia {don't like soap operas}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " My brother haves three cars. \n-> My brother has three cars.",
+          "student": " My brother haves three cars. \n-> My brother has three cars.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "My brother has three cars"
+            ],
+            "studentWords": [
+              "My brother has three cars"
+            ],
+            "template": " My brother haves three cars. \n-> {My brother has three cars}."
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Tom's son work for a computer company. \n-> Tom's son works for a computer company.",
+          "student": " Tom's son work for a computer company. \n-> Tom's son works for a computer company.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Tom's son works for a computer company"
+            ],
+            "studentWords": [
+              "Tom's son works for a computer company"
+            ],
+            "template": " Tom's son work for a computer company. \n-> {Tom's son works for a computer company}."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Jack watchs TV every evening. \n-> Jack watches TV every evening. \n",
+          "student": " Jack watchs TV every evening. \n-> Jack watches TV every evening. \n",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Jack watches TV every evening"
+            ],
+            "studentWords": [
+              "Jack watches TV every evening"
+            ],
+            "template": " Jack watchs TV every evening. \n-> {Jack watches TV every evening}. \n"
+          }
+        },
+        {
+          "id": 9,
+          "correct": " What time do you starts working? \n-> What time do you start working?",
+          "student": " What time do you starts working? \n-> What time do you start working?",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "What time do you start working"
+            ],
+            "studentWords": [
+              "What time do you start working"
+            ],
+            "template": " What time do you starts working? \n-> {What time do you start working}?"
+          }
+        }
+      ]
+    },
+    "e16cabcd-420b-47f1-a7cc-8e3e8094ab4a": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "homework",
+        "exerciseName": "Abilities",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > Can you drive? > Bài tập về nhà > Bài tập 1: Abilities",
+      "refId": "homework:83fb8370-d3d1-4aba-94fd-3eb2fad19c0e|2a1779d2-d7db-4b07-894b-931a19cc0e28",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "15/15",
+      "instruction": "What can these people do? Fill in each gap with ONE word only.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Picture 1 - This person can ski.",
+          "student": " Picture 1 - This person can Ski.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ski"
+            ],
+            "studentWords": [
+              "Ski"
+            ],
+            "template": " Picture 1 - This person can {ski}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Picture 2 - This person can ride a bike.",
+          "student": " Picture 2 - This person can ride a bike.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "ride",
+              "bike"
+            ],
+            "studentWords": [
+              "ride",
+              "bike"
+            ],
+            "template": " Picture 2 - This person can {ride} a {bike}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Picture  3 - This person can drive a car.",
+          "student": " Picture  3 - This person can drive a car.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "drive",
+              "car"
+            ],
+            "studentWords": [
+              "drive",
+              "car"
+            ],
+            "template": " Picture  3 - This person can {drive} a {car}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Picture  4 - This person can swim.",
+          "student": " Picture  4 - This person can swim.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "swim"
+            ],
+            "studentWords": [
+              "swim"
+            ],
+            "template": " Picture  4 - This person can {swim}."
+          }
+        },
+        {
+          "id": 5,
+          "correct": " Picture  5 - They can speak German.",
+          "student": " Picture  5 - They can speak German.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "speak"
+            ],
+            "studentWords": [
+              "speak"
+            ],
+            "template": " Picture  5 - They can {speak} German."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " Picture  6 - This person can play the piano. ",
+          "student": " Picture  6 - This person can play the piano. ",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "play",
+              "piano"
+            ],
+            "studentWords": [
+              "play",
+              "piano"
+            ],
+            "template": " Picture  6 - This person can {play} the {piano}. "
+          }
+        },
+        {
+          "id": 7,
+          "correct": " Picture 7 - This person can sing.",
+          "student": " Picture 7 - This person can sing.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "sing"
+            ],
+            "studentWords": [
+              "sing"
+            ],
+            "template": " Picture 7 - This person can {sing}."
+          }
+        },
+        {
+          "id": 8,
+          "correct": " Picture 8 - This person can play the guitar.",
+          "student": " Picture 8 - This person can play the guitar.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "play",
+              "guitar"
+            ],
+            "studentWords": [
+              "play",
+              "guitar"
+            ],
+            "template": " Picture 8 - This person can {play} the {guitar}."
+          }
+        },
+        {
+          "id": 9,
+          "correct": " Picture 9 - They can play basketball.",
+          "student": " Picture 9 - They can play basketball.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "play",
+              "basketball"
+            ],
+            "studentWords": [
+              "play",
+              "basketball"
+            ],
+            "template": " Picture 9 - They can {play} {basketball}."
+          }
+        },
+        {
+          "id": 10,
+          "correct": " Picture 10 - This person can cook.",
+          "student": " Picture 10 - This person can cook.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "cook"
+            ],
+            "studentWords": [
+              "cook"
+            ],
+            "template": " Picture 10 - This person can {cook}."
+          }
+        }
+      ]
+    },
+    "f8b48ada-2dc5-469a-ba85-3aee718f991e": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "homework",
+        "exerciseName": "can: positive and negative",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > Can you drive? > Bài tập về nhà > Bài tập 2: can: positive and negative",
+      "refId": "homework:582af26f-a8b3-4c38-b3a4-0845ed077552|43777070-f122-4c7e-a566-92004c6fa844",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "Fill in the gaps with \"can\" or \"can't\" and the verbs in the brackets ( ).",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " They can ski. (ski)",
+          "student": " They can ski. (ski)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can ski"
+            ],
+            "studentWords": [
+              "can ski"
+            ],
+            "template": " They {can ski}. (ski)"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Tamara can't sing|cannot sing. (sing)",
+          "student": " Tamara can't sing. (sing)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can't sing|cannot sing"
+            ],
+            "studentWords": [
+              "can't sing"
+            ],
+            "template": " Tamara {can't sing|cannot sing}. (sing)"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " She can cook very well. (cook)",
+          "student": " She can cook very well. (cook)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can cook"
+            ],
+            "studentWords": [
+              "can cook"
+            ],
+            "template": " She {can cook} very well. (cook)"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " They can't speak|cannot speak Russian. (speak)",
+          "student": " They can't speak Russian. (speak)",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "can't speak|cannot speak"
+            ],
+            "studentWords": [
+              "can't speak"
+            ],
+            "template": " They {can't speak|cannot speak} Russian. (speak)"
+          }
+        }
+      ]
+    },
+    "d49a22bc-7752-48dd-b4f9-d6f427003f8a": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "homework",
+        "exerciseName": "can yes/no questions and short answer",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > Can you drive? > Bài tập về nhà > Bài tập 3: can yes/no questions and short answer",
+      "refId": "homework:503e5e93-c021-4a58-894c-ccf83fdf2945|76c69e91-0dd8-415c-b55f-7fb8dd8c711c",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "18/18",
+      "instruction": "Make questions with these words. Then write the positive (+) and negative (-) short answers.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " drive/ your/ sister/ Can? \n-> Can your sister drive?\n(+) Yes, she can.\n(-) No, she can't|cannot.",
+          "student": " drive/ your/ sister/ Can? \n-> can your sister drive?\n(+) Yes, she can.\n(-) No, she can't.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Can",
+              "drive",
+              "can",
+              "can't|cannot"
+            ],
+            "studentWords": [
+              "can",
+              "drive",
+              "can",
+              "can't"
+            ],
+            "template": " drive/ your/ sister/ Can? \n-> {Can} your sister {drive}?\n(+) Yes, she {can}.\n(-) No, she {can't|cannot}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " French/ your/ Can/ speak/ parents?\n-> Can your parents speak French?\n(+) Yes, they can.\n(-) No, they can't.",
+          "student": " French/ your/ Can/ speak/ parents?\n-> can your parents speak French?\n(+) Yes, they can.\n(-) No, they can't.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Can",
+              "parents speak",
+              "can",
+              "they"
+            ],
+            "studentWords": [
+              "can",
+              "parents speak",
+              "can",
+              "they"
+            ],
+            "template": " French/ your/ Can/ speak/ parents?\n-> {Can} your {parents speak} French?\n(+) Yes, they {can}.\n(-) No, {they} can't."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " the piano/ son/ play/ your/ Can?\n-> Can your son play the piano?\n(+) Yes, he can.\n(-) No, he cannot|he can't.",
+          "student": " the piano/ son/ play/ your/ Can?\n-> can your son play the piano?\n(+) yes, he can.\n(-) no, he can't.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Can your son play the piano",
+              "Yes",
+              "he can",
+              "No",
+              "he cannot|he can't"
+            ],
+            "studentWords": [
+              "can your son play the piano",
+              "yes",
+              "he can",
+              "no",
+              "he can't"
+            ],
+            "template": " the piano/ son/ play/ your/ Can?\n-> {Can your son play the piano}?\n(+) {Yes}, {he can}.\n(-) {No}, {he cannot|he can't}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " this/ you/ exercise/ Can/ do ?\n-> Can you do this exercise?\n(+) Yes, I can.\n(-) No, I cannot|I can't.",
+          "student": " this/ you/ exercise/ Can/ do ?\n-> can you do this exercise?\n(+) yes, i can.\n(-) no, i can't.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "Can you do this exercise",
+              "Yes",
+              "I can",
+              "No",
+              "I cannot|I can't"
+            ],
+            "studentWords": [
+              "can you do this exercise",
+              "yes",
+              "i can",
+              "no",
+              "i can't"
+            ],
+            "template": " this/ you/ exercise/ Can/ do ?\n-> {Can you do this exercise}?\n(+) {Yes}, {I can}.\n(-) {No}, {I cannot|I can't}."
+          }
+        }
+      ]
+    },
+    "11e73c4c-dab9-4a1c-869e-f49318224ba1": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "homework",
+        "exerciseName": "Travel",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Can you drive? > Bài tập về nhà > Bài tập 4: Travel",
+      "refId": "homework:bbe21af8-3f09-4ffd-acd2-29af2c985019|23c5606b-72f5-46f9-a8e4-7bb610dd2f72",
+      "type": "GapFillScoreByGap",
+      "correct": false,
+      "score": "10/14",
+      "instruction": "Find fifteen words(-> ↓). Write the words in the table. There are five words for each group.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Places in a town or city:\ntheatre\nstation|park|square|museum\nstation|park|square|museum\nstation|park|square|museum\nstation|park|square|museum",
+          "student": " Places in a town or city:\ntheatre\nmuseum\nstation\npark\nsquare",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "station|park|square|museum",
+              "station|park|square|museum",
+              "station|park|square|museum",
+              "station|park|square|museum"
+            ],
+            "studentWords": [
+              "museum",
+              "station",
+              "park",
+              "square"
+            ],
+            "template": " Places in a town or city:\ntheatre\n{station|park|square|museum}\n{station|park|square|museum}\n{station|park|square|museum}\n{station|park|square|museum}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Things in your bag:\nkeys|credit card|map|money|passport\nkeys|credit card|map|money|passport\nkeys|credit card|map|money|passport\nkeys|credit card|map|money|passport\nkeys|credit card|map|money|passport",
+          "student": " Things in your bag:\nkeys\npassport\ncredit card\nmoney\nwallet",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "keys|credit card|map|money|passport",
+              "keys|credit card|map|money|passport",
+              "keys|credit card|map|money|passport",
+              "keys|credit card|map|money|passport",
+              "keys|credit card|map|money|passport"
+            ],
+            "studentWords": [
+              "keys",
+              "passport",
+              "credit card",
+              "money",
+              "wallet"
+            ],
+            "template": " Things in your bag:\n{keys|credit card|map|money|passport}\n{keys|credit card|map|money|passport}\n{keys|credit card|map|money|passport}\n{keys|credit card|map|money|passport}\n{keys|credit card|map|money|passport}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Colours:\ngrey|red|white|pink|black\ngrey|red|white|pink|black\ngrey|red|white|pink|black\ngrey|red|white|pink|black\ngrey|red|white|pink|black",
+          "student": " Colours:\nred\nblue\ngreen\nyellow\ngrey",
+          "status": [
+            "Correct",
+            "Fail",
+            "Fail",
+            "Fail",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "grey|red|white|pink|black",
+              "grey|red|white|pink|black",
+              "grey|red|white|pink|black",
+              "grey|red|white|pink|black",
+              "grey|red|white|pink|black"
+            ],
+            "studentWords": [
+              "red",
+              "blue",
+              "green",
+              "yellow",
+              "grey"
+            ],
+            "template": " Colours:\n{grey|red|white|pink|black}\n{grey|red|white|pink|black}\n{grey|red|white|pink|black}\n{grey|red|white|pink|black}\n{grey|red|white|pink|black}"
+          }
+        }
+      ]
+    },
+    "47189955-362b-4f90-bcea-13295efd940b": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 1,
+        "lessonName": "Can you drive?",
+        "moduleType": "homework",
+        "exerciseName": "Subject and object pronouns",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > Can you drive? > Bài tập về nhà > Bài tập 5: Subject and object pronouns",
+      "refId": "homework:a968251a-2879-461c-bdc5-47b5d25a7281|dd6405eb-a6a0-4293-968c-a747b2169b85",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "8/8",
+      "instruction": "Choose the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " (I/me) phone (he/him) every day.\n-> I phone him every day.",
+          "student": " (I/me) phone (he/him) every day.\n-> I phone him every day.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I",
+              "him"
+            ],
+            "studentWords": [
+              "I",
+              "him"
+            ],
+            "template": " (I/me) phone (he/him) every day.\n-> {I} phone {him} every day."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " (We/us) don't know (they/them).\n-> We don't know them.",
+          "student": " (We/us) don't know (they/them).\n-> we don't know them.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "We",
+              "them"
+            ],
+            "studentWords": [
+              "we",
+              "them"
+            ],
+            "template": " (We/us) don't know (they/them).\n-> {We} don't know {them}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Do (they/them) know (she/her)?\n-> Do they know her?",
+          "student": " Do (they/them) know (she/her)?\n-> Do they know her?",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "they",
+              "her"
+            ],
+            "studentWords": [
+              "they",
+              "her"
+            ],
+            "template": " Do (they/them) know (she/her)?\n-> Do {they} know {her}?"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " (He/Him) never talks to (we/us).\n-> He never talks to us.",
+          "student": " (He/Him) never talks to (we/us).\n-> he never talks to us.",
+          "status": [
+            "Correct",
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "He",
+              "us"
+            ],
+            "studentWords": [
+              "he",
+              "us"
+            ],
+            "template": " (He/Him) never talks to (we/us).\n-> {He} never talks to {us}."
+          }
+        }
+      ]
+    },
+    "80793d66-f105-4304-913c-5354651515bf": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "homework",
+        "exerciseName": "Prepositions of Place",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > Directions > Bài tập về nhà > Bài tập 1: Prepositions of Place",
+      "refId": "homework:9001acb7-357a-4be4-97ce-30d1f03be868|6ea13fb8-0c90-4539-8662-5ffcefc9c997",
+      "type": "MultipleOptionSentenceCompletion",
+      "correct": true,
+      "score": "7/7",
+      "instruction": "You are at * on the map. Choose the correct words.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "opposite",
+          "student": "opposite",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The cafe is {next to//*opposite*} the restaurant."
+          }
+        },
+        {
+          "id": 2,
+          "correct": "next to",
+          "student": "next to",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The post office is {*next to*//opposite} the cafe."
+          }
+        },
+        {
+          "id": 3,
+          "correct": "in",
+          "student": "in",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The hotel is {*in*//near} Market Street."
+          }
+        },
+        {
+          "id": 4,
+          "correct": "on",
+          "student": "on",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The museum is {in//*on*} your right."
+          }
+        },
+        {
+          "id": 5,
+          "correct": "near",
+          "student": "near",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The bank is {*near*//in} the theatre."
+          }
+        },
+        {
+          "id": 6,
+          "correct": "opposite",
+          "student": "opposite",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The market is {*opposite*//next to} the hotel."
+          }
+        },
+        {
+          "id": 7,
+          "correct": "next to",
+          "student": "next to",
+          "status": "Correct",
+          "meta": {
+            "sentenceTemplate": " The restaurant is {opposite//*next to*} the chemist's."
+          }
+        }
+      ]
+    },
+    "6bbf7cd6-01bd-4770-ab54-b9cc1638b317": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "homework",
+        "exerciseName": "Ask for and giving directions",
+        "exerciseOrder": 2
+      },
+      "where": "Unit 7 > Directions > Bài tập về nhà > Bài tập 2: Ask for and giving directions",
+      "refId": "homework:583d08ee-7f4f-48b2-b5c7-2aa10a0b00dc|9b2ee245-b648-4975-a48f-3b4f2814ce72",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "4/4",
+      "instruction": "You are at * on the map. Read these directions. Write the places.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " Go along this road and turn right. lt's on your right, next to the restaurant. \n-> the chemist's|chemist",
+          "student": " Go along this road and turn right. lt's on your right, next to the restaurant. \n-> the chemist's",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "chemist's|chemist"
+            ],
+            "studentWords": [
+              "chemist's"
+            ],
+            "template": " Go along this road and turn right. lt's on your right, next to the restaurant. \n-> the {chemist's|chemist}"
+          }
+        },
+        {
+          "id": 2,
+          "correct": " Go along this road and turn left. lt's on your right, next to the supermarket. \n-> the bank",
+          "student": " Go along this road and turn left. lt's on your right, next to the supermarket. \n-> the bank",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "bank"
+            ],
+            "studentWords": [
+              "bank"
+            ],
+            "template": " Go along this road and turn left. lt's on your right, next to the supermarket. \n-> the {bank}"
+          }
+        },
+        {
+          "id": 3,
+          "correct": " Go along this road. lt's on your left, opposite the market.\n-> the hotel",
+          "student": " Go along this road. lt's on your left, opposite the market.\n-> the hotel",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "hotel"
+            ],
+            "studentWords": [
+              "hotel"
+            ],
+            "template": " Go along this road. lt's on your left, opposite the market.\n-> the {hotel}"
+          }
+        },
+        {
+          "id": 4,
+          "correct": " Go along this road and turn right. It's on your right, opposite the cafe.\n-> the restaurant",
+          "student": " Go along this road and turn right. It's on your right, opposite the cafe.\n-> the restaurant",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "restaurant"
+            ],
+            "studentWords": [
+              "restaurant"
+            ],
+            "template": " Go along this road and turn right. It's on your right, opposite the cafe.\n-> the {restaurant}"
+          }
+        }
+      ]
+    },
+    "e758afa2-3f9a-4c68-8cc9-28c156477143": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "homework",
+        "exerciseName": "Asking for and giving directions",
+        "exerciseOrder": 3
+      },
+      "where": "Unit 7 > Directions > Bài tập về nhà > Bài tập 3: Asking for and giving directions",
+      "refId": "homework:85cf8e1b-09fb-49a6-90b7-7ba31d825011|e7301faa-d926-4932-8b19-9ff1f44d2bfa",
+      "type": "GapFillWordBankScoreByGap",
+      "correct": false,
+      "score": "5/9",
+      "instruction": "Penny is at * on the map. Fill in the gaps with these words and phrases. ",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " \nPenny: Excuse me. Where's the post office?\nGo along this road and turn right. That's Green Road. The post office is on the left, opposite the chemist's/\nPenny: Thank you very much. \nMan: You're welcome.",
+          "student": " \nPenny: Excuse me. Where's the post office?\nGo along this road and turn right. That's Green Road. The post office is next to, on your right the chemist's/\nPenny: Thank you very much. \nMan: You're welcome.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Fail",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "Go along",
+              "That's",
+              "on the left",
+              "opposite"
+            ],
+            "studentWords": [
+              "Go along",
+              "That's",
+              "next to",
+              "on your right"
+            ],
+            "template": " \nPenny: Excuse me. Where's the post office?\n{Go along} this road and turn right. {That's} Green Road. The post office is {on the left}, {opposite} the chemist's/\nPenny: Thank you very much. \nMan: You're welcome."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " \nPenny: Excuse me. Is there a supermarket near here?\nWoman: Yes, there is. Go along this road and turn left. The supermarket is on your right, next to the bank. \nPenny: Thanks a lot.\nWoman: No problem.",
+          "student": " \nPenny: Excuse me. Is there a supermarket near here?\nWoman: Yes, there is. Go along this road and turn left. The supermarket is opposite, on the left the bank. \nPenny: Thanks a lot.\nWoman: No problem.",
+          "status": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Fail",
+            "Fail"
+          ],
+          "meta": {
+            "correctWords": [
+              "Is there",
+              "near here",
+              "turn left",
+              "on your right",
+              "next to"
+            ],
+            "studentWords": [
+              "Is there",
+              "near here",
+              "turn left",
+              "opposite",
+              "on the left"
+            ],
+            "template": " \nPenny: Excuse me. {Is there} a supermarket {near here}?\nWoman: Yes, there is. Go along this road and {turn left}. The supermarket is {on your right}, {next to} the bank. \nPenny: Thanks a lot.\nWoman: No problem."
+          }
+        }
+      ]
+    },
+    "bc91b6bb-2d0d-4abd-9241-db3866c6efa3": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "homework",
+        "exerciseName": "Frequency adverbs and phrases with every",
+        "exerciseOrder": 4
+      },
+      "where": "Unit 7 > Directions > Bài tập về nhà > Bài tập 4: Frequency adverbs and phrases with every",
+      "refId": "homework:b210957d-651c-473c-a868-68a9f0b512b3|a2136193-1dd7-4a98-ae98-aeafd837b812",
+      "type": "GapFillScoreByGap",
+      "correct": true,
+      "score": "9/9",
+      "instruction": "Put the words in brackets ( ) in the correct place in these sentences.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": " I listen to the radio online. (never)\n-> I never listen to the radio online.",
+          "student": " I listen to the radio online. (never)\n-> I never listen to the radio online.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I never listen to the radio online"
+            ],
+            "studentWords": [
+              "I never listen to the radio online"
+            ],
+            "template": " I listen to the radio online. (never)\n-> {I never listen to the radio online}."
+          }
+        },
+        {
+          "id": 2,
+          "correct": " I send a lot of emails. (every day)\n-> I send a lot of emails every day.",
+          "student": " I send a lot of emails. (every day)\n-> I send a lot of emails every day.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I send a lot of emails every day"
+            ],
+            "studentWords": [
+              "I send a lot of emails every day"
+            ],
+            "template": " I send a lot of emails. (every day)\n-> {I send a lot of emails every day}."
+          }
+        },
+        {
+          "id": 3,
+          "correct": " I buy concert tickets online. (usually)\n-> I usually buy concert tickets online.",
+          "student": " I buy concert tickets online. (usually)\n-> I usually buy concert tickets online.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I usually buy concert tickets online"
+            ],
+            "studentWords": [
+              "I usually buy concert tickets online"
+            ],
+            "template": " I buy concert tickets online. (usually)\n-> {I usually buy concert tickets online}."
+          }
+        },
+        {
+          "id": 4,
+          "correct": " I watch videos on YouTube. (every week) \n-> I watch videos on YouTube every week. ",
+          "student": " I watch videos on YouTube. (every week) \n-> I watch videos on YouTube every week. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I watch videos on YouTube every week"
+            ],
+            "studentWords": [
+              "I watch videos on YouTube every week"
+            ],
+            "template": " I watch videos on YouTube. (every week) \n-> {I watch videos on YouTube every week}. "
+          }
+        },
+        {
+          "id": 5,
+          "correct": " I book flights online. (always)\n-> I always book flights online.",
+          "student": " I book flights online. (always)\n-> I always book flights online.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I always book flights online"
+            ],
+            "studentWords": [
+              "I always book flights online"
+            ],
+            "template": " I book flights online. (always)\n-> {I always book flights online}."
+          }
+        },
+        {
+          "id": 6,
+          "correct": " I buy and sell things on eBay. (sometimes) \n-> I sometimes buy and sell things on eBay. ",
+          "student": " I buy and sell things on eBay. (sometimes) \n-> I sometimes buy and sell things on eBay. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I sometimes buy and sell things on eBay"
+            ],
+            "studentWords": [
+              "I sometimes buy and sell things on eBay"
+            ],
+            "template": " I buy and sell things on eBay. (sometimes) \n-> {I sometimes buy and sell things on eBay}. "
+          }
+        },
+        {
+          "id": 7,
+          "correct": " I watch TV programmes online. (never)\n-> I never watch TV programmes online. ",
+          "student": " I watch TV programmes online. (never)\n-> I never watch TV programmes online. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I never watch TV programmes online"
+            ],
+            "studentWords": [
+              "I never watch TV programmes online"
+            ],
+            "template": " I watch TV programmes online. (never)\n-> {I never watch TV programmes online}. "
+          }
+        },
+        {
+          "id": 8,
+          "correct": " I don't download music. (usually)\n-> I don't usually download music. ",
+          "student": " I don't download music. (usually)\n-> I don't usually download music. ",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I don't usually download music"
+            ],
+            "studentWords": [
+              "I don't usually download music"
+            ],
+            "template": " I don't download music. (usually)\n-> {I don't usually download music}. "
+          }
+        },
+        {
+          "id": 9,
+          "correct": " I get about twenty emails. (every day)\n-> I get about twenty emails every day.",
+          "student": " I get about twenty emails. (every day)\n-> I get about twenty emails every day.",
+          "status": [
+            "Correct"
+          ],
+          "meta": {
+            "correctWords": [
+              "I get about twenty emails every day"
+            ],
+            "studentWords": [
+              "I get about twenty emails every day"
+            ],
+            "template": " I get about twenty emails. (every day)\n-> {I get about twenty emails every day}."
+          }
+        }
+      ]
+    },
+    "9f55b0b0-9e7c-4b01-a2ef-bd6864c39560": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 2,
+        "lessonName": "Directions",
+        "moduleType": "homework",
+        "exerciseName": "Places in the city",
+        "exerciseOrder": 5
+      },
+      "where": "Unit 7 > Directions > Bài tập về nhà > Bài tập 5: Places in the city",
+      "refId": "homework:fa9520bc-d46f-4903-9ca9-1786712d00f6|eee277af-6169-4ea1-a053-0dedc5ddb56f",
+      "type": "MatchingType1",
+      "correct": true,
+      "score": "6/6",
+      "instruction": "Match the places in the city to their correct definitions.",
+      "answer": [
+        {
+          "id": 1,
+          "correct": "People go to this place to buy medicine.",
+          "student": "People go to this place to buy medicine.",
+          "status": "Correct",
+          "meta": {
+            "left": "The chemist’s",
+            "optionLabel": "F"
+          }
+        },
+        {
+          "id": 2,
+          "correct": "People go here to buy food and household items.",
+          "student": "People go here to buy food and household items.",
+          "status": "Correct",
+          "meta": {
+            "left": "The supermarket",
+            "optionLabel": "B"
+          }
+        },
+        {
+          "id": 3,
+          "correct": "This is where people go when they are sick or injured and need medical treatment.",
+          "student": "This is where people go when they are sick or injured and need medical treatment.",
+          "status": "Correct",
+          "meta": {
+            "left": "The hospital",
+            "optionLabel": "D"
+          }
+        },
+        {
+          "id": 4,
+          "correct": "This is a place where people can see historical, cultural, or artistic exhibitions.",
+          "student": "This is a place where people can see historical, cultural, or artistic exhibitions.",
+          "status": "Correct",
+          "meta": {
+            "left": "The museum",
+            "optionLabel": "A"
+          }
+        },
+        {
+          "id": 5,
+          "correct": "This is where people go to watch films on a big screen.",
+          "student": "This is where people go to watch films on a big screen.",
+          "status": "Correct",
+          "meta": {
+            "left": "The cinema",
+            "optionLabel": "C"
+          }
+        },
+        {
+          "id": 6,
+          "correct": "People visit this place to eat meals prepared by chefs.",
+          "student": "People visit this place to eat meals prepared by chefs.",
+          "status": "Correct",
+          "meta": {
+            "left": "The restaurant",
+            "optionLabel": "E"
+          }
+        }
+      ]
+    },
+    "70713788-7323-4f7f-bf8b-3005a66cab5f": {
+      "location": {
+        "unitName": "Unit 7",
+        "lessonOrder": 3,
+        "lessonName": "The internet",
+        "moduleType": "homework",
+        "exerciseName": "Things people do online",
+        "exerciseOrder": 1
+      },
+      "where": "Unit 7 > The internet > Bài tập về nhà > Bài tập 1: Things people do online",
+      "refId": "homework:e516fba6-3853-4a72-a1e1-99226f290efc|42a6e6b4-d8bd-4328-83ba-745a078eb641",
+      "type": "MatchingType1",
+      "correct": null,
+      "score": null,
+      "instruction": "Match the verbs to the correct words or phrases.",
+      "answer": []
     }
   }
 }
